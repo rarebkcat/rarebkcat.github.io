@@ -21,13 +21,29 @@ For a fuller discussion of the versioning and version numbering system, includin
 
 ## Current release
 
+### DCRMR 202x.1.0.0  
+Release date: 202x-x-x-x  
+Release PDF: 
+
+Usually, this would be a summary from the chief editors for a high-level release. Said summary will give a general overview and feel of what's happened in the release. The keepers then add in the rest of the categories as necessary. 
+
+However, this branch is for keepers to experiment in, so there are no high level release notes. 
+
+The starting point of this fork and is the current DCRMR main branch, which is the last published update. 
+
+* Architectural and code changes:
+* Changed: 
+* Removed: 
+* Renamed: 
+* Fixed: 
+
+## Release history
+
 ### DCRMR 2022.2.1.1
 Release date: 2023-05-20  
 Architectural and code changes:  
 * Added: CITATION.cff  
 * Changed: Config.yml (new analytic property); custom.html
-
-## Release history
 
 ### DCRMR 2022.2.0.1
 Release date: 2022-11-25  
