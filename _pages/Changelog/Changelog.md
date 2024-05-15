@@ -36,6 +36,7 @@ Hello, world.
 My thought in creating this branch, keeperdemo, on a fork from the main DCRMR respository is that we could use it as a place to play and experiment with how to update the repository (i.e., all of the files that make the DCRMR website exist and that contain the text of DCRMR). I copied the google doc files from the initial graphics ingest, and we can use them to do edits. The files are in a subfolder in the shared DCRMR google drive, [Editors/Keepers admin docs / keeper intro files 2024](https://drive.google.com/drive/u/0/folders/1DDvGg_-tpP5kKJpUC1ekTUsPeQbzYgRh){:target="_blank"}.
 
 * Architectural and code changes:
+* Added: Related manifestation of manifestation
 * Changed: 
 * Removed: 
 * Renamed: 
