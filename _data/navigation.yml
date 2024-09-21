@@ -23,8 +23,6 @@ docs:
         url: /DCRMR/preface/Future-work/
       - title: "Acknowledgments"
         url: /DCRMR/preface/Acknowledgments/
-      - title: "Membership roster"
-        url: /DCRMR/preface/Membership-roster/
 
   - title: "Introduction"
     url: /DCRMR/introduction/
@@ -262,12 +260,12 @@ docs:
         url: /DCRMR/additional-notes/Summarization-of-content/  
       - title: "9.3 — Note on manifestation"
         url: /DCRMR/additional-notes/Note-on-manifestation/      
-      - title: "9.32 — Manifestation described by"
-        url: /DCRMR/additional-notes/Manifestation-described-by/        
+      - title: "9.32 — Manifestation described in"
+        url: /DCRMR/additional-notes/Manifestation-described-in/        
       - title: "9.33 — Supplementary content"
         url: /DCRMR/additional-notes/Supplementary-content/
-      - title: "9.34 — On carrier unit with"
-        url: /DCRMR/additional-notes/On-carrier-unit-with/
+      - title: "9.34 — Issued with"
+        url: /DCRMR/additional-notes/Issued-with/
       - title: "9.4 — Note on item"
         url: /DCRMR/additional-notes/Note-on-item/
       - title: "9.41 — Modification of item"
@@ -313,10 +311,42 @@ docs:
       - title: "J — Abbreviations for creators, publishers, printers, etc."
         url: /DCRMR/appendices/Appendix-j/
       - title: "K — Mapping from DCRM to DCRMR"
-        url: /DCRMR/appendices/Appendix-k/
-        
-  - title: "Glossary"
-    url: /DCRMR/glossary/
-    
-  - title: "Changelog"
-    url: /DCRMR/changelog/
+        url: /DCRMR/tables/Appendix-k/
+  - title: "Tables"
+    url: /DCRMR/tables/
+    children:
+      - title: "Tables in DCRMR reference"
+        url: /DCRMR/tables/Appendix-t-table-reference/
+  - title: "Tables - letterforms and brevigraphs"
+    url: /DCRMR/tables/
+    children:
+      - title: "Letterforms and brevigraphs, current release"
+        url: /DCRMR/tables/Letterforms-and-brevigraphs-current-release/
+      - title: "Letterforms and brevigraphs, table options"
+        url: /DCRMR/tables/Letterforms-and-brevigraphs-table-options/
+      - title: "Letterforms and brevigraphs, detabled options"
+        url: /DCRMR/tables/Letterforms-and-brevigraphs-detabled-options/
+  - title: "Tables - Appendix K, table format"
+    url: /DCRMR/tables/
+    children:
+      - title: "Appendix K option 1"
+        url: /DCRMR/tables/Appendix-k-option-1/
+      - title: "Appendix K option 2"
+        url: /DCRMR/tables/Appendix-k-option-2/
+      - title: "Appendix K option 3"
+        url: /DCRMR/tables/Appendix-k-option-3/
+      - title: "Appendix K option 4 (books)"
+        url: /DCRMR/tables/Appendix-k-option-4-books/
+      - title: "Appendix K option 4 (graphics)"
+        url: /DCRMR/tables/Appendix-k-option-4-graphics/
+  - title: "Tables - Appendix K, de-tabled format"
+    url: /DCRMR/tables/
+    children:      
+      - title: "Appendix K option 5"
+        url: /DCRMR/tables/Appendix-k-option-5/
+      - title: "Appendix K option 6"
+        url: /DCRMR/tables/Appendix-k-option-6/
+      - title: "Appendix K option 7 - books"
+        url: /DCRMR/tables/Appendix-k-option-7-books/
+      - title: "Appendix K option 7 - graphics"
+        url: /DCRMR/tables/Appendix-k-option-7-graphics/

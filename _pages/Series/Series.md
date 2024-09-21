@@ -13,13 +13,13 @@ sidebar:
 
 Series-like statements present on covers not issued by the publisher usually represent binders’ titles and should be treated as item-level information if considered important (see [Title of item, 1.27.31.1](/DCRMR/title/Title-of-item/#1.27.31.1)).
 
-<a name="8.01.1.2">8.01.1.2</a> If the [Series statement](/DCRMR/series/Series-statement/), or any of its elements, is taken from a source other than the series title page, always make a [Note on series statement](/DCRMR/series/Note-on-series-statement/) (see [8.29.3.2](/DCRMR/series/Note-on-series-statement/#8.29.3.2)).
+<a name="8.01.1.2">8.01.1.2</a> If the [Series statement](/DCRMR/series/Series-statement/), or any of its elements, is taken from a source other than the series title page, always make a [Note on series statement](/DCRMR/series/Note-on-series-statement/) (see [8.29.3.2.Y.Y](/DCRMR/series/Note-on-series-statement/#8.29.3.2.Y.Y)).
 
-<a name="8.01.1.3">8.01.1.3</a> If the [Series statement](/DCRMR/series/Series-statement/) appears on both the series title page and the monograph title page, indicate this in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) if considered important (see [8.29.3.2](/DCRMR/series/Note-on-series-statement/#8.29.3.2)). Transcribe the text of the latter statement as a second [Series statement](/DCRMR/series/Series-statement/) if the two differ. 
+<a name="8.01.1.3">8.01.1.3</a> If the [Series statement](/DCRMR/series/Series-statement/) appears on both the series title page and the monograph title page, indicate this in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) if considered important (see [8.29.3.2.Y.Y](/DCRMR/series/Note-on-series-statement/#8.29.3.2.Y.Y)). Transcribe the text of the latter statement as a second [Series statement](/DCRMR/series/Series-statement/) if the two differ. 
 
-<a name="8.01.1.4">8.01.1.4</a> If the [Series statement](/DCRMR/series/Series-statement/) appears as a stamp or on a label, transcribe it as found and make a [Note on series statement](/DCRMR/series/Note-on-series-statement/) to indicate the presence of the stamp or label (see [8.29.3.2](/DCRMR/series/Note-on-series-statement/#8.29.3.2)).
+<a name="8.01.1.4">8.01.1.4</a> If the [Series statement](/DCRMR/series/Series-statement/) appears as a stamp or on a label, transcribe it as found and make a [Note on series statement](/DCRMR/series/Note-on-series-statement/) to indicate the presence of the stamp or label (see [8.29.3.2.Y.Y](/DCRMR/series/Note-on-series-statement/#8.29.3.2.Y.Y)).
 
-<a name="8.01.1.5">8.01.1.5</a> If a [Series statement](/DCRMR/series/Series-statement/) is not present in the manifestation, but bibliographic or reference sources provide evidence that the book was issued as part of a publisher’s series, do not supply a [Series statement](/DCRMR/series/Series-statement/). Rather, provide the series information in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) if considered important (see [8.29.3.2](/DCRMR/series/Note-on-series-statement/#8.29.3.2)). 
+<a name="8.01.1.5">8.01.1.5</a> If a [Series statement](/DCRMR/series/Series-statement/) is not present in the manifestation, but bibliographic or reference sources provide evidence that the book was issued as part of a publisher’s series, do not supply a [Series statement](/DCRMR/series/Series-statement/). Rather, provide the series information in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) if considered important (see [8.29.3.2.Y.Y](/DCRMR/series/Note-on-series-statement/#8.29.3.2.Y.Y)). 
 
 ## 8.01.2 Element order
 
@@ -35,7 +35,7 @@ Series-like statements present on covers not issued by the publisher usually rep
 
 > Title of series. Title of subseries = Parallel title of series. Parallel title of subseries
 
-<a name="8.01.2.4">8.01.2.4</a> Transcribe [Other title information of series](/DCRMR/series/Other-title-information-of-series/) following the [Title of series](/DCRMR/series/Title-of-series/). If there are [Parallel titles of series](/DCRMR/series/Parallel-title-of-series/), transcribe the other title information after the series title to which it relates.
+<a name="8.01.2.4">8.01.2.4</a> Transcribe [Other title information of series](/DCRMR/series/Other-title-information-of-series/) following the [Title of series](https://bsc.rbms.info/DCRMR/series/Title-of-series/). If there are [Parallel titles of series](/DCRMR/series/Parallel-title-of-series/), transcribe the other title information after the series title to which it relates.
 
 >Title of series : other title information of series = Parallel title of series
 

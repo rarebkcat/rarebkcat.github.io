@@ -27,7 +27,7 @@ sidebar:
 
 <a name="9.3.25.1">9.3.25.1</a> Additional notes on manifestation covered in other chapters include:
 
- + [Note on title](/DCRMR/title/Note-on-title/)
+ + [Note on title](/DCRMR//title/Note-on-title/)
  + [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/)
  + [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/)
  + [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/)
@@ -67,7 +67,7 @@ For guidelines on transcription and capitalization, see [Transcription](/DCRMR/g
 
 ## 9.3.32 Contents notes
 
-<a name="9.3.32.1">9.3.32.1</a> List the contents of a manifestation, either selectively or fully, if it is considered important to show the presence of material not implied by the rest of the description, to stress components of particular importance, to provide the contents of a collection or of a multipart monograph, or to provide additional titles in a resource without a collective title. For instructions on supplementary content, see [Supplementary content](/DCRMR/additional-notes/Supplementary-content/).
+<a name="9.3.32.1">9.3.32.1</a> List the contents of a manifestation, either selectively or fully, if it is considered important to show the presence of material not implied by the rest of the description, to stress components of particular importance, to provide the contents of a collection or of a multipart monograph, or to provide additional titles in a resource without a collective title. For instructions on supplementary content, see [Supplementary content](/DCRMR/additional-notes/Supplementary-content).
 
 >**Example:**  
 ><CITE>Volume 3 also includes the author’s Fanchette (pages [87]-232) and Lettre d’un paysan de la Vallée-Noir (pages [233]-307)</CITE>  
@@ -97,7 +97,7 @@ For guidelines on transcription and capitalization, see [Transcription](/DCRMR/g
 
 <a name="9.3.34.1">9.3.34.1</a> Make a note on the fact that the expression is a reissue or reprint, unless apparent from the rest of the description and if considered important (see also [RDA Toolkit: Reprinted as manifestation](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-0c96bf50-cb2c-32ed-a67e-f05576ab0b3e){:target="_blank"}).
 
-<a name="9.3.34.2">9.3.34.2</a> Give information about a series in which the resource has been issued previously if considered important (see [Note on series statement, 8.29.3.5](/DCRMR/series/Note-on-series-statement/#8.29.3.5)).
+<a name="9.3.34.2">9.3.34.2</a> Give information about a series in which the resource has been issued previously if considered important (see [Note on series statement, 8.29.3.5.Y.Y](/DCRMR/series/Note-on-series-statement/#8.29.3.5.Y.Y)).
 
 >**Example:**  
 ><CITE>Originally issued in series: The socialist platform ; no. 2</CITE>
@@ -148,7 +148,7 @@ For guidelines on transcription and capitalization, see [Transcription](/DCRMR/g
 
 1.	[Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/) (see [6.21.421.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.421.1)) 
 
-2.	Other details of physical description, such as [Illustrative content](/DCRMR/phys-desc/Illustrative-content/) (see [6.22.3.1](/DCRMR/phys-desc/Illustrative-content/#6.22.3.1)); [Color content](/DCRMR/phys-desc/Color-content/) (see [6.23.3.1](/DCRMR/phys-desc/Color-content/#6.23.3.1)), etc.
+2.	Other details of physical description, such as [Illustrative content](/DCRMR/phys-desc/Illustrative-content/) (see [6.22.3.1](/DCRMR/phys-desc/Illustrative-content/#6.22.3.1)); [Color content](/DCRMR/phys-desc/Color-content) (see [6.23.3.1](/DCRMR/phys-desc/Color-content/#6.23.3.1)), etc.
 
 3.	[Dimensions](/DCRMR/phys-desc/Dimensions/) of the manifestation (see [6.24.3.1](/DCRMR/phys-desc/Dimensions/#6.24.3.1))
 

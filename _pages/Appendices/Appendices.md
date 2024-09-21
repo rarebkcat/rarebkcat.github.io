@@ -26,6 +26,8 @@ sidebar:
 
 [K — Instruction mappings from DCRM to DCRMR](/DCRMR/appendices/Appendix-k/)
 
+[T — Test for brevigraphs](/DCRMR/appendices/Appendix-t/)
+
 ---
 
 [![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "10.23 — Note on identifier for manifestation")](/DCRMR/identifiers/Note-on-identifier-for-manifestation/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "A — MARC 21 Descriptive Conventions Source Codes")](/DCRMR/appendices/Appendix-a/)
