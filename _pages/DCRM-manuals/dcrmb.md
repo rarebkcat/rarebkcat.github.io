@@ -14,13 +14,13 @@ sidebar:
 {:toc}
 
 
-The source file is the [pdf hosted at rbms.info](https://rbms.info/files/dcrm/dcrmb/DCRMB3.pdf).
+The source file is the [pdf hosted at rbms.info](https://rbms.info/files/dcrm/dcrmb/DCRMB3.pdf). Some text has been lightly reformatted; images have not been added and are marked "&lt;IMAGE NOT AVAILABLE&gt;"; transcription tables reliant on images have not been added and are marked "&lt;IMAGE NOT AVAILABLE&gt;".
 
 ## Title page
 
 <center><p>Descriptive Cataloging of Rare Materials (Books)</p>
 
-<p>[Bibliographic Standards Committee, Rare Books and Manuscript Section, Association of College and Research Libraries](https://rbms.info/committees/bibliographic_standards/){:target="_blank"} in collaboration with The Policy Standards Office of the Library of Congress</p>
+<p><a href="https://rbms.info/committees/bibliographic_standards/" target="_blank">Bibliographic Standards Committee, Rare Books and Manuscript Section, Association of College and Research Libraries</a> in collaboration with The Policy Standards Office of the Library of Congress</p>
 
 <p>Cataloging Distribution Service, Library of Congress<br>
 Washington, D.C. 2011</p></center>
@@ -98,7 +98,7 @@ DCRM(B) and the considerable investment to date of time, labor, and money.
 
 ### Changes from DCRB
 
-The most significant changes from DCRB are: new introductory sections on “Objectives and Principles” and “Precataloging Decisions;” the explicit incorporation of machine‐made books into the rule text and examples; the addition
+The most significant changes from DCRB are: new introductory sections on "Objectives and Principles" and "Precataloging Decisions;" the explicit incorporation of machine‐made books into the rule text and examples; the addition
 of Area 6; an expanded appendix on early letterforms and symbols (including images of early letters and symbols accompanied by their correct transcriptions); and new appendixes on collection‐level cataloging, core‐level cataloging, variations
 requiring the creation of a new bibliographic record, and individual issues of serials. 
 
@@ -258,16 +258,17 @@ Chair, RBMS Bibliographic Standards Committee
 ## INTRODUCTION
 
 ### Contents:
-I. Scope and purpose
-II. Relationship to other standards
-III. Objectives and principles
-IV. Options
-V. Language preferences
-VI. Spelling and style
-VII. Acronyms
-VIII. Examples and notes
-IX. Integrity of the copy
-X. Precataloging decisions
+
+I. Scope and purpose  
+II. Relationship to other standards  
+III. Objectives and principles  
+IV. Options  
+V. Language preferences  
+VI. Spelling and style  
+VII. Acronyms  
+VIII. Examples and notes  
+IX. Integrity of the copy  
+X. Precataloging decisions  
 
 ### I. Scope and purpose
 
@@ -281,9 +282,9 @@ publication in its own right. DCRM component manuals for serials and music are
 in preparation. Other components will be added to the DCRM family as they are
 developed.
 
-<sup>1</sup>The term “rare materials” is used to refer to any special materials that repositories have
+<sup>1</sup>The term "rare materials" is used to refer to any special materials that repositories have
 chosen to distinguish from general materials by the ways in which they house, preserve, or
-collect them. Rarity in the narrow sense of “scarce” may or may not be a feature of these
+collect them. Rarity in the narrow sense of "scarce" may or may not be a feature of these
 materials.
 
 #### I.2. Descriptive Cataloging of Rare Materials (Books)
@@ -594,24 +595,26 @@ are not (see 7A1.5 XXLINKXX). Consult the other areas of DCRM(B) in order to asc
 what is required and what is optional in any given situation (see 7A1 XXLINKXX). The
 conventions for notes included as part of the examples are as follows.
 
-* “Note” indicates that the note is required if applicable.
-* “Optional note” indicates that the note is not required. The labeling of a note
-as “optional” in these rules carries no judgment about its importance (see
-introductory section IV); certain notes designated as “optional” may in fact
+* "Note" indicates that the note is required if applicable.
+* "Optional note" indicates that the note is not required. The labeling of a note
+as "optional" in these rules carries no judgment about its importance (see
+introductory section IV); certain notes designated as "optional" may in fact
 be almost universally applied.
-* “Local note” indicates a note describing copy‐specific information not
+* "Local note" indicates a note describing copy‐specific information not
 affecting areas 1‐6 that is required if applicable (see 7B19 XXLINKXX). It must be clearly
 identified as a local note according to the provisions of 7B19.1.1 XXLINKXX. Copy specific
 information that does affect areas 1‐6, such as basing the description
 on an imperfect copy (see 0B2.2 XXLINKXX), is required and recorded in a general note.
-*“Optional local note” indicates that the note describing copy‐specific
+* "Optional local note" indicates that the note describing copy‐specific
 information is not required.
-*“Comment” prefaces details needed to adequately explain the example, and
+* "Comment" prefaces details needed to adequately explain the example, and
 are not to be confused with notes appearing within the bibliographical
 description.
 
-IX. Integrity of the copy
-IX.1. Defects and sophistication
+### IX. Integrity of the copy
+
+#### IX.1. Defects and sophistication
+
 A greater vulnerability to damage, defect, and loss means that rare materials,
 especially older printed materials, are less likely than modern materials to be in a
 perfect or complete state when they reach the cataloger. One of the cataloger’s
@@ -621,11 +624,11 @@ are usually easy to spot. Harder to spot during casual examination are
 replacement leaves, plates, or sections from another copy, and the cataloger is
 not expected to verify the integrity of each leaf in a publication unless there is
 reason to suspect that the copy in hand may have been made up, doctored, or
-falsified (“sophisticated”). Bibliographers’ and booksellers’ descriptions are the
+falsified ("sophisticated"). Bibliographers’ and booksellers’ descriptions are the
 usual source of such information.
-INTRODUCTION
-Descriptive Cataloging of Rare Materials (Books) 21
-IX.2. Dust jackets
+
+#### IX.2. Dust jackets
+
 In the context of rare materials cataloging, dust jackets issued by the publisher
 are appropriately considered part of a publication, and are included in these
 rules as prescribed sources for areas 2, 4, and 6. Dust jackets often contain
@@ -638,7 +641,9 @@ jacket of an original printing may end up on the copy of a later manifestation,
 and so on. When considering whether to transcribe information that appears
 only on a dust jacket, consider that the dust jacket was issued with the
 publication, unless there is reason to suspect otherwise.
-X. Precataloging decisions
+
+### X. Precataloging decisions
+
 Before a bibliographic record can be created for a monograph or group of
 monographs awaiting cataloging in an institution’s special collections,
 appropriate decisions must be made regarding the array of descriptive options
@@ -646,10 +651,11 @@ available to the cataloger. These precataloging decisions include: determining
 whether DCRM(B) or AACR2 rules will govern the description, choosing the
 level of cataloging that will be applied, and determining the extent to which
 various options in the rules will be exercised.
+
 Because DCRM(B) was written to address the special needs of users of rare
 materials, it is likely to be the appropriate cataloging code for the majority of
 printed monographs held in special collections. However, for some categories of
-materials, the cataloging objectives (see introductory section III) may be met by
+materials, the cataloging objectives (see introductory section III XXLINKXX) may be met by
 use of AACR2 or by the application of options within the DCRM(B) rules that
 permit less detail in the description. Full‐level DCRM(B) records that employ all
 possible descriptive options will not necessarily be the best choice for every item.
@@ -659,13 +665,12 @@ and contextual factors that should be taken into consideration. It assumes that
 certain routine choices will already have been made, such as whether the
 encoding standard for the description will be MARC 21 and whether a resource
 issued as part of a monographic series or multipart monograph will be analyzed.
-INTRODUCTION
-Descriptive 22 Cataloging of Rare Materials (Books)
+
 Institutions may promote efficiency by setting cataloging policies for specific
 categories of materials in their collections rather than making decisions on an
 item‐by‐item basis. For example, an institution may decide to catalog all pre‐1831
 books using DCRM(B), trace printers and booksellers for all pre‐18th‐century
-books, but give signature statements and expansive descriptive notes for 15thand
+books, but give signature statements and expansive descriptive notes for 15th and
 16th‐century books only. It may choose to catalog all later books according
 to AACR2, but add selected genre/form or provenance name headings. It may
 decide that collection‐level cataloging is sufficient for brochures. A mechanism
@@ -673,14 +678,19 @@ for easily making exceptions to general cataloging policy is desirable as well. 
 for example, a curator buys a book for its notable cloth binding, description of
 and access to the binding ought to be given in the bibliographic record, even if it
 is not the institution’s usual policy to describe bindings.
-X.1. Decisions to make before beginning the description
-X.1.1. Item‐level vs. collection‐level description
-Determine whether the material will receive item‐level description, collectionlevel
+
+### X.1. Decisions to make before beginning the description 
+
+#### X.1.1. Item‐level vs. collection‐level description
+
+Determine whether the material will receive item‐level description, collection-level
 description, or some combination of the two.
+
 Item‐level cataloging represents the normative application of the DCRM(B) rules.
-Guidelines for creating collection‐level descriptions are found in Appendix B.
-Collection‐level cataloging is usually faster than item‐level—sometimes
-dramatically so—but is attended by such a substantial loss of specificity that its
+Guidelines for creating collection‐level descriptions are found in Appendix B XXLINKXX.
+
+Collection‐level cataloging is usually faster than item‐level&mdash;sometimes
+dramatically so&mdash;but is attended by such a substantial loss of specificity that its
 use as the sole final cataloging for a group of items should be chosen only after
 careful consideration. The lack of specificity can be mitigated through provision
 of some sort of item‐level control, such as an inventory list, finding aid, or
@@ -691,18 +701,20 @@ by itself may be appropriate when users are unlikely to be seeking known items,
 or the risk of inadvertent purchase of duplicate individual items is considered
 insignificant. Collection‐level control alone is unlikely to provide adequate
 evidence to identify materials following a theft.
+
 A combination approach would entail individual cataloging of all or selected
 items in the collection in addition to the creation of a collection‐level record. Such
 an approach may involve phased processing, whereby the cataloger creates a
 collection‐level record to provide immediate basic access to the collection, and
-INTRODUCTION
-Descriptive Cataloging of Rare Materials (Books) 23
 then later creates item‐level records for priority items as time and resources
 permit.
-X.1.2. Cataloging code: AACR2 vs. DCRM(B)
+
+### X.1.2. Cataloging code: AACR2 vs. DCRM(B)
+
 Determine which cataloging code will govern the description. Both codes contain
 optional rules in addition to the required ones, and each allows varying levels of
 cataloging depth.
+
 In item‐level bibliographic records, use of AACR2 results in a description that
 highlights the basic features of a publication and obscures some of the
 differences between manifestations or between variants of a single manifestation.
@@ -715,8 +727,11 @@ between manifestations and reveal the presence of bibliographic variants among
 seemingly identical items. DCRM(B) is most suitable when an item carries
 artifactual or bibliographical significance, or it is otherwise important to provide
 distinctions between issues, bibliographical variants, or individual copies.
-X.1.3. Encoding level: DCRM(B) minimal vs. core vs. full
+
+### X.1.3. Encoding level: DCRM(B) minimal vs. core vs. full
+
 Determine whether the description will be done at a minimal, core, or full level.
+
 Each level has its particular uses with attendant advantages and disadvantages.
 DCRM(B) minimal level provides for faithful transcription and exact physical
 description, but requires neither notes nor headings. Minimal‐level records can
@@ -727,17 +742,21 @@ DCRM(B) minimal level may be suitable when accurate physical description is
 desired but a record with few or no access points is acceptable, or when
 particular language expertise among current cataloging staff is insufficient for
 proper subject analysis. For further information on creating DCRM(B) minimallevel
-descriptions, see Appendix D.
-INTRODUCTION
-Descriptive 24 Cataloging of Rare Materials (Books)
-DCRM(B) core level provides for faithful transcription and exact physical
+descriptions, see Appendix D XXLINKXX.
+
+**DCRM(B) core level** provides for faithful transcription and exact physical
 description, a full complement of name headings, and at least one subject
-heading, but requires few notes.2 Core‐level records may be suitable for items or
+heading, but requires few notes.<sup>2</sup> Core‐level records may be suitable for items or
 collections that carry enough bibliographical or artifactual significance to benefit
 from detailed description and controlled heading access, but for which the
 omission of most notes is acceptable. For further information on creating
-DCRM(B) core‐level descriptions, see Appendix C.
-DCRM(B) full level represents the normative application of these rules, yet
+DCRM(B) core‐level descriptions, see Appendix C XXLINKXX.
+
+<small><sup>2</sup> If an institution is a BIBCO participant contributing core‐level records as part of the Program
+for Cooperative Cataloging (PCC), all headings must be established in the LC/NACO and
+LC/SACO Authority Files.</small>
+
+**DCRM(B) full level** represents the normative application of these rules, yet
 encompasses a range of potential levels of detail. Full‐level records provide for
 faithful transcription and detailed, complete physical description. Although
 some notes are required (e.g., the source of the title proper if not the title page),
@@ -746,46 +765,51 @@ collection or an institution’s needs. For example, signature statements,
 descriptions of illustrative elements, names of illustrators and others responsible
 for such elements, and particular attributes of the item in hand may be included
 or omitted as desired.
+
 Although treatment of headings is outside the scope of DCRM(B), full‐level records
 typically contain a full complement of name and subject headings. In addition to
 those typically given to general materials, DCRM(B) full‐level records may contain
 headings for printers, publishers, illustrators, engravers, former owners, binders, etc.
 The name headings need not be established using authority records, although full
 authority work, especially if contributed to the LC/NACO Authority File, will result
-in greater consistency of headings and improved access.3
+in greater consistency of headings and improved access.<sup>3</sup>
+
+<small><sup>3</sup> If an institution is a BIBCO participant contributing full‐level records as part of the Program
+for Cooperative Cataloging (PCC), all headings must be established in the LC/NACO and
+LC/SACO Authority Files.</small>
+
 The addition of genre/form headings is particularly encouraged in full‐level records.
 These may be used to provide access by literary genre (e.g., Herbals, Booksellers’
 catalogs) or by physical form (e.g., Imposition errors, Annotations). Prefer the
 terminology used in controlled vocabularies issued by the RBMS Bibliographic
 Standards Committee. Terms from other authorized vocabularies (e.g., the Art &
-Architecture Thesaurus) may also be used as appropriate.
-2 If an institution is a BIBCO participant contributing core‐level records as part of the Program
-for Cooperative Cataloging (PCC), all headings must be established in the LC/NACO and
-LC/SACO Authority Files.
-3 If an institution is a BIBCO participant contributing full‐level records as part of the Program
-for Cooperative Cataloging (PCC), all headings must be established in the LC/NACO and
-LC/SACO Authority Files.
-INTRODUCTION
-Descriptive Cataloging of Rare Materials (Books) 25
-X.1.4. Bibliographic variants
+Architecture Thesaurus XXLINKXX) may also be used as appropriate.
+
+### X.1.4. Bibliographic variants
+
 If two or more items can be identified as bibliographic variants of an edition,
 decide whether to describe them using a single bibliographic record or multiple
 records.
+
 It is taken as a default approach in DCRM(B) that a separate record will be made
-for each variant that represents what is referred to as an “edition” in AACR2 and
-an “issue” in bibliographic scholarship. However, this default approach is not
+for each variant that represents what is referred to as an "edition" in AACR2 and
+an "issue" in bibliographic scholarship. However, this default approach is not
 prescriptive and indeed may not be desirable in every situation. Within the rules,
-alternatives are provided (see 2B3.2, 2B4.2, 2D2, 4G) that permit the creation of
+alternatives are provided (see 2B3.2, 2B4.2, 2D2, 4G xxlinkxx) that permit the creation of
 separate records for individual impressions, states, binding variants, or copies.
 Once the decision has been made to apply these alternative rules, the cataloger
 must be consistent in applying them to all areas of the description. For further
-guidance on the cataloging of bibliographic variants, see Appendix E.
-X.2. Factors to consider in making these decisions
+guidance on the cataloging of bibliographic variants, see Appendix E xxlinkxx.
+
+### X.2. Factors to consider in making these decisions
+
 Consider the following factors when determining appropriate levels of
 description and access for materials awaiting cataloging. These factors will help
 to identify items that might deserve more detailed descriptions or higher priority
 treatment.
-X.2.1. Institution’s mission and user needs
+
+#### X.2.1. Institution’s mission and user needs
+
 Evaluate the relevance of the items awaiting cataloging to the institution’s
 mission and the needs of its users. Ideally, the institution will have developed
 internal documentation that will facilitate such an evaluation, including a
@@ -793,149 +817,144 @@ mission statement, collection development guidelines, and a listing of constitue
 users and their anticipated needs. The needs of both patrons (researchers,
 teachers, students, etc.) and staff (collection development, reference, technical
 services, etc.) should be taken into consideration.
-X.2.2. Institutional and departmental resources
+
+#### X.2.2. Institutional and departmental resources
+
 Evaluate institutional and departmental resources, especially staffing levels,
 expertise, and current workloads.
- Is staff able to keep up with the inflow of new materials?
- Is there a reasonable balance between resources devoted to acquiring
-materials and those devoted to processing them?
-INTRODUCTION
-Descriptive 26 Cataloging of Rare Materials (Books)
- Is current staff expertise in languages, subject areas, descriptive standards,
-and encoding standards adequate for implementing and/or completing
-proposed work plans?
- Is staff able to work concurrently with more than one code and/or
-description level?
- Are funding and space available for hiring new temporary or permanent
-staff with the necessary qualifications?
- Are adequate reference sources, such as specialized bibliographies, available
-for staff use?
- How many other projects are in process and what are their requirements and
-priorities?
+* Is staff able to keep up with the inflow of new materials?
+* Is there a reasonable balance between resources devoted to acquiring materials and those devoted to processing them?
+* Is current staff expertise in languages, subject areas, descriptive standards, and encoding standards adequate for implementing and/or completing proposed work plans?
+* Is staff able to work concurrently with more than one code and/or description level?
+* Are funding and space available for hiring new temporary or permanent staff with the necessary qualifications?
+* Are adequate reference sources, such as specialized bibliographies, available for staff use?
+* How many other projects are in process and what are their requirements and priorities?
+
 The regular review of cataloging priorities is highly recommended and should
 include discussions with curatorial, public services, technical services, and
 preservation staff.
-X.2.3. Market value and conditions of acquisition of the item or collection
+
+#### X.2.3. Market value and conditions of acquisition of the item or collection
+
 Consider the conditions of acquisition and the estimated market worth of the
 item or collection awaiting cataloging.
- Does the monetary or public relations value of the material justify a higher
-level of access than would otherwise apply?
- Have any access requirements been imposed by a donor as part of the terms
-of acquisition?
- Is the item or collection accompanied by bibliographic descriptions that will
-facilitate cataloging?
-X.2.4. Intellectual and physical characteristics of the item or collection
+* Does the monetary or public relations value of the material justify a higher level of access than would otherwise apply?
+* Have any access requirements been imposed by a donor as part of the terms of acquisition?
+* Is the item or collection accompanied by bibliographic descriptions that will facilitate cataloging?
+
+### X.2.4. Intellectual and physical characteristics of the item or collection
+
 Finally, evaluate the intellectual and physical characteristics of the items
 awaiting cataloging.
- Is there a unifying characteristic that would justify and facilitate the
-description of the materials as a collection (e.g., author, publisher, place of
-publication, genre/form, etc.)?
- Is a particular collection renowned?
- Do the materials have a topical focus that has recently acquired importance
-INTRODUCTION
-Descriptive Cataloging of Rare Materials (Books) 27
-or urgency (e.g., due to a scholarly conference hosted by the institution or the
-hiring of a new professor with a particular specialty)?
- Is cataloging copy generally available?
- Were the items purchased primarily for their content?
- Do the specific copies have bibliographic or artifactual value?
- Is the institution collecting deeply in the area?
- Are detailed descriptions likely to reveal bibliographic variants that will be
-of interest to researchers?
- Are detailed descriptions likely to help prevent the inadvertent purchase of
-duplicates or the failure to acquire desirable variants?
- Is the item or collection vulnerable to theft or vandalism?
- Would a more detailed description help prevent unnecessary handling by
-staff and researchers?
+* Is there a unifying characteristic that would justify and facilitate the description of the materials as a collection (e.g., author, publisher, place of publication, genre/form, etc.)?
+* Is a particular collection renowned?
+* Do the materials have a topical focus that has recently acquired importance or urgency (e.g., due to a scholarly conference hosted by the institution or the hiring of a new professor with a particular specialty)?
+* Is cataloging copy generally available?
+* Were the items purchased primarily for their content?
+* Do the specific copies have bibliographic or artifactual value?
+* Is the institution collecting deeply in the area?
+* Are detailed descriptions likely to reveal bibliographic variants that will be of interest to researchers?
+* Are detailed descriptions likely to help prevent the inadvertent purchase of duplicates or the failure to acquire desirable variants?
+* Is the item or collection vulnerable to theft or vandalism?
+* Would a more detailed description help prevent unnecessary handling by staff and researchers?
 
-Descriptive Cataloging of Rare Materials (Books) 29
-0. GENERAL RULES
-Contents:
-0A. Scope
-0B. The basic description
-0C. Chief source of information
-0D. Prescribed sources of information
-0E. Prescribed punctuation
-0F. Language and script of the description
-0G. Transcription
-0A. Scope
+## 0. GENERAL RULES
+
+### Contents:
+
+0A. Scope  
+0B. The basic description  
+0C. Chief source of information  
+0D. Prescribed sources of information  
+0E. Prescribed punctuation  
+0F. Language and script of the description  
+0G. Transcription  
+
+### 0A. Scope
+
 These rules provide instructions for cataloging printed monographs—books,
 pamphlets, and single‐sheet publications, other than maps and music—whose
 rarity, value, or interest make special description necessary or desirable. They
 cover instructions for the descriptive areas in bibliographic records only (see also
-introductory sections I‐II). Individual and special issues of serials and
-unnumbered “special issues” may also be described as monographs (see
-Appendix H).
-0B. The basic description
-0B1. Required elements
+introductory sections I‐II XXLINKXX). Individual and special issues of serials and
+unnumbered "special issues" may also be described as monographs (see
+Appendix H xxlinkxx ).
+
+### 0B. The basic description
+
+#### 0B1. Required elements
+
 The description must always include the following elements, regardless of the
 completeness of the information available:
- title proper
- date of publication, distribution, etc.
- extent
- size
+* title proper
+* date of publication, distribution, etc.
+* extent
+* size
+
 Also include other elements of description as set out in the following rules, if
 available and appropriate to the chosen level of description.
-0B2. Basis of the description
-0B2.1. General rule. Base the description on the copy in hand.
-GENERAL RULES
-Descriptive 30 Cataloging of Rare Materials (Books)
-0B2.2. Imperfect copies. If describing a copy known to be imperfect, and details
+
+### 0B2. Basis of the description
+
+<a name="0B2.1">0B2.1</a> **General rule**. Base the description on the copy in hand.
+
+<a name="0B2.2">0B2.2</a> **Imperfect copies**. If describing a copy known to be imperfect, and details
 of a perfect (or more perfect) copy can be determined, base the description on the
 perfect copy. Use square brackets only where required for description of the
 perfect copy. In such cases, the details may be determined by examining
 additional copies or by referring to reliable descriptions in other sources. As
-appropriate, cite the source used for the description in a note (see 7B3, 7B14).
-Make a local note describing the imperfection of the copy in hand (see 7B19.1).
+appropriate, cite the source used for the description in a note (see 7B3, 7B14 xxlinkxx).
+Make a local note describing the imperfection of the copy in hand (see 7B19.1 xxlinkxx).
 If no reliable evidence of the details of a perfect copy is available, describe the
 copy as it is. Make a general note indicating that the description is based on an
 imperfect copy.
-0C. Chief source of information
-0C1. Single title page
-0C1.1. The chief source of information for a publication other than a single sheet
-(see 1G) is the title page, or, if there is no title page, the source from within the
+
+### 0C. Chief source of information
+
+#### 0C1. Single title page
+
+<a name="0C1.1">0C1.1</a> The chief source of information for a publication other than a single sheet
+(see 1G xxlinkxx) is the title page, or, if there is no title page, the source from within the
 publication that is used as a substitute for it. If information traditionally given on
 the title page is given on two facing pages or on pages on successive leaves, with
 or without repetition, treat all of these pages as the chief source of information.
-0C1.2. However, if the publication bears a cover issued by the publisher, and the
+
+<a name="0C1.2">0C1.2</a>. However, if the publication bears a cover issued by the publisher, and the
 cover contains all the elements typically given on a title page but with more
 recent information than that provided on the title page (e.g., a later edition
 statement and publication date), choose the cover as the chief source of
 information. Make a note to indicate that the cover has been chosen as the chief
-source of information (see 7B3.1).
-Poetry of animated nature illustrated : a chaste, interesting and
-instructive present for juveniles. -- Second edition. --
-Philadelphia : Published by Robert A. Smith, 1848
-Note: Title, edition statement, and imprint taken from printed
-wrapper. Title page reads: Poetry of animated nature
-illustrated. In a series of numbers. Philadelphia: Published by
-Robert A. Smith, 1846
-0C2. Multiple title pages
+source of information (see 7B3.1 xxlinkxx).
+
+>**Example:**  
+><CITE>Poetry of animated nature illustrated : a chaste, interesting and instructive present for juveniles. -- Second edition. -- Philadelphia : Published by Robert A. Smith, 1848</cite>  
+>Note: <cite>Title, edition statement, and imprint taken from printed wrapper. Title page reads: Poetry of animated nature illustrated. In a series of numbers. Philadelphia: Published by Robert A. Smith, 1846</cite>
+
+#### 0C2. Multiple title pages
+
 If the publication has more than one title page, choose as the chief source of
 information one of the following, applying the first applicable criterion:
-GENERAL RULES
-Descriptive Cataloging of Rare Materials (Books) 31
-a) If the title pages present the publication in different aspects (e.g., as an
-individual publication and as part of a multipart monograph), prefer the
-one that corresponds to the aspect in which the publication is to be
-treated.
-b) If the publication is in more than one volume, each of which has a title
-page, use the title page in the first volume (or the lowest numbered
-volume if the first volume is not available).
-c) If the publication is in one volume and the chief difference between
-multiple title pages is imprint date, choose the one with the latest date.
-d) If the publication is in one volume and the chief difference between two
-title pages is that one is letterpress and the other is not, choose the
-letterpress title page.
-e) If the publication has the same title page in more than one language or
-script, choose the title page that is in the language or script of the main
-part of the publication.
+
+a) If the title pages present the publication in different aspects (e.g., as an individual publication and as part of a multipart monograph), prefer the one that corresponds to the aspect in which the publication is to be treated.
+
+b) If the publication is in more than one volume, each of which has a title page, use the title page in the first volume (or the lowest numbered volume if the first volume is not available).
+
+c) If the publication is in one volume and the chief difference between multiple title pages is imprint date, choose the one with the latest date.
+
+d) If the publication is in one volume and the chief difference between two title pages is that one is letterpress and the other is not, choose the letterpress title page.
+
+e) If the publication has the same title page in more than one language or script, choose the title page that is in the language or script of the main part of the publication.
+
 f) If two title pages face one another, choose the one on the recto of its leaf.
+
 g) If two or more title pages follow one another, choose the first one.
+
 Make a note indicating the source chosen as the chief source of information if
 other than the usual title page, or, in a multipart monograph, if other than the
-title page of the first volume (see 7B3).
-0C3. No title page
+title page of the first volume (see 7B3 xxlinkxx).
+
+#### 0C3. No title page
+
 For publications issued without a title page (and for publications issued with a
 title page when the title page is missing and no reliable description of it is
 available), if a single title proper is available in a single source within the
@@ -944,511 +963,610 @@ available in more than one source within the publication, choose as the title pa
 substitute the source that supplies the most additional information. If different
 titles, or differing forms of the same title, appear within the publication, choose
 as the title page substitute one of the following, in this order of preference:
+
 a) a source within the preliminaries or the colophon
+
 b) a source elsewhere within the publication
+
 c) a reference source
-GENERAL RULES
-Descriptive 32 Cataloging of Rare Materials (Books)
-Make a note indicating the source chosen as the title page substitute (see 7B3).
-Hereafter in these rules, “title page” means “title page or title page substitute.”
-0D. Prescribed sources of information
+
+Make a note indicating the source chosen as the title page substitute (see 7B3 xxlinkxx).
+
+Hereafter in these rules, "title page" means "title page or title page substitute."
+
+#### 0D. Prescribed sources of information
+
 The prescribed source(s) of information for each area of the description is set out
 in preferred order below.
-Area Prescribed sources of information
-1. Title and statement of responsibility Title page
-2. Edition Title page, other preliminaries, colophon, dust
-jacket (see introductory section IX.2)
-3. Material (or type of publication) specific (Not applicable)
-details
-4. Publication, distribution, etc. Title page, colophon, other preliminaries, dust
-jacket (see IX.2)
-5. Physical description The whole publication
-6. Series Series title page, monograph title page, cover,4
-dust jacket (see IX.2), rest of the publication
-7. Note Any source
-8. Standard number and terms of availability Any source
+
+<table>
+<caption>Prescribed sources of information</caption>
+<thead>
+<tr>
+<th scope="col">Area</th>
+<th scope="col"> Prescribed sources of information</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>1. Title and statement of responsibility</td>
+<td>Title page</td>
+</tr>
+
+<tr>
+<td>2. Edition</td>
+<td>Title page, other preliminaries, colophon, dust jacket (see introductory section IX.2 xxlinkxx)</td>
+</tr>
+
+<tr>
+<td>3. Material (or type of publication) specific details</td>
+<td>(Not applicable)</td>
+</tr>
+
+<tr>
+<td>4. Publication, distribution, etc.</td>
+<td>Title page, colophon, other preliminaries, dust jacket (see IX.2 xxlinkxx)</td>
+</tr>
+
+<tr>
+<td>5. Physical description</td>
+<td>The whole publication</td>
+</tr>
+
+<tr>
+<td>6. Series</td>
+<td>Series title page, monograph title page, cover,<sup>4</sup> dust jacket (see IX.2 xxlinkxx), rest of the publication</td>
+</tr>
+
+<tr>
+<td>7. Note</td>
+<td>Any source</td>
+</tr>
+
+<tr>
+<td>8. Standard number and terms of availability</td>
+<td>Any source</td>
+</tr>
+
+</tbody>
+</table>
+
+<small><sup>4</sup> Consider the cover to be a prescribed source only if it was issued by the publisher. Series-like
+statements present on covers not issued by the publisher usually represent binders’ titles and should be treated as copy‐specific information. They may be transcribed in a local note, if considered important. In case of doubt, do not consider the cover to be a prescribed source of information.</small>
+
 Do not transcribe information from the source in areas 1, 2, 4, and 6 unless it is
 present in a prescribed source for that area. In all cases in which information for
 areas 1, 2, and 4 is taken from elsewhere than the title page, make a note to
-indicate the source of the information (see 7B3, 7B6, 7B7.1, 7B8). In all cases in
+indicate the source of the information (see 7B3, 7B6, 7B7.1, 7B8 xxlinkxx ). In all cases in
 which information for area 6 is taken from elsewhere than the series title page,
-make a note to indicate the source of the information (see 7B12).
+make a note to indicate the source of the information (see 7B12 xxlinkxx).
+
 The prescribed source of information for areas 1‐6 of a single‐sheet publication is
 the entire sheet, both recto and verso.
-4 Consider the cover to be a prescribed source only if it was issued by the publisher. Serieslike
-statements present on covers not issued by the publisher usually represent binders’ titles and
-should be treated as copy‐specific information. They may be transcribed in a local note, if
-considered important. In case of doubt, do not consider the cover to be a prescribed source of
-information.
-GENERAL RULES
-Descriptive Cataloging of Rare Materials (Books) 33
-0E. Prescribed punctuation
+
+### 0E. Prescribed punctuation
+
 Precede each area, other than the first, by a period‐space‐dash‐space (. ‐‐ ) unless
 the area begins a new paragraph.
+
 Precede or enclose each occurrence of an element of an area with standard
-punctuation as indicated in the “prescribed punctuation” sections of these rules.
+punctuation as indicated in the "prescribed punctuation" sections of these rules.
 Precede each mark of prescribed punctuation by a space and follow it by a space,
 with the following exceptions: the comma, period, closing parenthesis, and
 closing square bracket are not preceded by a space; the opening parenthesis and
 opening square bracket are not followed by a space.
+
 End paragraphs with normal punctuation (usually the period).
+
 If an entire area or element is omitted from the bibliographic description (e.g.,
 because it is not present in the source), also omit its corresponding prescribed
 punctuation. Do not use the mark of omission.
-0F. Language and script of the description
-0F1. General rule
-0F1.1. In the following areas, transcribe information from the publication itself in
+
+### 0F. Language and script of the description
+
+#### 0F1. General rule
+
+<a name="0F1.1">0F1.1</a> In the following areas, transcribe information from the publication itself in
 the language and script (wherever feasible) in which it appears there:
- title and statement of responsibility5
- edition
- publication, distribution, etc.
- series
-0F1.2. Give interpolations into these areas in the language and script of the other
+* title and statement of responsibility<sup>5</sup>
+* edition
+* publication, distribution, etc.
+* series
+
+<small><sup>5</sup>If nonroman text has been transcribed within the first five words of the title proper, provide
+additional title access for a romanized form of the title proper (see Appendix F xxlinkxx).</small>
+
+<a name="0F1.2">0F1.2</a> Give interpolations into these areas in the language and script of the other
 information in the area, except for prescribed interpolations and other cases
-specified in these rules (e.g., 1E5, 4B5, 4B6.2, 4C6.2). If the other information in
+specified in these rules (e.g., 1E5, 4B5, 4B6.2, 4C6.2 xxlinkxx). If the other information in
 the area is romanized, give interpolations according to the same romanization.
-5 If nonroman text has been transcribed within the first five words of the title proper, provide
-additional title access for a romanized form of the title proper (see Appendix F).
-GENERAL RULES
-Descriptive 34 Cataloging of Rare Materials (Books)
-0F1.3. Give any other information (other than titles, citations, signatures, and
+
+<a name="0F1.3">0F1.3</a> Give any other information (other than titles, citations, signatures, and
 quotations in notes) in the language and script of the cataloging agency.
-0F2. Romanization
-0F2.1. If it is not feasible to transcribe from the publication using a nonroman
-script, romanize the text according to the ALA‐LC Romanization Tables. Do not
+
+### 0F2. Romanization
+
+<a name="0F2.1">0F2.1</a> If it is not feasible to transcribe from the publication using a nonroman
+script, romanize the text according to the ALA‐LC Romanization Tables xxlinkxx. Do not
 enclose the romanized text within square brackets. Make a note to indicate that
-the romanized text appears in nonroman script in the publication (see 7B2.2).
-Source:
-ΔΙΟΝΥΣΙΟΥ ΟΙΚΟΥΜΕΝΗΣ περιήγησις
-Transcription:
-Dionysiou oikoumenēs periēgēsis
-Note: Title in Greek script
-Source:
-Hendecasyllabωn
-Transcription:
-Hendecasyllabōn
-Note: In the title, the ō in Hendecasyllabōn is printed in Greek
-script
-0F2.2. Optionally, if it is feasible to transcribe from the publication using a
+the romanized text appears in nonroman script in the publication (see 7B2.2 xxlinkxx).
+
+>*Source*: ΔΙΟΝΥΣΙΟΥ ΟΙΚΟΥΜΕΝΗΣ περιήγησις  
+>*Transcription*: <cite>Dionysiou oikoumenēs periēgēsis</cite>  
+>Note: <cite>Title in Greek script</cite>  
+
+>*Source*: Hendecasyllabωn  
+>*Transcription*: <cite>Hendecasyllabōn</cite>  
+>Note: <cite>In the title, the ō in Hendecasyllabōn is printed in Greek script</cite>
+
+<a name="0F2.2">0F2.2</a> *Optionally*, if it is feasible to transcribe from the publication using a
 nonroman script, also provide parallel romanized fields using the ALA‐LC
-Romanization Tables. Do not enclose the romanized text within square brackets,
+Romanization Tables xxlinkxx. Do not enclose the romanized text within square brackets,
 but make a note indicating that the romanization does not appear in the source.
-Note: Romanization supplied by cataloger
-0G. Transcription
+
+> *Note*: Romanization supplied by cataloger
+
+### 0G. Transcription
+
 Transcribe information in the form and order in which it is presented in the
 source, according to these general rules 0B‐0G, unless instructed otherwise by
 specific rules. Do not use the mark of omission to indicate transposition.
-0G1. Letters, diacritics, and symbols
-0G1.1. Letters and diacritics. In general, transcribe letters as they appear. Do not
+
+#### 0G1. Letters, diacritics, and symbols
+
+<a name="0G1.1">0G1.1</a> **Letters and diacritics**. In general, transcribe letters as they appear. Do not
 add accents and other diacritical marks not present in the source. Convert earlier
-forms of letters and diacritical marks to their modern form (see Appendix G2). If
-GENERAL RULES
-Descriptive Cataloging of Rare Materials (Books) 35
+forms of letters and diacritical marks to their modern form (see Appendix G2 xxlinkxx). If
 the source uses a gothic typeface that does not distinguish between uppercase I
 and J or between uppercase U and V, and there is no need to convert the letters
-to lowercase (see 0G2.2), transcribe them as I and V respectively, even though
+to lowercase (see 0G2.2 xxlinkxx), transcribe them as I and V respectively, even though
 the actual letterforms will more closely resemble a modern J and a modern U
-(see Appendix G4.1).
-Source:
-Transcription:
-Vnspotted Iacob
-(Comment: Source uses a gothic typeface that does not distinguish between the
-letterforms I/J or the letterforms U/V)
+(see Appendix G4.1 xxlinkxx).
+
+>*Source*: &lt;IMAGE NOT AVAILABLE&gt;  
+>*Transcription*: <cite>Vnspotted Iacob</cite>  
+>>(*Comment*: Source uses a gothic typeface that does not distinguish between the letterforms I/J or the letterforms U/V)
+
 In most languages, including Latin, transcribe a ligature by giving its component
 letters separately. Do not, however, separate the component letters of æ in
 Anglo‐Saxon; oe in French; or æ and oe in ancient or modern Scandinavian
 languages. If there is any doubt as to the correct conversion of letters and
 diacritical marks to modern form, transcribe them from the source as exactly as
 possible.
-0G1.2. Symbols, etc. Replace symbols or other matter that cannot be reproduced
+
+<a name="0G1.2">0G1.2</a> **Symbols, etc.** Replace symbols or other matter that cannot be reproduced
 using available typographical facilities with a cataloger’s description in square
 brackets. Make an explanatory note if necessary.
-0G2. Capitalization and conversion of case
-0G2.1. General rule. Convert letters to uppercase or lowercase according to the
+
+#### 0G2. Capitalization and conversion of case
+
+<a name="0G2.1">0G2.1</a> **General rule**. Convert letters to uppercase or lowercase according to the
 rules for capitalization in AACR2, Appendix A. Do not convert case when
 transcribing roman numerals.
-0G2.2. Letterforms I,V, i, j, u, and v. If the rules for capitalization require
-converting I or V to lowercase, or i, j, u, or v to uppercase, follow the pattern of
-usage in the text to determine which letterform to use in the transcription.6
-6 For information on early printing as it pertains to the transcription of I, J, U, V, i, j, u, and v,
-and guidance on how to determine the pattern of usage, see Appendix G4. If any letterform
-within the first five words of the title has been converted from I to j, from j to I, from V to u, or
-from u to V, provide additional title access using alternative forms of the title proper as needed
-(see Appendix F).
-GENERAL RULES
-Descriptive 36 Cataloging of Rare Materials (Books)
-Source:
-LES OEVVRES MORALES DE PLVTARQVE, TRANSLATEES DE GREC
-EN FRANÇOIS, REVEVES ET corrigees en plusieurs passages par le
-translateur
-Transcription:
-Les oeuures morales de Plutarque / translatees de grec en
-françois, reueues et corrigees en plusieurs passages par le
-translateur
-(Comment: In the publication, the body of the text in roman type shows consistent
-use of v for vowels or consonants in initial position and u for vowels or
-consonants elsewhere, e.g., “ville,” “vn,” “conuersation,” “tout,” and “entendu”)
-0G2.3. Final capital ʺIʺ in Latin. Do not convert to lowercase a final capital I in
-Latin texts when the final I is uppercase and the immediately preceding letters in
-the word are lowercase or smaller capital letters. Since this usage is not merely
-typographic but affects meaning, the capital must be left in that form.7
-Source:
-M. AccI Plauti quae supersunt Comoediae
-Transcription:
-M. AccI Plauti quae supersunt Comoediae
-0G2.4. Chronograms. Capital letters occurring apparently at random or in a
+
+<a name="0G2.2">0G2.2</a> **Letterforms I,V, i, j, u, and v**. If the rules for capitalization require
+converting **I** or **V** to lowercase, or **i**, **j**, **u**, or **v** to uppercase, follow the pattern of
+usage in the text to determine which letterform to use in the transcription.<sup>6</sup>
+
+<small><sup>6</sup> For information on early printing as it pertains to the transcription of **I**, **J**, **U**, **V**, **i**, **j**, **u**, and **v**,
+and guidance on how to determine the pattern of usage, see Appendix G4 xxlinkxx. If any letterform
+within the first five words of the title has been converted from **I** to **j**, from **j** to **I**, from **V** to **u**, or
+from **u** to **V**, provide additional title access using alternative forms of the title proper as needed
+(see Appendix F xxlinkxx).</small>
+
+>*Source*: LES OEVVRES MORALES DE PLVTARQVE, TRANSLATEES DE GREC EN FRANÇOIS, REVEVES ET corrigees en plusieurs passages par le translateur  
+>*Transcription*: <cite>Les oeuures morales de Plutarque / translatees de grec en françois, reueues et corrigees en plusieurs passages par le translateur</cite>  
+>>(*Comment*: In the publication, the body of the text in roman type shows consistent use of v for vowels or consonants in initial position and u for vowels or consonants elsewhere, e.g., "ville," "vn," "conuersation," "tout," and "entendu")
+
+0G2.3. Final capital ʺIʺ in Latin. Do not convert to lowercase a final capital I in Latin texts when the final I is uppercase and the immediately preceding letters in the word are lowercase or smaller capital letters. Since this usage is not merely typographic but affects meaning, the capital must be left in that form.<sup>7</sup>
+
+<small><sup>7</sup> If the letter occurs within the first five words of the title proper, provide additional title
+access for the form of title with the final capital I converted to ii (see Appendix F xxlinkxx).</small>
+
+>*Source*: M. AccI Plauti quae supersunt Comoediae  
+>*Transcription*: <cite>M. AccI Plauti quae supersunt Comoediae</cite>
+
+<a name="0G2.4">0G2.4</a> **Chronograms**. Capital letters occurring apparently at random or in a
 particular sequence on a title page or in a colophon may represent a chronogram.
 Where there is good reason to assume that a chronogram is being used, do not
 convert letters considered part of the chronogram from uppercase to lowercase,
-or from lowercase to uppercase (see also 4D2.2).
-0G3. Punctuation in the source
-0G3.1. General rule. Do not necessarily transcribe punctuation as it appears in
+or from lowercase to uppercase (see also 4D2.2 xxlinkxx).
+
+#### 0G3. Punctuation in the source
+
+<a name="0G3.1">0G3.1</a> **General rule**. Do not necessarily transcribe punctuation as it appears in
 the source. Instead, follow modern punctuation conventions, using common
 sense in deciding whether to include the punctuation, omit it, replace it, or add
 punctuation not present.
-7 If the letter occurs within the first five words of the title proper, provide additional title
-access for the form of title with the final capital I converted to ii (see Appendix F).
-GENERAL RULES
-Descriptive Cataloging of Rare Materials (Books) 37
-Source:
-The unhappy favourite; or, The Earl of Essex. A tragedy. Written by Jno;
-Banks
-Transcription:
-The unhappy favourite, or, The Earl of Essex : a tragedy /
-written by Jno. Banks
-Source:
-London: Printed for A Millar, over‐against Catharine‐street in the Strand.
-M,DCC,LI.
-Transcription:
-London : Printed for A. Millar, over-against Catharine-Street in
-the Strand, MDCCLI [1751]
-Alternative rule: Transcribe all punctuation as found in the source of information,
+
+>*Source*: The unhappy favourite; or, The Earl of Essex. A tragedy. Written by Jno; Banks  
+>*Transcription*: <cite>The unhappy favourite, or, The Earl of Essex : a tragedy / written by Jno. Banks</cite>  
+
+>*Source*: London: Printed for A Millar, over‐against Catharine‐street in the Strand. M,DCC,LI.  
+>*Transcription*: <cite>London : Printed for A. Millar, over-against Catharine-Street in the Strand, MDCCLI [1751]</cite>  
+
+**Alternative rule**: Transcribe all punctuation as found in the source of information,
 with the exception of those marks covered in rules 0G3.5‐0G3.7. When following
 this alternative rule, always include prescribed punctuation as well, even if this
 results in double punctuation. Prescribed punctuation is treated at the beginning of
 each chapter within these rules.
-The unhappy favourite; or, The Earl of Essex. : A tragedy. /
-Written by Jno; Banks
-(Comment: Commas are not added around or when applying this option;
-commas surrounding a conjunction introducing an alternative title is an
-AACR2 convention, not prescribed ISBD punctuation.)
-London: : Printed for A Millar, over-against Catharine-Street
-in the Strand., M,DCC,LI. [1751]
-0G3.2. Apostrophes. Transcribe apostrophes as found. Do not supply
+
+><cite>The unhappy favourite; or, The Earl of Essex. : A tragedy. / Written by Jno; Banks</cite>  
+>>(*Comment*: Commas are not added around or when applying this option; commas surrounding a conjunction introducing an alternative title is an AACR2 convention, not prescribed ISBD punctuation.)
+
+><cite>London: : Printed for A Millar, over-against Catharine-Street in the Strand., M,DCC,LI. [1751]</cite>
+
+<a name="0G3.2">0G3.2</a> **Apostrophes**. Transcribe apostrophes as found. Do not supply
 apostrophes not present in the source.
-Uncle Wiggly's picture book
-Scotlands speech to her sons
-0G3.3. Hyphens. Transcribe hyphens used to connect the constituent parts of
-compound words, normalizing their form as necessary (see Appendix G2). Do
+
+><cite>Uncle Wiggly's picture book</cite>
+
+><cite>Scotlands speech to her sons</cite>
+
+<a name="0G3.3">0G3.3</a> **Hyphens**. Transcribe hyphens used to connect the constituent parts of
+compound words, normalizing their form as necessary (see Appendix G2 xxlinkxx). Do
 not supply hyphens not present in the source.
-A catalogue of the library of Yale-College in New-Haven
-GENERAL RULES
-Descriptive 38 Cataloging of Rare Materials (Books)
-Report of the Boston Female Anti Slavery Society
-0G3.4. Punctuation within roman numerals. Do not transcribe internal marks of
+
+><cite>A catalogue of the library of Yale-College in New-Haven</cite>
+
+><cite>Report of the Boston Female Anti Slavery Society</cite>
+
+<a name="0G3.4">0G3.4</a> **Punctuation within roman numerals**. Do not transcribe internal marks of
 punctuation appearing within roman numerals. Omit them without using the
 mark of omission.
-The bye-laws and regulations of the Marine Society, incorporated
-in MDCCLXXII
-0G3.5. Ellipses, square brackets, and virgules. Do not transcribe ellipses ... or
-square brackets [ ] when present in the source; replace them with a dash ‐‐ and
-parentheses ( ) respectively or omit them, as appropriate. Do not confuse a
+
+><cite>The bye-laws and regulations of the Marine Society, incorporated in MDCCLXXII</cite>
+
+<a name="0G3.5">0G3.5</a> **Ellipses, square brackets, and virgules.** Do not transcribe ellipses **...** or
+square brackets **[ ]** when present in the source; replace them with a dash **‐‐** and
+parentheses **( )** respectively or omit them, as appropriate. Do not confuse a
 virgule (/) in gothic typefaces with a slash; replace it with a comma or omit it, as
 appropriate. Make an explanatory note, if considered important.
-Source:
-Leominster, [Mass.]
-Transcription:
-Leominster, Mass.
-Optional note: On t.p., "Mass." is enclosed by square brackets
-0G3.6. Line endings. Do not transcribe a hyphen or other mark of punctuation
+
+>*Source*: Leominster, [Mass.]  
+>*Transcription*: <cite>Leominster, Mass.</cite>  
+>Optional note: <cite>On t.p., "Mass." is enclosed by square brackets</cite> 
+
+<a name="0G3.6">0G3.6</a> **Line endings**. Do not transcribe a hyphen or other mark of punctuation
 used to connect a single word divided between two lines; transcribe as a single
 word, ignoring the punctuation. If the function of the hyphen is in doubt (e.g., if
 it might form part of a compound word), transcribe it.
-Source (showing line endings):
-I DISCORSI DI NICOLO
-MACHIAVELLI, SOPRA
-LA PRIMA DECA DI
-TITO LIVIO
-Transcription:
-I discorsi di Nicolo Machiauelli, sopra la prima deca di Tito
-Liuio
-0G3.7. Punctuation substituting for letters. Transcribe as hyphens any hyphens,
+
+>*Source (showing line endings)*:  
+>I DISCORSI DI NICOLO  
+>MACHIAVELLI, SOPRA  
+>LA PRIMA DECA DI  
+>TITO LIVIO  
+>Transcription: <cite>I discorsi di Nicolo Machiauelli, sopra la prima deca di Tito Liuio</cite>  
+
+<a name="0G3.7">0G3.7</a> **Punctuation substituting for letters**. Transcribe as hyphens any hyphens,
 dashes, or underscore characters used in the source as a substitute for one or
 more letters in a word or an entire word. Use one hyphen for each distinct piece
 of type.
-GENERAL RULES
-Descriptive Cataloging of Rare Materials (Books) 39
-Source:
-Sec‐‐t‐‐‐‐s of st‐‐te, the L‐‐‐‐ds of the Ad‐‐‐‐‐‐ty
-Transcription:
-Sec--t----s of st--te, the L----ds of the Ad------ty
+
+>*Source*: Sec‐‐t‐‐‐‐s of st‐‐te, the L‐‐‐‐ds of the Ad‐‐‐‐‐‐ty  
+>*Transcription*: <cite>Sec--t----s of st--te, the L----ds of the Ad------ty</cite>  
+
 Transcribe asterisks as asterisks.
-par Mr. B***
+
+><cite>par Mr. B***</cite>  
+
 If the values of the missing letters are known, provide the information in a note,
 if considered important.
-Source:
-Clara H_____d
-Transcription:
-Clara H-d
-Optional note: Clara H-d is Clara Hayward
-0G4. Spacing
-0G4.1. Spacing within words and numbers. In general, follow modern spacing
+
+>*Source*: Clara H_____d  
+>*Transcription*: <cite>Clara H-d</cite>  
+>Optional note: <cite>Clara H-d is Clara Hayward</cite>
+
+#### 0G4. Spacing
+
+<a name="0G4.1">0G4.1</a> **Spacing within words and numbers**. In general, follow modern spacing
 conventions when transcribing from the source. Make no attempt to preserve full
 or irregular spaces between letters within words. If a word is divided between
 the end of one line and the beginning of the next, transcribe it as a single word,
 ignoring the line‐break.
+
 Omit internal spaces when transcribing numbers (including roman numerals).
-Source:
-G R AE C AE GRAMMATICES
-Transcription:
-Graecae grammatices
-Source (showing line endings):
-DE LAVDI
-BVS VRBIS ETRVRIAE
-ET ITALIAE
-Transcription:
-De laudibus urbis Etruriae et Italiae
-GENERAL RULES
-Descriptive 40 Cataloging of Rare Materials (Books)
-Alternative rule: Transcribe internal spaces within numbers (including roman
+
+>*Source*: G R AE C AE GRAMMATICES  
+>*Transcription*: <cite>Graecae grammatices</cite>  
+
+>*Source (showing line endings)*:  
+>DE LAVDI  
+>BVS VRBIS ETRVRIAE  
+>ET ITALIAE  
+>*Transcription*: <cite>De laudibus urbis Etruriae et Italiae</cite>  
+
+**Alternative rule**: Transcribe internal spaces within numbers (including roman
 numerals). If multiple spaces or different sizes of spaces appear between two
 characters within the number, transcribe them as a single space.
-Source:
-M. D. CC. XLIV
-Transcription:
-M. D. CC. XLIV
-0G4.2. Spacing between words. If spacing between words in the source is
+
+>*Source*: M. D. CC. XLIV  
+>*Transcription*: <cite>M. D. CC. XLIV</cite>
+
+<a name="0G4.2">0G4.2</a> **Spacing between words**. If spacing between words in the source is
 ambiguous, or lacking, include spaces in the transcription to separate the words
-as needed.8
-Source:
-LAMORTE DʹORFEO
-Transcription:
-La morte d'Orfeo
-0G4.3. Variant spellings. Do not insert spaces within single words that merely
-represent variant or archaic spellings.9
-Source:
-Newhampshire & Vermont ALMANAC
-Transcription:
-Newhampshire & Vermont almanac
-0G5. Omissions
-0G5.1. General rule. Indicate omissions in the transcription or in a quoted note
+as needed.<sup>8</sup>
+
+<small><sup>8</sup> If the missing spaces occur in the first five words of the title proper, provide additional title
+access for the form of title as it appears in the source, without the spaces (see Appendix F xxlinkxx).</small>
+
+>*Source*: LAMORTE DʹORFEO  
+>*Transcription*: <cite>La morte d'Orfeo</cite>  
+
+<a name="0G4.3">0G4.3</a> **Variant spellings**. Do not insert spaces within single words that merely
+represent variant or archaic spellings.<sup>9</sup>
+
+<small><sup>9</sup> If the variant or archaic spellings occur in the first five words of the title proper, provide
+additional title access for the form of the title with the spacing inserted (see Appendix F xxlinkxx).</small>
+
+>*Source*: Newhampshire & Vermont ALMANAC  
+>*Transcription*: <cite>Newhampshire & Vermont almanac</cite> 
+
+#### 0G5. Omissions
+
+<a name="0G5.1">0G5.1</a> **General rule**. Indicate omissions in the transcription or in a quoted note
 by using the mark of omission. When using the mark of omission, generally give
 it with a space on either side. However, give a space on only one side if the mark
 comes at the end of an area, is preceded by an opening parenthesis or opening
-8 If the missing spaces occur in the first five words of the title proper, provide additional title
-access for the form of title as it appears in the source, without the spaces (see Appendix F).
-9 If the variant or archaic spellings occur in the first five words of the title proper, provide
-additional title access for the form of the title with the spacing inserted (see Appendix F).
-GENERAL RULES
-Descriptive Cataloging of Rare Materials (Books) 41
 square bracket, or is followed by a closing parenthesis, closing square bracket, or
 comma.
-Oxford : Printed by Leon. Lichfield ... and are to be sold by the
-Widow Howell, 1698
-Amsterdam : Printed for the Widow Swart ..., 1688
-(Comment: The mark of omission has a space on only one side because it is
+
+><cite>Oxford : Printed by Leon. Lichfield ... and are to be sold by the Widow Howell, 1698</cite>
+
+><cite>Amsterdam : Printed for the Widow Swart ..., 1688</cite>  
+>>(*Comment*: The mark of omission has a space on only one side because it is
 followed by a comma)
-0G5.2. Information not considered part of any area. If omitting grammatically
+
+<a name="0G5.2">0G5.2</a> **Information not considered part of any area**. If omitting grammatically
 separable information from the transcription because it is not considered part of
-any area (pious invocations, etc.; see 1A2.2), do not use the mark of omission. If
+any area (pious invocations, etc.; see 1A2.2 xxlinkxx), do not use the mark of omission. If
 considered important, give the omitted information in a note.
-0G5.3. Information not taken from the chief source of information. If
+
+<a name="0G5.3">0G5.3</a> **Information not taken from the chief source of information**. If
 transcribing information from a source other than the chief source of
 information, omit any words preceding or following the information if they are
 not considered part of the element and are grammatically separable. Do not use
 the mark of omission. If considered important, give the omitted text in a note.
-The second edition
-Note: Edition statement from colophon; full colophon reads: This,
-the second edition of Le morte Darthur, with Aubrey Beardsley's
-designs ... is limited to 1000 copies for the United Kingdom
-and 500 for America, after printing which the type has been
-distributed
-0G6. Interpolations
-0G6.1. General rule. Indicate an interpolation in the transcription or in a quoted
+
+><cite>The second edition</cite>  
+>Note: <cite>Edition statement from colophon; full colophon reads: This, the second edition of Le morte Darthur, with Aubrey Beardsley's designs ... is limited to 1000 copies for the United Kingdom and 500 for America, after printing which the type has been distributed</cite>  
+
+#### 0G6. Interpolations
+
+<a name="0G6.1">0G6.1</a> **General rule**. Indicate an interpolation in the transcription or in a quoted
 note by enclosing it in square brackets. If transcribing text with missing or
 obscured letters or words that can be reconstructed with some certainty, include
 these in the transcription, enclosing them in square brackets. Make an
 explanatory note, if considered important.
-amico[rum]
-(Comment: The word ends with a )
-0G6.2. Conjectural and indecipherable text. Indicate a conjectural interpolation
+
+><cite>amico[rum]</cite>
+>>(*Comment*: The word ends with a &lt;IMAGE NOT AVAILABLE&gt;)
+
+<a name="0G6.2">0G6.2</a> **Conjectural and indecipherable text**. Indicate a conjectural interpolation
 by adding a question mark immediately after the interpolation, within the square
 brackets. Supply a question mark enclosed in square brackets for each
 indeterminable word or portion of word. Make a note to justify the
-GENERAL RULES
-42 Descriptive Cataloging of Rare Materials (Books)
 interpolations, provide explanations, or offer tentative readings of
 indecipherable portions of text, if considered important.
-amico[rum?]
-(Comment: The word ends with a symbol of contraction that is conjectured to be a
-)
-amico[?]
-(Comment: The symbol of contraction at the end of the word cannot be
-determined)
-El[speth?] [?] McWhorter
-(Comment: An autograph with some conjectured letters in the forename and an
-indecipherable middle initial, transcribed in a local note)
-0G6.3. Lacunae in imperfect copies. If the description is based on an imperfect
-copy (see 0B2.2), use the mark of omission enclosed in square brackets ([...]) to
+
+><cite>amico[rum?]</cite>  
+>>(*Comment*: The word ends with a symbol of contraction that is conjectured to be a &lt;IMAGE NOT AVAILABLE&gt;)
+
+><cite>amico[?]</cite>  
+>>(*Comment*: The symbol of contraction at the end of the word cannot be determined)  
+
+><cite>El[speth?] [?] McWhorter</cite>  
+>>(*Comment*: An autograph with some conjectured letters in the forename and an indecipherable middle initial, transcribed in a local note)
+
+<a name="0G6.3">0G6.3</a> **Lacunae in imperfect copies**. If the description is based on an imperfect
+copy (see 0B2.2 xxlinkxx), use the mark of omission enclosed in square brackets ([...]) to
 show lacunae in the resource.
-En Barcelo[na] : Por Sebastian Mateu[...]
-Note: Description based on an imperfect copy; title page torn
-with partial loss of imprint
-0G6.4. Blank spaces. If transcribing text containing a blank space intended to be
+
+><cite>En Barcelo[na] : Por Sebastian Mateu[...]</cite>  
+>Note: <cite>Description based on an imperfect copy; title page torn with partial loss of imprint</cite>  
+
+<a name="0G6.4">0G6.4</a> **Blank spaces**. If transcribing text containing a blank space intended to be
 completed in manuscript, as is common in forms and certain government
-documents, supply the word “blank” enclosed in square brackets.10 If the blank
+documents, supply the word "blank" enclosed in square brackets.<sup>10</sup> If the blank
 has been completed in the item being described, indicate this in a local note, if
 considered important.
-A catalogue of books, to be sold on [blank] the [blank] day of
-February, 1755 ...
-Optional local note: Library's copy has date of auction supplied
-in manuscript: [Wednesday] the [26th] day of February, 1755
-0G6.5. Adjacent elements within a single area. If adjacent elements within one
+
+<small><sup>10</sup> If the blank occurs in the first five words of the title proper, provide additional title access
+for the form of title without the interpolated word "[blank]" (see Appendix F xxlinkxx).</small>
+
+><cite>A catalogue of books, to be sold on [blank] the [blank] day of February, 1755 ...</cite>  
+>Optional local note: <cite>Library's copy has date of auction supplied in manuscript: [Wednesday] the [26th] day of February, 1755</cite>  
+
+<a name="0G6.5">0G6.5</a> **Adjacent elements within a single area**. If adjacent elements within one
 area are to be enclosed in square brackets, generally enclose them in one set of
 square brackets.
-[Leipzig : W. Stürmer], 1572
-10 If the blank occurs in the first five words of the title proper, provide additional title access
-for the form of title without the interpolated word “[blank]” (see Appendix F).
-GENERAL RULES
-Descriptive Cataloging of Rare Materials (Books) 43
+
+><cite>[Leipzig : W. Stürmer], 1572</cite>
+
 If the square brackets are due to interpolations such as corrections or expansions
-(see 0G8.2, 4B3, 4B4, 4B5), however, use separate pairs of square brackets.
-Lugduni [Lyon] : [Philippe Tighi?], 1573
-0G6.6. Adjacent elements in separate areas. If adjacent elements are in different
+(see 0G8.2, 4B3, 4B4, 4B5 xxlinkxx), however, use separate pairs of square brackets.
+
+><cite>Lugduni [Lyon] : [Philippe Tighi?], 1573</cite>
+
+<a name="0G6.6">0G6.6</a> **Adjacent elements in separate areas**. If adjacent elements are in different
 areas, enclose each element in a set of square brackets.
-At London : Imprinted for VVilliam Aspley, [1613] -- [48], 418 p.
-0G7. Misprints, etc.
-0G7.1. Misprints. Transcribe a misprint as it appears in the publication. Follow
-such an inaccuracy either by “[sic]” or by the abbreviation “i.e.” and the
-correction within square brackets.11
-Of the knowledeg [sic] whiche maketh a wise man
-The notted [i.e. noted] history of Mother Grim
-One day's dty [i.e. duty]
+
+><cite>At London : Imprinted for VVilliam Aspley, [1613] -- [48], 418 p.</cite>
+
+#### 0G7. Misprints, etc.
+
+<a name="0G7.1">0G7.1</a> **Misprints**. Transcribe a misprint as it appears in the publication. Follow
+such an inaccuracy either by "[sic]" or by the abbreviation "i.e." and the
+correction within square brackets.<sup>11</sup>
+
+<small><sup>11</sup> If the misprint occurs in the first five words of the title proper, provide additional title
+access for the form of title without the interpolation and for the form of title as if it had been
+printed correctly (see Appendix F xxlinkxx).</small>
+
+><cite>Of the knowledeg [sic] whiche maketh a wise man</cite>  
+
+><cite>The notted [i.e. noted] history of Mother Grim</cite>  
+
+><cite>One day's dty [i.e. duty]</cite>  
+
 Do not correct words spelled according to older or non‐standard orthographic
-conventions, e.g., “françoise” for “française,” or “antient” for “ancient.”
-0G7.2. Turned and approximated letters. Transcribe a turned letter (i.e., a letter
+conventions, e.g., "françoise" for "française," or "antient" for "ancient."
+
+<a name="0G7.2">0G7.2</a> **Turned and approximated letters**. Transcribe a turned letter (i.e., a letter
 set upside‐down), whether inadvertent or deliberate, as the intended letter.
 Transcribe two letters used to approximate a third letter as the intended letter.
-However, transcribe vv as vv (see Appendix G5). Make an explanatory note, if
-considered important.12
-London
-Optional note: First "n" in "London" printed with a turned "u"
-Wittenberg
-Optional note: The "W" in "Wittenberg" is formed using "rv"
-11 If the misprint occurs in the first five words of the title proper, provide additional title
-access for the form of title without the interpolation and for the form of title as if it had been
-printed correctly (see Appendix F).
-12 If the two letters used to approximate a third letter occur in the first five words of the title
+However, transcribe **vv** as **vv** (see Appendix G5 xxlinkxx). Make an explanatory note, if
+considered important.<sup>12</sup>
+
+<small><sup>12</sup> If the two letters used to approximate a third letter occur in the first five words of the title
 proper, provide additional title access for the form of title with the letters transcribed as set (see
-Appendix F).
-GENERAL RULES
-44 Descriptive Cataloging of Rare Materials (Books)
-0G7.3. Blank spaces for initial letters. When the printer has left a blank space for
+Appendix F xxlinkxx).</small>
+
+><cite>London</cite>  
+>Optional note: <cite>First "n" in "London" printed with a turned "u"</cite> 
+
+><cite>Wittenberg</cite>  
+>Optional note: <cite>The "W" in "Wittenberg" is formed using "rv"</cite>
+
+<a name="0G7.3">0G7.3</a> **Blank spaces for initial letters**. When the printer has left a blank space for
 an initial letter, supply the intended letter in square brackets, regardless of
 whether the letter has been executed in manuscript, and make an explanatory
 note. If a guide letter has been printed, transcribe it without square brackets. In
 case of doubt about whether a printed guide letter is present, transcribe the letter
 without square brackets. Make a local note to indicate the presence or absence of
 manuscript execution in the copy, if considered important.
-[H]istoriarum libri XXXV
-Note: Space for initial letter of first word of title left blank
-by printer
-Optional local note: LC copy: Initial letter executed in red and
-green ink
-Historiarum libri XXXV
-Optional local note: LC copy: Printed guide letter "H" at
-beginning of title not executed in manuscript
-0G8. Abbreviations and contractions
-0G8.1. When transcribing from the publication, do not abbreviate any words not
+
+><cite>[H]istoriarum libri XXXV</cite>  
+>Note: <cite>Space for initial letter of first word of title left blank by printer</cite>  
+>Optional local note: <cite>LC copy: Initial letter executed in red and green ink</cite>  
+
+><cite>Historiarum libri XXXV</cite>  
+>Optional local note: <cite>LC copy: Printed guide letter "H" at beginning of title not executed in manuscript</cite>  
+
+#### 0G8. Abbreviations and contractions
+
+<a name="0G8.1">0G8.1</a> When transcribing from the publication, do not abbreviate any words not
 abbreviated in the source.
-0G8.2. If special marks of contraction have been used by the printer in
+
+<a name="0G8.2">0G8.2</a> If special marks of contraction have been used by the printer in
 continuance of the manuscript tradition, expand affected words to their full form
-and enclose supplied letters in square brackets (see Appendix G3). Make an
-explanatory note, if considered important (see 7B4.2). If a contraction standing
+and enclose supplied letters in square brackets (see Appendix G3 xxlinkxx). Make an
+explanatory note, if considered important (see 7B4.2 xxlinkxx). If a contraction standing
 for an entire word appears in the source, supply instead the word itself, enclosed
-in square brackets. However, transcribe an ampersand or a Tironian sign ( ) as
+in square brackets. However, transcribe an ampersand or a Tironian sign (&lt;IMAGE NOT AVAILABLE&gt;) as
 an ampersand. Enclose each expansion or supplied word in its own set of square
 brackets.
-Esopus co[n]structus moralizat[us] & hystoriatus ad vtilitate[m]
-discipulo[rum]
+
+><cite>Esopus co[n]structus moralizat[us] & hystoriatus ad vtilitate[m] discipulo[rum]</cite>
+
 If the meaning of a contraction is conjectural, apply the bracketing conventions
-given in 0G6.2.
-0G9. Superscripts and subscripts
+given in 0G6.2 xxlinkxx.
+
+#### 0G9. Superscripts and subscripts
+
 Transcribe superscript and subscript characters on the line unless the sense
 would be affected (e.g., in a mathematical formula).
-GENERAL RULES
-Descriptive Cataloging of Rare Materials (Books) 45
-Source:
-M.r J.as McAdam
-Transcription:
-Mr. Jas. McAdam
-0G10. Initials, etc.
-0G10.1. Transcribe initials, initialisms, and acronyms without internal spaces,
+
+>Source: M.<sup>r</sup> J.<sup>as</sup> M<sup>c</sup>Adam  
+>Transcription: <cite>Mr. Jas. McAdam</cite>  
+
+#### 0G10. Initials, etc.
+
+<a name="0G10.1">0G10.1</a> Transcribe initials, initialisms, and acronyms without internal spaces,
 regardless of how they are presented in the source of information.
-Pel battesimo di S.A.R. Ludovico ...
-KL Ianuarius habet dies xxxi
-Monasterij B.M.V. Campililioru[m]
-J.J. Rousseau
-0G10.2. Treat an abbreviation consisting of more than a single letter as if it were a
+
+><cite>Pel battesimo di S.A.R. Ludovico ...</cite>
+
+><cite>KL Ianuarius habet dies xxxi</cite>
+
+><cite>Monasterij B.M.V. Campililioru[m]</cite>
+
+><cite>J.J. Rousseau</cite>
+
+><a name="0G10.2">0G10.2</a> Treat an abbreviation consisting of more than a single letter as if it were a
 distinct word, separating it with a space from preceding and succeeding words
 or initials.
-Ph. D.
-Ad bibliothecam PP. Franciscan. in Anger
-Mr. J.P. Morgan
-0G10.3. If two or more distinct initialisms (or sets of initials), acronyms, or
-abbreviations appear in juxtaposition, separate them with a space.
-M. J.P. Rabaut
-(Comment: The first initial stands for Monsieur )
 
-Descriptive Cataloging of Rare Materials (Books) 47
-1. TITLE AND STATEMENT OF RESPONSIBILITY AREA
-Contents:
-1A. Preliminary rule
-1B. Title proper
-1C. Parallel titles
-1D. Other title information
-1E. Statements of responsibility
-1F. Publications without a collective title
-1G. Single‐sheet publications
-1A. Preliminary rule
-1A1. Prescribed punctuation
+><cite>Ph. D.</cite> 
+
+><cite>Ad bibliothecam PP. Franciscan. in Anger</cite>
+
+><cite>Mr. J.P. Morgan</cite>
+
+<a name="0G10.3">0G10.3</a> If two or more distinct initialisms (or sets of initials), acronyms, or
+abbreviations appear in juxtaposition, separate them with a space.
+
+><cite>M. J.P. Rabaut</cite>  
+>>(*Comment*: The first initial stands for Monsieur )
+
+## 1. TITLE AND STATEMENT OF RESPONSIBILITY AREA
+
+### Contents:
+
+1A. Preliminary rule  
+1B. Title proper  
+1C. Parallel titles  
+1D. Other title information  
+1E. Statements of responsibility    
+1F. Publications without a collective title  
+1G. Single‐sheet publications  
+
+### 1A. Preliminary rule  
+
+#### 1A1. Prescribed punctuation  
+
 For instructions on the use of spaces before and after prescribed punctuation, see
-0E.
-Precede the title of a supplement or section (see 1B6) by a period.
+0E xxlinkxx.
+
+Precede the title of a supplement or section (see 1B6 xxlinkxx) by a period.
+
 Precede each parallel title by an equals sign.
+
 Precede each unit of other title information by a colon.
+
 Precede the first statement of responsibility by a diagonal slash.
+
 Precede each subsequent statement of responsibility by a semicolon.
-For the punctuation of this area when a publication has no collective title, see 1F.
-1A2. Sources of information
-1A2.1. General rule. The prescribed source of information for the title and
+
+For the punctuation of this area when a publication has no collective title, see 1F xxlinkxx.
+
+#### 1A2. Sources of information
+
+<a name="1A2.1">1A2.1</a> **General rule**. The prescribed source of information for the title and
 statement of responsibility area is the title page. For special provisions relating to
-single‐sheet publications, see 1G.
-1A2.2. Omission of pious invocations, etc. Omit, without using the mark of
+single‐sheet publications, see 1G xxlinkxx.
+
+<a name="1A2.2">1A2.2</a> **Omission of pious invocations, etc**. Omit, without using the mark of
 omission, information found on the title page that constitutes neither title
 information nor a statement of responsibility. Such information may include
 pious invocations, quotations, devices, announcements, epigrams, mottoes,
-prices, etc. (see 0G5.2). Transcribe or describe this kind of information in a note if
-AREA 1. TITLE AND STATEMENT OF RESPONSIBILITY
-Descriptive 48 Cataloging of Rare Materials (Books)
+prices, etc. (see 0G5.2 xxlinkxx). Transcribe or describe this kind of information in a note if
 it is considered important. If such information is a grammatically inseparable
-part (see 1B1) of one of the elements of the title and statement of responsibility
+part (see 1B1 xxlinkxx) of one of the elements of the title and statement of responsibility
 area, however, transcribe it as such. If such information constitutes the only titlelike
 information present in the source, it may be used as a devised title according
-to the provisions of 1B5.
-1A2.3. Multipart monographs. If the volume is part of a multipart monograph,
+to the provisions of 1B5 xxlinkxx.
+
+<a name="1A2.3">1A2.3</a> **Multipart monographs**. If the volume is part of a multipart monograph,
 and the title page gives a statement of the volume or part number within the
 larger work, omit this statement without using the mark of omission, unless it is
-a grammatically inseparable part (see 1B1, 1B4) of the information being
-transcribed. Do transcribe statements such as “in two volumes,” however (see
-1D3).
-1A3. Form and order of information
+a grammatically inseparable part (see 1B1, 1B4 xxlinkxx) of the information being
+transcribed. Do transcribe statements such as "in two volumes," however (see
+1D3 xxlinkxx).
+
+#### 1A3. Form and order of information
+
 Transcribe title and statement of responsibility information in the form and order
 in which it is presented in the source, unless instructed otherwise by specific
-rules (see 0G).
-1B. Title proper
-1B1. Words considered part of the title proper
-1B1.1. The title proper is the first element of the description. Title information
+rules (see 0G xxlinkxx).
+
+### 1B. Title proper
+
+#### 1B1. Words considered part of the title proper
+
+<a name="1B1.1">1B1.1</a> The title proper is the first element of the description. Title information
 preceding the chief title on the title page is considered part of the title proper. If
 the chief title is preceded or followed in the source by other elements of
 information, transpose these elements to their appropriate areas in the
@@ -1456,70 +1574,78 @@ description (or give them in a note) unless case endings would be affected, the
 grammatical construction of the information would be disturbed, or the text is
 otherwise grammatically inseparable from the title proper. In the latter cases,
 transcribe the information as part of the title proper.
-The post-humous works of Robert Hooke
-Monsieur Bossu's treatise of the epicke poem
-M. Tullii Ciceronis de officiis libri tres
-Bell's edition of Shakspere
-AREA 1. TITLE AND STATEMENT OF RESPONSIBILITY
-Descriptive Cataloging of Rare Materials (Books) 49
-1B1.2. Make a note to indicate the original position on the title page of
+
+><cite>The post-humous works of Robert Hooke</cite>
+
+><cite>Monsieur Bossu's treatise of the epicke poem</cite> 
+
+><cite>M. Tullii Ciceronis de officiis libri tres</cite>
+
+><cite>Bell's edition of Shakspere</cite>
+
+<a name="1B1.2">1B1.2</a> Make a note to indicate the original position on the title page of
 transposed elements.
-Prudence Palfrey : a novel / Thomas Bailey Aldrich
-Note: Author's name at head of title
-1B2. Note on the source of the title proper
+
+><cite>Prudence Palfrey : a novel / Thomas Bailey Aldrich</cite>  
+>Note: <cite>Author's name at head of title</cite>
+
+#### 1B2. Note on the source of the title proper
+
 Make a note on the source of the title proper if it is a title page substitute, e.g., the
 caption title, docket title, etc.
-A new list of fifty two ships sent to the East-Indies
-Note: Docket title
-1B3. Forms of the title proper
+
+><cite>A new list of fifty two ships sent to the East-Indies</cite>  
+>Note: <cite>Docket title</cite>
+
+#### 1B3. Forms of the title proper
+
 The title proper can take a variety of forms, some of which are exemplified
 below:
-1B3.1. Title proper inclusive of other titles or other title information appearing
+
+<a name="1B3.1">1B3.1</a> Title proper inclusive of other titles or other title information appearing
 before the chief title on the title page:
-Seculum Davidicum redivivum, The divine right of the revolution
-scripturally and rationally evinced and applied
-(Comment: By virtue of its typographical prominence, the English title is clearly
-the chief title)
-Prize dissertation, which was honored with the Magellanic Gold
-Medal, by the American Philosophical Society, January, 1793.
-Cadmus, or, A treatise on the elements of written language
-(Comment: “Cadmus …” is clearly more prominent than “Prize dissertation …”)
-Hereafter foloweth a litel boke called Colyn Cloute
-(Comment: “Colyn Cloute” is the chief title)
-1B3.2. Title proper inclusive of alternative titles:
-Christianographie, or, The description of the multitude and
-sundry sorts of Christians in the vvorld not subject to the
-Pope
-1B3.3. Title proper consisting solely of the name of a responsible person or body:
-Salustius
-AREA 1. TITLE AND STATEMENT OF RESPONSIBILITY
-Descriptive 50 Cataloging of Rare Materials (Books)
-1B3.4. Title proper inclusive of a caption. (See 1G4 for caption titles on singlesheet
+
+><cite>Seculum Davidicum redivivum, The divine right of the revolution scripturally and rationally evinced and applied  
+>>(*Comment*: By virtue of its typographical prominence, the English title is clearly the chief title)
+
+><cite>Prize dissertation, which was honored with the Magellanic Gold Medal, by the American Philosophical Society, January, 1793. Cadmus, or, A treatise on the elements of written language  
+>>(*Comment*: "Cadmus …" is clearly more prominent than "Prize dissertation …")  
+
+><cite>Hereafter foloweth a litel boke called Colyn Cloute</cite>  
+>>(*Comment*: "Colyn Cloute" is the chief title)
+
+<a name="1B3.2">1B3.2</a> Title proper inclusive of alternative titles:
+
+><cite>Christianographie, or, The description of the multitude and sundry sorts of Christians in the vvorld not subject to the Pope</cite>
+
+<a name="1B3.3">1B3.3</a> Title proper consisting solely of the name of a responsible person or body:
+><cite>Salustius</cite>
+
+<a name="1B3.4">1B3.4</a> Title proper inclusive of a caption. (See 1G4 xxlinkxx for caption titles on singlesheet
 publications):
-Source:
-To the Honourable Commissioners appointed by Act of Parliament for
-enquiring into the Losses and Services of the American Loyalists. The
-memorial of Silvester Gardiner humbly sheweth, ...
-Transcription:
-To the Honourable Commissioners appointed by act of Parliament
-for enquiring into the losses and services of the American
-loyalists. The memorial of Silvester Gardiner humbly sheweth
-...
-1B4. Title proper with grammatically inseparable designation
+
+>*Source*: To the Honourable Commissioners appointed by Act of Parliament for enquiring into the Losses and Services of the American Loyalists. The memorial of Silvester Gardiner humbly sheweth, ...  
+>*Transcription*: <cite>To the Honourable Commissioners appointed by act of Parliament for enquiring into the losses and services of the American loyalists. The memorial of Silvester Gardiner humbly sheweth ...</cite>
+
+#### 1B4. Title proper with grammatically inseparable designation
+
 If a publication is in more than one volume and the title proper of each volume
 includes a grammatically inseparable designation such as numbering that is
 specific to that volume, supply in square brackets after the first designation a
 hyphen and the final designation, omitting intermediate designations. Do the
 same for single‐volume publications that contain multiple parts.
-Quinti Horatii Flacci epistolarum liber primus[-secundus]
-Thomas Masterson his first[-second] booke of arithmeticke
-Le premier[-quart] volume de messire Jehan Froissart lequel
-traicte des choses dignes de memoire aduenues tant es pays de
-France, Angleterre, Flanders, Espaigne que Escoce, et autres
-lieux circonuoisins
+
+><cite>Quinti Horatii Flacci epistolarum liber primus[-secundus]</cite>  
+
+><cite>Thomas Masterson his first[-second] booke of arithmeticke</cite>  
+
+><cite>Le premier[-quart] volume de messire Jehan Froissart lequel traicte des choses dignes de memoire aduenues tant es pays de France, Angleterre, Flanders, Espaigne que Escoce, et autres lieux circonuoisins</cite>
+
 If it is not feasible to do this, transcribe the title proper of the first volume or part
 without this interpolation and make a note about the later designation(s).
-1B5. No title proper
+
+#### 1B5. No title proper
+
 If no title can be found in any source, use as the title proper the opening words of
 the text if these provide a reasonably distinctive title. If the opening words of the
 text are not suitable, or if the beginning of the text is lacking, devise a brief
@@ -1527,53 +1653,58 @@ descriptive title, preferably in the language and script of the cataloging agenc
 and use this devised title, enclosed in square brackets, as the title proper. Make a
 note indicating whether the title proper is taken from the opening words of the
 text or has been devised by the cataloger.
-AREA 1. TITLE AND STATEMENT OF RESPONSIBILITY
-Descriptive Cataloging of Rare Materials (Books) 51
-I am a jolly huntsman, my voice is shrill and clear
-Note: Title from opening two lines of poem
-(Comment: Title is not bracketed because the first page of text is here the title page
-substitute)
-[Observations on a bill relative to the militia]
-Note: Title devised from content
-(Comment: Opening words “Herewith and the desire of being serviceable in the
-smallest degree to my country ...” not suitable as title)
-[Sermon on Christian baptism]
-Note: Title devised from content of sermon
-1B6. Title proper with supplementary or section designation or title
+
+><cite>I am a jolly huntsman, my voice is shrill and clear</cite>  
+>Note: <cite>Title from opening two lines of poem</cite>  
+>>(*Comment*: Title is not bracketed because the first page of text is here the title page
+substitute)  
+
+><cite>[Observations on a bill relative to the militia]</cite>  
+>Note: <cite>Title devised from content</cite>  
+>>(*Comment*: Opening words "Herewith and the desire of being serviceable in the smallest degree to my country ..." not suitable as title)
+
+><cite>[Sermon on Christian baptism]</cite>  
+>Note: <cite>Title devised from content of sermon</cite>  
+
+#### 1B6. Title proper with supplementary or section designation or title
+
 If the title proper for a work that is supplementary to, or a section of, another
 work appears in two or more grammatically separable parts, transcribe the title
 of the main work first, followed by the designation(s) and/or title(s) of the
 supplement(s) or section(s) in order of their dependence. Make a note indicating
 the original position on the title page of any transposed elements.
-Faust. Part one
-Note: Title page reads: Part one. Faust
+
+><cite>Faust. Part one</cite>  
+>Note: <cite>Title page reads: Part one. Faust</cite>  
+
 If describing an individual issue of a serial, transcribe the numbering of the issue
-as instructed in Appendix H.
-1B7. Abridgments of the title proper
-1B7.1. General rule. Abridge a long title proper only if it can be done without
+as instructed in Appendix H xxlinkxx.
+
+#### 1B7. Abridgments of the title proper
+
+<a name="1B7.1">1B7.1</a> **General rule**. Abridge a long title proper only if it can be done without
 loss of essential information. Do not omit any of the first five words. Indicate
 omissions by the mark of omission.
-An act or law passed by the General Court or Assembly of His
-Majesty's English colony of Connecticut ... on the seventh day
-of February ... 1759
-1B7.2. Alternative title. If the title proper contains an alternative title, do not
+
+><cite>An act or law passed by the General Court or Assembly of His Majesty's English colony of Connecticut ... on the seventh day of February ... 1759</cite>
+
+<a name="1B7.2">1B7.2</a> **Alternative title**. If the title proper contains an alternative title, do not
 omit any of the first five words of the alternative title.
-England's alarm, or, A most humble declaration, address, and
-fervent petition ...
-1B7.3. Chief title. Extend the transcription of the title proper at least through the
+
+><cite>England's alarm, or, A most humble declaration, address, and fervent petition ...</cite>
+
+<a name="1B7.3">1B7.3</a> **Chief title**. Extend the transcription of the title proper at least through the
 end of the chief title of the resource. Apply this provision even if other words in
-AREA 1. TITLE AND STATEMENT OF RESPONSIBILITY
-Descriptive 52 Cataloging of Rare Materials (Books)
-the title proper precede the chief title (see 1B1.1, 1B3.1). If the end of the chief title
+the title proper precede the chief title (see 1B1.1, 1B3.1 xxlinkxx). If the end of the chief title
 cannot be determined, break off the transcription at the first grammatically
 acceptable place, but in no event within the first five words of the chief title.
-Jo. Danielis Schoepflini consil. reg. ac Franciae historiogr.
-vindiciae typographicae
-(Comment: The chief title is “Vindiciae typographicae”)
-A brand new song, entitled The Irishman's address to the twentysix
-Nottingham worthies ...
-(Comment: The chief title begins “The Irishmanʹs address” but its ending is
-ambiguous)
+
+><cite>Jo. Danielis Schoepflini consil. reg. ac Franciae historiogr. vindiciae typographicae</cite>  
+>>(*Comment*: The chief title is "Vindiciae typographicae")
+
+><cite>A brand new song, entitled The Irishman's address to the twenty-six Nottingham worthies ...</cite>  
+>>(*Comment*: The chief title begins "The Irishmanʹs address" but its ending is ambiguous)
+
 1C. Parallel titles
 1C1. Order and source of parallel titles
 Transcribe parallel titles in the order indicated by their sequence on, or by the
@@ -1620,7 +1751,7 @@ disappointed of his bride -- IV. The changeable world
 1D2.4. Distinguish the above situations from those in which titles of other works
 are given equal prominence with the first‐named work (see 1F1).
 1D3. Statements about illustrations or volumes
-Treat an illustration statement or a statement such as “in two volumes” as other
+Treat an illustration statement or a statement such as "in two volumes" as other
 title information, unless the statement is grammatically inseparable from
 information transcribed as part of another element or area (see 1E13 and 2B8). If
 the statement appears following the statement of responsibility, transcribe it as a
@@ -1786,7 +1917,7 @@ responsibility.
 1E12. Persons or bodies not explicitly named in statements of responsibility
 Transcribe a statement of responsibility as such even if no person or body is
 explicitly named in that statement. Such statements will generally contain words
-like “translated,” “edited,” “compiled,” etc.
+like "translated," "edited," "compiled," etc.
 The folovving of Christ / translated out of Latin into English
 1E13. Statements of responsibility with grammatically inseparable elements
 If the statement of responsibility includes information belonging to another area,
@@ -1854,7 +1985,7 @@ publication are not named on the title page:
 transcribe the title and statement of responsibility from the title page, and
 name the other work(s) in a contents note (see 7B16)
 or make a separate description for each separately titled work,
-linking the separate descriptions with “With” notes (see 7B18)
+linking the separate descriptions with "With" notes (see 7B18)
 or devise a collective title for the whole publication, preferably in the
 language and script of the cataloging agency, and use this devised title,
 enclosed in square brackets, as the title proper
@@ -1928,7 +2059,7 @@ collective title, transcribe as the title statement the first title or opening w
 the text. Make a formal or informal contents note and include in it the titles of the
 additional works. If the sheet is printed on both sides and it is impossible to
 determine which side should be read first, make a separate bibliographic record
-for each side of the sheet, and include a formal “With, on verso” note in each
+for each side of the sheet, and include a formal "With, on verso" note in each
 record (see 7B18).
 1G8. Two or more works with separate publication, distribution, etc.,
 statements
@@ -1936,12 +2067,12 @@ If there are two or more works printed on a single sheet and each has its own
 publication, distribution, etc., statement, or there is other conclusive evidence
 that they were intended to be separately issued, make a separate bibliographic
 record for each work that was intended to be issued separately. Include a formal
-“With” note in each record (see 7B18) indicating that the works were printed on a
-single sheet and that they were “intended to be separated.” If there are two or
+"With" note in each record (see 7B18) indicating that the works were printed on a
+single sheet and that they were "intended to be separated." If there are two or
 more works printed on a single sheet giving the appearance that they were
 possibly intended to be separated, but there is no conclusive evidence that this is
 the case, follow the provisions of 1G7, and include a note indicating that they
-were “possibly intended to be separated.”
+were "possibly intended to be separated."
 
 Descriptive Cataloging of Rare Materials (Books) 65
 2. EDITION AREA
@@ -1982,21 +2113,21 @@ Transcribe a statement relating to an edition or issue of a publication as it
 appears, according to the general rules 0B‐0G. Include any explanatory words or
 phrases appearing with the edition statement.
 2B2. Words considered part of the edition statement
-2B2.1. Edition statements normally include either the word “edition” (or its
-equivalent in other languages), or a related term such as “revision” or “issue.”
+2B2.1. Edition statements normally include either the word "edition" (or its
+equivalent in other languages), or a related term such as "revision" or "issue."
 The second edition
 Cinquiesme édition, reueuë, corrigée, & augmentée
 Nunc primum in lucem aedita
 Editio secunda auctior et correctior
-2B2.2. Treat a phrase such as “newly printed” as an edition statement unless it is
+2B2.2. Treat a phrase such as "newly printed" as an edition statement unless it is
 part of a statement being transcribed in the publication, distribution, etc., area. In
 case of doubt, treat such a statement as an edition statement.
 Newly imprinted and very necessary vnto all youthe
-(Comment: But transcribe a statement such as “Philadelphia printed, London
-reprinted” in the publication, distribution, etc., area rather than the edition area)
-2B3. Words such as “impression” or “printing”
+(Comment: But transcribe a statement such as "Philadelphia printed, London
+reprinted" in the publication, distribution, etc., area rather than the edition area)
+2B3. Words such as "impression" or "printing"
 2B3.1. Use judgment in transcribing statements containing words such as
-“impression” or “printing.” In books from the hand‐press era, such statements
+"impression" or "printing." In books from the hand‐press era, such statements
 usually signal a new edition or issue. In these cases, the statement may properly
 be considered an edition statement.
 The second impression
@@ -2004,7 +2135,7 @@ A new printing
 AREA 2. EDITION
 Descriptive Cataloging of Rare Materials (Books) 67
 2B3.2. In books from the machine‐press era, statements containing words such as
-“impression” or “printing” are more likely to indicate that the publication is
+"impression" or "printing" are more likely to indicate that the publication is
 simply a new impression of the same edition. Omit statements of impression
 such as these from the transcription without using the mark of omission. Local
 notes may be made about the statements, if considered important.
@@ -2013,7 +2144,7 @@ verso
 Alternative rule: If a decision has been made to create a separate bibliographic
 description for an individual impression, state, binding variant, or copy within a
 single edition or issue (see introductory section X.1.4 and Appendix E), transcribe
-statements containing words such as “impression” or “printing” in the edition area.
+statements containing words such as "impression" or "printing" in the edition area.
 Indicate the source of the statement, if other than the title page, in a note.
 Ninth printing
 Note: The words "ninth printing" taken from t.p. verso
@@ -2098,7 +2229,7 @@ If information pertaining to other elements of the description (e.g., an origina
 title or other information concerning the original work) is grammatically
 inseparable from the edition statement according to one or more of the
 conditions enumerated in 1B1.1, transcribe it as part of the edition statement. If
-illustration statements or statements such as “in two volumes” appear with an
+illustration statements or statements such as "in two volumes" appear with an
 edition statement, transcribe them as they appear (see also 1D3).
 AREA 2. EDITION
 Descriptive 70 Cataloging of Rare Materials (Books)
@@ -2174,7 +2305,7 @@ statement of responsibility relating to the edition, it may be necessary to take
 AREA 2. EDITION
 Descriptive 72 Cataloging of Rare Materials (Books)
 account the layout, punctuation, and typography of the title page as well as the
-sense of the text. Such words as “Revised and enlarged,” when appearing with
+sense of the text. Such words as "Revised and enlarged," when appearing with
 the name of a person or body, might be transcribed either as part of the edition
 statement or as part of the statement of responsibility relating to the edition,
 depending on their presentation on the title page.
@@ -2368,8 +2499,8 @@ Ellms, agent, [1835?]
 4A6.2.1. If the publication bears only a statement relating to manufacture, or
 multiple such statements, generally assume the manufacturer(s) to also be
 functioning as publisher(s), distributor(s), etc. Transcribe the statement(s)
-according to the instructions in 4B, 4C, and 4D. Consider the words “place of
-publication” and “publisher” in those instructions to refer equally to the place of
+according to the instructions in 4B, 4C, and 4D. Consider the words "place of
+publication" and "publisher" in those instructions to refer equally to the place of
 manufacture and name of manufacturer in such cases.
 Moguntiae : In typographeio Ioannis Albini, anno 1602
 Edmonton : Jas. E. Richards, government printer, 1907
@@ -2398,8 +2529,8 @@ If the publication bears statements relating both to publication, distribution, 
 and to manufacture, determine whether or not the statements are grammatically
 separable.
 4A6.3.1. If the statements are grammatically inseparable, transcribe them
-according to the instructions in 4B, 4C, and 4D. Consider the words “place of
-publication” and “publisher” in those instructions to refer equally to the place of
+according to the instructions in 4B, 4C, and 4D. Consider the words "place of
+publication" and "publisher" in those instructions to refer equally to the place of
 manufacture and name of manufacturer in such cases.
 Boston : Printed by Robert Hodge, for Nathaniel Coverly, in
 Newbury-Street, [1782]
@@ -2414,7 +2545,7 @@ statement is emphasized in the source, whether typographically (larger font size
 uppercase letters, boldface, etc.) or by appearing first.
 4A6.3.2.1. If a manufacturer statement has been emphasized, transcribe all of the
 statements according to the instructions in 4B, 4C, and 4D. Consider the words
-“place of publication” and “publisher” in those instructions to refer equally to
+"place of publication" and "publisher" in those instructions to refer equally to
 the place of manufacture and name of manufacturer in such cases.
 Londini : Typis H. Parker : Cura Josephi Pote, bibliopolae
 Etonensis, 1732
@@ -2462,8 +2593,8 @@ associated with the place name.
 A Lyon
 In London
 In Boston, printed
-(Comment: Title page reads: “In Boston, printed. 1705.” Following provisions of
-4D1.3, “printed” is here transcribed with the place)
+(Comment: Title page reads: "In Boston, printed. 1705." Following provisions of
+4D1.3, "printed" is here transcribed with the place)
 Printed at Bennington
 Impressum fuit hoc opus Venetiis
 4B3. Supplied modern forms of place names
@@ -2580,10 +2711,10 @@ or sign appears in the publication. (Transcribe the address or sign as the
 publisher, distributor, etc., statement; see 4C4.1.) When supplying the place, give
 a justification in a note if necessary.
 [Paris]
-(Comment: Imprint reads: “à l’enseigne de l’éléphant,” the trade sign of a Parisian
+(Comment: Imprint reads: "à l’enseigne de l’éléphant," the trade sign of a Parisian
 printer)
 [London]
-(Comment: Imprint reads: “sold in St. Paul’s Church Yard”)
+(Comment: Imprint reads: "sold in St. Paul’s Church Yard")
 AREA 4. PUBLICATION, DISTRIBUTION, ETC.
 Descriptive Cataloging of Rare Materials (Books) 87
 4B12. Place of publication, distribution, etc., uncertain or unknown
@@ -2606,7 +2737,7 @@ modern English form of the name, if there is one, all in square brackets.
 description, make a note to indicate the source of the information.
 Note: Place of publication suggested by Alden
 4B12.4. If no place of publication, distribution, etc., can be supplied, use the
-abbreviation “s.l.” (sine loco) in square brackets.
+abbreviation "s.l." (sine loco) in square brackets.
 [S.l.]
 4B13. Place names in more than one language or script
 4B13.1. If the name of the place of publication, distribution, etc., appears in more
@@ -2641,7 +2772,7 @@ agency (e.g., for the purpose of capturing book trade data). Indicate all omissi
 by the mark of omission.
 : Chez Testu, imprimeur-libraire ... Blanchon, libraire ... et
 les marchands de nouveautés
-If a statement such as “Privately printed” appears on the title page, transcribe it
+If a statement such as "Privately printed" appears on the title page, transcribe it
 as, or as part of, the publisher, distributor, etc., statement.
 : Privately printed
 4C3. Publisher, distributor, etc., statements containing grammatically
@@ -2750,7 +2881,7 @@ give the information in a note. In any case of a supplied publisher, distributor
 etc., give supporting evidence in a note.
 4C9. No supplied name of publisher, distributor, etc.
 If no publisher, distributor, etc., statement can be supplied, use the abbreviation
-“s.n.” (sine nomine) in square brackets.
+"s.n." (sine nomine) in square brackets.
 Paris : [s.n.]
 [S.l. : s.n.]
 AREA 4. PUBLICATION, DISTRIBUTION, ETC.
@@ -2760,8 +2891,8 @@ If no publisher, distributor, etc., statement appears in the publication, but th
 name of the publisher, distributor, etc., has already been transcribed as part of
 another area, supply it in a short identifiable form within square brackets.
 [Paris : Symon Vostre, 25 Apr. 1500]
-(Comment: Title reads: “Ces presentes heures a lusaige de Paris ... fure[n]t
-acheuees lan mil cincq ce[n]s le xxv iour dapuril pour Symon Vostre, libraire …”)
+(Comment: Title reads: "Ces presentes heures a lusaige de Paris ... fure[n]t
+acheuees lan mil cincq ce[n]s le xxv iour dapuril pour Symon Vostre, libraire …")
 If transcribing a publisher, distributor, etc., statement in the publication,
 distribution, etc., area, however, do not abridge or expand the statement simply
 because it repeats or omits information given elsewhere in the description.
@@ -2790,15 +2921,15 @@ AREA 4. PUBLICATION, DISTRIBUTION, ETC.
 Descriptive Cataloging of Rare Materials (Books) 93
 , 7th July 1766
 , 1732, reprinted 1734
-4D1.3. Transcribe words and phrases such as “in the year” and “anno” as part of
+4D1.3. Transcribe words and phrases such as "in the year" and "anno" as part of
 this element. If both the place and the date of printing appear in conjunction with
-the phrase “printed in the year,” determine whether “printed” is to be
+the phrase "printed in the year," determine whether "printed" is to be
 transcribed with the place or the date according to the punctuation or
 typography of the source.
 London printed : [s.n.], in the year 1742
-(Comment: Imprint reads: “London printed, in the year 1742”)
+(Comment: Imprint reads: "London printed, in the year 1742")
 London : [s.n.], printed in the year 1742
-(Comment: Imprint reads: “London, printed in the year 1742”)
+(Comment: Imprint reads: "London, printed in the year 1742")
 4D1.4. If the date is grammatically inseparable from information transcribed as
 part of another element or area according to one or more of the conditions
 enumerated in 1B1.1, transcribe it within that area or element and supply the
@@ -2811,7 +2942,7 @@ Supply the year in arabic numerals in square brackets.
 , anno gratiae Mdiij [1503]
 , MCCCCLXXXII le XV jour de decembre [1482]
 , MDCCXLIV [1744]
-(Comment: On publication: “M. D. CC. XLIV”)
+(Comment: On publication: "M. D. CC. XLIV")
 4D2.2. Chronograms. If the date appears only in the form of a chronogram,
 substitute for it the date in arabic numerals in square brackets. If the supplied
 date includes a day/month, use the sequence: day, month, year. Make a note
@@ -2832,8 +2963,8 @@ date includes a day/month, use the sequence: day, month, year. Make a note
 concerning the source and the original form of the statement.
 , [18 May 1507]
 Note: Date expressed in Latin words on t.p.
-(Comment: In publication: “Anno gratiae millesimo quingentesimo septimo die
-vero decimoctavo Maij”)
+(Comment: In publication: "Anno gratiae millesimo quingentesimo septimo die
+vero decimoctavo Maij")
 4D2.4. Fictitious or incorrect dates. If the date of publication, distribution, etc., is
 known to be fictitious or incorrect, transcribe it as it appears and supply the
 actual date in square brackets. If, however, the entire statement consisting of
@@ -2886,7 +3017,7 @@ date and supply the equivalent Julian or Gregorian day/month in square
 brackets. Use the sequence: day, month, year.
 , prid. Kal. Dec. [30 Nov.] 1488
 Great Britain and its colonies long calculated the turn of the year on March 25, the Feast of the
-Annunciation or “Lady Day”). For assistance in establishing Gregorian dates, consult a reference
+Annunciation or "Lady Day"). For assistance in establishing Gregorian dates, consult a reference
 source such as Adriano Cappelli’s Cronologia e Calendario Perpetuo or C.R. Cheneyʹs Handbook of
 Dates for Students of English History.
 15 For publications issued before 1582, supply the equivalent Julian date(s). For later
@@ -3095,7 +3226,7 @@ printed on one side only, state this fact in a note. Describe in terms of column
 volume so numbered when it is printed with more than one column to the page.
 If a publication contains sequences in more than one kind of numbering, record
 each sequence in its appropriate term as pages, leaves, or columns.
-5B1.3. Recording the “complete number” as stated above means recording the
+5B1.3. Recording the "complete number" as stated above means recording the
 number on the last numbered page or leaf of each numbered sequence as the
 basic statement of extent, with any necessary additions according to succeeding
 rules, e.g., 5B3, for the addition of unnumbered pages or leaves. Record arabic
@@ -3240,8 +3371,8 @@ this pagination)
 than five sequences of numbered and unnumbered pages or leaves, preferably
 record all of the sequences. If it is not practical to record all the sequences (e.g., if
 they are exceedingly numerous), then employ one of the following methods:
-a) Record the total number of pages or leaves followed by “in various
-pagings” or “in various foliations.”
+a) Record the total number of pages or leaves followed by "in various
+pagings" or "in various foliations."
 1024 p. in various pagings
 256 leaves in various foliations
 b) If one of the sequences is clearly the main sequence, record the main
@@ -3290,7 +3421,7 @@ unnumbered volume might damage an item in fragile condition, give one of the
 AREA 5. PHYSICAL DESCRIPTION
 Descriptive 108 Cataloging of Rare Materials (Books)
 designations used for publications issued in more than one physical unit (see
-5B15.1) followed by “unpaged” or “unfoliated.”
+5B15.1) followed by "unpaged" or "unfoliated."
 1 v. (unpaged)
 5B9. Leaves or pages of plates
 5B9.1. Record the number of leaves or pages of plates at the end of the
@@ -3348,7 +3479,7 @@ If a volume, or an individual sequence of pages or leaves within a volume, lacks
 pages or leaves at its end—or an unpaginated or unfoliated volume or sequence
 lacks any pages or leaves—and the paging or foliation of a complete copy cannot
 be ascertained, record the number of the last numbered or unnumbered page or
-leaf followed by “+ p.” or “+ leaves.” Make a note of the imperfection.
+leaf followed by "+ p." or "+ leaves." Make a note of the imperfection.
 xxiv, 178+ p.
 Note: Description based on incomplete copy; all after p. 178
 wanting
@@ -3359,7 +3490,7 @@ AREA 5. PHYSICAL DESCRIPTION
 Descriptive 110 Cataloging of Rare Materials (Books)
 5B13. Sheets, rolls, cases, portfolios, etc.
 For a publication in a single physical unit other than a volume (e.g., a sheet, a
-roll, a case, or a portfolio), use an appropriate designation (“sheet,” etc.)
+roll, a case, or a portfolio), use an appropriate designation ("sheet," etc.)
 preceded by the arabic numeral 1. If adding a statement of pagination or
 foliation, place it in parentheses following the designation.
 1 portfolio (26 sheets)
@@ -3373,8 +3504,8 @@ based on the number of pages printed, not counting blanks, as follows:
 1 sheet ([2] p.)
 (Comment: Sheet of any size printed on both sides, unnumbered)
 1 sheet ([3] p.)
-(Comment: Folded sheet with title and colophon printed as 2 pages on “outside;”
-all text printed as one page occupying the entire “inside”)
+(Comment: Folded sheet with title and colophon printed as 2 pages on "outside;"
+all text printed as one page occupying the entire "inside")
 1 sheet (1 p.)
 (Comment: Broadside or other sheet printed on one side, numbered)
 1 sheet ([1] p.)
@@ -3415,7 +3546,7 @@ Optional local note: LC copy bound in 3 v.
 5B16. Bibliographic volumes vs. physical volumes
 If the number of bibliographic volumes differs from the number of physical
 volumes in which a publication is actually issued, give the number of
-bibliographic volumes followed by “in” and the number of physical volumes.
+bibliographic volumes followed by "in" and the number of physical volumes.
 Give details of the publication’s numbering in a note, unless the numbering is
 given in a contents note (see 7B10).
 3 v. in 5
@@ -3468,7 +3599,7 @@ Note: No more published?
 Note: Vol. 2 was never published
 5C. Illustration
 5C1. General rule
-5C1.1. To indicate the presence of illustration, use the abbreviation “ill.” after the
+5C1.1. To indicate the presence of illustration, use the abbreviation "ill." after the
 statement of extent.
 8 v. : ill.
 492 p. : ill.
@@ -3494,23 +3625,23 @@ Descriptive 114 Cataloging of Rare Materials (Books)
 order one or more such terms as the following: coats of arms, diagrams, facsims.,
 forms, geneal. tables, maps, music, plans, ports. (use for single or group
 portraits), samples.
-5C2.2. Replace “ill.” with terms specifying particular types of illustrations if the
+5C2.2. Replace "ill." with terms specifying particular types of illustrations if the
 particular types are the only illustrations in the publication.
 : maps
 : ports. (Woodburytypes)
-5C2.3. Precede terms specifying particular types of illustrations with “ill.” if the
+5C2.3. Precede terms specifying particular types of illustrations with "ill." if the
 particular types are not the only illustrations in the publication.
 : ill., maps, plans
 : ill. (wood engravings), maps (lithographs)
 5C3. Color illustrations
-5C3.1. Describe color illustrations as such using the abbreviation “col.” Treat
+5C3.1. Describe color illustrations as such using the abbreviation "col." Treat
 illustrations printed with a tint block (e.g., chiaroscuro woodcuts, tinted
 lithographs) as color illustrations.
 : col. ill.
 : ill., col. maps, ports. (some col.)
 : ill. (some col.), maps, plans
 : col. ill. (Baxter prints)
-5C3.2. Do not describe hand‐colored illustrations as “col.” unless there is
+5C3.2. Do not describe hand‐colored illustrations as "col." unless there is
 evidence that the publication was issued with the hand coloring. In case of
 doubt, consider any machine‐press publication with hand coloring to have been
 issued that way by the publisher. Always mention publisher‐issued hand
@@ -3520,12 +3651,12 @@ AREA 5. PHYSICAL DESCRIPTION
 Descriptive Cataloging of Rare Materials (Books) 115
 : col. ill.
 Note: With hand-colored wood engravings
-(Comment: Title contains statement “with colored engravings”)
+(Comment: Title contains statement "with colored engravings")
 : col. ill. (lithographs)
 Note: Lithographs are hand colored, as issued; see Sitwell, S.
 Fine bird books, p. 78
 5C3.3. If both the text and illustrations are printed in a single color, do not
-describe the illustrations as “col.” Make a note to indicate the color of the ink, if
+describe the illustrations as "col." Make a note to indicate the color of the ink, if
 considered important.
 : ill.
 Optional note: Printed in green throughout
@@ -3543,8 +3674,8 @@ raised sword and torch, with two serpents rising out of an
 inferno in the background
 5C5. Publications consisting entirely or chiefly of illustrations
 If a publication consists entirely or chiefly of illustrations, account for this fact by
-specifying “all ill.” or “chiefly ill.” Optionally, when the illustrations are all or
-chiefly of a particular type (see 5C2.2), replace “ill.” with the term specifying the
+specifying "all ill." or "chiefly ill." Optionally, when the illustrations are all or
+chiefly of a particular type (see 5C2.2), replace "ill." with the term specifying the
 particular type.
 : all ill.
 : chiefly maps
@@ -3569,7 +3700,7 @@ binding, specify both.
 5D1.3. For hand‐press publications, add the bibliographical format of the
 publication in parentheses following the size statement whenever the format can
 be determined. Optionally, give the format also for machine‐press publications.
-Give the format in abbreviated form (fol., 4to, 8vo, 12mo, etc.). Use “full‐sheet”
+Give the format in abbreviated form (fol., 4to, 8vo, 12mo, etc.). Use "full‐sheet"
 for publications made up of unfolded sheets.
 ; 20 cm (4to)
 (Comment: A publication in quarto)
@@ -3792,7 +3923,7 @@ details of the main series first, followed by the details of the subseries. If t
 series and subseries do not appear in this position in the source, transpose them
 as needed and provide details of the transposition in a note.
 (Parlour library. Shilling series)
-6H2. If a phrase such as “new series,” “second series,” etc., appears with an
+6H2. If a phrase such as "new series," "second series," etc., appears with an
 unnumbered series, transcribe the phrase as a subseries title. If the phrase
 appears with a numbered series, transcribe the phrase as part of the numbering
 of the series.
@@ -3833,7 +3964,7 @@ based on one source within the work, such as a privilege statement.
 identify the resource being cataloged, make whatever notes are necessary for
 unambiguous identification. When appropriate, refer to detailed descriptions in
 standard catalogs or bibliographies. Provide sufficient information to identify the
-specific source, whether using a general note, a formal “References” note giving
+specific source, whether using a general note, a formal "References" note giving
 the source in prescribed form (see 7B14), or some combination of the two.
 7A1.4. Notes may also be made to justify added entries intended for special
 indexes of personal or corporate names, titles, genres/forms, physical
@@ -3873,7 +4004,7 @@ Oxford companion to Engl. lit.
 "The principal additional music, contained in 72 pages, may be
 had, half bound, with or without the rules, price four
 shillings and ninepence"--Pref.
-18 A complete list of required notes may be found in the Index under “Required notes.”
+18 A complete list of required notes may be found in the Index under "Required notes."
 AREA 7. NOTE
 Descriptive Cataloging of Rare Materials (Books) 129
 7A4.3. Formal notes. Use formal notes employing an invariable introductory
@@ -4006,7 +4137,7 @@ nat. biog., v. 10, p. 131
 never been definitely established ... He is now generally
 thought to have been Sir Philip Francis"--Oxford companion to
 Engl. lit. (6th ed.), p. 546
-(Comment: The pseudonym “Junius” appears on the title page)
+(Comment: The pseudonym "Junius" appears on the title page)
 AREA 7. NOTE
 Descriptive Cataloging of Rare Materials (Books) 133
 7B6.3.3. False attributions appearing in the bibliographical literature or in library
@@ -4028,11 +4159,11 @@ Woodcuts on leaves B2b and C5b signed: b
 bodies named in statements of responsibility if the variant forms clarify the
 names used in main or added entry headings.
 By Gilbert Burnet, Bishop of Salisbury
-(Comment: Statement of responsibility reads: “by the Right Reverend Father in
-God, Gilbert Lord Bishop of Sarum”)
+(Comment: Statement of responsibility reads: "by the Right Reverend Father in
+God, Gilbert Lord Bishop of Sarum")
 Charles Pigott is the author of The virtues of nature
-(Comment: Statement of responsibility reads: “by the author of The virtues of
-nature”)
+(Comment: Statement of responsibility reads: "by the author of The virtues of
+nature")
 7B7. Edition and bibliographic history
 7B7.1. Note the source of any element of the edition area when it is taken from
 elsewhere than the title page. Note the original position of any element that is
@@ -4047,7 +4178,7 @@ Descriptive 134 Cataloging of Rare Materials (Books)
 other works, and other manifestations of the same work, see 7A5. In citing
 bibliographies and catalogs, however, use the pattern for references to published
 descriptions shown in 7B14 whenever such a citation occurs in a formal
-“References” note.
+"References" note.
 Revision of: 2nd ed., 1753
 Sequel to: Mémoires d'un médecin
 A reissue of the 1756 ed., without the plates
@@ -4103,7 +4234,7 @@ paper from France"--Colophon
 7B9.1. General rule. Make a note giving details of the signatures of a volume, if
 considered important. Give these signature details according to the formula in
 Philip Gaskellʹs A New Introduction to Bibliography (see p. 328‐332), insofar as
-typographical facilities permit. Preface this note with the word “Signatures” and
+typographical facilities permit. Preface this note with the word "Signatures" and
 a colon.
 Signatures: [A]4 B-C4 D2 E-G4 H2
 Signatures: A-C4 D4(-D3) E-F4
@@ -4146,7 +4277,7 @@ Descriptive Cataloging of Rare Materials (Books) 137
 Signatures: pi4 A-C4 chi2 D-Z4
 Indicate partial duplications of an alphabet (see Gaskell, p. 331) by using
 superscript pi and superscript chi or, if superscript letters are not available, by
-substituting “[superscript pi]” and “[superscript chi].”
+substituting "[superscript pi]" and "[superscript chi]."
 Signatures: piA4 A-D4 chiD4 E-F4
 or Signatures: [superscript pi]A4 A-D4 [superscript chi]D4 E-F4
 7B9.4. Non‐conventional Latin alphabet. If the gatherings are signed with
@@ -4289,10 +4420,10 @@ Also issued without series statement
 7B13. Dissertations
 If the publication being described is a dissertation or thesis presented in partial
 fulfillment of the requirements for an academic degree, give the designation of
-the thesis (using the English word “thesis”) followed if possible by a brief
-statement of the degree for which the author was a candidate (e.g., “M.A.” or
-“Ph. D.,” or, for theses to which such abbreviations do not apply, “doctoral” or
-“master’s”), the name of the institution or faculty to which the thesis was
+the thesis (using the English word "thesis") followed if possible by a brief
+statement of the degree for which the author was a candidate (e.g., "M.A." or
+"Ph. D.," or, for theses to which such abbreviations do not apply, "doctoral" or
+"master’s"), the name of the institution or faculty to which the thesis was
 presented, and the year in which the degree was granted.
 Thesis--Harvard College, 1786
 Thesis (doctoral)--Universität Tübingen, 1805
@@ -4309,10 +4440,10 @@ Descriptive 142 Cataloging of Rare Materials (Books)
 authoritative reference sources if these have been used to supply elements of the
 description. Use the form and punctuation conventions recommended by
 Standard Citation Forms for Published Bibliographies and Catalogs Used in Rare Book
-Cataloging. Begin the note with the word “References” and a colon.
+Cataloging. Begin the note with the word "References" and a colon.
 References: Evans 24658
-(Comment: Made in conjunction with a general note reading: “Publication date
-from Evans”)
+(Comment: Made in conjunction with a general note reading: "Publication date
+from Evans")
 7B14.2. Make other references to published descriptions, if considered important.
 Such references are especially useful whenever the cited source would serve to
 distinguish an edition (or variant) from similar editions (or variants),
@@ -4329,7 +4460,7 @@ References: Palau y Dulcet (2. ed.) 19161
 cataloged does not appear in a specific bibliographical reference source. Make
 such a note only if the publication fits the scope for that source and the source
 purports to be comprehensive for its scope. Preface the general note with the
-words “Not in” and a colon.
+words "Not in" and a colon.
 Not in: Martin & Walter. Révolution française. Cf. IV:2, 9093
 7B15. Summary
 Give a brief summary of the content of the publication, if considered important.
@@ -4353,8 +4484,8 @@ Includes Joseph Pike's An epistle to the national meeting of
 Friends in Dublin
 7B16.2. Transcribe contents from the title page if they are presented there
 formally and have not been transcribed as part of the title and statement of
-responsibility area. In such cases, follow the word “Contents” with a colon and
-the parenthetical phrase “(from t.p.).” If a formal statement of contents is not
+responsibility area. In such cases, follow the word "Contents" with a colon and
+the parenthetical phrase "(from t.p.)." If a formal statement of contents is not
 present on the title page, take contents from the head of the parts to which they
 refer, or, if this is not feasible, from any contents list, etc., that is present. For
 publications in two or more volumes, transcribe the volume or part designations
@@ -4372,14 +4503,14 @@ Descriptive 144 Cataloging of Rare Materials (Books)
 7B17. Numbers
 Make a note of any numbers associated with the publication not transcribed in
 another area, if considered important.
-7B18. “With” notes
+7B18. "With" notes
 7B18.1. If the description corresponds to part of a publication that is made up of
 two or more separately titled parts that are also separately paginated or foliated
 and have separate signatures, but which have been issued together, make a note
-beginning “With” followed by a colon. List the other parts of the publication in
+beginning "With" followed by a colon. List the other parts of the publication in
 the note, in the order in which they are found. In the case of bound volumes, list
 all the other parts on the record for the first part and, in general, only the first on
-the records for the subsequent parts. (Do not make such “With” notes when the
+the records for the subsequent parts. (Do not make such "With" notes when the
 pagination, foliation, or signatures of separately titled parts are continuous with
 the part being described. Instead, record these titles in a contents note as
 instructed in 7B16.)
@@ -4428,7 +4559,7 @@ illumination, rubrication, and other hand coloring (unless issued that way by th
 publisher; see 7B10.5), provenance evidence (such as bookplates, stamps,
 autographs, and manuscript annotations), the names of persons or institutions
 associated with specific copies, copy‐specific binding details and the names of
-binders, copy numbers (see 7B7.5), and “Bound with” notes.
+binders, copy numbers (see 7B7.5), and "Bound with" notes.
 7B19.1.4. Include in local notes one or more of the following identifiers, if
 considered important: a designation of the holding institution (e.g., a library’s
 name, acronym, or code), a designation of the item’s physical location (e.g., a
@@ -4484,7 +4615,7 @@ important.
 Huntington copy: leaves I5-6 incorrectly bound between h3 and h4
 7B19.3.4. Make a local note, if considered important, whenever a publication has
 been bound with one or more works subsequent to publication. Preface the note
-with the words “Bound with” followed by a colon. Formulate the remainder of
+with the words "Bound with" followed by a colon. Formulate the remainder of
 the note according to the instructions in 7B18.
 Special Collections copy bound with: The Bostonian Ebenezer.
 Boston : Printed by B. Green & J. Allen, for Samuel Phillips,
@@ -4496,7 +4627,7 @@ binder's title: Brownist tracts, 1599-1644
 7B19.3.6. Make a local note to describe other details of a copy‐specific binding, if
 considered important. Less detailed descriptions might include the color and
 nature of the covering material, a summary of any decoration present (e.g.,
-“gold‐tooled,” “blind‐tooled”), and (if these can be determined) an approximate
+"gold‐tooled," "blind‐tooled"), and (if these can be determined) an approximate
 date and the name of the binder.
 British Library copy: late 17th-century binding in red goatskin,
 gold-tooled
@@ -4557,22 +4688,22 @@ terms of availability. Additionally, if volumes in a set have different ISBNs,
 follow each ISBN with the designation of the volume to which it applies.
 19 For further information on this method of identification and recommended forms of
 recording it, see Fingerprints = Empreintes = Impronte, supplemented by Nouvelles des empreintes =
-Fingerprint Newsletter, or Vriesema, P.C.A. “The STCN Fingerprint.”
+Fingerprint Newsletter, or Vriesema, P.C.A. "The STCN Fingerprint."
 Descriptive Cataloging of Rare Materials (Books) 151
 APPENDIX A. MARC 21 DESCRIPTIVE CONVENTIONS CODE
 A1. Introduction
 In MARC 21 bibliographic records, a code may be used in field 040, subfield ‡e,
 to indicate when specific cataloging conventions have been followed in addition to
 the conventions identified in the descriptive cataloging form (Leader/18). This
-appendix offers guidance in using “dcrmb,” the code designating DCRM(B), in
+appendix offers guidance in using "dcrmb," the code designating DCRM(B), in
 040 subfield ‡e.
 A2. Full‐level DCRM(B)
-Apply the code “dcrmb” to records for resources cataloged at full level (i.e., the
+Apply the code "dcrmb" to records for resources cataloged at full level (i.e., the
 normative application of these rules). The fact that such records follow the fulllevel
 provisions of DCRM(B) is indicated by the blank value assigned in the
-encoding level (Leader/17) and the code “dcrmb” in 040 subfield ‡e.
+encoding level (Leader/17) and the code "dcrmb" in 040 subfield ‡e.
 A3. Collection‐level DCRM(B)
-Do not apply the code “dcrmb” to records for resources cataloged according to
+Do not apply the code "dcrmb" to records for resources cataloged according to
 the collection‐level guidelines found in Appendix B. The fact that such records
 contain collection‐level descriptions is indicated by the value c assigned in the
 bibliographic level (Leader/07). The guidelines in Appendix B suggest factors to
@@ -4581,42 +4712,42 @@ examples useful in a special collections context. However, the conventions
 conform substantially to those governing standard collection‐level descriptions,
 as presented in Cataloging Service Bulletin, no. 78 (Fall 1997).
 A4. Core‐level DCRM(B)
-Apply the code “dcrmb” to records for resources cataloged according to the corelevel
+Apply the code "dcrmb" to records for resources cataloged according to the corelevel
 guidelines found in Appendix C. The fact that such records follow the corelevel
 provisions of DCRM(B) is indicated by the value 4 assigned in the encoding
-level (Leader/17) and the code “dcrmb” in 040 subfield ‡e.
+level (Leader/17) and the code "dcrmb" in 040 subfield ‡e.
 A5. Minimal‐level DCRM(B)
-Apply the code “dcrmb” to records for resources cataloged according to the
+Apply the code "dcrmb" to records for resources cataloged according to the
 minimal‐level guidelines found in Appendix D. The fact that such records follow
 APPENDIX A. MARC 21 DESCRIPTIVE CONVENTIONS CODE
 Descriptive 152 Cataloging of Rare Materials (Books)
 the minimal‐level provisions of DCRM(B) is indicated by the value 7 assigned in
-the encoding level (Leader/17) and the code “dcrmb” in 040 subfield ‡e.
+the encoding level (Leader/17) and the code "dcrmb" in 040 subfield ‡e.
 A6. Microforms and digital reproductions of books
-Apply the code “dcrmb” to records for microforms and digital reproductions of
+Apply the code "dcrmb" to records for microforms and digital reproductions of
 books if the descriptive portion of the record conforms to DCRM(B) (full, core, or
 minimal level). If, however, DCRM(B) (full, core, or minimal level) is not used in
 all aspects (e.g., if the size of the book is not recorded in the physical description
-area), do not use the code “dcrmb.”
+area), do not use the code "dcrmb."
 A7. Nonbook formats
-Do not apply the code “dcrmb” to records for nonbook materials such as serials,
+Do not apply the code "dcrmb" to records for nonbook materials such as serials,
 maps, music, and graphics, even though they may have been cataloged
-according to an adapted, “DCRM(B)‐like” standard.20 Do, however, apply the
+according to an adapted, "DCRM(B)‐like" standard.20 Do, however, apply the
 code ʺdcrmbʺ to individual and special issues of serials cataloged separately as
 monographs according to the provisions of Appendix H.
-A8. “Special collections cataloging”
-In this context “special collections cataloging” means fuller use of notes, access
+A8. "Special collections cataloging"
+In this context "special collections cataloging" means fuller use of notes, access
 points, and other elements that are not specifically called for in AACR2 or its
 predecessors, but that follow the spirit of DCRM(B) without following its rules
 completely. Such cataloging is frequently done for 19th‐century and later
-materials housed in special collections. Do not apply the code “dcrmb” to records
-for “special collections cataloging” unless the cataloging follows the descriptive
+materials housed in special collections. Do not apply the code "dcrmb" to records
+for "special collections cataloging" unless the cataloging follows the descriptive
 requirements of DCRM(B) completely (full, core, or minimal level).
 A9. Earlier codes
-If an existing record contains an earlier code in 040 subfield ‡e, such as “dcrb”
-(Descriptive Cataloging of Rare Books) or “bdrb” (Bibliographic Description of Rare
+If an existing record contains an earlier code in 040 subfield ‡e, such as "dcrb"
+(Descriptive Cataloging of Rare Books) or "bdrb" (Bibliographic Description of Rare
 Books), and the description is being updated to DCRM(B) standards, delete the
-earlier code and add the “dcrmb” code to the end of the 040 field in subfield ‡e.
+earlier code and add the "dcrmb" code to the end of the 040 field in subfield ‡e.
 20 Use a DCRM component manual for the format being described if one exists.
 Descriptive Cataloging of Rare Materials (Books) 153
 APPENDIX B. COLLECTION‐LEVEL RECORDS
@@ -4626,7 +4757,7 @@ collections of printed items that will receive collection‐level treatment base
 administrative or curatorial decisions. Several rationales can be cited to justify a
 decision to use collection‐level cataloging:
  It can be a means of highlighting the shared characteristics of a collection of
-materials by providing a summary‐level description, thereby “adding value”
+materials by providing a summary‐level description, thereby "adding value"
 to any other forms of intellectual access, such as item‐level records, and
 revealing collection strengths that may not otherwise be obvious.
  It can be a means of providing temporary control of unprocessed collections.
@@ -4642,7 +4773,7 @@ collection may also be represented by item‐level bibliographic records, which
 may be created at any level of fullness using cataloging rules such as AACR2 or
 components of DCRM. Item‐level access may also be provided for some or all of
 the collection through inventories, finding aids, or databases (referred to
-hereafter as “finding aids”), which may be linked to collection‐level records.
+hereafter as "finding aids"), which may be linked to collection‐level records.
 Providing some form of item‐level access to resources represented by a
 collection‐level record offers significant benefits for users and reduces the risk of
 redundant acquisition of those resources. Decisions about the appropriate type
@@ -4674,8 +4805,8 @@ owner
  groups of items that come from a single source, but with minimal or no
 previous organization
  groups of items that are assembled into collections by the library for the
-purpose of processing and storage, and are therefore termed “intentionally
-assembled collections” (previously called “artificial collections”)
+purpose of processing and storage, and are therefore termed "intentionally
+assembled collections" (previously called "artificial collections")
 B2.2. All three types of collections tend to be organized around one or more
 unifying factors, which may include:
  personal author
@@ -4780,12 +4911,12 @@ rule 21.31B1).
 110 1 ‡a Austria.
 When a collection is known by the name of its collector, enter the record under the
 heading for that person or body. Optionally, follow the heading by the relator term
-“collector” in subfield ‡e or the relator code “col” in subfield ‡4.21
+"collector" in subfield ‡e or the relator code "col" in subfield ‡4.21
 100 1 ‡a Purland, Theodocius, ‡e collector.
 245 10 ‡a [Theodocius Purland collection of materials on
 mesmerism].
-21 For more information, see the guidelines in “RBMS Controlled Vocabularies: Relator Terms
-for Rare Book and Special Collections Cataloguing.”
+21 For more information, see the guidelines in "RBMS Controlled Vocabularies: Relator Terms
+for Rare Book and Special Collections Cataloguing."
 APPENDIX B. COLLECTION‐LEVEL RECORDS
 Descriptive 158 Cataloging of Rare Materials (Books)
 240 field: Uniform title
@@ -5078,7 +5209,7 @@ For rare books, the commitment, on the cataloger’s part, is to render
 bibliographic details of the book as accurately as possible insofar as they are
 presented by the specimen in hand; also, to ensure that they are scrupulously
 stated, according to the provisions of DCRM(B). The strength of DCRM(B) is that
-it provides for “expanded coverage” of books deserving such treatment;
+it provides for "expanded coverage" of books deserving such treatment;
 conversely, it is possible to use those provisions for expansion as guidelines for
 trimming the description. By omitting most notes and taking the options given in
 DCRM(B) for abbreviating descriptive areas, or by not taking the options to
@@ -5125,10 +5256,10 @@ Mandatory if applicable.
 Mandatory if applicable.
 040 field: Cataloging source
 Bibliographic records for books that reflect the DCRM(B) core‐level standard
-must contain the designation “dcrmb” in subfield ‡e of field 040.
+must contain the designation "dcrmb" in subfield ‡e of field 040.
 042 field: Authentication code
 For DCRM(B) core‐level records contributed by members of the PCC BIBCO
-program, include the designation “pcc” in field 042. For other DCRM(B) core
+program, include the designation "pcc" in field 042. For other DCRM(B) core
 records, leave the field blank.
 050, 082, 086, 090, etc., fields: Call numbers
 Assignment of at least one classification number from an established classification
@@ -5273,7 +5404,7 @@ identifying rare materials:
 particularly when the source cited provides more detailed information than
 the minimal‐level bibliographic record
  the required notes called for in DCRM(B) (a complete list of required notes
-may be found in the Index under “Required notes”)
+may be found in the Index under "Required notes")
  one or more local notes describing provenance, copy numbering,
 imperfections, binding, or any other information that will allow the
 bibliographic record to describe the particular copy in hand with sufficient
@@ -5293,7 +5424,7 @@ E1.1. This appendix addresses the issue of whether to describe bibliographic
 variants using a single bibliographic record or separate records. As a default
 approach, the rules contained in DCRM(B) assume that a separate bibliographic
 record will be created for each bibliographic variant that represents what is
-referred to as an “edition” in AACR2 and an “issue” in bibliographic scholarship.
+referred to as an "edition" in AACR2 and an "issue" in bibliographic scholarship.
 E1.2. Following this default approach, generally consider that a new
 bibliographic record is required whenever the publication distinguishes itself
 from other variants by one or more of the following characteristics:
@@ -5434,7 +5565,7 @@ Additional title access:
 Lamorte d'Orfeo
 0G6.4. Title proper with an interpolated blank
 If a blank space intended to be filled in manuscript has been transcribed within
-the first five words of the title proper as the word “blank” enclosed in square
+the first five words of the title proper as the word "blank" enclosed in square
 brackets, provide additional title access for the form of title proper without the
 interpolated blank.
 Transcription:
@@ -5518,7 +5649,7 @@ Descriptive 184 Cataloging of Rare Materials (Books)
 Provide additional title access for a title that is supplementary to, or a section of,
 another work when both titles, whether or not grammatically separable, are
 recorded together as the title proper. If the supplement or section title is a title
-such as “Supplement” or “Chapter one,” however, and so is indistinctive and
+such as "Supplement" or "Chapter one," however, and so is indistinctive and
 dependent for its meaning on the main title, generally do not provide additional
 access.
 1C. Parallel titles (Optional)
@@ -5751,7 +5882,7 @@ as separate letters, requiring no special consideration of U, V, u, or v when co
 in that typeface.
 23 Do not convert a final uppercase I meant to represent an ii ending (see 0G2.3).
 24 This must be distinguished from VV or vv as a combination of a vowel and a consonant as
-in the examples VVLT or vvlt (vult, “he wants”) and VVA or vva (uva, “grape”).
+in the examples VVLT or vvlt (vult, "he wants") and VVA or vva (uva, "grape").
 APPENDIX G. EARLY LETTERFORMS AND SYMBOLS
 192 Descriptive Cataloging of Rare Materials (Books)
 vv representing single letter25 VV
@@ -5784,7 +5915,7 @@ vv vvhole
 w whole
 w weysse
 25 This must be distinguished from VV or vv as a combination of a vowel and a consonant as
-in the examples VVLT or vvlt (vult, “he wants”) and VVA or vva (uva, “grape.
+in the examples VVLT or vvlt (vult, "he wants") and VVA or vva (uva, "grape.
 Descriptive Cataloging of Rare Materials (Books) 193
 APPENDIX H. INDIVIDUAL AND SPECIAL ISSUES OF SERIALS
 Apply these guidelines when creating a bibliographic record for an individual or
@@ -5866,7 +5997,7 @@ issues within the catalog.
 21 to Saturday December 23, 1710.
 830 0 ‡a Post boy (London, England) ; ‡v no. 2436.
 H3.4.2. Chronological designation only. If the issue has only a chronological
-designation, use “year month day” as the standardized form of the chronological
+designation, use "year month day" as the standardized form of the chronological
 designation in the access point.
 245 04 ‡a The English Lucian, or, Weekly discoveries of the
 witty intrigues, comical passages, and remarkable
@@ -5877,7 +6008,7 @@ the vices and vanities of the times. ‡n Friday the
 H4. Relating special issues to the serial as a whole
 H4.1. Special issues
 A special issue of a serial usually covers a particular topic. It may have a
-distinctive title or it may simply be called “special issue” or the equivalent. Some
+distinctive title or it may simply be called "special issue" or the equivalent. Some
 special issues are published within the numbering system of a serial; others are
 published outside the numbering system of a serial. The statement identifying a
 special issue as such may be presented formally in the publication or it may
@@ -5953,8 +6084,8 @@ This glossary is intended to supplement the glossary in AACR2, Appendix D.
 The terms included here are either lacking in AACR2, or, though present there,
 require some amendment to accommodate these rules to the description of
 special printed materials. The definitions marked with an asterisk have been
-derived from G. Thomas Tanselle’s “The bibliographical concepts of issue and
-state,” in The Papers of the Bibliographical Society of America, 69 (1975), p. 17‐66.
+derived from G. Thomas Tanselle’s "The bibliographical concepts of issue and
+state," in The Papers of the Bibliographical Society of America, 69 (1975), p. 17‐66.
 Bibliographic description. A set of bibliographic data recording and identifying
 a publication, i.e., the description that begins with the title proper and ends
 with the last note.
@@ -5994,7 +6125,7 @@ Illustration. A pictorial, diagrammatic, or other graphic representation occurri
 within a publication, excepting minor decorative elements such as vignettes,
 head‐ and tail‐pieces, historiated initials, and printers’ ornaments.
 Impression. All copies produced in the course of one printing event; the term is
-synonymous with “printing.”
+synonymous with "printing."
 Integral. 1. A leaf is integral to a gathering if it is conjugate with another leaf in
 the gathering. 2. A leaf is integral to a publication if it can be assumed to be
 present in all copies represented by the bibliographic description. Leaves
@@ -6066,7 +6197,7 @@ Cheney, C.R. Handbook of Dates for Students of English History. London: Offices 
 the Royal Historical Society, 1945. [New ed., revised by Michael Jones:
 Cambridge; New York: Cambridge University Press, 2004]
 The Chicago Manual of Style. 15th ed. Chicago: Chicago University Press, 2003.
-“Collection‐Level Cataloging. ” Cataloging Service Bulletin, no. 78 (Fall 1997), p. 8‐
+"Collection‐Level Cataloging. " Cataloging Service Bulletin, no. 78 (Fall 1997), p. 8‐
 28. Washington, D.C.: Library of Congress, Collections Services.
 Describing Archives: A Content Standard. Chicago: Society of American Archivists,
 2004.
@@ -6100,7 +6231,7 @@ Roe, Kathleen. Arranging and Describing Archives and Manuscripts. Chicago:
 Society of American Archivists, 2005.
 Svenonius, Elaine. The Intellectual Foundation of Information Organization.
 Cambridge: The MIT Press, 2000.
-Tanselle, G. Thomas. “The Bibliographical Concepts of Issue and State.” Papers of
+Tanselle, G. Thomas. "The Bibliographical Concepts of Issue and State." Papers of
 the Bibliographical Society of America, v. 69 (1975), p. 17‐66.
 Thesaurus for Graphic Materials. Library of Congress.
 http://www.loc.gov/pictures/collection/tgm/
@@ -6109,7 +6240,7 @@ Bibliographies and Catalogs Used in Rare Book Cataloging. In collaboration with 
 Bibliographic Standards Committee, Rare Books and Manuscripts Section,
 Association of College and Research Libraries. 2nd ed. Washington, D.C.:
 Cataloging Distribution Service, Library of Congress, 1996.
-Vriesema, P.C.A. “The STCN Fingerprint.” Studies in Bibliography, v. 39 (1986), p. 93‐
+Vriesema, P.C.A. "The STCN Fingerprint." Studies in Bibliography, v. 39 (1986), p. 93‐
 100. http://etext.lib.virginia.edu/bsuva/sb/
 Descriptive Cataloging of Rare Materials (Books) 205
 INDEX
@@ -6744,7 +6875,7 @@ limitation, statement of: 7B7.3‐7B7.5
 linking entry complexity notes: Appendix B4 (580)
 multipart monographs: 7B3.2, 7B16.1
 nature, scope, or artistic form: 7B1
-“Not in” reference sources: 7B14.3
+"Not in" reference sources: 7B14.3
 numbers borne by publication: 7B17
 other manifestations and works: 7A5.2
 other title information: 1D2.3, 7B5
@@ -7022,7 +7153,7 @@ title page counted as plate: 5B9.4
 title proper: 1B2, 1B5, 1B6, 7B3.1, Appendix C3 (500)
 transposition: 1B1.2, 1E3, 2B7, 2B9, 2C2, 2C3.3, 2C4.3, 4A3.2, 4B13.1, 4C11.1,
 6C1, 6E1, 6G1.1, 6H1
-“With” notes: 1G8, Appendix C3 (500)
+"With" notes: 1G8, Appendix C3 (500)
 Revisions
 edition statement: 2B2.1, 2D
 notes on: 7B7.2
@@ -7278,7 +7409,7 @@ W
 W (letter of alphabet): Appendix G4.1, Appendix G5.1
 transcription: 0G2.2, Appendix G5.2
 Width: 5D2. See also Dimensions
-ʺWithʺ notes: See Notes: “With” notes
+ʺWithʺ notes: See Notes: "With" notes
 Words or phrases. See also Opening words of text
 in date of publication: 4D1.3
 edition area: 2C3
