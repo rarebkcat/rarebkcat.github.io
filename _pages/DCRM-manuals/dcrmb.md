@@ -556,29 +556,27 @@ preferred language (see 4B3‐4, 4B8‐12, 4E, and areas 5 and 7 XXLINKXX).
 
 ### VI. Spelling and style
 
-DCRM(B) uses Merriam‐Webster’s *Collegiate Dictionary*, eleventh edition, as its
+DCRM(B) uses *Merriam‐Webster’s Collegiate Dictionary*, eleventh edition, as its
 authority in matters of spelling, and in matters of style, the fifteenth edition of
 the *Chicago Manual of Style*.
 
 ### VII. Acronyms
-AACR2 Anglo‐American Cataloguing Rules, second edition
-BDRB Bibliographic Description of Rare Books
+
+AACR2 *Anglo‐American Cataloguing Rules*, second edition
+BDRB *Bibliographic Description of Rare Books*
 BIBCO Monographic Bibliographic Program of the PCC
-CC:DA Committee on Cataloging: Description and Access, Association for
-Library Collections and Technical Services, American Library
-Association
-DCRB Descriptive Cataloging of Rare Books
+CC:DA Committee on Cataloging: Description and Access, Association for Library Collections and Technical Services, American Library Association
+DCRB *Descriptive Cataloging of Rare Books*
 DCRM Descriptive Cataloging of Rare Materials
-DCRM(B) Descriptive Cataloging of Rare Materials (Books)
-ISBD International Standard Bibliographic Description
-ISBD(A) International Standard Bibliographic Description for Older Monographic
-Publications (Antiquarian)
+DCRM(B) *Descriptive Cataloging of Rare Materials (Books)*
+ISBD *International Standard Bibliographic Description*
+ISBD(A) *International Standard Bibliographic Description for Older Monographic
+Publications (Antiquarian)*
 LC Library of Congress
-LCRI Library of Congress Rule Interpretations
+LCRI *Library of Congress Rule Interpretations*
 PCC Program for Cooperative Cataloging
-RBMS Rare Books and Manuscripts Section, Association of College and
-Research Libraries, American Library Association
-RDA Resource Description and Access
+RBMS Rare Books and Manuscripts Section, Association of College and Research Libraries, American Library Association
+RDA *Resource Description and Access*
 
 VIII. Examples and notes
 VIII.1. Examples. The examples are not in themselves prescriptive, but are meant
