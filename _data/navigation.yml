@@ -350,3 +350,8 @@ docs:
         url: /DCRMR/tables/Appendix-k-option-7-books/
       - title: "Appendix K option 7 - graphics"
         url: /DCRMR/tables/Appendix-k-option-7-graphics/
+  - title: "DCRM Manuals"
+    url: /DCRMR/DCRM-manuals/
+    children:      
+      - title: "DCRM(B)"
+        url: /DCRMR/DCRM-manuals/dcrmb/
