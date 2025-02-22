@@ -562,49 +562,54 @@ the *Chicago Manual of Style*.
 
 ### VII. Acronyms
 
-AACR2 *Anglo‐American Cataloguing Rules*, second edition
-BDRB *Bibliographic Description of Rare Books*
-BIBCO Monographic Bibliographic Program of the PCC
-CC:DA Committee on Cataloging: Description and Access, Association for Library Collections and Technical Services, American Library Association
-DCRB *Descriptive Cataloging of Rare Books*
-DCRM Descriptive Cataloging of Rare Materials
-DCRM(B) *Descriptive Cataloging of Rare Materials (Books)*
-ISBD *International Standard Bibliographic Description*
-ISBD(A) *International Standard Bibliographic Description for Older Monographic
-Publications (Antiquarian)*
-LC Library of Congress
-LCRI *Library of Congress Rule Interpretations*
-PCC Program for Cooperative Cataloging
-RBMS Rare Books and Manuscripts Section, Association of College and Research Libraries, American Library Association
-RDA *Resource Description and Access*
+* AACR2 *Anglo‐American Cataloguing Rules*, second edition
+* BDRB *Bibliographic Description of Rare Books*
+* BIBCO Monographic Bibliographic Program of the PCC
+* CC:DA Committee on Cataloging: Description and Access, Association for Library Collections and Technical Services, American Library Association
+* DCRB *Descriptive Cataloging of Rare Books*
+* DCRM Descriptive Cataloging of Rare Materials
+* DCRM(B) *Descriptive Cataloging of Rare Materials (Books)*
+* ISBD *International Standard Bibliographic Description*
+* ISBD(A) *International Standard Bibliographic Description for Older Monographic Publications (Antiquarian)*
+* LC Library of Congress
+* LCRI *Library of Congress Rule Interpretations* 
+* PCC Program for Cooperative Cataloging
+* RBMS Rare Books and Manuscripts Section, Association of College and Research Libraries, American Library Association
+* RDA *Resource Description and Access*
 
-VIII. Examples and notes
-VIII.1. Examples. The examples are not in themselves prescriptive, but are meant
+### VIII. Examples and notes
+
+#### VIII.1. Examples. 
+
+The examples are not in themselves prescriptive, but are meant
 to provide a model of reliable application and interpretation of the rule in
 question. A word, phrase, element, or entire area may be illustrated; ISBD
 punctuation is given as needed only for the portion illustrated.
-VIII.2. Notes. The instructions and guidelines in area 7 are written in imperative
+
+#### VIII.2. Notes. 
+
+The instructions and guidelines in area 7 XXLINKXX are written in imperative
 form. This does not imply that all notes are required; on the contrary, most notes
-INTRODUCTION
-Descriptive 20 Cataloging of Rare Materials (Books)
-are not (see 7A1.5). Consult the other areas of DCRM(B) in order to ascertain
-what is required and what is optional in any given situation (see 7A1). The
+are not (see 7A1.5 XXLINKXX). Consult the other areas of DCRM(B) in order to ascertain
+what is required and what is optional in any given situation (see 7A1 XXLINKXX). The
 conventions for notes included as part of the examples are as follows.
- “Note” indicates that the note is required if applicable.
- “Optional note” indicates that the note is not required. The labeling of a note
+
+* “Note” indicates that the note is required if applicable.
+* “Optional note” indicates that the note is not required. The labeling of a note
 as “optional” in these rules carries no judgment about its importance (see
 introductory section IV); certain notes designated as “optional” may in fact
 be almost universally applied.
- “Local note” indicates a note describing copy‐specific information not
-affecting areas 1‐6 that is required if applicable (see 7B19). It must be clearly
-identified as a local note according to the provisions of 7B19.1.1. Copyspecific
+* “Local note” indicates a note describing copy‐specific information not
+affecting areas 1‐6 that is required if applicable (see 7B19 XXLINKXX). It must be clearly
+identified as a local note according to the provisions of 7B19.1.1 XXLINKXX. Copy specific
 information that does affect areas 1‐6, such as basing the description
-on an imperfect copy (see 0B2.2), is required and recorded in a general note.
- “Optional local note” indicates that the note describing copy‐specific
+on an imperfect copy (see 0B2.2 XXLINKXX), is required and recorded in a general note.
+*“Optional local note” indicates that the note describing copy‐specific
 information is not required.
- “Comment” prefaces details needed to adequately explain the example, and
+*“Comment” prefaces details needed to adequately explain the example, and
 are not to be confused with notes appearing within the bibliographical
 description.
+
 IX. Integrity of the copy
 IX.1. Defects and sophistication
 A greater vulnerability to damage, defect, and loss means that rare materials,
