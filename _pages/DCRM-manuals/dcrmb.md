@@ -1705,298 +1705,341 @@ acceptable place, but in no event within the first five words of the chief title
 ><cite>A brand new song, entitled The Irishman's address to the twenty-six Nottingham worthies ...</cite>  
 >>(*Comment*: The chief title begins "The Irishmanʹs address" but its ending is ambiguous)
 
-1C. Parallel titles
-1C1. Order and source of parallel titles
+### 1C. Parallel titles
+
+#### 1C1. Order and source of parallel titles
+
 Transcribe parallel titles in the order indicated by their sequence on, or by the
 layout of, the title page. If the original title appears elsewhere than on the title
 page, transcribe it in a note, if considered important.
-1C2. Language of parallel titles and relationship to title proper
-1C2.1. Transcribe an original title in a language different from that of the title
+
+#### 1C2. Language of parallel titles and relationship to title proper
+
+<a name="1C2.1">1C2.1</a> Transcribe an original title in a language different from that of the title
+<a name="1C2.1">1C2.1</a> Transcribe an original title in a language different from that of the title
 proper appearing on the title page as a parallel title, unless it is grammatically
 inseparable from another part of the description.
-Fables = Fabulae
-1C2.2. Transcribe as other title information an original title in the same language
-as the title proper (see 1D).
-The adventures of Red Riding Hood : Little Red Riding Hood
-1D. Other title information
-1D1. Order and source of other title information
+
+><cite>Fables = Fabulae</cite>
+
+<a name="1C2.2">1C2.2</a> Transcribe as other title information an original title in the same language
+as the title proper (see 1D xxlinkxx).
+
+><cite>The adventures of Red Riding Hood : Little Red Riding Hood</cite>
+
+### 1D. Other title information
+
+#### 1D1. Order and source of other title information
+
 Transcribe other title information appearing on the title page in the order
 indicated by the sequence on, or layout of, the title page. Transcribe other title
 information not appearing on the title page in a note, if considered important.
-AREA 1. TITLE AND STATEMENT OF RESPONSIBILITY
-Descriptive Cataloging of Rare Materials (Books) 53
-1D2. Other title information beginning with prepositions, conjunctions, etc.
-1D2.1. General rule. Transcribe title information that appears following the title
+
+#### 1D2. Other title information beginning with prepositions, conjunctions, etc.
+
+<a name="1D2.1">1D2.1</a> **General rule**. Transcribe title information that appears following the title
 proper as other title information, even if it begins with a preposition,
 conjunction, prepositional phrase, etc.
-The English Parliament represented in a vision : with an afterthought
-upon the speech delivered to His Most Christian Majesty
-by the deputies of the states of Britany on the 29th day of
-February last ... : to which is added at large the memorable
-representation of the House of Commons to the Queen in the year
-1711/12 ...
-1D2.2. If this other title information appears following the statement of
+
+><cite>The English Parliament represented in a vision : with an afterthought upon the speech delivered to His Most Christian Majesty by the deputies of the states of Britany on the 29th day of February last ... : to which is added at large the memorable representation of the House of Commons to the Queen in the year 1711/12 ...</cite>
+
+<a name="1D2.2">1D2.2</a> If this other title information appears following the statement of
 responsibility, transcribe it as a subsequent statement of responsibility (see
-1E14.2).
-1D2.3. If this other title information, or some portion of it, constitutes a formal
+1E14.2 xxlinkxx).
+
+<a name="1D2.3">1D2.3</a>. If this other title information, or some portion of it, constitutes a formal
 statement of the contents of the work, and is grammatically separable from the
 title proper and other title information, transcribe it in a note, if considered
-important (see 7B16.2). When these formal statements are omitted from the title
+important (see 7B16.2 xxlinkxx). When these formal statements are omitted from the title
 and statement of responsibility area, use the mark of omission.
-The spinning wheel's garland : containing several excellent new
-songs ...
-Optional note: Contents: (from t.p.) I. The good housewife's coat
-of arms -- II. The spinning wheels glory -- III. The taylor
-disappointed of his bride -- IV. The changeable world
-1D2.4. Distinguish the above situations from those in which titles of other works
-are given equal prominence with the first‐named work (see 1F1).
-1D3. Statements about illustrations or volumes
+
+><cite>The spinning wheel's garland : containing several excellent new songs ...</cite>  
+>Optional note: <cite>Contents: (from t.p.) I. The good housewife's coat of arms -- II. The spinning wheels glory -- III. The taylor disappointed of his bride -- IV. The changeable world</cite> 
+
+<a name="1D2.4">1D2.4</a> Distinguish the above situations from those in which titles of other works
+are given equal prominence with the first‐named work (see 1F1 xxlinkxx).
+
+#### 1D3. Statements about illustrations or volumes
+
 Treat an illustration statement or a statement such as "in two volumes" as other
 title information, unless the statement is grammatically inseparable from
-information transcribed as part of another element or area (see 1E13 and 2B8). If
+information transcribed as part of another element or area (see 1E13 and 2B8 xxlinkxx). If
 the statement appears following the statement of responsibility, transcribe it as a
 subsequent statement of responsibility.
-The American child's pictorial history of the United States :
-illustrated by sixty engravings
-General index to fifty-six volumes of the Gentleman's magazine :
-from its commencement in the year 1731 to the end of 1786 /
-AREA 1. TITLE AND STATEMENT OF RESPONSIBILITY
-Descriptive 54 Cataloging of Rare Materials (Books)
-compiled by Samuel Ayscough, clerk, assistant librarian of the
-British Museum ; in two volumes
-1D4. Abridgment of other title information
-Optionally, if other title information is very lengthy and can be abridged without
+
+><cite>The American child's pictorial history of the United States : illustrated by sixty engravings General index to fifty-six volumes of the Gentleman's magazine : from its commencement in the year 1731 to the end of 1786 / compiled by Samuel Ayscough, clerk, assistant librarian of the British Museum ; in two volumes</cite>
+
+#### 1D4. Abridgment of other title information
+
+*Optionally*, if other title information is very lengthy and can be abridged without
 loss of essential information, omit less important words or phrases, using the
 mark of omission. If considered important, transcribe omitted words or phrases
-in a note (including the other titles or phrases referred to in 1D2.3).
-1D5. Other title information with grammatically inseparable elements
+in a note (including the other titles or phrases referred to in 1D2.3 xxlinkxx).
+
+#### 1D5. Other title information with grammatically inseparable elements
+
 If the other title information includes a statement of responsibility or an element
 belonging to another area, and the element is a grammatically inseparable part of
 the other title information according to one or more of the conditions
-enumerated in 1B1.1, transcribe it as other title information.
-Constitutiones legitime seu legatine regionis Anglicane : cu[m]
-subtilissima interpretatione d[omi]ni Johannis de Athon
-(Comment: Statement of responsibility transcribed as part of other title
-information because of genitive case ending)
-1D6. Parallel statements containing other title information
+enumerated in 1B1.1 xxlinkxx, transcribe it as other title information.
+
+><cite>Constitutiones legitime seu legatine regionis Anglicane : cu[m] subtilissima interpretatione d[omi]ni Johannis de Athon</cite>  
+>>(*Comment*: Statement of responsibility transcribed as part of other title information because of genitive case ending)
+
+#### 1D6. Parallel statements containing other title information
+
 Transcribe parallel statements containing other title information in the order in
 which they appear on the title page.
-1E. Statements of responsibility
-1E1. Statements of responsibility on the title page
+
+### 1E. Statements of responsibility
+
+#### 1E1. Statements of responsibility on the title page
+
 Transcribe statements of responsibility found on the title page in the form in
 which they appear.
-The history of the long captivity and adventures of Thomas
-Pellow, in South-Barbary ... / written by himself
-De indiciis et praecognitionibus : opus apprime utile medicis /
-Dauide Edguardo Anglo authore
-I dieci libri di architettura / di Leon Battista Alberti
-Thoughts on education / by the late Bishop Burnet
-Moore's Irish melodies / illustrated by D. Maclise, R.A.
-AREA 1. TITLE AND STATEMENT OF RESPONSIBILITY
-Descriptive Cataloging of Rare Materials (Books) 55
-1E2. Statements of responsibility on other sources
+
+><cite>The history of the long captivity and adventures of Thomas Pellow, in South-Barbary ... / written by himself</cite>
+
+><cite>De indiciis et praecognitionibus : opus apprime utile medicis / Dauide Edguardo Anglo authore</cite>
+
+><cite>I dieci libri di architettura / di Leon Battista Alberti</cite>
+
+><cite>Thoughts on education / by the late Bishop Burnet</cite>
+
+><cite>Moore's Irish melodies / illustrated by D. Maclise, R.A.</cite>
+
+#### 1E2. Statements of responsibility on other sources
+
 If a statement of responsibility appears in a source other than on the title page, or
 is taken from outside the publication, record the statement and its source in a
 note.
-Note: Pref. signed: Thomas Hopkins
-(Comment: Hopkins is not recorded in the statement of responsibility area even
-though he is known to be the author)
-Note: "By an engineer"--Introd.
-1E3. Transposition of statements of responsibility
+
+>Note: <cite>Pref. signed: Thomas Hopkins</cite>  
+>>(*Comment*: Hopkins is not recorded in the statement of responsibility area even though he is known to be the author)
+
+>Note: <cite>"By an engineer"--Introd.</cite>
+
+#### 1E3. Transposition of statements of responsibility
+
 If a statement of responsibility precedes the title proper in the source, transpose it
 to its required position unless it is a grammatically inseparable part of the title
-proper according to one or more of the conditions enumerated in 1B1.1. When
+proper according to one or more of the conditions enumerated in 1B1.1 xxlinkxx. When
 transposing the statement of responsibility, do not use the mark of omission.
 Make a note indicating the transposition.
-Hanc dissertationem medicam de hydrope tympanite ... submittit ad
-diem [blank] Martii MDCLXXII ... David Richter, Zittâ-Lusatus,
-autor / praeside ... Dn. Johanne Arnoldo Friderici
-Note: "Praeside" statement precedes title on t.p.
-1E4. Single statements of responsibility with two or more names
-1E4.1. Transcribe a single statement of responsibility as such whether the two or
+
+><cite>Hanc dissertationem medicam de hydrope tympanite ... submittit ad diem [blank] Martii MDCLXXII ... David Richter, Zittâ-Lusatus, autor / praeside ... Dn. Johanne Arnoldo Friderici</cite>  
+>Note: <cite>"Praeside" statement precedes title on t.p.</cite>
+
+#### 1E4. Single statements of responsibility with two or more names
+
+<a name="1E4.1">1E4.1</a> Transcribe a single statement of responsibility as such whether the two or
 more persons or corporate bodies named in it perform the same function or
 different functions.
-Puzzled people : a study in popular attitudes to religion,
-ethics, progress, and politics in a London borough / prepared
-for the Ethical Union by Mass-Observation
-A new method of discovering the longitude both at sea and land
-... / by William Whiston and Humphry Ditton
-A treatise of health and long life, with the sure means of
-attaining it : in two books / the first by Leonard Lessius, the
-second by Lewis Cornaro ...
-1E4.2. If a respondent and praeses are given for an academic disputation, treat
+
+><cite>Puzzled people : a study in popular attitudes to religion, ethics, progress, and politics in a London borough / prepared for the Ethical Union by Mass-Observation</cite>
+
+><cite>A new method of discovering the longitude both at sea and land ... / by William Whiston and Humphry Ditton</cite>
+
+><cite>A treatise of health and long life, with the sure means of attaining it : in two books / the first by Leonard Lessius, the second by Lewis Cornaro ...</cite>
+
+<a name="1E4.2">1E4.2</a> If a respondent and praeses are given for an academic disputation, treat
 both names and the words indicative of their function as part of a single
 statement of responsibility (unless grammatically inseparable from the title
 proper or other title information).
-AREA 1. TITLE AND STATEMENT OF RESPONSIBILITY
-Descriptive 56 Cataloging of Rare Materials (Books)
-/ pro disputatione publica proponebatur praeside Jacobo Fabricio,
-respondente Johanne Reembbelt
-but De peripneumonia disputationem ... sub praesidio ... Dn. Jacobi
-Fabricii ... publice examinandam proponit Johannes Hellinger
-1E5. Omission of names in statements of responsibility
+
+><cite>/ pro disputatione publica proponebatur praeside Jacobo Fabricio, respondente Johanne Reembbelt</cite>
+
+*but* 
+
+><cite>De peripneumonia disputationem ... sub praesidio ... Dn. Jacobi Fabricii ... publice examinandam proponit Johannes Hellinger</cite>
+
+#### 1E5. Omission of names in statements of responsibility
+
 When a single statement of responsibility names more than one person or
 corporate body performing the same function or with the same degree of
-responsibility, transcribe all the names mentioned. Optionally, if the responsible
+responsibility, transcribe all the names mentioned. *Optionally*, if the responsible
 persons or bodies named in a single statement are considered too numerous to
 list exhaustively, all after the third may be omitted. Indicate the omission by the
 mark of omission, and supply after it in square brackets a phrase in the language
 and script of the cataloging agency to convey the extent of the omission.
-/ idee e motti di Giannino Antona-Traversi ; disegni di G. Ardy,
-A. Bonzagni, A. Cagnoni ... [and 7 others] ; sculture di V.
-Franco
-1E6. Two or more statements of responsibility
+
+><cite>/ idee e motti di Giannino Antona-Traversi ; disegni di G. Ardy, A. Bonzagni, A. Cagnoni ... [and 7 others] ; sculture di V. Franco</cite>
+
+#### 1E6. Two or more statements of responsibility
+
 If there are two or more statements of responsibility, transcribe them in the order
 indicated by their sequence on, or by the layout of, the title page. If the sequence
 and layout are ambiguous or insufficient to determine the order, transcribe the
 statements in the order that makes the most sense.
-El Fuero Real de España / diligentemente hecho por el noble Rey
-don Alonso noveno ; glossado por Alonso Díaz de Montalvo ...
-1E7. Terms of address, etc., in statements of responsibility
+
+><cite>El Fuero Real de España / diligentemente hecho por el noble Rey don Alonso noveno ; glossado por Alonso Díaz de Montalvo ...</cite>
+
+#### 1E7. Terms of address, etc., in statements of responsibility
+
 Include titles and abbreviations of titles of nobility, address, honor, and
 distinction that appear with names in statements of responsibility.
-/ by Horatio Walpole, Earl of Orford ...
-/ par Monsieur Guilliaulme Staundforde, chiualer
-/ by the late Sir Thomas Fitzosborne, bart. ...
-/ con un prólogo del Excmo. Sr. D. Manuel Danvila y Collado
-/ by the Rev. Daniel Lysons ...
-AREA 1. TITLE AND STATEMENT OF RESPONSIBILITY
-Descriptive Cataloging of Rare Materials (Books) 57
-1E8. Qualifications in statements of responsibility
-Qualifications such as initials indicating membership in societies, academic
-degrees, and statements of positions held may be omitted from the statement of
-responsibility, using the mark of omission, unless:
-the qualifications are necessary grammatically
-or the qualifications are necessary for identifying the person or are useful in
-establishing a context for the person’s activity (initials of religious orders,
-phrases, or adjectives denoting place names, etc.)
-or the statement of responsibility represents the author only by a
-pseudonym, a descriptive phrase, or nonalphabetic symbols.
-1E9. Ambiguous statements of responsibility
+
+><cite>/ by Horatio Walpole, Earl of Orford ...</cite>
+
+><cite>/ par Monsieur Guilliaulme Staundforde, chiualer</cite>
+
+><cite>/ by the late Sir Thomas Fitzosborne, bart. ...</cite>
+
+><cite>/ con un prólogo del Excmo. Sr. D. Manuel Danvila y Collado</cite>
+
+><cite>/ by the Rev. Daniel Lysons ...</cite>
+
+#### 1E8. Qualifications in statements of responsibility
+
+Qualifications such as initials indicating membership in societies, academic degrees, and statements of positions held may be omitted from the statement of responsibility, using the mark of omission, unless:  
+the qualifications are necessary grammatically  
+*or*  
+the qualifications are necessary for identifying the person or are useful in establishing a context for the person’s activity (initials of religious orders, phrases, or adjectives denoting place names, etc.)  
+*or*   
+the statement of responsibility represents the author only by a pseudonym, a descriptive phrase, or nonalphabetic symbols.
+
+#### 1E9. Ambiguous statements of responsibility
+
 If the relationship between the title of a work and the person(s) or body (bodies)
 named in the statement of responsibility is not clear, supply an explanatory word
 or short phrase in the language of the text, within square brackets, or make a
 note.
-De l'humour noir / [compilé par] André Breton
+
+><cite>De l'humour noir / [compilé par] André Breton</cite>
+
 If considered important, make a note about expansions, explanations, and
-corrections of statements of responsibility when needed for clarity (see 7B6).
-1E10. Statements of responsibility following titles in more than one language
-or script
-1E10.1. If there are titles in more than one language or script, but only a single
+corrections of statements of responsibility when needed for clarity (see 7B6 xxlinkxx).
+
+#### 1E10. Statements of responsibility following titles in more than one language or script
+
+<a name="1E10.1">1E10.1</a> If there are titles in more than one language or script, but only a single
 statement of responsibility, transcribe the statement of responsibility after all the
 title information.
-Jeux de cartes pour enfants = Children's playing cards / par
-Giovanni Belgrado et Bruno Munari
-1E10.2. If there are both titles and statements of responsibility in more than one
+
+><cite>Jeux de cartes pour enfants = Children's playing cards / par Giovanni Belgrado et Bruno Munari</cite>
+
+<a name="1E10.2">1E10.2</a>. If there are both titles and statements of responsibility in more than one
 language or script, transcribe each statement of responsibility after the title
 proper, parallel title, or other title information to which it relates. If any of these
 titles lack a matching statement of responsibility, transcribe the information in
 the order indicated by the sequence on, or by the layout of, the title page.
-AREA 1. TITLE AND STATEMENT OF RESPONSIBILITY
-Descriptive 58 Cataloging of Rare Materials (Books)
-Anatomia uteri humani gravidi tabulis illustrata / auctore
-Gulielmo Hunter ... = The anatomy of the human gravid uterus
-exhibited in figures / by William Hunter
-1E10.3. Make a note to indicate the original position on the source of any
+
+><cite>Anatomia uteri humani gravidi tabulis illustrata / auctore Gulielmo Hunter ... = The anatomy of the human gravid uterus exhibited in figures / by William Hunter</cite>
+
+<a name="1E10.3">1E10.3</a> Make a note to indicate the original position on the source of any
 transposed statements.
-1E11. Nouns and noun phrases
-1E11.1. Treat a noun or noun phrase occurring in conjunction with a statement of
+
+#### 1E11. Nouns and noun phrases
+
+<a name="1E11.1">1E11.1</a> Treat a noun or noun phrase occurring in conjunction with a statement of
 responsibility as other title information if it is indicative of the nature of the
 work.
-Comus : a mask / by John Milton
-1E11.2. If the noun or noun phrase is indicative of the role of the person(s) or
+
+><cite>Comus : a mask / by John Milton</cite>
+
+<a name="1E11.2">1E11.2</a>. If the noun or noun phrase is indicative of the role of the person(s) or
 body (bodies) named in the statement of responsibility rather than of the nature
 of the work, treat it as part of the statement of responsibility.
-Paradise lost : a poem in twelve books / the author John Milton
-A cushion of downe / text by Gilbert Frye ; drawings by Charles
-Cox
-Life and adventures of Valentine Vox, the ventriloquist / with
-illustrations by Phiz
-1E11.3. In case of doubt, treat the noun or noun phrase as part of the statement of
+
+><cite>Paradise lost : a poem in twelve books / the author John Milton</cite>
+
+><cite>A cushion of downe / text by Gilbert Frye ; drawings by Charles Cox</cite>
+
+><cite>Life and adventures of Valentine Vox, the ventriloquist / with illustrations by Phiz</cite>
+
+<a name="1E11.3">1E11.3</a> In case of doubt, treat the noun or noun phrase as part of the statement of
 responsibility.
-1E12. Persons or bodies not explicitly named in statements of responsibility
+
+#### 1E12. Persons or bodies not explicitly named in statements of responsibility
+
 Transcribe a statement of responsibility as such even if no person or body is
 explicitly named in that statement. Such statements will generally contain words
 like "translated," "edited," "compiled," etc.
-The folovving of Christ / translated out of Latin into English
-1E13. Statements of responsibility with grammatically inseparable elements
+
+><cite>The folovving of Christ / translated out of Latin into English</cite>
+
+#### 1E13. Statements of responsibility with grammatically inseparable elements
+
 If the statement of responsibility includes information belonging to another area,
 and the information is grammatically inseparable from the statement of
-responsibility according to one or more of the conditions enumerated in 1B1.1,
+responsibility according to one or more of the conditions enumerated in 1B1.1 xxlinkxx,
 transcribe it as part of the statement of responsibility.
-AREA 1. TITLE AND STATEMENT OF RESPONSIBILITY
-Descriptive Cataloging of Rare Materials (Books) 59
-L'hymne au soleil / traduit en vers latins, sur la troisième
-édition du texte françois, par M. l'abbé Métivier
-1E14. Phrases about notes, appendixes, etc.
-1E14.1. Transcribe phrases about notes, appendixes, and such accompanying
+
+><cite>L'hymne au soleil / traduit en vers latins, sur la troisième édition du texte françois, par M. l'abbé Métivier</cite>
+
+#### 1E14. Phrases about notes, appendixes, etc.
+
+<a name="1E14.1">1E14.1</a> Transcribe phrases about notes, appendixes, and such accompanying
 matter in the order indicated by the sequence on the title page. If such
 information appears before the statement of responsibility, transcribe it as other
-title information (see 1D2.1).
-Chemische Erfahrungen bey meinem und andern Fabriken in
-Deutschland : nebst einem Anhang besonderer chemischer
-Geheimnisse / von J.A. Weber
-Clarion call : with Franklin Phelps' criticisms / by Lunceford
-Yates
-1E14.2. If such information appears after the statement of responsibility,
+title information (see 1D2.1 xxlinkxx).
+
+><cite>Chemische Erfahrungen bey meinem und andern Fabriken in Deutschland : nebst einem Anhang besonderer chemischer
+Geheimnisse / von J.A. Weber</cite>
+
+><cite>Clarion call : with Franklin Phelps' criticisms / by Lunceford Yates</cite>
+
+<a name="1E14.2">1E14.2</a> If such information appears after the statement of responsibility,
 transcribe it as a subsequent statement of responsibility, whether or not it names
 a person or body.
-High life below stairs : a farce / by James Townley ; with a
-variety of German notes explanatory of the idioms ... alluded
-to by John Christian Huttner
-Some remarks on the Barrier Treaty, between Her Majesty and the
-States-General / by the author of The conduct of the allies ;
-to which are added the said Barrier-Treaty ; with the two
-separate articles ...
-Monsieur Bossu's treatise of the epick poem ... / done into
-English from the French, with a new original preface upon the
-same subject, by W.J. ; to which are added An essay upon Satyr
-by Monsieur d'Acier ; and A treatise upon pastorals by Monsieur
-Fontanelle
-1E14.3. Optionally, if the phrases are very lengthy and can be abridged without
+
+><cite>High life below stairs : a farce / by James Townley ; with a variety of German notes explanatory of the idioms ... alluded to by John Christian Huttner</cite>
+
+><cite>Some remarks on the Barrier Treaty, between Her Majesty and the States-General / by the author of The conduct of the allies ; to which are added the said Barrier-Treaty ; with the two separate articles ...</cite>
+
+><cite>Monsieur Bossu's treatise of the epick poem ... / done into English from the French, with a new original preface upon the same subject, by W.J. ; to which are added An essay upon Satyr by Monsieur d'Acier ; and A treatise upon pastorals by Monsieur Fontanelle</cite>
+
+<a name="1E14.3">1E14.3</a> *Optionally*, if the phrases are very lengthy and can be abridged without
 loss of essential information, omit less important words or phrases, using the
 mark of omission. If considered important, transcribe omitted phrases in a note.
 If the phrases are actually titles of other works given equal prominence with the
-title of the first work, see 1F.
-AREA 1. TITLE AND STATEMENT OF RESPONSIBILITY
-Descriptive 60 Cataloging of Rare Materials (Books)
-1F. Publications without a collective title
-1F1. Two or more works named on the title page
-1F1.1. By same person or body. If the publication has no collective title and the
+title of the first work, see 1F xxlinkxx.
+
+### 1F. Publications without a collective title
+
+#### 1F1. Two or more works named on the title page
+
+<a name="1F1.1">1F1.1</a> By same person or body. If the publication has no collective title and the
 title page bears the titles of two or more individual works, other than
 supplementary matter, that are contained in the publication, transcribe the titles
 of the individual works in the order in which they appear on the title page.
 Separate the titles by a space‐semicolon‐space if the works are all by the same
 person(s) or body (bodies), even if the titles are linked by a connecting word or
 phrase.
-Les Akanças : prologue mélo-dramatique, en un acte et en prose ;
-suivi Des Espagnols dans la Floride : pantomime en trois actes
-et à spectacle
-1F1.2. By different persons or bodies. If the individual works are by different
+
+><cite>Les Akanças : prologue mélo-dramatique, en un acte et en prose ; suivi Des Espagnols dans la Floride : pantomime en trois actes et à spectacle</cite>
+
+<a name="1F1.2">1F1.2</a> By different persons or bodies. If the individual works are by different
 persons or bodies, or the authorship is in doubt, precede each title other than the
 first by a period and one space, unless a linking word or phrase is already
 present. Precede each statement of responsibility by a space‐slash‐space.
-The serving-man become a queen. Jockey of the green. The lass of
-Richmond Hill
-Franklin’s way to wealth and Penn’s maxims
-1F2. One or more works not named on the title page
+
+><cite>The serving-man become a queen. Jockey of the green. The lass of Richmond Hill</cite>
+
+><cite>Franklin’s way to wealth and Penn’s maxims</cite>
+
+#### 1F2. One or more works not named on the title page
+
 If the publication has no collective title, and one or more works contained in the
 publication are not named on the title page:
-transcribe the title and statement of responsibility from the title page, and
-name the other work(s) in a contents note (see 7B16)
-or make a separate description for each separately titled work,
-linking the separate descriptions with "With" notes (see 7B18)
-or devise a collective title for the whole publication, preferably in the
-language and script of the cataloging agency, and use this devised title,
-enclosed in square brackets, as the title proper
-[Acts of Parliament enacted in 1732]
-AREA 1. TITLE AND STATEMENT OF RESPONSIBILITY
-Descriptive Cataloging of Rare Materials (Books) 61
-1G. Single‐sheet publications
-1G1. Chief source of information
+
+transcribe the title and statement of responsibility from the title page, and name the other work(s) in a contents note (see 7B16 xxlinkxx)  
+*or*  
+make a separate description for each separately titled work, linking the separate descriptions with "With" notes (see 7B18 xxlinkxx)  
+*or*  
+devise a collective title for the whole publication, preferably in the language and script of the cataloging agency, and use this devised title, enclosed in square brackets, as the title proper 
+
+><cite>[Acts of Parliament enacted in 1732]</cite>
+
+### 1G. Single‐sheet publications
+
+#### 1G1. Chief source of information
+
 The chief source of information for single‐sheet publications is the whole sheet,
 recto and verso.
-1G2. General rule
+
+#### 1G2. General rule
+
 In general, transcribe the information presented beginning with the first line of
 printing. If the printing is arranged in columns with no information preceding
 the body of the text, begin the transcription with the top line of the extreme left
@@ -2006,22 +2049,23 @@ identification. Use judgment, but in case of doubt, start the transcription with
 first words of printed text on the sheet. If the initial text is grammatically
 independent of the succeeding material and is one of the following, however,
 begin the transcription after it without using the mark of omission:
- caption to an illustration
- copyright statement
- device
- edition statement
- publication, distribution, etc., statement
- motto
- official numbering
- page number
- part of an illustration or ornament
- price
- tabular material
+* caption to an illustration
+* copyright statement
+* device
+* edition statement
+* publication, distribution, etc., statement
+* motto
+* official numbering
+* page number
+* part of an illustration or ornament
+* price
+* tabular material
+
 If the initial text has been omitted, indicate the nature and position of the omitted
 material in a note, if considered important.
-AREA 1. TITLE AND STATEMENT OF RESPONSIBILITY
-Descriptive 62 Cataloging of Rare Materials (Books)
-1G3. Chief title
+
+#### 1G3. Chief title
+
 If there is a word or phrase obviously intended as the chief title of the publication
 that is not the first line of printing, transcribe it as the entire title proper, omitting
 information appearing before it on the page without the mark of omission. In
@@ -2031,7 +2075,9 @@ sole function the naming of the piece as a whole. When such a title is selected,
 also give in a note at least the first five words of the first line of printing as
 described above. In case of doubt as to the selection of the chief title, start the
 transcription with the first line as described above.
-1G4. Caption title
+
+#### 1G4. Caption title
+
 If a caption title is present, normally transcribe this title in full. If there is no
 caption title, transcribe the text as found at least until a relatively distinctive
 word or phrase is included. If the distinctive word or phrase is not near the
@@ -2041,146 +2087,187 @@ transcription before the sixth word. If the text is very lengthy, end the
 transcription at the first grammatically acceptable place after the caption title or
 the distinctive word or phrase; the omitted material may be summarized in a
 note, if considered important.
-1G5. Prescribed punctuation
+
+#### 1G5. Prescribed punctuation
+
 Information transcribed from single‐sheet publications usually does not lend
-itself to the application of the punctuation prescribed in 1A1 for the title and
+itself to the application of the punctuation prescribed in 1A1 xxlinkxx for the title and
 statement of responsibility area. If, however, the information can be separated
 clearly and unmistakably into title proper, other title information, or statement of
 responsibility without any transposition, supply the prescribed punctuation.
-1G6. Two or more works with a collective title
+
+#### 1G6. Two or more works with a collective title
+
 If there are two or more works printed on a single sheet having a collective title,
 transcribe only the collective title as the title proper. Make a formal or informal
 contents note for the works.
-AREA 1. TITLE AND STATEMENT OF RESPONSIBILITY
-Descriptive Cataloging of Rare Materials (Books) 63
-1G7. Two or more works without a collective title
+
+#### 1G7. Two or more works without a collective title
+
 If there are two or more works printed on a single sheet that does not have a
 collective title, transcribe as the title statement the first title or opening words of
 the text. Make a formal or informal contents note and include in it the titles of the
 additional works. If the sheet is printed on both sides and it is impossible to
 determine which side should be read first, make a separate bibliographic record
 for each side of the sheet, and include a formal "With, on verso" note in each
-record (see 7B18).
-1G8. Two or more works with separate publication, distribution, etc.,
-statements
+record (see 7B18 xxlinkxx).
+
+#### 1G8. Two or more works with separate publication, distribution, etc., statements
+
 If there are two or more works printed on a single sheet and each has its own
 publication, distribution, etc., statement, or there is other conclusive evidence
 that they were intended to be separately issued, make a separate bibliographic
 record for each work that was intended to be issued separately. Include a formal
-"With" note in each record (see 7B18) indicating that the works were printed on a
+"With" note in each record (see 7B18 xxlinkxx) indicating that the works were printed on a
 single sheet and that they were "intended to be separated." If there are two or
 more works printed on a single sheet giving the appearance that they were
 possibly intended to be separated, but there is no conclusive evidence that this is
-the case, follow the provisions of 1G7, and include a note indicating that they
+the case, follow the provisions of 1G7 xxlinkxx, and include a note indicating that they
 were "possibly intended to be separated."
 
-Descriptive Cataloging of Rare Materials (Books) 65
-2. EDITION AREA
-Contents:
-2A. Preliminary rule
-2B. Edition statement
-2C. Statements of responsibility relating to the edition
-2D. Statement relating to a named revision of an edition
-2E. Statements of responsibility relating to a named revision of an edition
-2A. Preliminary rule
-2A1. Prescribed punctuation
+## 2. EDITION AREA
+
+### Contents:
+
+2A. Preliminary rule  
+2B. Edition statement  
+2C. Statements of responsibility relating to the edition  
+2D. Statement relating to a named revision of an edition  
+2E. Statements of responsibility relating to a named revision of an edition  
+
+### 2A. Preliminary rule
+
+#### 2A1. Prescribed punctuation
+
 For instructions on the use of spaces before and after prescribed punctuation, see
-0E.
+0E xxlinkxx.
+
 Precede the edition area by a period‐space‐dash‐space.
+
 Precede a statement relating to a named revision of an edition by a comma.
+
 Precede the first statement of responsibility following an edition statement by a
 diagonal slash.
+
 Precede each subsequent statement of responsibility by a semicolon.
+
 For the use of the equals sign to precede parallel statements, see the appropriate
 rules following.
-2A2. Sources of information
+
+#### 2A2. Sources of information
+
 The prescribed sources of information for the edition area are the title page, other
-preliminaries, colophon, and dust jacket (see introductory section IX.2), in that
+preliminaries, colophon, and dust jacket (see introductory section IX.2 xxlinkxx), in that
 order of preference. If an edition statement or any part of the edition area is
 transcribed from elsewhere than the title page, indicate its source in a note.
-The third edition corrected, and considerably enlarged
-Note: Edition statement from half-title
-Book Club edition
-Note: Edition statement from dust jacket
-AREA 2. EDITION
-Descriptive 66 Cataloging of Rare Materials (Books)
-2A3. Form and order of information
+
+><cite>The third edition corrected, and considerably enlarged</cite>  
+>Note: <cite>Edition statement from half-title</cite>
+
+><cite>Book Club edition</cite>  
+>Note: <cite>Edition statement from dust jacket</cite>
+
+#### 2A3. Form and order of information
+
 Transcribe edition information in the form and order in which it is presented in
-the source, unless instructed otherwise by specific rules (see 0G).
-2B. Edition statement
-2B1. General rule
+the source, unless instructed otherwise by specific rules (see 0G xxlinkxx).
+
+### 2B. Edition statement
+
+#### 2B1. General rule
+
 Transcribe a statement relating to an edition or issue of a publication as it
 appears, according to the general rules 0B‐0G. Include any explanatory words or
 phrases appearing with the edition statement.
-2B2. Words considered part of the edition statement
-2B2.1. Edition statements normally include either the word "edition" (or its
+
+#### 2B2. Words considered part of the edition statement
+
+<a name="2B2.1">2B2.1</a> Edition statements normally include either the word "edition" (or its
 equivalent in other languages), or a related term such as "revision" or "issue."
-The second edition
-Cinquiesme édition, reueuë, corrigée, & augmentée
-Nunc primum in lucem aedita
-Editio secunda auctior et correctior
-2B2.2. Treat a phrase such as "newly printed" as an edition statement unless it is
+
+><cite>The second edition</cite>
+
+><cite>Cinquiesme édition, reueuë, corrigée, & augmentée</cite>
+
+><cite>Nunc primum in lucem aedita</cite>
+
+><cite>Editio secunda auctior et correctior</cite>
+
+<a name="2B2.2">2B2.2</a> Treat a phrase such as "newly printed" as an edition statement unless it is
 part of a statement being transcribed in the publication, distribution, etc., area. In
 case of doubt, treat such a statement as an edition statement.
-Newly imprinted and very necessary vnto all youthe
-(Comment: But transcribe a statement such as "Philadelphia printed, London
-reprinted" in the publication, distribution, etc., area rather than the edition area)
-2B3. Words such as "impression" or "printing"
-2B3.1. Use judgment in transcribing statements containing words such as
+
+><cite>Newly imprinted and very necessary vnto all youthe</cite>  
+>>(*Comment*: But transcribe a statement such as "Philadelphia printed, London reprinted" in the publication, distribution, etc., area rather than the edition area)
+
+#### 2B3. Words such as "impression" or "printing"
+
+<a name="2B3.1">2B3.1</a> Use judgment in transcribing statements containing words such as
 "impression" or "printing." In books from the hand‐press era, such statements
 usually signal a new edition or issue. In these cases, the statement may properly
 be considered an edition statement.
-The second impression
-A new printing
-AREA 2. EDITION
-Descriptive Cataloging of Rare Materials (Books) 67
-2B3.2. In books from the machine‐press era, statements containing words such as
+><cite>The second impression</cite>
+
+><cite>A new printing</cite>
+
+<a name="2B3.2">2B3.2</a> In books from the machine‐press era, statements containing words such as
 "impression" or "printing" are more likely to indicate that the publication is
 simply a new impression of the same edition. Omit statements of impression
 such as these from the transcription without using the mark of omission. Local
 notes may be made about the statements, if considered important.
-Optional local note: Library's copy has "ninth printing" on t.p.
-verso
-Alternative rule: If a decision has been made to create a separate bibliographic
+
+>Optional local note: <cite>Library's copy has "ninth printing" on t.p. verso</cite>
+
+**Alternative rule**: If a decision has been made to create a separate bibliographic
 description for an individual impression, state, binding variant, or copy within a
-single edition or issue (see introductory section X.1.4 and Appendix E), transcribe
+single edition or issue (see introductory section X.1.4 xxlinkxx and Appendix E xxlinkxx), transcribe
 statements containing words such as "impression" or "printing" in the edition area.
 Indicate the source of the statement, if other than the title page, in a note.
-Ninth printing
-Note: The words "ninth printing" taken from t.p. verso
-2B4. Edition statements with special characters or a numeric emphasis
-2B4.1. If an edition statement consists entirely or chiefly of characters that are
+
+><cite>Ninth printing</cite>  
+>Note: <cite>The words "ninth printing" taken from t.p. verso</cite>  
+
+#### 2B4. Edition statements with special characters or a numeric emphasis
+
+<a name="2B4.1">2B4.1</a> If an edition statement consists entirely or chiefly of characters that are
 neither numeric nor alphabetic, transcribe the characters as they appear if the
 necessary typographical facilities are available. For characters that cannot be
 reproduced, substitute the names or descriptions of the characters in square
 brackets.
-&&& edition
-[alpha chi] edition
-2B4.2. If an edition statement consists of one or more letters or numbers without
+
+><cite>&&& edition</cite> 
+
+><cite>[alpha chi] edition</cite>
+
+<a name="2B4.2">2B4.2</a> If an edition statement consists of one or more letters or numbers without
 accompanying words, or only words that convey numbers, supply an
 appropriate word or abbreviation in square brackets. If no appropriate word or
 abbreviation can be determined, or in cases of doubt, simply transcribe the
 statement as found.
-3e [éd.]
-Second [ed.]
-AREA 2. EDITION
-Descriptive 68 Cataloging of Rare Materials (Books)
+
+><cite>3e [éd.]</cite>
+
+><cite>Second [ed.]</cite>
+
 If such a statement signals a substantially unchanged impression of an edition,
 omit it from the transcription without using the mark of omission. Local notes
 may be made about such statements, if considered important.
-Optional local note: Library's copy: "Fifth ten thousand"
-Optional local note: Library's copy: Number "2" on t.p. indicates
-2nd printing
-Optional local note: Library's copy: "51st-100th"--T.p. verso
-Optional local note: Library's copy: "163-173 Tausend"
-Optional local note: Library's copy: Number line on t.p. verso
-indicates 3rd printing: "8 7 6 5 4 3 88 89 90 91 92"
-Optional local note: Library's copy: Publisher's code "B-O" on
-t.p. verso indicates printed Feb. 1914; see Boutell, H.S. First
-editions (4th ed., rev. and enl.)
-Alternative rule: If a decision has been made to create a separate bibliographic
+
+>Optional local note: <cite>Library's copy: "Fifth ten thousand"</cite>
+
+>Optional local note: <cite>Library's copy: Number "2" on t.p. indicates 2nd printing</cite>
+
+>Optional local note: <cite>Library's copy: "51st-100th"--T.p. verso</cite>
+
+>Optional local note: <cite>Library's copy: "163-173 Tausend"</cite>
+
+>Optional local note: <cite>Library's copy: Number line on t.p. verso indicates 3rd printing: "8 7 6 5 4 3 88 89 90 91 92"</cite>
+
+>Optional local note: <cite>Library's copy: Publisher's code "B-O" on t.p. verso indicates printed Feb. 1914; see Boutell, H.S. First editions (4th ed., rev. and enl.)</cite>
+
+**Alternative rule**: If a decision has been made to create a separate bibliographic
 description for an individual impression, state, binding variant, or copy within a
-single edition or issue (see introductory section X.1.4 and Appendix E), transcribe
+single edition or issue (see introductory section X.1.4 xxlinkxx and Appendix E xxlinkxx), transcribe
 statements such as the following in the edition area, even if they represent a
 substantially unchanged impression of that edition: a statement consisting entirely
 or chiefly of characters that are neither numeric nor alphabetic; a statement
@@ -2188,655 +2275,781 @@ consisting of one or more letters or numbers without accompanying words; or a
 statement consisting only of words that convey numbers. Supply appropriate words
 or abbreviations in square brackets, as needed. Indicate the source of the statement,
 if other than the title page, in a note.
-51st-100th
-Note: The words "51st-100th" taken from t.p. verso
+
+><cite>51st-100th</cite>  
+>Note: <cite>The words "51st-100th" taken from t.p. verso</cite>
+
 If identification of the substantially unchanged impression is based on a publisherʹs
 code or number line or on information found in a reference source, supply an
 appropriate statement in square brackets, as needed. Indicate the basis for the
 statement in a note.
-[3rd printing]
-Note: Number line on t.p. verso indicates 3rd printing: "8 7 6
-5 4 3 88 89 90 91 92"
-AREA 2. EDITION
-Descriptive Cataloging of Rare Materials (Books) 69
-2B5. No edition statement
-2B5.1. If the publication does not contain an edition statement, but is known to
+
+><cite>[3rd printing]</cite>  
+>Note: <cite>Number line on t.p. verso indicates 3rd printing: "8 7 6 5 4 3 88 89 90 91 92"
+
+#### 2B5. No edition statement
+
+<a name="2B5.1">2B5.1</a> If the publication does not contain an edition statement, but is known to
 contain significant changes from other editions, or an edition statement for it is
 provided by a reference source, do not supply an edition statement based on this
 information. Give the information in a note.
-Note: "Sixth ed."--Tchemerzine, v. 6, p. 117-131
-2B5.2. If the publication contains only a statement that refers to another edition
+
+>Note: <cite>"Sixth ed."--Tchemerzine, v. 6, p. 117-131</cite>
+
+<a name="2B5.2">2B5.2</a> If the publication contains only a statement that refers to another edition
 (e.g., as part of a preface to an earlier edition or a summary of the work’s
 publication history), do not transcribe the information as an edition statement
 and do not supply an edition statement based on the information. Notes may be
 made on such statements, if considered important.
-Optional note: "Preface to the first edition": p. 5-7
-(Comment: The publication is not the first edition)
-2B6. Edition statements that are grammatically inseparable parts of other areas
+
+>Optional note: <cite>"Preface to the first edition": p. 5-7</cite>  
+>>(*Comment*: The publication is not the first edition)
+
+#### 2B6. Edition statements that are grammatically inseparable parts of other areas
+
 If an edition statement is a grammatically inseparable part of another area
-according to one or more of the conditions enumerated in 1B1.1, and has been
+according to one or more of the conditions enumerated in 1B1.1 xxlinkxx, and has been
 transcribed as such, do not repeat it as an edition statement.
-Old New York, or, Reminiscences of the past sixty years : being
-an enlarged and revised edition of the anniversary discourse
-delivered before the New York Historical Society ...
-Chirurgia / nunc iterum non mediocri studio atque diligentia a
-pluribus mendis purgata
-2B7. Transposition of edition statements
+
+><cite>Old New York, or, Reminiscences of the past sixty years : being an enlarged and revised edition of the anniversary discourse delivered before the New York Historical Society ...</cite>
+
+><cite>Chirurgia / nunc iterum non mediocri studio atque diligentia a pluribus mendis purgata</cite>
+
+#### 2B7. Transposition of edition statements
+
 Transpose grammatically separable edition statements into the edition area from
 other parts of the title page. Provide details of the transposition in a note.
-2B8. Edition statements with grammatically inseparable information
+
+#### 2B8. Edition statements with grammatically inseparable information
+
 If information pertaining to other elements of the description (e.g., an original
 title or other information concerning the original work) is grammatically
 inseparable from the edition statement according to one or more of the
-conditions enumerated in 1B1.1, transcribe it as part of the edition statement. If
+conditions enumerated in 1B1.1 xxlinkxx, transcribe it as part of the edition statement. If
 illustration statements or statements such as "in two volumes" appear with an
-edition statement, transcribe them as they appear (see also 1D3).
-AREA 2. EDITION
-Descriptive 70 Cataloging of Rare Materials (Books)
-2B9. Edition statements in more than one language or script
-2B9.1. If the publication bears edition statements in more than one language or
+edition statement, transcribe them as they appear (see also 1D3 xxlinkxx).
+
+#### 2B9. Edition statements in more than one language or script
+
+<a name="2B9.1">2B9.1</a> If the publication bears edition statements in more than one language or
 script, transcribe the statement that is in the language or script of the title proper.
 If this criterion does not apply, transcribe the statement that appears first in the
 source. Transcribe the remaining statement(s), together with any associated
 statements of responsibility, as parallel edition statements. Precede each parallel
 statement by an equals sign. Make a note to indicate the original position on the
 source of any transposed statements.
-2B9.2. Optionally, if it is considered that the parallel statements are too numerous
+
+<a name="2B9.2">2B9.2</a> *Optionally*, if it is considered that the parallel statements are too numerous
 to list exhaustively, and that some may be omitted without significant loss of
 identification, omit parallel statements after the first using the mark of omission.
 Transcribe the omitted statement(s) in a note, if considered important.
-2B10. Two or more works on the title page with at least one edition statement
+
+#### 2B10. Two or more works on the title page with at least one edition statement
+
 If the title page bears the titles of two or more individual works contained in the
 publication, and one or more of these works has an edition statement associated
 with it, transcribe each edition statement in the title and statement of
 responsibility area along with the title to which it pertains.
-An examination of Dr. Burnet's theory of the earth ... / by J.
-Keill, The second edition corrected ... To the whole is annexed
-A dissertation on the different figures of coelestial bodies,
-&c ... / by Mons. de Maupertuis
-2B11. Edition statements on multipart monographs
-2B11.1. If cataloging a multipart monograph, and the edition statement varies or
+
+><cite>An examination of Dr. Burnet's theory of the earth ... / by J. Keill, The second edition corrected ... To the whole is annexed A dissertation on the different figures of coelestial bodies, &c ... / by Mons. de Maupertuis</cite>
+
+#### 2B11. Edition statements on multipart monographs
+
+<a name="2B11.1">2B11.1</a> If cataloging a multipart monograph, and the edition statement varies or
 does not appear on all of the volumes, ascertain whether the set was issued as
 such. If the publication was issued as such, base the transcription on the first
 volume and make a note to indicate variation in, or absence of, the edition
 statements in the subsequent volumes. In case of doubt, assume the set was not
 issued as such.
-Revised edition
-Note: Vol. 2 issued without the edition statement
-2B11.2. If the multipart monograph is known or assumed to be a made‐up set
+
+><cite>Revised edition</cite>  
+>Note: <cite>Vol. 2 issued without the edition statement</cite>
+
+<a name="2B11.2">2B11.2</a> If the multipart monograph is known or assumed to be a made‐up set
 (assembled from different editions by an owner) and reliable descriptions of the
 editions are available, make separate descriptions for each edition. In each
-AREA 2. EDITION
-Descriptive Cataloging of Rare Materials (Books) 71
 description, make a local note indicating that the set is imperfect and identifying
 which volumes are wanting.
-Second edition
-Local note: Library's copy imperfect: v. 2 wanting; a previous
-owner has supplied v. 2 from the 3rd ed. to create a made-up
-set
-(Comment: The first of two descriptions associated with the made‐up set)
-Third edition
-Local note: Library's copy imperfect; v. 1 wanting; a previous
-owner has supplied v. 1 from the 2nd ed. to create a made-up
-set
-(Comment: The second of two descriptions associated with the made‐up set)
+
+><cite>Second edition</cite>  
+>Local note: <cite>Library's copy imperfect: v. 2 wanting; a previous owner has supplied v. 2 from the 3rd ed. to create a made-up set</cite>  
+>>(*Comment*: The first of two descriptions associated with the made‐up set)
+
+><cite>Third edition</cite>  
+>Local note: <cite>Library's copy imperfect; v. 1 wanting; a previous owner has supplied v. 1 from the 2nd ed. to create a made-up set</cite>  
+>>(*Comment: The second of two descriptions associated with the made‐up set)
+
 2B11.3. If the multipart monograph is known or assumed to be a made‐up set
 and reliable descriptions of the editions are not available, base the description on
 the copy in hand. Make a note to indicate that the description is based on a
 made‐up set.
-First edition
-Note: Description based on a made-up set; v. 3 has "second
-edition"
-2C. Statements of responsibility relating to the edition
-2C1. General rule
-2C1.1. Transcribe a statement of responsibility relating to one or more editions,
+
+><cite>First edition</cite>  
+>Note: <cite>Description based on a made-up set; v. 3 has "second edition"</cite>
+
+### 2C. Statements of responsibility relating to the edition
+
+#### 2C1. General rule
+
+<a name="2C1.1">2C1.1</a> Transcribe a statement of responsibility relating to one or more editions,
 but not to all editions, of a given work following the edition statement if there is
 one. Such statements may include the reviser or illustrator of a new edition, or a
-corporate body responsible for a new edition. Follow the instructions in 1E for
+corporate body responsible for a new edition. Follow the instructions in 1E xxlinkxx for
 the transcription and punctuation of such statements of responsibility.
-The second edition / with notes of various authors by Thomas
-Newton
-2C1.2. Do not, however, apply this provision to such statements that do not
+
+><cite>The second edition / with notes of various authors by Thomas Newton</cite>
+
+<a name="2C1.2">2C1.2</a> Do not, however, apply this provision to such statements that do not
 name or otherwise identify a person or corporate body.
-The second edition revised and corrected
-not The second edition / revised and corrected
-2C1.3. In determining the extent of the edition statement and the beginning of the
+
+><cite>The second edition revised and corrected</cite>
+
+*not* 
+
+><cite>The second edition / revised and corrected</cite>
+
+<a name="2C1.3">2C1.3</a> In determining the extent of the edition statement and the beginning of the
 statement of responsibility relating to the edition, it may be necessary to take into
-AREA 2. EDITION
-Descriptive 72 Cataloging of Rare Materials (Books)
 account the layout, punctuation, and typography of the title page as well as the
 sense of the text. Such words as "Revised and enlarged," when appearing with
 the name of a person or body, might be transcribed either as part of the edition
 statement or as part of the statement of responsibility relating to the edition,
 depending on their presentation on the title page.
-2C2. Transposition of statements of responsibility not relating to the edition
+
+#### 2C2. Transposition of statements of responsibility not relating to the edition
+
 If a statement of responsibility appears after the edition statement, transpose it to
 the title and statement of responsibility area in all cases except when it clearly
 applies only to the edition being cataloged. Make a note to indicate this
 transposition.
-An inquiry into the original state and formation of the earth :
-deduced from facts about the laws of nature / by John
-Whitehurst. -- The second edition, considerably enlarged, and
-illustrated with plates
-Note: The statement "by John Whitehurst" appears on the t.p.
-after the edition statement
-(Comment: Statement of responsibility applies to all editions)
-2C3. Phrases about notes, appendixes, etc.
-2C3.1. If there are phrases about notes, appendixes, and such supplementary
+
+><cite>An inquiry into the original state and formation of the earth : deduced from facts about the laws of nature / by John
+Whitehurst. -- The second edition, considerably enlarged, and illustrated with plates</cite>  
+>Note: <cite>The statement "by John Whitehurst" appears on the t.p. after the edition statement</cite>  
+>>(*Comment*: Statement of responsibility applies to all editions)
+
+#### 2C3. Phrases about notes, appendixes, etc.
+
+<a name="2C3.1">2C3.1</a> If there are phrases about notes, appendixes, and such supplementary
 matter and they apply to the edition in hand but not necessarily to all editions of
 the work, transcribe them as statements of responsibility relating to the edition
 only in the case when the phrase names or otherwise identifies a person or
 corporate body and appears in the same source as the edition statement.
-The fourth edition / with a new epilogue by the author
-Editio altera, ab innumeris erroribus emendata / huic editioni
-accessere Jacobi Bongarsii excerptiones chronologicae ad
-Justini historias accommodatae
-2C3.2. If the phrase does not name a person or corporate body, transcribe it as
+
+><cite>The fourth edition / with a new epilogue by the author</cite>
+ 
+><cite>Editio altera, ab innumeris erroribus emendata / huic editioni accessere Jacobi Bongarsii excerptiones chronologicae ad Justini historias accommodatae</cite> 
+
+<a name="2C3.2">2C3.2</a> If the phrase does not name a person or corporate body, transcribe it as
 part of the edition statement proper or as part of the first statement of
 responsibility relating to the edition, as appropriate. Do not introduce the
-semicolon (as in 1E14.2) to separate such phrases from preceding statements of
+semicolon (as in 1E14.2 xxlinkxx) to separate such phrases from preceding statements of
 responsibility.
-The fourth edition, with notes
-A new edition / by Grace Webster, to which is added a life of the
-author
-AREA 2. EDITION
-Descriptive Cataloging of Rare Materials (Books) 73
-2C3.3. If such phrases have been transposed from a position preceding the
+
+><cite>The fourth edition, with notes</cite>
+
+><cite>A new edition / by Grace Webster, to which is added a life of the author</cite>
+
+<a name="2C3.3">2C3.3</a> If such phrases have been transposed from a position preceding the
 edition statement, provide details of the transposition in a note.
-2C4. Statements of responsibility relating to the edition in more than one
-language or script
-2C4.1. If the publication has parallel edition statements (see 2B9) but a statement
+
+#### 2C4. Statements of responsibility relating to the edition in more than one language or script
+
+<a name="2C4.1">2C4.1</a> If the publication has parallel edition statements (see 2B9 xxlinkxx) but a statement
 of responsibility relating to the edition in only one language or script, transcribe
 the statement of responsibility after all the edition statements.
-2C4.2. If the publication has parallel edition statements (see 2B9) and statements
+
+<a name="2C4.2">2C4.2</a> If the publication has parallel edition statements (see 2B9 xxlinkxx) and statements
 of responsibility relating to the edition in more than one language or script,
 transcribe each statement of responsibility after the edition statement to which it
 relates.
-2C4.3. Make a note to indicate the original position on the source of any
+
+<a name="2C4.3">2C4.3</a> Make a note to indicate the original position on the source of any
 transposed statements of responsibility.
-2D. Statement relating to a named revision of an edition
-2D1. If the publication is a named revision of an edition, transcribe the statement
-relating to that revision as instructed in 2B.
-The third edition, Reprinted with a new preface
-(Comment: Statement indicates the publication is a revision of the third edition)
-2D2. Do not transcribe a statement relating to a reissue of an edition if it
+
+### 2D. Statement relating to a named revision of an edition
+
+<a name="2D1">2D1</a>. If the publication is a named revision of an edition, transcribe the statement
+relating to that revision as instructed in 2B xxlinkxx.
+
+><cite>The third edition, Reprinted with a new preface</cite>
+>>(*Comment*: Statement indicates the publication is a revision of the third edition)
+
+<a name="2D2">2D2</a>. Do not transcribe a statement relating to a reissue of an edition if it
 represents a substantially unchanged impression of that edition. Omit the
 impression statement without using the mark of omission. Local notes may be
 made about such statements, if considered important.
-The second edition
-Optional local note: Library's copy is "The fifth impression"
-AREA 2. EDITION
-Descriptive 74 Cataloging of Rare Materials (Books)
-Alternative rule: If a decision has been made to create a separate bibliographic
+
+><cite>The second edition</cite>  
+>Optional local note: <cite>Library's copy is "The fifth impression"</cite>
+
+**Alternative rule**: If a decision has been made to create a separate bibliographic
 description for an individual impression, state, binding variant, or copy within a
-single edition or issue (see introductory section X.1.4 and Appendix E), transcribe a
+single edition or issue (see introductory section X.1.4 xxlinkxx and Appendix E xxlinkxx), transcribe a
 statement relating to a reissue of an edition, even if it represents a substantially
 unchanged impression of that edition, in the edition area. Indicate the source of the
 statement, if other than the title page, in a note.
-The second edition, The fifth impression
-Note: "The fifth impression" taken from the t.p. verso
-2E. Statements of responsibility relating to a named revision of an
-edition
+
+><cite>The second edition, The fifth impression</cite>  
+>Note: <cite>"The fifth impression" taken from the t.p. verso</cite>
+
+### 2E. Statements of responsibility relating to a named revision of an edition
+
 2E1. Transcribe a statement of responsibility relating to a named revision of an
 edition following the statement relating to the revision.
-Third edition, The second revision / with considerable additions
-and an appendix by George Wither
-2E2. Transcribe such statements of responsibility according to the applicable
-provisions of 2C.
-Descriptive Cataloging of Rare Materials (Books) 75
-3. MATERIAL (OR TYPE OF PUBLICATION) SPECIFIC DETAILS AREA
+
+><cite>Third edition, The second revision / with considerable additions and an appendix by George Wither</cite>
+
+2E2. Transcribe such statements of responsibility according to the applicable provisions of 2C xxlinkxx.
+
+## 3. MATERIAL (OR TYPE OF PUBLICATION) SPECIFIC DETAILS AREA
 No general use of this area is made for printed monographs.
 
-Descriptive Cataloging of Rare Materials (Books) 77
-4. PUBLICATION, DISTRIBUTION, ETC., AREA
-Contents:
-4A. Preliminary rule
-4B. Place of publication, distribution, etc.
-4C. Name of publisher, distributor, etc.
-4D. Date of publication, distribution, etc.
-4E. Place of manufacture
-4F. Name of manufacturer
-4G. Date of manufacture
-4A. Preliminary rule
-4A1. Prescribed punctuation
+## 4. PUBLICATION, DISTRIBUTION, ETC., AREA.
+
+### Contents:
+
+4A. Preliminary rule  
+4B. Place of publication, distribution, etc.  
+4C. Name of publisher, distributor, etc.  
+4D. Date of publication, distribution, etc.  
+4E. Place of manufacture  
+4F. Name of manufacturer  
+4G. Date of manufacture  
+
+### 4A. Preliminary rule
+
+#### 4A1. Prescribed punctuation
+
 For instructions on the use of spaces before and after prescribed punctuation, see
-0E.
+0E xxlinkxx.
+
 Precede this area by a period‐space‐dash‐space.
+
 Precede a second or subsequently named place of publication, distribution, etc.,
 by a semicolon, unless a linking word or phrase is given in the publication.
+
 Precede the name of the first publisher, distributor, etc., by a colon. Precede the
 name of a second and any subsequent publisher, distributor, etc., by a colon,
 unless a linking word or phrase is given in the publication.
+
 Precede the date of publication, distribution, etc., by a comma.
+
 Enclose the details of manufacture (place, name, date) within parentheses.
+
 Precede a second or subsequently named place of manufacture by a semicolon,
 unless a linking word or phrase is given in the publication.
+
 Precede the name of the first manufacturer by a colon. Precede the name of a
 second and any subsequent manufacturer by a colon, unless a linking word or
 phrase is given in the publication.
+
 Precede the date of manufacture by a comma.
-AREA 4. PUBLICATION, DISTRIBUTION, ETC.
-Descriptive 78 Cataloging of Rare Materials (Books)
+
 For the use of the equals sign to precede parallel statements, see the appropriate
 rules following.
-4A2. Sources of information
-4A2.1. The prescribed sources of information for the publication, distribution,
+
+#### 4A2. Sources of information
+
+<a name="4A2.1">4A2.1</a>. The prescribed sources of information for the publication, distribution,
 etc., area are the title page, colophon, other preliminaries, and dust jacket (see
-introductory section IX.2), in that order of preference. If the information for an
+introductory section IX.2 xxlinkxx), in that order of preference. If the information for an
 element is not present in these sources, any source may be used to supply
-needed information (see 0G6). If statements belonging to different elements are
+needed information (see 0G6 xxlinkxx). If statements belonging to different elements are
 found in separate sources, combine them to make a complete statement in the
 publication, distribution, etc., area. However, do not combine statements
 belonging to a single element when they appear in different sources within the
 publication.
-4A2.2. If any part of the publication, distribution, etc., area is taken from a source
-other than the title page, make a note to indicate the source (see 7B8). Make a
+
+<a name="4A2.2">4A2.2</a>. If any part of the publication, distribution, etc., area is taken from a source
+other than the title page, make a note to indicate the source (see 7B8 xxlinkxx). Make a
 note about information not transcribed in the publication, distribution, etc., area,
 if it is considered important.
-4A3. Form and order of information
-4A3.1. Transcribe publication, distribution, etc., information in the form and
+
+#### 4A3. Form and order of information
+
+<a name="4A3.1">4A3.1</a> Transcribe publication, distribution, etc., information in the form and
 order in which it is presented in the source, unless instructed otherwise by
-specific rules (see 0G).
-4A3.2. If statements belonging to different elements appear out of order, or as
+specific rules (see 0G xxlinkxx).
+
+<a name="4A3.2">4A3.2</a>. If statements belonging to different elements appear out of order, or as
 part of another area, and they are grammatically separable, transpose them as
 needed. Make a note indicating the original position of the transposed elements.
-Mexico : Imprenta de la Escalerillas dirigida por Manuel Ximeno,
-1828
-Note: Date follows place of publication in imprint
-Philadelphia : Published by Johnson & Warner, 1813
-([Philadelphia] : William Greer, printer)
-Note: Printer precedes date of publication on t.p.
-[Jena] : Verlegt zu Jena von Joh. Jacob Ehrdten, anno 1698
-([Mühlhausen] : Gedruckt zu Mühlhausen von Tobias David
-Brücknern)
-Note: Printer statement appears before date on t.p.
-AREA 4. PUBLICATION, DISTRIBUTION, ETC.
-Descriptive Cataloging of Rare Materials (Books) 79
-4A3.3. If the elements are not grammatically separable, or their transposition
+
+><cite>Mexico : Imprenta de la Escalerillas dirigida por Manuel Ximeno, 1828</cite>  
+>Note: <cite>Date follows place of publication in imprint</cite>  
+
+><cite>Philadelphia : Published by Johnson & Warner, 1813 ([Philadelphia] : William Greer, printer)</cite>  
+>Note: <cite>Printer precedes date of publication on t.p.</cite>  
+
+><cite>[Jena] : Verlegt zu Jena von Joh. Jacob Ehrdten, anno 1698 ([Mühlhausen] : Gedruckt zu Mühlhausen von Tobias David Brücknern)</cite>  
+>Note: <cite>Printer statement appears before date on t.p.</cite>
+
+<a name="4A3.3">4A3.3</a> If the elements are not grammatically separable, or their transposition
 would result in an ambiguous or otherwise confusing construction, transcribe
 them in the order found and supply missing elements in square brackets as
-needed (see 0G6).
-[London] : Emprynted the yere of oure Lorde a. MCCCCC & xiij by
-Richard Pynson, prynter vnto the kyng[es] noble grace, [1513]
-(Comment: The date of publication has not been transposed because it is not a
-grammatically separable element)
-4A4. Fictitious or incorrect information
+needed (see 0G6 xxlinkxx).
+
+><cite>[London] : Emprynted the yere of oure Lorde a. MCCCCC & xiij by Richard Pynson, prynter vnto the kyng[es] noble grace, [1513]</cite>  
+>>(*Comment*: The date of publication has not been transposed because it is not a grammatically separable element)
+
+#### 4A4. Fictitious or incorrect information  
+
 If all information relating to the publication, distribution, etc., area appearing in
 the publication is known to be fictitious or incorrect, transcribe it nonetheless and
 make an explanatory note. If the actual details are known, or can be reasonably
 surmised, supply them at the end of the area as a correction in square brackets.
 Include the source of this information in the note. If some but not all of the
 information is known to be fictitious or incorrect, apply the appropriate rule (see
-4B9, 4C5, 4D2.4).
-Sadopolis : Chez Justin Valcourt ... à l'enseigne de la
-Vertumalheureuse, an 0000 [i.e. Brussels : Jules Gay, 1866]
-Note: Corrected imprint from: Pia, P. Livres de l'Enfer
-4A5. Information covered by labels, etc.
+4B9, 4C5, 4D2.4 xxlinkxx).
+
+><cite>Sadopolis : Chez Justin Valcourt ... à l'enseigne de la Vertumalheureuse, an 0000 [i.e. Brussels : Jules Gay, 1866]</cite>  
+>Note: <cite>Corrected imprint from: Pia, P. Livres de l'Enfer</cite>  
+
+#### 4A5. Information covered by labels, etc.
+
 If any of the original details relating to the publication, distribution, etc., area are
 covered by a label or other means showing later information, transcribe the later
 information. If the original details are visible or otherwise available, transcribe or
 give them in a note.
-4A6. Elements relating to publication, distribution, etc., vs. elements relating
-to manufacture
+
+#### 4A6. Elements relating to publication, distribution, etc., vs. elements relating to manufacture
+
 Consider the wording, layout, and typography of the publication itself when
 determining the most appropriate place to transcribe information relating to the
 publication, distribution, etc., area. Keep in mind that statements relating to
 printing will sometimes be more appropriately transcribed as elements of
-AREA 4. PUBLICATION, DISTRIBUTION, ETC.
-Descriptive 80 Cataloging of Rare Materials (Books)
-publication, distribution, etc., and sometimes as elements of manufacture.13
-Consult the following instructions for guidance.
-4A6.1. Statements relating to publication, distribution, etc., only
-If the publication bears only a statement relating to publication, distribution, etc.,
-or multiple such statements, transcribe the statement(s) according to the
-instructions in 4B, 4C, and 4D.
-Geneuae : Sumptibus Petri Chouët, 1651
-Viennae : Impensis Joannis Pauli Kraus, bibliopolae Viennensis,
-1768
-New-York : Sold by D. Felt & Co. ; Boston : Published by Cha's
-Ellms, agent, [1835?]
-4A6.2. Statements relating to manufacture only
-4A6.2.1. If the publication bears only a statement relating to manufacture, or
-multiple such statements, generally assume the manufacturer(s) to also be
-functioning as publisher(s), distributor(s), etc. Transcribe the statement(s)
-according to the instructions in 4B, 4C, and 4D. Consider the words "place of
-publication" and "publisher" in those instructions to refer equally to the place of
-manufacture and name of manufacturer in such cases.
-Moguntiae : In typographeio Ioannis Albini, anno 1602
-Edmonton : Jas. E. Richards, government printer, 1907
-Te Philadelphia : Gedrukt bij Hendrik Miller, in de Twede Straat,
-MDCCLXII [1762]
-Albany : Printed by Websters and Skinners ; New-York :
-Stereotyped by G. Bruce, 1822
-13 The roles of publishers, printers, and booksellers were not clearly delimited in the handpress
+publication, distribution, etc., and sometimes as elements of manufacture.<sup>13</sup> Consult the following instructions for guidance.
+
+<small><sup>13</sup> The roles of publishers, printers, and booksellers were not clearly delimited in the handpress
 period. Statements relating to printing frequently appear prominently on early printed
 materials, reflecting the tendency of printers to function as more than solely manufacturers. As
 the book trade industry became increasingly specialized over time, however, the role of the
 publisher gradually assumed greater importance, while the roles of manufacturer and distributor
-came to be subordinate.
-AREA 4. PUBLICATION, DISTRIBUTION, ETC.
-Descriptive Cataloging of Rare Materials (Books) 81
-4A6.2.2. However, if the manufacturer is known not to be the publisher,
+came to be subordinate.</small>
+
+##### 4A6.1. Statements relating to publication, distribution, etc., only
+
+If the publication bears only a statement relating to publication, distribution, etc.,
+or multiple such statements, transcribe the statement(s) according to the
+instructions in 4B, 4C, and 4D xxlinkxx.
+
+><cite>Geneuae : Sumptibus Petri Chouët, 1651</cite>
+
+><cite>Viennae : Impensis Joannis Pauli Kraus, bibliopolae Viennensis, 1768</cite>
+
+><cite>New-York : Sold by D. Felt & Co. ; Boston : Published by Cha's Ellms, agent, [1835?]</cite> 
+
+##### 4A6.2. Statements relating to manufacture only
+
+<a name="4A6.2.1">4A6.2.1</a> If the publication bears only a statement relating to manufacture, or
+multiple such statements, generally assume the manufacturer(s) to also be
+functioning as publisher(s), distributor(s), etc. Transcribe the statement(s)
+according to the instructions in 4B, 4C, and 4D xxlinkxx. Consider the words "place of
+publication" and "publisher" in those instructions to refer equally to the place of
+manufacture and name of manufacturer in such cases.
+
+><cite>Moguntiae : In typographeio Ioannis Albini, anno 1602</cite> 
+
+><cite>Edmonton : Jas. E. Richards, government printer, 1907</cite>
+
+><cite>Te Philadelphia : Gedrukt bij Hendrik Miller, in de Twede Straat, MDCCLXII [1762]</cite>
+
+><cite>Albany : Printed by Websters and Skinners ; New-York : Stereotyped by G. Bruce, 1822</cite>
+
+<a name="4A6.2.2">4A6.2.2</a> However, if the manufacturer is known not to be the publisher,
 distributor, etc., and the identity of the publisher, distributor, etc., can be
 determined or reasonably surmised, supply the name of the publisher,
 distributor, etc., in square brackets and transcribe the manufacturer statement as
-such according to the instructions in 4E, 4F, and 4G.
-[Boston : New York & Erie Railroad Company, 1856] (Boston :
-Farwells & Forrest, steam job printers, 5 Lindall Street)
-4A6.3. Statements relating both to publication, distribution, etc., and to
-manufacture
+such according to the instructions in 4E, 4F, and 4G xxlinkxx.
+
+><cite>[Boston : New York & Erie Railroad Company, 1856] (Boston : Farwells & Forrest, steam job printers, 5 Lindall Street)</cite>
+
+##### 4A6.3. Statements relating both to publication, distribution, etc., and to manufacture
+
 If the publication bears statements relating both to publication, distribution, etc.,
 and to manufacture, determine whether or not the statements are grammatically
 separable.
-4A6.3.1. If the statements are grammatically inseparable, transcribe them
-according to the instructions in 4B, 4C, and 4D. Consider the words "place of
+
+<a name="4A6.3.1">4A6.3.1</a> If the statements are grammatically inseparable, transcribe them
+according to the instructions in 4B, 4C, and 4D xxlinkxx. Consider the words "place of
 publication" and "publisher" in those instructions to refer equally to the place of
 manufacture and name of manufacturer in such cases.
-Boston : Printed by Robert Hodge, for Nathaniel Coverly, in
-Newbury-Street, [1782]
-[Westzaandam] : Gedrukt voor den uitgever by H.J. de Roode te
-Westzaandam, en zyn te bekomen te Amsteldam by B. van der Klok,
-boekverkooper op de Blaauw Burgwal, 1765
-Germantown, in Pennsylvania : Printed by Christopher Sower and
-sold in Charles-Town, South-Carolina, by Jacob Viart, bookseller
-in Elliot Street, [1757]
-4A6.3.2. If the statements are grammatically separable, determine which
+
+><cite>Boston : Printed by Robert Hodge, for Nathaniel Coverly, in Newbury-Street, [1782]</cite>
+
+><cite>[Westzaandam] : Gedrukt voor den uitgever by H.J. de Roode te Westzaandam, en zyn te bekomen te Amsteldam by B. van der Klok, boekverkooper op de Blaauw Burgwal, 1765</cite>
+
+><cite>Germantown, in Pennsylvania : Printed by Christopher Sower and sold in Charles-Town, South-Carolina, by Jacob Viart, bookseller in Elliot Street, [1757]</cite>
+
+<a name="4A6.3.2">4A6.3.2</a> If the statements are grammatically separable, determine which
 statement is emphasized in the source, whether typographically (larger font size,
 uppercase letters, boldface, etc.) or by appearing first.
-4A6.3.2.1. If a manufacturer statement has been emphasized, transcribe all of the
-statements according to the instructions in 4B, 4C, and 4D. Consider the words
+
+<a name="4A6.3.2.1">4A6.3.2.1</a> If a manufacturer statement has been emphasized, transcribe all of the
+statements according to the instructions in 4B, 4C, and 4D xxlinkxx. Consider the words
 "place of publication" and "publisher" in those instructions to refer equally to
 the place of manufacture and name of manufacturer in such cases.
-Londini : Typis H. Parker : Cura Josephi Pote, bibliopolae
-Etonensis, 1732
-AREA 4. PUBLICATION, DISTRIBUTION, ETC.
-Descriptive 82 Cataloging of Rare Materials (Books)
-Oppenheimio : Ex officina typographica Hieronymi Galleri :
-Sumptibus Johannis Theodori de Bry, 1617
-Manchester : Printed at the office of G. Nicholson, No. 9,
-Spring-Gardens ; London : Sold by T. Knott, No. 47, Lombard-
-Street and Champante & Whitrow, Jewry-Street, 1796
-4A6.3.2.2. If a publisher, distributor, etc., statement has been emphasized,
+
+><cite>Londini : Typis H. Parker : Cura Josephi Pote, bibliopolae Etonensis, 1732</cite> 
+
+><cite>Oppenheimio : Ex officina typographica Hieronymi Galleri : Sumptibus Johannis Theodori de Bry, 1617</cite>
+
+><cite>Manchester : Printed at the office of G. Nicholson, No. 9, Spring-Gardens ; London : Sold by T. Knott, No. 47, Lombard-Street and Champante & Whitrow, Jewry-Street, 1796</cite>
+
+<a name="4A6.3.2.2">4A6.3.2.2</a> If a publisher, distributor, etc., statement has been emphasized,
 transcribe the publisher, distributor, etc., statement(s) according to the
-instructions in 4B, 4C, and 4D and transcribe the manufacturer statement(s)
-according to the instructions in 4E, 4F, and 4G.
-Boston : Published by William Parker, 1816 (Brookfield [Mass.] :
-E. Merriam & Co., printers)
-Tot Middelburgh : By Zacharias Roman, boeck-vercooper ..., anno
-1636 (Tot Middelburgh : Gedruckt by Hans vander Hellen ...)
-New York : Livermore & Rudd, 1856 ([New York] : Electrotyped by
-Thomas B. Smith, 82 & 84 Beekman Street : Printed by J.D.
-Torrey, 18 Spruce Street)
-4B. Place of publication, distribution, etc.
-4B1. General rule
-4B1.1. Transcribe the names of places associated with publishers, distributors,
+instructions in 4B, 4C, and 4D xxlinkxx and transcribe the manufacturer statement(s)
+according to the instructions in 4E, 4F, and 4G xxlinkxx.
+
+><cite>Boston : Published by William Parker, 1816 (Brookfield [Mass.] : E. Merriam & Co., printers)</cite>
+
+><cite>Tot Middelburgh : By Zacharias Roman, boeck-vercooper ..., anno 1636 (Tot Middelburgh : Gedruckt by Hans vander Hellen ...)</cite>
+
+><cite>New York : Livermore & Rudd, 1856 ([New York] : Electrotyped by Thomas B. Smith, 82 & 84 Beekman Street : Printed by J.D. Torrey, 18 Spruce Street)</cite>
+
+### 4B. Place of publication, distribution, etc.
+
+#### 4B1. General rule
+
+<a name="4B1.1">4B1.1</a> Transcribe the names of places associated with publishers, distributors,
 and booksellers as part of this element. Transcribe the names of places associated
 with printers and other manufacturers only if appropriate according to the
-instructions in 4A6 (i.e., when the wording, layout, or typography of the
+instructions in 4A6 xxlinkxx (i.e., when the wording, layout, or typography of the
 publication suggests that the manufacturer is also functioning as the publisher,
 distributor, etc.).
-4B1.2. Transcribe the place of publication, distribution, etc., as it appears in the
+
+<a name="4B1.2">4B1.2</a> Transcribe the place of publication, distribution, etc., as it appears in the
 source. If the place appears together with the name of a larger jurisdiction (e.g.,
 country, state, or similar designation), or multiple such jurisdictions, transcribe
 this as well.
-Elizabeth-Town
-Köln
-Apud inclytam Germaniae Basileam
-Commonwealth of Massachusetts, Boston
-Saskatoon, Saskatchewan, Canada
-AREA 4. PUBLICATION, DISTRIBUTION, ETC.
-Descriptive Cataloging of Rare Materials (Books) 83
-4B2. Places of publication, distribution, etc., with initial prepositions, etc.
+
+><cite>Elizabeth-Town</cite>
+
+><cite>Köln</cite>
+
+><cite>Apud inclytam Germaniae Basileam</cite>
+
+><cite>Commonwealth of Massachusetts, Boston</cite>
+
+><cite>Saskatoon, Saskatchewan, Canada</cite>
+
+#### 4B2. Places of publication, distribution, etc., with initial prepositions, etc.
+
 Include in the transcription any prepositions appearing before the place of
 publication, distribution, etc., as well as any accompanying words or phrases
 associated with the place name.
-A Lyon
-In London
-In Boston, printed
-(Comment: Title page reads: "In Boston, printed. 1705." Following provisions of
-4D1.3, "printed" is here transcribed with the place)
-Printed at Bennington
-Impressum fuit hoc opus Venetiis
-4B3. Supplied modern forms of place names
+
+><cite>A Lyon</cite>
+
+><cite>In London</cite>
+
+><cite>In Boston, printed</cite>  
+>>(*Comment*: Title page reads: "In Boston, printed. 1705." Following provisions of 4D1.3 xxlinkxx, "printed" is here transcribed with the place)
+
+><cite>Printed at Bennington</cite>
+
+><cite>Impressum fuit hoc opus Venetiis</cite>
+
+#### 4B3. Supplied modern forms of place names
+
 If considered necessary for identification and if known, supply in square brackets
 the modern form of the name of the place. Use an English form of the name, if
 there is one.
-Christiania [Oslo]
-Eboracum [York]
-Monachii [Munich]
-4B4. Supplied fuller forms of place names
+
+><cite>Christiania [Oslo]</cite>
+
+><cite>Eboracum [York]</cite>
+
+><cite>Monachii [Munich]</cite>
+
+#### 4B4. Supplied fuller forms of place names
+
 If a place name is found only in an abbreviated form in the source, transcribe it as
 found. Supply in square brackets the full form of the name, or the remainder of
 the name, if considered necessary for identification.
-Mpls [i.e. Minneapolis]
-Rio [de Janeiro]
-4B5. Supplied larger jurisdictions
+
+><cite>Mpls [i.e. Minneapolis]</cite>  
+
+<cite>Rio [de Janeiro]</cite>
+
+#### 4B5. Supplied larger jurisdictions
+
 Supply in square brackets the name of the country, state, province, etc., after the
 name of the place if it is considered necessary for identification, or if it is
 considered necessary to distinguish the place from others of the same name. Use
-AREA 4. PUBLICATION, DISTRIBUTION, ETC.
-Descriptive 84 Cataloging of Rare Materials (Books)
 a modern English form of the name, if there is one. Apply the abbreviations
 appearing in AACR2, Appendix B.
-Cambridge [England]
-Newport [R.I.]
-Washington [Pa.]
-4B6. Two or more places of publication, distribution, etc.
-4B6.1. If the source of information shows two or more places and all are related
+
+><cite>Cambridge [England]</cite>  
+
+><cite>Newport [R.I.]</cite>
+
+><cite>Washington [Pa.]</cite>
+
+#### 4B6. Two or more places of publication, distribution, etc.
+
+<a name="4B6.1">4B6.1</a> If the source of information shows two or more places and all are related
 to the same publisher, distributor, etc., transcribe all in the order in which they
 appear.
-London ; York
-A Lausanne & se trouve à Paris
-4B6.2. Optionally, if it is considered that the places are too numerous to list
+
+><cite>London ; York</cite>
+
+><cite>A Lausanne & se trouve à Paris</cite>
+
+<a name="4B6.2">4B6.2</a> *Optionally*, if it is considered that the places are too numerous to list
 exhaustively, and that some may be omitted without significant loss of
 identification, the place of publication, distribution, etc., statement may be
 shortened by omitting all the places after the third. In such cases, use the mark of
 omission and supply after it in square brackets a phrase in the language and
 script of the cataloging agency to convey the extent of the omission. Include the
 number of omitted places (if more than one) in the supplied phrase.
-London ; Reading ; Bath ... [and 6 other cities in England]
-4B6.3. If a subsequent place of publication, distribution, etc., is not related to the
-same publisher, distributor, etc.,, transcribe it in association with the publisher,
+
+><cite>London ; Reading ; Bath ... [and 6 other cities in England]</cite>
+
+<a name="4B6.3">4B6.3</a>. If a subsequent place of publication, distribution, etc., is not related to the
+same publisher, distributor, etc., transcribe it in association with the publisher,
 distributor, etc., to which it corresponds.
-New York : Ivison, Phinney, and Co. ; London : Trübner & Co.
-4B6.4. Do not, however, transcribe a subsequent place as a place of publication,
+
+><cite>New York : Ivison, Phinney, and Co. ; London : Trübner & Co.</cite>
+
+<a name="4B6.4">4B6.4</a> Do not, however, transcribe a subsequent place as a place of publication,
 distribution, etc., if it must be recorded as a grammatically inseparable part of
 another element.
-Printed at Worcester, Massachusetts : By Isaiah Thomas : Sold by
-him in Worcester, by said Thomas and Andrews in Boston, and by
-said Thomas and Carlisle, in Walpole, Newhampshire
-4B6.5. If a place of publication, distribution, etc., associated with an earlier
+
+><cite>Printed at Worcester, Massachusetts : By Isaiah Thomas : Sold by him in Worcester, by said Thomas and Andrews in Boston, and by said Thomas and Carlisle, in Walpole, Newhampshire</cite>
+
+<a name="4B6.5">4B6.5</a> If a place of publication, distribution, etc., associated with an earlier
 edition appears together with the actual place of publication, distribution, etc., of
-AREA 4. PUBLICATION, DISTRIBUTION, ETC.
-Descriptive Cataloging of Rare Materials (Books) 85
 the edition being described, transcribe the places as a single element in the order
 in which they appear.
-Philadelphia printed, London reprinted
-4B6.6. If both the place and publisher, distributor, etc., associated with an earlier
+
+><cite>Philadelphia printed, London reprinted</cite>
+
+<a name="4B6.6">4B6.6</a> If both the place and publisher, distributor, etc., associated with an earlier
 edition appear together with the place and publisher, distributor, etc., of the
 edition being described, transcribe each place with the publisher, distributor, etc.,
 to which it corresponds.
-London : Printed for Knight and Lacy, Paternoster-Row ;
-Greenfield, Mass. : Re-printed by Ansel Phelps, and for sale by
-him at his bookstore, also by West & Richardson, Cummings,
-Hilliard & Co., Boston, and Wilder & Campbell, New-York
-4B7. Places of publication, distribution, etc., in multipart monographs
+
+><cite>London : Printed for Knight and Lacy, Paternoster-Row ; Greenfield, Mass. : Re-printed by Ansel Phelps, and for sale by him at his bookstore, also by West & Richardson, Cummings, Hilliard & Co., Boston, and Wilder & Campbell, New-York</cite>
+
+#### 4B7. Places of publication, distribution, etc., in multipart monographs
+
 If the publication is issued in more than a single physical part, and the place of
 publication, distribution, etc., changes in the course of publication, give the place
 of publication, distribution, etc., of the later part(s) in a note.
-Stuttgart ; Tübingen
-Note: Place of publication in v. 33-40: Stuttgart ; Augsburg
-4B8. Place names that are grammatically inseparable parts of other areas, etc.
+
+><cite>Stuttgart ; Tübingen</cite>  
+>Note: <cite>Place of publication in v. 33-40: Stuttgart ; Augsburg</cite>
+
+#### 4B8. Place names that are grammatically inseparable parts of other areas, etc.
+
 If the place of publication, distribution, etc., appears only as a grammatically
 inseparable part of another area and is transcribed there, or appears only as a
 grammatically inseparable part of the publisher, distributor, etc., statement and
 is transcribed there, supply in square brackets the place of publication,
 distribution, etc., as the first element of the publication, distribution, etc., area
-(see 4C3). Use a modern English form of the name, if there is one.
-[Munich] : Durch Peter Clement, Kunstführer zu München
-4B9. Fictitious or incorrect places of publication, distribution, etc.
+(see 4C3 xxlinkxx). Use a modern English form of the name, if there is one.
+
+><cite>[Munich] : Durch Peter Clement, Kunstführer zu München</cite>
+
+#### 4B9. Fictitious or incorrect places of publication, distribution, etc.
+
 If the place of publication, distribution, etc., appearing in the publication is
 known to be fictitious or incorrect, transcribe it nonetheless and make an
 explanatory note. If the actual place is known, or can be reasonably surmised,
 supply a correction in square brackets. Use a modern English form of name, if
 there is one, and give the basis for the correction in the note. If, however, the
 entire statement consisting of place, publisher, and date is known to be fictitious
-or incorrect, apply 4A4.
-AREA 4. PUBLICATION, DISTRIBUTION, ETC.
-Descriptive 86 Cataloging of Rare Materials (Books)
-Londres [i.e. Paris]
-Note: Actual place of publication from: Weller, E.O. Falsche
-Druckorte
-4B10. No place of publication, distribution, etc.
-4B10.1. If no place of publication, distribution, etc., appears in the publication,
+or incorrect, apply 4A4 xxlinkxx.
+
+><cite>Londres [i.e. Paris]</cite>  
+>Note: <cite>Actual place of publication from: Weller, E.O. Falsche Druckorte</cite>  
+
+#### 4B10. No place of publication, distribution, etc.
+
+<a name="4B10.1">4B10.1</a> If no place of publication, distribution, etc., appears in the publication,
 supply one in square brackets. Use a modern English form of the name, if there is
 one, and include the name of the larger jurisdiction if considered necessary for
 identification. Use the location associated with the first transcribed publisher,
 distributor, etc., if one is present. Provide a justification for the supplied place in
 a note if necessary.
-[Cambridge, Mass.] : Printed by Samuel Green, 1668
-Note: Samuel Green was located in Cambridge, Mass., from 1660 to
-1672
-4B10.2. If the name of the place has changed over time, supply the name
+
+><cite>[Cambridge, Mass.] : Printed by Samuel Green, 1668</cite>  
+>Note: <cite>Samuel Green was located in Cambridge, Mass., from 1660 to 1672</cite>
+
+<a name="4B10.2">4B10.2</a> If the name of the place has changed over time, supply the name
 appropriate to the date of publication, distribution, etc., if known (e.g.,
 Leningrad, not St. Petersburg, for works published in that city between 1924 and
 1991). If considered necessary for identification, also supply the modern place
 name and the name of the larger jurisdiction.
-[Christiania i.e. Oslo]
-[Leona Vicario i.e. Saltillo, Coahuila, Mexico]
-4B11. Place of publication, distribution, etc., supplied based on address or sign
+
+><cite>[Christiania i.e. Oslo]</cite>  
+
+><cite>[Leona Vicario i.e. Saltillo, Coahuila, Mexico]</cite> 
+
+#### 4B11. Place of publication, distribution, etc., supplied based on address or sign
+
 Supply in square brackets the name of the place of publication, distribution, etc.,
 using a modern English form of the name, if there is one, when only an address
 or sign appears in the publication. (Transcribe the address or sign as the
-publisher, distributor, etc., statement; see 4C4.1.) When supplying the place, give
+publisher, distributor, etc., statement; see 4C4.1 xxlinkxx.) When supplying the place, give
 a justification in a note if necessary.
-[Paris]
-(Comment: Imprint reads: "à l’enseigne de l’éléphant," the trade sign of a Parisian
-printer)
-[London]
-(Comment: Imprint reads: "sold in St. Paul’s Church Yard")
-AREA 4. PUBLICATION, DISTRIBUTION, ETC.
-Descriptive Cataloging of Rare Materials (Books) 87
-4B12. Place of publication, distribution, etc., uncertain or unknown
-4B12.1. If the place of publication, distribution, etc., is uncertain, supply the
+
+><cite>[Paris]</cite>  
+>>(*Comment*: Imprint reads: "à l’enseigne de l’éléphant," the trade sign of a Parisian printer)
+
+><cite>[London]</cite>  
+>>(*Comment*: Imprint reads: "sold in St. Paul’s Church Yard")
+
+#### 4B12. Place of publication, distribution, etc., uncertain or unknown
+
+<a name="4B12.1">4B12.1</a> If the place of publication, distribution, etc., is uncertain, supply the
 name of the probable place of publication, distribution, etc., with a question
 mark, using a modern English form of the name, if there is one, all in square
 brackets.
-[Amsterdam?]
-[Newport, R.I.?]
-[St. Petersburg?]
-4B12.2. If no city of publication, distribution, etc., can be conjectured, supply the
+
+><cite>[Amsterdam?]</cite>
+
+><cite>[Newport, R.I.?]</cite>
+
+><cite>[St. Petersburg?]</cite>
+
+<a name="4B12.2">4B12.2</a> If no city of publication, distribution, etc., can be conjectured, supply the
 name of a state, province, country, or other larger geographic entity as the place
 of publication, distribution, etc., with a question mark if necessary, using a
 modern English form of the name, if there is one, all in square brackets.
-[Canada]
-[Surrey?]
-[Prussia?]
-[South America?]
-4B12.3. If the reason for supplying the place is not apparent from the rest of the
+
+><cite>[Canada]</cite>
+
+><cite>[Surrey?]</cite>
+
+><cite>[Prussia?]</cite>
+
+><cite>[South America?]</cite>
+
+<a name="4B12.3">4B12.3</a> If the reason for supplying the place is not apparent from the rest of the
 description, make a note to indicate the source of the information.
-Note: Place of publication suggested by Alden
-4B12.4. If no place of publication, distribution, etc., can be supplied, use the
+
+>Note: <cite>Place of publication suggested by Alden</cite>
+
+<a name="4B12.4">4B12.4</a> If no place of publication, distribution, etc., can be supplied, use the
 abbreviation "s.l." (sine loco) in square brackets.
-[S.l.]
-4B13. Place names in more than one language or script
-4B13.1. If the name of the place of publication, distribution, etc., appears in more
+
+><cite>[S.l.]</cite>
+
+#### 4B13. Place names in more than one language or script
+
+<a name="4B13.1">4B13.1</a> If the name of the place of publication, distribution, etc., appears in more
 than one language or script, transcribe the statement in the language or script of
 the title proper, or if this criterion does not apply, transcribe the statement that
 appears first. Transcribe the remaining statement(s) as parallel statements,
 preceding each by an equals sign. Make a note to indicate the original position on
 the source of any transposed statements.
-AREA 4. PUBLICATION, DISTRIBUTION, ETC.
-Descriptive 88 Cataloging of Rare Materials (Books)
-4B13.2. Optionally, if it is considered that the parallel statements are too
+
+<a name="4B13.2">4B13.2</a> *Optionally*, if it is considered that the parallel statements are too
 numerous to list exhaustively, and that some may be omitted without significant
 loss of identification, omit parallel statements after the first using the mark of
 omission. Transcribe the omitted statement(s) in a note, if considered important.
-4C. Name of publisher, distributor, etc.
-4C1. Transcribe the names of publishers, distributors, and booksellers as part of
+
+### 4C. Name of publisher, distributor, etc.
+
+<a name="4C1">4C1</a> Transcribe the names of publishers, distributors, and booksellers as part of
 this element. Transcribe the names of printers and other manufacturers only if
-appropriate according to the instructions in 4A6 (i.e., when the wording, layout,
+appropriate according to the instructions in 4A6 xxlinkxx (i.e., when the wording, layout,
 or typography of the publication suggests that the manufacturer is also
 functioning as the publisher, distributor, etc.).
-4C2. Transcribe the name of the publisher, together with any associated words or
+
+<a name="4C2">4C2</a> Transcribe the name of the publisher, together with any associated words or
 phrases, as it appears in the publication.
-: Em caza de Guilherme Strahan
-: Printed, and re-printed by E. Waters
-: In the Flete Strete in the sygne of the Sonne by Wynkyn de
-Worde
-: Imprimerie d'E. Duverger, rue de Verneuil, no 4
-Optionally, omit addresses and insignificant information in the middle or at the
+
+><cite>: Em caza de Guilherme Strahan</cite>
+
+><cite>: Printed, and re-printed by E. Waters</cite>
+
+><cite>: In the Flete Strete in the sygne of the Sonne by Wynkyn de Worde</cite>
+
+><cite>: Imprimerie d'E. Duverger, rue de Verneuil, no 4</cite>
+
+*Optionally*, omit addresses and insignificant information in the middle or at the
 end of the publisher, distributor, etc., statement, unless the information aids in
 identifying or dating the publication or is deemed important to the cataloging
 agency (e.g., for the purpose of capturing book trade data). Indicate all omissions
 by the mark of omission.
-: Chez Testu, imprimeur-libraire ... Blanchon, libraire ... et
-les marchands de nouveautés
+
+><cite>: Chez Testu, imprimeur-libraire ... Blanchon, libraire ... et les marchands de nouveautés</cite>
+
 If a statement such as "Privately printed" appears on the title page, transcribe it
 as, or as part of, the publisher, distributor, etc., statement.
-: Privately printed
-4C3. Publisher, distributor, etc., statements containing grammatically
-inseparable place names or dates
+
+><cite>: Privately printed</cite>
+
+#### 4C3. Publisher, distributor, etc., statements containing grammatically inseparable place names or dates
+
 If the publisher, distributor, etc., statement contains grammatically inseparable
 statements relating to place or date of publication, distribution, etc., transcribe
-AREA 4. PUBLICATION, DISTRIBUTION, ETC.
-Descriptive Cataloging of Rare Materials (Books) 89
 the information as part of the publisher, distributor, etc., element. Supply the
 place or date of publication, distribution, etc., in square brackets in the
-appropriate element (see 4B8, 4D1.4; see also 4A3.3).
-[London] : Printed in the year of our Lord 1665 for the author
-Lodowick Muggleton, in Great Trinity-Lane London, near the sign
-of the Lyon and Lamb, [1665]
-4C4. Publisher, distributor, etc., statements containing only addresses, signs, or
-initials
-4C4.1. If only the address, sign, or initials of the publisher, distributor, etc.,
+appropriate element (see 4B8, 4D1.4; see also 4A3.3 xxlinkxx).
+
+><cite>[London] : Printed in the year of our Lord 1665 for the author Lodowick Muggleton, in Great Trinity-Lane London, near the sign of the Lyon and Lamb, [1665]</cite>
+
+#### 4C4. Publisher, distributor, etc., statements containing only addresses, signs, or initials
+
+<a name="4C4.1">4C4.1</a> If only the address, sign, or initials of the publisher, distributor, etc.,
 appear in lieu of the name, transcribe the statement containing the address, sign,
-or initials as the publisher, distributor, etc., statement (see also 4B11). If the
+or initials as the publisher, distributor, etc., statement (see also 4B11 xxlinkxx). If the
 publisher’s, distributor’s, etc., name can be identified, supply it in square
 brackets after the initials or before or after the address or sign, as appropriate, or
 give the information in a note.
-: Printed for W.W. [i.e. William Welby] and are to be solde in
-Paule's Church yarde at the signe of the Grey-hound
-Note: Bookseller's name identified in STC (2nd ed.)
-: Printed for I.T.
-Note: Printed by Miles Flesher for John Trundle; see STC (2nd
-ed.)
-: [Jean-Pierre Costard] rue Saint-Jean-de-Beauvais, la premiere
-porte cochere au dessus du College
-Note: Costard listed as printer in Quérard
-: Ad insigne Pinus [i.e. Hans Schultes, the Elder]
-Note: Colophon: Augustae Vindel. Ex officina typographica
-Iohannis Praetorii, anno MDCI. Praetorius was a latinized form
-used by Hans Schultes in some imprints; see Benzing, J.
-Buchdrucker (1982 ed.)
-4C4.2. If the identification of the publisher, distributor, etc., is based on a device,
+
+><cite>: Printed for W.W. [i.e. William Welby] and are to be solde in Paule's Church yarde at the signe of the Grey-hound</cite>  
+>Note: <cite>Bookseller's name identified in STC (2nd ed.)</cite>
+
+><cite>: Printed for I.T.</cite>  
+><Note: <cite>Printed by Miles Flesher for John Trundle; see STC (2nd ed.)</cite>
+
+><cite>: [Jean-Pierre Costard] rue Saint-Jean-de-Beauvais, la premiere porte cochere au dessus du College</cite>  
+>Note: <cite>Costard listed as printer in Quérard</cite>
+
+><cite>: Ad insigne Pinus [i.e. Hans Schultes, the Elder]</cite>  
+>Note: <cite>Colophon: Augustae Vindel. Ex officina typographica Iohannis Praetorii, anno MDCI. Praetorius was a latinized form used by Hans Schultes in some imprints; see Benzing, J. Buchdrucker (1982 ed.)</cite>
+
+<a name="4C4.2">4C4.2</a> If the identification of the publisher, distributor, etc., is based on a device,
 supply the name of the publisher, distributor, etc., in square brackets, even if the
 device includes the publisher’s, distributor’s, etc., initials or spelled‐out name.
 Make a note as necessary about the basis for the identification, the source of the
 information used, the presence of the device, etc.
-4C5. Fictitious or incorrect publisher, distributor, etc., statements
+
+#### 4C5. Fictitious or incorrect publisher, distributor, etc., statements
+
 If the publisher, distributor, etc., statement is known to be fictitious or incorrect,
 transcribe it nonetheless and make an explanatory note. If the actual details are
-AREA 4. PUBLICATION, DISTRIBUTION, ETC.
-Descriptive 90 Cataloging of Rare Materials (Books)
 known, or can be reasonably surmised, supply a correction in square brackets
 and give the basis for the correction in the note. If, however, the entire statement
 consisting of place, publisher (distributor, etc.), and date is fictitious or incorrect,
-apply 4A4.
-: Par Mathurin Marchant [i.e. John Wolfe]
-Note: Printer identified in STC (2nd ed.)
-4C6. Two or more names of publishers, distributors, etc.
-4C6.1. If the publisher, distributor, etc., statement includes more than one
+apply 4A4 xxlinkxx.
+
+><cite>: Par Mathurin Marchant [i.e. John Wolfe]</cite>  
+>Note: <cite>Printer identified in STC (2nd ed.)</cite>
+
+#### 4C6. Two or more names of publishers, distributors, etc.
+
+<a name="4C6.1">4C6.1</a> If the publisher, distributor, etc., statement includes more than one
 publisher, distributor, etc., in a single source, transcribe all the names in the
 order in which they appear. Transcribe them as subsequent statements of
 publication, distribution, etc., only when they are not linked by connecting
 words or phrases.
-: Par Ian de Tournes pour Antoine Vincent
-: Printed for the author and sold by J. Roberts
-: Printed for J. Newbery, T. Becket, T. Davies, W. Jackson, in
-Oxford, and A. Kincaid, and Company, in Edinburgh
-: Ex officina Ascensiana : Impendio Joannis Parui
-4C6.2. Optionally, if it is considered that the names are too numerous to list
+
+><cite>: Par Ian de Tournes pour Antoine Vincent</cite>
+
+><cite>: Printed for the author and sold by J. Roberts</cite>
+
+><cite>: Printed for J. Newbery, T. Becket, T. Davies, W. Jackson, in Oxford, and A. Kincaid, and Company, in Edinburgh</cite>
+
+><cite>: Ex officina Ascensiana : Impendio Joannis Parui<cite>
+
+<a name="4C6.2">4C6.2</a> *Optionally*, if it is considered that the names are too numerous to list
 exhaustively, and that some may be omitted without significant loss of
 identification, the publisher, distributor, etc., statement may be shortened by
 omitting all the names after the third. In such cases, use the mark of omission
@@ -2844,239 +3057,336 @@ and supply after it in square brackets a phrase in the language and script of th
 cataloging agency to convey the extent of the omission. Include the number of
 omitted publishers (or firms) and the number of omitted places (if more than
 one) in the supplied phrase.
-: Printed for F.C. and J. Rivington, Otridge and Son, J. Nichols
-and Co. ... [and 26 others]
-: Printed and sold by J. Newbery and C. Micklewright, also by
-Mess. Ware, Birt, Astley, Austen, Robinson, Dodsley, and
-Needham, in London ...[and 8 others in 8 other places]
-4C6.3. If the name of a publisher, distributor, etc., associated with an earlier
+
+><cite>: Printed for F.C. and J. Rivington, Otridge and Son, J. Nichols and Co. ... [and 26 others]</cite>
+
+><cite>: Printed and sold by J. Newbery and C. Micklewright, also by Mess. Ware, Birt, Astley, Austen, Robinson, Dodsley, and Needham, in London ...[and 8 others in 8 other places]</cite>
+
+<a name="4C6.3">4C6.3</a> If the name of a publisher, distributor, etc., associated with an earlier
 edition appears together with the name of the actual publisher, distributor, etc.,
 of the edition being described, transcribe the names as a single element in the
 order in which they appear.
-AREA 4. PUBLICATION, DISTRIBUTION, ETC.
-Descriptive Cataloging of Rare Materials (Books) 91
-: Printed for T. Cooper, at the Globe in Pater-noster-Row, 1742,
-and reprinted for J. Wilkie, St. Paul's Church-yard
-4C6.4. If both the place and publisher, distributor, etc., associated with an earlier
+
+><cite>: Printed for T. Cooper, at the Globe in Pater-noster-Row, 1742, and reprinted for J. Wilkie, St. Paul's Church-yard</cite>
+
+<a name="4C6.4">4C6.4</a> If both the place and publisher, distributor, etc., associated with an earlier
 edition appear together with the place and publisher, distributor, etc., of the
 edition being described, transcribe each publisher, distributor, etc., with the place
 to which it corresponds.
-London : Printed by G. Riebau, no. 439, Strand ; Edinburgh :
-Reprinted, with permission, and sold by J. Robertson, no. 4,
-Horse-Wynd ...
-4C7. Names of publishers, distributors, etc., in multipart monographs
+
+><cite>London : Printed by G. Riebau, no. 439, Strand ; Edinburgh : Reprinted, with permission, and sold by J. Robertson, no. 4, Horse-Wynd ...</cite>
+
+#### 4C7. Names of publishers, distributors, etc., in multipart monographs
+
 If the publication is issued in more than one physical part and the name or form
 of name of the publisher, distributor, etc., changes in the course of publication,
 transcribe the publisher, distributor, etc., statement of the first or earliest part
 and give the publisher, distributor, etc., statement of the later part(s) in a note.
-: G.J. Göschen'sche Verlagsbuchhandlung
-Note: Vols. 8-10 have publisher statement: Verlag von G.J.
-Göschen
-4C8. Supplied and conjectured names of publishers, distributors, etc.
+
+><cite>: G.J. Göschen'sche Verlagsbuchhandlung</cite>  
+>Note: <cite>Vols. 8-10 have publisher statement: Verlag von G.J. Göschen</cite>
+
+#### 4C8. Supplied and conjectured names of publishers, distributors, etc.
+
 If no name, address, or device of a publisher, distributor, etc., appears in the
 publication, supply the name of the publisher, distributor, etc., in square brackets
 if known. If the responsibility of a publisher, distributor, etc., for a particular
 publication is conjectured, either add a question mark to any supplied name or
 give the information in a note. In any case of a supplied publisher, distributor,
 etc., give supporting evidence in a note.
-4C9. No supplied name of publisher, distributor, etc.
+
+#### 4C9. No supplied name of publisher, distributor, etc.
+
 If no publisher, distributor, etc., statement can be supplied, use the abbreviation
 "s.n." (sine nomine) in square brackets.
-Paris : [s.n.]
-[S.l. : s.n.]
-AREA 4. PUBLICATION, DISTRIBUTION, ETC.
-Descriptive 92 Cataloging of Rare Materials (Books)
-4C10. Publisher, distributor, etc., transcribed as part of another area
+
+><cite>Paris : [s.n.]</cite>  
+
+><cite>[S.l. : s.n.]</cite>
+
+#### 4C10. Publisher, distributor, etc., transcribed as part of another area
+
 If no publisher, distributor, etc., statement appears in the publication, but the
 name of the publisher, distributor, etc., has already been transcribed as part of
 another area, supply it in a short identifiable form within square brackets.
-[Paris : Symon Vostre, 25 Apr. 1500]
-(Comment: Title reads: "Ces presentes heures a lusaige de Paris ... fure[n]t
-acheuees lan mil cincq ce[n]s le xxv iour dapuril pour Symon Vostre, libraire …")
+
+><cite>[Paris : Symon Vostre, 25 Apr. 1500]</cite>  
+>>(*Comment*: Title reads: "Ces presentes heures a lusaige de Paris ... fure[n]t acheuees lan mil cincq ce[n]s le xxv iour dapuril pour Symon Vostre, libraire …")
+
 If transcribing a publisher, distributor, etc., statement in the publication,
 distribution, etc., area, however, do not abridge or expand the statement simply
 because it repeats or omits information given elsewhere in the description.
-4C11. Publisher, distributor, etc., statements in more than one language or
-script
-4C11.1. If the name of the publisher, distributor, etc., appears in more than one
+
+#### 4C11. Publisher, distributor, etc., statements in more than one language or script
+
+<a name="4C11.1">4C11.1</a> If the name of the publisher, distributor, etc., appears in more than one
 language or script, transcribe the statement in the language or script of the title
 proper, or if this criterion does not apply, transcribe the statement that appears
 first. Transcribe the remaining statement(s) as parallel statements, preceding
 each by an equals sign. Make a note to indicate the original position on the
 source of any transposed statements.
-4C11.2. Optionally, if it is considered that the parallel statements are too
+
+<a name="4C11.2">4C11.2</a> *Optionally*, if it is considered that the parallel statements are too
 numerous to list exhaustively, and that some may be omitted without significant
 loss of identification, omit parallel statements after the first using the mark of
 omission. Transcribe the omitted statement(s) in a note, if considered important.
-4D. Date of publication, distribution, etc.
-4D1. General rule
-4D1.1. Transcribe dates of publication, distribution, etc., as part of this element.
+
+### 4D. Date of publication, distribution, etc.
+
+#### 4D1. General rule
+
+<a name="4D1.1">4D1.1</a> Transcribe dates of publication, distribution, etc., as part of this element.
 Transcribe dates of printing or other manufacture only if appropriate according
-to the instructions in 4A6 (i.e., when the wording, layout, or typography of the
+to the instructions in 4A6 xxlinkxx (i.e., when the wording, layout, or typography of the
 publication suggests that the manufacturer is also functioning as the publisher,
 distributor, etc.).
-4D1.2. Transcribe dates as they appear in the publication, including the day and
+
+<a name="4D1.2">4D1.2</a> Transcribe dates as they appear in the publication, including the day and
 month, if present.
-AREA 4. PUBLICATION, DISTRIBUTION, ETC.
-Descriptive Cataloging of Rare Materials (Books) 93
-, 7th July 1766
-, 1732, reprinted 1734
-4D1.3. Transcribe words and phrases such as "in the year" and "anno" as part of
+
+><cite>, 7th July 1766</cite>
+
+><cite>, 1732, reprinted 1734</cite>
+
+<a name="4D1.3">4D1.3</a> Transcribe words and phrases such as "in the year" and "anno" as part of
 this element. If both the place and the date of printing appear in conjunction with
 the phrase "printed in the year," determine whether "printed" is to be
 transcribed with the place or the date according to the punctuation or
 typography of the source.
-London printed : [s.n.], in the year 1742
-(Comment: Imprint reads: "London printed, in the year 1742")
-London : [s.n.], printed in the year 1742
-(Comment: Imprint reads: "London, printed in the year 1742")
-4D1.4. If the date is grammatically inseparable from information transcribed as
+
+><cite>London printed : [s.n.], in the year 1742</cite>  
+>>(*Comment*: Imprint reads: "London printed, in the year 1742")
+
+><cite>London : [s.n.], printed in the year 1742</cite>  
+>>(*Comment*: Imprint reads: "London, printed in the year 1742")
+
+<a name="4D1.4">4D1.4</a> If the date is grammatically inseparable from information transcribed as
 part of another element or area according to one or more of the conditions
-enumerated in 1B1.1, transcribe it within that area or element and supply the
+enumerated in 1B1.1 xxlinkxx, transcribe it within that area or element and supply the
 date in square brackets as the date of publication, distribution, etc.
-4D2. Transcription involving adjustments or additions
-4D2.1. Roman numerals. If the date appears in roman numerals, transcribe the
-date as it appears. Omit internal spaces and punctuation (see 0G3.4, 0G4.1).
+
+#### 4D2. Transcription involving adjustments or additions
+
+<a name="4D2.1">4D2.1</a> **Roman numerals**. If the date appears in roman numerals, transcribe the
+date as it appears. Omit internal spaces and punctuation (see 0G3.4, 0G4.1 xxlink).
 Supply the year in arabic numerals in square brackets.
-, anno Domini MDCXIV [1614]
-, anno gratiae Mdiij [1503]
-, MCCCCLXXXII le XV jour de decembre [1482]
-, MDCCXLIV [1744]
-(Comment: On publication: "M. D. CC. XLIV")
-4D2.2. Chronograms. If the date appears only in the form of a chronogram,
+
+><cite>, anno Domini MDCXIV [1614]</cite>
+
+><cite>, anno gratiae Mdiij [1503]</cite>
+
+><cite>, MCCCCLXXXII le XV jour de decembre [1482]</cite>
+
+><cite>, MDCCXLIV [1744]</cite>
+>>(*Comment*: On publication: "M. D. CC. XLIV")
+
+<a name="4D2.2">4D2.2</a> **Chronograms**. If the date appears only in the form of a chronogram,
 substitute for it the date in arabic numerals in square brackets. If the supplied
 date includes a day/month, use the sequence: day, month, year. Make a note
 explaining the source of the date. Include a transcription of the original
 chronogram in the note, if considered important.
-, [1740]
-Note: Date of publication derived from chronogram: Ipso anno
-tertIo saeCVLarI typographIae DIVIno aVXILIo a gerManIs
-InVentae
-AREA 4. PUBLICATION, DISTRIBUTION, ETC.
-Descriptive 94 Cataloging of Rare Materials (Books)
-(Comment: Transcribing the chronogram in this note is optional)
-, [8 Mar. 1643]
-Note: Date of publication derived from chronogram in colophon
-4D2.3. Very long dates. If the statement of the date in the publication is very
+
+><cite>, [1740]</cite>  
+>Note: <cite>Date of publication derived from chronogram: Ipso anno tertIo saeCVLarI typographIae DIVIno aVXILIo a gerManIs
+InVentae</cite>
+>>(*Comment*: Transcribing the chronogram in this note is optional)
+
+><cite>, [8 Mar. 1643]</cite>  
+>Note: <cite>Date of publication derived from chronogram in colophon</cite>  
+
+<a name="4D2.3">4D2.3</a> Very long dates. If the statement of the date in the publication is very
 long, substitute for it a formalized statement in square brackets. If the supplied
 date includes a day/month, use the sequence: day, month, year. Make a note
 concerning the source and the original form of the statement.
-, [18 May 1507]
-Note: Date expressed in Latin words on t.p.
-(Comment: In publication: "Anno gratiae millesimo quingentesimo septimo die
-vero decimoctavo Maij")
-4D2.4. Fictitious or incorrect dates. If the date of publication, distribution, etc., is
+
+><cite>, [18 May 1507]</cite>  
+>Note: <cite>Date expressed in Latin words on t.p.</cite>  
+>>(*Comment*: In publication: "Anno gratiae millesimo quingentesimo septimo die vero decimoctavo Maij")
+
+<a name="4D2.4">4D2.4</a> **Fictitious or incorrect dates**. If the date of publication, distribution, etc., is
 known to be fictitious or incorrect, transcribe it as it appears and supply the
 actual date in square brackets. If, however, the entire statement consisting of
-place, publisher (distributor, etc.), and date is fictitious or incorrect, apply 4A4.
-, DMLII [i.e. 1552]
-, 1703 [i.e. 1730]
+place, publisher (distributor, etc.), and date is fictitious or incorrect, apply 4A4 xxlinkxx.
+
+><cite>, DMLII [i.e. 1552]</cite>
+
+><cite>, 1703 [i.e. 1730]</cite>
+
 If a date from the title page has been transcribed as the publication, distribution,
 etc., date, and evidence for a later date of publication, distribution, etc., appears
 in a source other than the title page, supply the later date in square brackets as a
 correction. If necessary, make a note to clarify that the date added as a correction
 is a differing date of publication, not a correction of an error on the title page.
-, 1786 [i.e. 1788]
-Note: Dedication and preface both dated 1788
+
+><cite>, 1786 [i.e. 1788]</cite>  
+>Note: <cite>Dedication and preface both dated 1788</cite>
+
 4D2.5. Julian/Old Style dates. If the year of publication, distribution, etc., is
 based on the Julian calendar (sometimes called the Old Style calendar) and the
 publication is known to have been published in the following year according to
 the Gregorian calendar, transcribe the date as it appears and supply the
-Gregorian year in square brackets.14 Make a note to indicate the basis for the
-14 The Julian calendar was gradually abandoned in favor of the Gregorian calendar beginning
-in 1582, with different countries adopting the calendar in different years. The difficulty in
-determining dates during this period is further complicated by the fact that January 1 was not
-universally used to reckon the start of a new year (e.g., before adopting the Gregorian calendar,
-AREA 4. PUBLICATION, DISTRIBUTION, ETC.
-Descriptive Cataloging of Rare Materials (Books) 95
+Gregorian year in square brackets.<sup>14</sup> Make a note to indicate the basis for the
 supplied year. Do not amend the month and day, if present, by supplying
 Gregorian equivalents. In case of doubt, do not adjust the year.
-, printed anno Domini 1640 [i.e. 1641]
-Note: Date of publication based on the Julian calendar; see STC
-(2nd ed.)
-, Februar. 8. anno 1588 [i.e. 1589]
-Note: Imprint uses Lady Day dating; see Steele, R. Tudor and
-Stuart proclamations
+
+<small><sup>14</sup> The Julian calendar was gradually abandoned in favor of the Gregorian calendar beginning
+in 1582, with different countries adopting the calendar in different years. The difficulty in
+determining dates during this period is further complicated by the fact that January 1 was not
+universally used to reckon the start of a new year (e.g., before adopting the Gregorian calendar, Great Britain and its colonies long calculated the turn of the year on March 25, the Feast of the
+Annunciation or "Lady Day"). For assistance in establishing Gregorian dates, consult a reference
+source such as Adriano Cappelli’s *Cronologia e Calendario Perpetuo* or C.R. Cheneyʹs *Handbook of
+Dates for Students of English History*.</small>
+
+><cite>, printed anno Domini 1640 [i.e. 1641]</cite>  
+>Note: <cite>Date of publication based on the Julian calendar; see STC (2nd ed.)</cite>
+
+><cite>, Februar. 8. anno 1588 [i.e. 1589]</cite>  
+>Note: <cite>Imprint uses Lady Day dating; see Steele, R. Tudor and Stuart proclamations</cite>
+
 If two dates appear in the publication, representing both Julian (Old Style) and
 Gregorian (New Style) dating, transcribe both dates, separated by a slash. Supply
 the Gregorian year in square brackets, if necessary.
-, 2/13 September 1750
-, 1690/1 [i.e. 1691]
-, 1690/1691 [i.e. 1691]
-4D2.6. Dates not of the Julian or Gregorian calendar. If the date of publication,
+
+><cite>, 2/13 September 1750</cite>  
+
+><cite>, 1690/1 [i.e. 1691]</cite>
+
+><cite>, 1690/1691 [i.e. 1691]</cite>
+
+<a name="4D2.6">4D2.6</a> **Dates not of the Julian or Gregorian calendar**. If the date of publication,
 distribution, etc., is based on a calendar other than the Julian or Gregorian
 calendar, transcribe the date and supply the equivalent Julian or Gregorian
-year(s) in square brackets.15
-, shenat 627 [1866 or 1867]
-(Comment: Year follows Hebrew calendar)
-, an VII [1798 or 1799]
-(Comment: Year follows French Revolutionary calendar)
-Optionally, if the date of publication, distribution, etc., includes a day/month
+year(s) in square brackets.<sup>15</sup>
+
+<small><sup>15</sup> For publications issued before 1582, supply the equivalent Julian date(s). For later
+publications, supply the equivalent Gregorian date(s).</small>
+
+><cite>, shenat 627 [1866 or 1867]</cite>  
+>>(*Comment*: Year follows Hebrew calendar)
+
+><cite>, an VII [1798 or 1799]</cite>  
+>>(*Comment*: Year follows French Revolutionary calendar)
+
+*Optionally*, if the date of publication, distribution, etc., includes a day/month
 based on a calendar other than the Julian or Gregorian calendar, transcribe the
 date and supply the equivalent Julian or Gregorian day/month in square
 brackets. Use the sequence: day, month, year.
-, prid. Kal. Dec. [30 Nov.] 1488
-Great Britain and its colonies long calculated the turn of the year on March 25, the Feast of the
-Annunciation or "Lady Day"). For assistance in establishing Gregorian dates, consult a reference
-source such as Adriano Cappelli’s Cronologia e Calendario Perpetuo or C.R. Cheneyʹs Handbook of
-Dates for Students of English History.
-15 For publications issued before 1582, supply the equivalent Julian date(s). For later
-publications, supply the equivalent Gregorian date(s).
-AREA 4. PUBLICATION, DISTRIBUTION, ETC.
-Descriptive 96 Cataloging of Rare Materials (Books)
-(Comment: Day and month follow Roman‐style calendar)
-, die visitationis Beatae Virginis Mariae [2 July] 1497
-(Comment: Day and month follow ecclesiastical calendar)
-4D2.7. Multiple adjustments or additions. If the date of publication,
+
+><cite>, prid. Kal. Dec. [30 Nov.] 1488</cite>
+>>(*Comment*: Day and month follow Roman‐style calendar)
+
+><cite>, die visitationis Beatae Virginis Mariae [2 July] 1497</cite>  
+>>(*Comment*: Day and month follow ecclesiastical calendar)
+
+<a name="4D2.7">4D2.7</a> **Multiple adjustments or additions**. If the date of publication,
 distribution, etc., requires more than a single adjustment or addition, provide all
 the supplied information within the same set of square brackets.
-, MDCXIII [1613 i.e. 1693]
-Note: Corrected imprint date from Wing
-, anno MDCXVIII [1618 i.e. 1619]
-Note: Imprint from colophon. Date of publication given in Old
-Style; see STC (2nd ed.)
-, [620 i.e. 1859 or 1860]
-Note: Date of publication derived from chronogram on t.p.
-4D3. Date of publication, distribution, etc., supplied from reference sources
+
+><cite>, MDCXIII [1613 i.e. 1693]</cite>  
+>Note: <cite>Corrected imprint date from Wing</cite>
+
+><cite>, anno MDCXVIII [1618 i.e. 1619]</cite>  
+>Note: <cite>Imprint from colophon. Date of publication given in Old Style; see STC (2nd ed.)</cite>
+
+><cite>, [620 i.e. 1859 or 1860]</cite>  
+>Note: <cite>Date of publication derived from chronogram on t.p.</cite>
+
+#### 4D3. Date of publication, distribution, etc., supplied from reference sources
+
 If the date of publication, distribution, etc., does not appear in the publication but
 is known, supply it in square brackets from any source, preferably a reliable
 bibliography or reference work. Give the source of the supplied date and any
 needed explanation in a note.
-, [1876]
-Note: Publication date from BAL
-4D4. Conjectural date of publication, distribution, etc.
-4D4.1. Supply in square brackets a conjectural date of publication, distribution,
+
+><cite>, [1876]</cite>  
+>Note: <cite>Publication date from BAL</cite>
+
+#### 4D4. Conjectural date of publication, distribution, etc.
+
+<a name="4D4.1">4D4.1</a> Supply in square brackets a conjectural date of publication, distribution,
 etc., based on any information available. Indicate the basis for the conjecture in a
 note.
-4D4.2. If the title page bears a prominent date that does not clearly represent the
+
+<a name="4D4.2">4D4.2</a> If the title page bears a prominent date that does not clearly represent the
 date of publication, either transcribe it as part of the title and statement of
 responsibility area or give it in a note.
-, [1814?]
-Note: At head of title: December 25, 1814
-(Comment: Date at head of title is the date of the proclamation, not the date of
-publication)
-AREA 4. PUBLICATION, DISTRIBUTION, ETC.
-Descriptive Cataloging of Rare Materials (Books) 97
-4D5. Patterns for supplying a conjectural date
+
+><cite>, [1814?]</cite>  
+>Note: <cite>At head of title: December 25, 1814</cite>  
+>>(*Comment*: Date at head of title is the date of the proclamation, not the date of publication)
+
+#### 4D5. Patterns for supplying a conjectural date
+
 Give a probable date or period of publication, distribution, etc., according to one
 of the patterns shown in the examples below. Indicate the basis for the conjecture
 in a note.
-, [1560?] probable date
-, [ca. 1580] approximate date
-, [ca. 1580?] probable approximate date
-, [not before 1479] terminal date
-, [not after 21 Aug. 1492] terminal date
-, [1727 or 1728] one year or the other
-, [between 1711 and 1749] span certain
-, [between 1711 and 1749?] span uncertain
-, [167-] decade certain
-, [167-?] probable decade
-, [16--] century certain
-, [16--?] probable century
-4D6. Copyright dates and dates of deposit
-4D6.1. Do not transcribe a copyright date or a date of deposit in the publication,
+
+<table>
+<caption>Patterns for supplying a conjectural date</caption>
+<thead>
+<tr>
+<th scope="col">Pattern</th>
+<th scope="col">Conjectural date type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>, [1560?]</td>
+<td>probable date</td>
+</tr>
+<tr>
+<td>, [ca. 1580]</td>
+<td>approximate date</td>
+</tr>
+<tr>
+<td>, [ca. 1580?]</td> 
+<td>probable approximate date</td>
+</tr>
+<tr>
+<td>, [not before 1479]</td> 
+<td>terminal date</td>
+</tr>
+<tr>
+<td>, [not after 21 Aug. 1492]</td> 
+<td>terminal date</td>
+</tr>
+<tr>
+<td>, [1727 or 1728]</td>
+<td> one year or the other</td>
+</tr>
+<tr>
+<td>, [between 1711 and 1749]</td>
+<td>span certain</td>
+</tr>
+<tr>
+<td>, [between 1711 and 1749?]</td> 
+<td>span uncertain</td>
+</tr>
+<tr>
+<td>, [167-]</td>
+<td>decade certain</td>
+</tr>
+<tr>
+<td>, [167-?]</td>
+<td>probable decade</td>
+</tr>
+<tr>
+<td>, [16--]</td>
+<td>century certain</td>
+</tr>
+<tr>
+<td>, [16--?]</td>
+<td>probable century</td>
+</tr>
+</tbody>
+</table>
+
+#### 4D6. Copyright dates and dates of deposit
+
+<a name="4D6.1">4D6.1</a> Do not transcribe a copyright date or a date of deposit in the publication,
 distribution, etc., area.
-4D6.2. If a date of publication, distribution, etc., does not appear in the source
+
+<a name="4D6.2">4D6.2</a> If a date of publication, distribution, etc., does not appear in the source
 and it is likely that the date of copyright or deposit represents the date of
 publication, supply the date in square brackets as the date of publication. Include
 a question mark if the supplied date is conjectural. Make a note to indicate that
@@ -3084,119 +3394,147 @@ the basis for the supplied date is the date of copyright or deposit. Include in 
 note as much information as is deemed important to the cataloging agency. If
 transcribing a copyright symbol in the note, use a lowercase c to represent the
 symbol if it cannot be reproduced using available typographic facilities.
-, [1850?]
-Note: Copyright statement dated 1850 on t.p. verso
-, [1866?]
-Note: "Entered, according to Act of Congress, in the year 1866
-... in the clerk's office of the Dist. Court of the U.S., for
-the Southern District of New York"--T.p. verso
-, [1976]
-Note: Date of deposit in colophon: 1er trimestre 1976
-AREA 4. PUBLICATION, DISTRIBUTION, ETC.
-Descriptive 98 Cataloging of Rare Materials (Books)
-, [1988]
-Note: Page [4] of cover: c1988
-4D6.3. If a date of publication, distribution, etc., does not appear in the source,
+
+><cite>, [1850?]</cite>  
+>Note: <cite>Copyright statement dated 1850 on t.p. verso</cite>  
+
+><cite>, [1866?]</cite>  
+>Note: <cite>"Entered, according to Act of Congress, in the year 1866 ... in the clerk's office of the Dist. Court of the U.S., for the Southern District of New York"--T.p. verso</cite> 
+
+><cite>, [1976]</cite>  
+>Note: <cite>Date of deposit in colophon: 1er trimestre 1976</cite>
+
+><cite>, [1988]</cite>  
+>Note: <cite>Page [4] of cover: c1988</cite>
+
+<a name="4D6.3">4D6.3</a> If a date of publication, distribution, etc., does not appear in the source,
 and the date of copyright or deposit does not represent the probable date of
 publication, distribution, etc., note it nonetheless and supply a more accurate
 date of publication, distribution, etc., in square brackets. Provide an explanation
 for the supplied date in a note.
-, [194-]
-Note: Publication date suggested by WWII imagery on cover;
-copyright date of 1929 in colophon
-4D6.4. If the publication bears both a date of publication, distribution, etc., and a
+
+><cite>, [194-]</cite>  
+>Note: <cite>Publication date suggested by WWII imagery on cover; copyright date of 1929 in colophon</cite> 
+
+<a name="4D6.4">4D6.4</a> If the publication bears both a date of publication, distribution, etc., and a
 date of copyright or deposit, the latter information may be given in a note, if
 considered important.
-, 1880
-Optional note: "Copyright, 1878, by F.B. Greene"--T.p. verso
-4D7. Date of publication, distribution, etc., in multipart monographs
-4D7.1. In describing a publication consisting of volumes, parts, or fascicles
+
+><cite>, 1880</cite>  
+>Optional note: <cite>"Copyright, 1878, by F.B. Greene"--T.p. verso</cite>
+
+#### 4D7. Date of publication, distribution, etc., in multipart monographs
+
+<a name="4D7.1">4D7.1</a> In describing a publication consisting of volumes, parts, or fascicles
 published over a number of years, transcribe the date of the volume, part, or
 fascicle published first and the date of the volume, part, or fascicle published last,
 and connect them with a hyphen.
-, 1692-1702
-, MDXIII-MDXXIIII [1513-1524]
-, MDLVIII-1570 [1558-1570]
-4D7.2. Record the date of each volume in a note, if considered important. Such a
+
+><cite>, 1692-1702</cite>
+
+><cite>, MDXIII-MDXXIIII [1513-1524]</cite>
+
+><cite>, MDLVIII-1570 [1558-1570]</cite>
+
+<a name="4D7.2">4D7.2</a> Record the date of each volume in a note, if considered important. Such a
 note is particularly useful when the order of publication, distribution, etc., does
 not correspond to the order of the volume numeration.
-, 1560-1564
-Optional note: Vol. 1: 1561; v. 2: 1564; v. 3: 1562; v. 4: 1560
-4D8. Date of publication, distribution, etc., on part pages
+
+><cite>, 1560-1564</cite>  
+>Optional note: <cite>Vol. 1: 1561; v. 2: 1564; v. 3: 1562; v. 4: 1560</cite>  
+
+#### 4D8. Date of publication, distribution, etc., on part pages
+
 If parts of a publication have individual title pages bearing dates that differ from
 the date pertaining to the whole publication, give these additional dates in a
 note. If, however, one of these dates is a more accurate reflection of the actual
-AREA 4. PUBLICATION, DISTRIBUTION, ETC.
-Descriptive Cataloging of Rare Materials (Books) 99
 date of publication, distribution, etc., than the date pertaining to the whole
-publication, give it as a correction as instructed in 4D2.4.
-4E. Place of manufacture
-4E1. General rule
+publication, give it as a correction as instructed in 4D2.4 xxlinkxx.
+
+### 4E. Place of manufacture
+
+#### 4E1. General rule
+
 Transcribe names of places associated with printers and other manufacturers as
-part of this element when appropriate according to the instructions in 4A6.
-London and New York : Frederick Warne & Co., [1878?] (London and
-Edinburgh : Printed by Ballantyne, Hanson and Co.)
-4E2. Supplied place of manufacture
+part of this element when appropriate according to the instructions in 4A6 xxlinkxx.
+
+><cite>London and New York : Frederick Warne & Co., [1878?] (London and Edinburgh : Printed by Ballantyne, Hanson and Co.)</cite>
+
+#### 4E2. Supplied place of manufacture
+
 If the place of manufacture does not appear, or is transcribed as part of another
 area or element, supply the place of manufacture in square brackets. Use a
 modern English form of the name, if there is one, and include the name of the
 larger jurisdiction if considered necessary for identification. Provide a
 justification for the supplied place in a note if necessary.
-New Haven, Ct. : Published by E.L. & J.W. Barber, 1840 ([New
-Haven] : Hitchcock & Stafford, printers)
-London : Collins ..., MCMXLVII [1947]([Northampton, England] :
-Printed in Great Britain by Clarke & Sherwell Ltd, Northampton,
-on Mellotex book paper made by Tullis Russell & Co. Ltd,
-Markinch, Scotland)
-4F. Name of manufacturer
+
+><cite>New Haven, Ct. : Published by E.L. & J.W. Barber, 1840 ([New Haven] : Hitchcock & Stafford, printers)</cite>
+
+><cite>London : Collins ..., MCMXLVII [1947] ([Northampton, England] : Printed in Great Britain by Clarke & Sherwell Ltd, Northampton, on Mellotex book paper made by Tullis Russell & Co. Ltd, Markinch, Scotland)</cite>
+
+### 4F. Name of manufacturer
+
 Transcribe the names of printers and other manufacturers as part of this element
-when appropriate according to the instructions in 4A6.
-New York : G.P. Putnam's Sons ; London : John Murray, 1901
-(London : Printed by William Clowes and Sons, Limited ...)
-New York : Oakley & Mason ..., 1868 ([New York] : Davies & Kent,
-electrotypers and stereotypers ... : Press of the New York
-Printing Company ...)
-4G. Date of manufacture
+when appropriate according to the instructions in 4A6 xxlinkxx.
+
+><cite>New York : G.P. Putnam's Sons ; London : John Murray, 1901 (London : Printed by William Clowes and Sons, Limited ...)</cite>
+
+><cite>New York : Oakley & Mason ..., 1868 ([New York] : Davies & Kent, electrotypers and stereotypers ... : Press of the New York Printing Company ...)</cite>
+
+### 4G. Date of manufacture
+
 Transcribe a date of impression or other manufacture as part of this element only
 if it has not been treated as the date of publication, distribution, etc., following
-AREA 4. PUBLICATION, DISTRIBUTION, ETC.
-Descriptive 100 Cataloging of Rare Materials (Books)
-the instructions in 4A6, and only if it applies, or is likely to apply, to all copies of
+the instructions in 4A6 xxlinkxx, and only if it applies, or is likely to apply, to all copies of
 the edition or issue being cataloged. Such situations will occur only rarely. Dates
 of impression or other manufacture associated with a substantially unchanged
 impression of an edition or issue may be transcribed in a local note, if considered
 important.
-, 1989
-Optional local note: Library's copy: "1990 printing"--T.p. verso
-Alternative rule: If a decision has been made to create a separate bibliographic
+
+><cite>, 1989</cite>  
+>Optional local note: <cite>Library's copy: "1990 printing"--T.p. verso</cite>
+
+**Alternative rule**: If a decision has been made to create a separate bibliographic
 description for an individual impression, state, binding variant, or copy within a
-single edition or issue (see introductory section X.1.4 and Appendix E), transcribe a
+single edition or issue (see introductory section X.1.4 and Appendix E xxlinkxx), transcribe a
 date of impression or other manufacture associated with a substantially unchanged
 impression as part of the date of manufacture element. Transcribe the date as it
 appears, together with any associated words or phrases.
-, 1989 (1990 printing)
-Note: Date of impression from t.p. verso
+
+><cite>, 1989 (1990 printing)</cite>  
+>Note: <cite>Date of impression from t.p. verso</cite>
+
 If the date of manufacture appears in the source without an accompanying word or
 phrase, supply one in square brackets as appropriate.
-, 1956 (1959 [impression])
+
+><cite>, 1956 (1959 [impression])</cite> 
+
 If the date of impression is known from a source outside the publication, supply it
 in square brackets.
-, 1923 ([1924 impression])
+
+><cite>, 1923 ([1924 impression])</cite>
+
 If the actual date of impression is known to differ from the date of impression given
 inside the publication, supply it as a correction within square brackets.
-, 1923 (1924 [i.e. 1925] printing)
+
+><cite>, 1923 (1924 [i.e. 1925] printing)</cite>
+
 In the above cases, give the source of the date of impression, if other than the title
 page, and any explanations in a note.
-Descriptive Cataloging of Rare Materials (Books) 101
-5. PHYSICAL DESCRIPTION AREA
-Contents:
-5A. Preliminary rule
-5B. Extent
-5C. Illustration
-5D. Size and format
-5E. Accompanying material
-5A. Preliminary rule
-5A1. Prescribed punctuation
+
+## 5. PHYSICAL DESCRIPTION AREA
+
+### Contents:
+
+5A. Preliminary rule  
+5B. Extent  
+5C. Illustration  
+5D. Size and format  
+5E. Accompanying material  
+5A. Preliminary rule  
+
+### 5A1. Prescribed punctuation
+
 For instructions on the use of spaces before and after prescribed punctuation, see
 0E.
 Precede this area by a period‐space‐dash‐space or start a new paragraph.
