@@ -3531,30 +3531,42 @@ page, and any explanations in a note.
 5C. Illustration  
 5D. Size and format  
 5E. Accompanying material  
-5A. Preliminary rule  
 
-### 5A1. Prescribed punctuation
+### 5A. Preliminary rule  
+
+#### 5A1. Prescribed punctuation
 
 For instructions on the use of spaces before and after prescribed punctuation, see
-0E.
+0E xxlinkxx.
+
 Precede this area by a period‐space‐dash‐space or start a new paragraph.
+
 Precede an illustration statement by a colon.
+
 Precede the size by a semicolon.
+
 Enclose a statement of format in parentheses.
+
 Precede a statement of accompanying material by a plus sign.
+
 Enclose physical details of accompanying material in parentheses.
-5A2. Sources of information
+
+#### 5A2. Sources of information
+
 Take information for this area from the publication itself.
-5B. Extent
-5B1‐5B14. PUBLICATIONS IN ONE PHYSICAL UNIT
-5B1. General rule
-5B1.1. The statement of extent should account for every leaf in the volume as
+
+### 5B. Extent
+
+#### 5B1‐5B14. PUBLICATIONS IN ONE PHYSICAL UNIT
+
+##### 5B1. General rule
+
+<a name="5B1.1">5B1.1</a> The statement of extent should account for every leaf in the volume as
 issued by the publisher, including leaves of text, leaves of plates, and blank
-AREA 5. PHYSICAL DESCRIPTION
-Descriptive 102 Cataloging of Rare Materials (Books)
 leaves. It should not include leaves added as part of the binding or the binding
 itself.
-5B1.2. Record the complete number of leaves, pages, or columns in accordance
+
+<a name="5B1.2">5B1.2</a> Record the complete number of leaves, pages, or columns in accordance
 with the terminology suggested by the volume (or other physical unit) itself.
 Describe a volume with leaves numbered on both sides, or with leaves
 unnumbered and printed on both sides, in terms of pages. Describe a volume
@@ -3564,41 +3576,55 @@ printed on one side only, state this fact in a note. Describe in terms of column
 volume so numbered when it is printed with more than one column to the page.
 If a publication contains sequences in more than one kind of numbering, record
 each sequence in its appropriate term as pages, leaves, or columns.
-5B1.3. Recording the "complete number" as stated above means recording the
+
+<a name="5B1.3">5B1.3</a> Recording the "complete number" as stated above means recording the
 number on the last numbered page or leaf of each numbered sequence as the
 basic statement of extent, with any necessary additions according to succeeding
-rules, e.g., 5B3, for the addition of unnumbered pages or leaves. Record arabic
+rules, e.g., 5B3 xxlinkxx, for the addition of unnumbered pages or leaves. Record arabic
 and roman numerals as they appear in the publication. Record roman numerals
 uppercase or lowercase as they appear. If the pages or leaves are lettered rather
 than numbered, record the first and last letters followed by the word or
 abbreviation indicating pages or leaves. Use arabic numerals to designate pages,
 etc., that are numbered in words or in characters other than arabic or roman and
 make an explanatory note.
-x, 32 p., 86 leaves
-lxiij, [1] p.
-XII, 120 leaves
-381 columns
-a-h p.
-99, [1] p.
-Note: Pages numbered in words "one" to "ninety-nine"
-5B1.4. If the leaves are all or chiefly non‐letterpress, record them as leaves or
+
+><cite>x, 32 p., 86 leaves</cite>
+
+><cite>lxiij, [1] p.</cite>
+
+><cite>XII, 120 leaves</cite>
+
+><cite>381 columns</cite>
+
+><cite>a-h p.</cite>
+
+><cite>99, [1] p.</cite>  
+>Note: <cite>Pages numbered in words "one" to "ninety-nine"</cite>
+
+<a name="5B1.4">5B1.4</a>. If the leaves are all or chiefly non‐letterpress, record them as leaves or
 pages of text rather than as leaves or pages of plates as in 5B9. Make a note to
 indicate that the leaves are non‐letterpress.
-LXXVI leaves
-Note: Wholly engraved
-AREA 5. PHYSICAL DESCRIPTION
-Descriptive Cataloging of Rare Materials (Books) 103
-[1], 13 leaves
-Note: Engraved, with a letterpress t.p.
-5B2. Normally imposed single sheets
+
+><cite>LXXVI leaves</cite>  
+>Note: <cite>Wholly engraved</cite>
+
+><cite>[1], 13 leaves</cite>  
+>Note: <cite>Engraved, with a letterpress t.p.</cite>
+
+##### 5B2. Normally imposed single sheets
+
 For a normally imposed single‐folded (i.e., 4‐page) sheet, record the statement of
 extent in the same manner as for a volume. Apply this rule even if only one of
 the four pages is printed.
-1, [3] p.
-Note: Last three pages are blank
-See 5B13‐5B14 for all other single‐sheet publications.
-5B3. Unnumbered pages or leaves
-5B3.1. If unnumbered pages or leaves (printed or blank) are not included in a
+
+><cite>1, [3] p.</cite>  
+>Note: <cite>Last three pages are blank</cite>
+
+See 5B13‐5B14 XXLINKXX for all other single‐sheet publications.
+
+##### 5B3. Unnumbered pages or leaves
+
+<a name="5B3.1">5B3.1</a>. If unnumbered pages or leaves (printed or blank) are not included in a
 sequence of pagination or foliation, count them according to the terms used to
 describe the rest of the publication or the part of the publication with which they
 are associated. In ambiguous cases count them as leaves when they are all
@@ -3608,161 +3634,212 @@ blank leaves at the beginning of the first gathering or at the end of the final
 gathering when they are present in a copy in hand or known to be present in
 other copies. Do not count possibly blank leaves wanting according to signature
 count and not known to exist in other copies.
-[8], 328 p.
-[2], 328, [6] p.
-iii, [1], 88 p.
-64, [2] p., [3], 16 leaves
-64 p., [2], 16 leaves
-(Comment: The unnumbered leaves introduce the following section)
-64, [4] p., 16 leaves
-(Comment: The unnumbered pages are not closely associated with either adjacent
-section and one or more are printed on a verso)
-5B3.2. Consider numbered sequences to include unnumbered pages or leaves
+
+><cite>[8], 328 p.</cite>
+
+><cite>[2], 328, [6] p.</cite>
+
+><cite>iii, [1], 88 p.</cite>
+
+><cite>64, [2] p., [3], 16 leaves</cite>
+
+><cite>64 p., [2], 16 leaves</cite>  
+>>(*Comment*: The unnumbered leaves introduce the following section)
+
+><cite>64, [4] p., 16 leaves</cite>  
+>>(*Comment*: The unnumbered pages are not closely associated with either adjacent section and one or more are printed on a verso)
+
+<a name="5B3.2">5B3.2</a>. Consider numbered sequences to include unnumbered pages or leaves
 falling logically within the sequence, counting back from the recorded number
 to 1.
-AREA 5. PHYSICAL DESCRIPTION
-Descriptive 104 Cataloging of Rare Materials (Books)
-[2], 40 p.
-(Comment: Pages are numbered 3‐40 with four unnumbered pages at the
-beginning)
-but [2], 5-40 p.
-(Comment: Pages are numbered 5‐40 with two unnumbered pages at the
-beginning; there is no evidence that any leaves are missing)
-5B3.3. Record in the following manner unnumbered blank pages or blank leaves
+
+><cite>[2], 40 p.</cite>  
+>>(*Comment*: Pages are numbered 3‐40 with four unnumbered pages at the beginning)
+
+*but* 
+
+><cite>[2], 5-40 p.</cite>  
+>>(*Comment*: Pages are numbered 5‐40 with two unnumbered pages at the beginning; there is no evidence that any leaves are missing)
+
+<a name="5B3.3">5B3.3</a>. Record in the following manner unnumbered blank pages or blank leaves
 interrupting a numbered sequence:
-200, [8], 201-232 p.
-5B4. Errata leaves
+
+><cite>200, [8], 201-232 p.</cite> 
+
+##### 5B4. Errata leaves
+
 Include errata leaves (but not errata slips) in the extent statement whether or not
 they are conjugate with another leaf of the publication. Mention the presence of
-errata leaves and errata slips in a note (see 7B16.1).
-136, [2] p.
-Note: Errata on p. [137]
-5B5. Advertisements
-5B5.1. For pages containing only advertisements, include them in the statement
+errata leaves and errata slips in a note (see 7B16.1 XXLINKXX).
+
+><cite>136, [2] p.</cite>  
+>Note: <cite>Errata on p. [137]</cite>
+
+##### 5B5. Advertisements
+
+<a name="5B5.1">5B5.1</a>. For pages containing only advertisements, include them in the statement
 of extent when they are clearly integral to the publication. This is the case when
-they:
-are included in the same pagination sequence as the text;
-or are printed on the pages of an initial or final gathering also containing
-leaves or pages of text;
-or are printed on a separate gathering in a publication that is continuously
-signed.
-5B5.2. Make a note to indicate the presence of pages that only contain
+they:  
+
+are included in the same pagination sequence as the text;  
+*or*  
+are printed on the pages of an initial or final gathering also containing leaves or pages of text;  
+*or*  
+are printed on a separate gathering in a publication that is continuously signed.
+
+<a name="5B5.2">5B5.2</a>. Make a note to indicate the presence of pages that only contain
 advertisements.
-124 p.
-Note: Advertisements on p. 119-124
-121, [3] p.
-Note: Advertisements on [3] p. at end
-124, 8 p.
-AREA 5. PHYSICAL DESCRIPTION
-Descriptive Cataloging of Rare Materials (Books) 105
-Note: Advertisements on 8 p. at end
-(Comment: Advertisements printed on the final gathering in a publication that is
-continuously signed)
-5B5.3. Do not include in the statement of extent pages containing only
+
+><cite>124 p.</cite>  
+>Note: <cite>Advertisements on p. 119-124</cite>  
+
+><cite>121, [3] p.</cite>  
+>Note: <cite>Advertisements on [3] p. at end</cite>  
+
+><cite>124, 8 p.</cite>  
+>Note: <cite>Advertisements on 8 p. at end</cite>  
+>>(*Comment*: Advertisements printed on the final gathering in a publication that is continuously signed)
+
+<a name="5B5.3">5B5.3</a>. Do not include in the statement of extent pages containing only
 advertisements that do not fall into any of these categories. Record them in a
-local note, if considered important (see 7B19.1). Optionally, make a separate
+local note, if considered important (see 7B19.1 XXLINKXX). Optionally, make a separate
 description for the advertisements.
-278 p.
-Optional local note: LC copy has publisher's catalog on an
-additional 8 p. at end
-(Comment: Advertisements printed on a final unsigned gathering)
-32 p.
-Optional local note: UCLA copy has an additional leaf at end,
-with advertisements on recto and the verso blank
-5B6. Multiple sequences of numbering
-5B6.1. If the style of numbering within a sequence changes (e.g., from roman to
+
+><cite>278 p.</cite>  
+>Optional local note: <cite>LC copy has publisher's catalog on an additional 8 p. at end</cite>  
+>>(*Comment*: Advertisements printed on a final unsigned gathering)
+
+><cite>32 p.</cite>  
+>Optional local note: <cite>UCLA copy has an additional leaf at end, with advertisements on recto and the verso blank</cite>  
+
+##### 5B6. Multiple sequences of numbering
+
+<a name="5B6.1">5B6.1</a>. If the style of numbering within a sequence changes (e.g., from roman to
 arabic numerals), record each differently numbered part of the sequence. If
 unnumbered pages appear between the two styles of numbering, record the total
 number of unnumbered pages in arabic numerals within square brackets.
-xii, 13-176 p.
-xii, [1], 14-176 p.
-5B6.2. If the publication has duplicate sequences of paging, as is sometimes the
+
+><cite>xii, 13-176 p.</cite>  
+
+><cite>xii, [1], 14-176 p.</cite>  
+
+<a name="5B6.2">5B6.2</a>. If the publication has duplicate sequences of paging, as is sometimes the
 case with publications having parallel texts, record both pagings and make an
 explanatory note.
-xii, [1], 35, 35, [1] p.
-Note: Opposite pages bear duplicate numbering
-5B6.3. If a volume has groups of pages numbered in opposite directions, as is
+
+><cite>xii, [1], 35, 35, [1] p.</cite>  
+>Note: <cite>Opposite pages bear duplicate numbering</cite>  
+
+<a name="5B6.3">5B6.3</a>. If a volume has groups of pages numbered in opposite directions, as is
 sometimes the case with publications having texts in two languages, record the
 pagings of the various sections in order, starting from the title page selected for
 cataloging.
-ix, [1], 155, [1], 126, x p.
-5B6.4. If a volume has pagination of its own and also bears the pagination of a
+
+><cite>ix, [1], 155, [1], 126, x p.</cite> 
+
+<a name="5B6.4">5B6.4</a>. If a volume has pagination of its own and also bears the pagination of a
 larger publication of which it is a part, record the paging of the individual
 volume in this area and the continuous paging in a note.
-AREA 5. PHYSICAL DESCRIPTION
-Descriptive 106 Cataloging of Rare Materials (Books)
-328 p.
-Note: Pages also numbered 501-828
-5B6.5. If the pages, leaves, or columns of a publication are numbered as part of a
+
+><cite>328 p.</cite>  
+>Note: <cite>Pages also numbered 501-828</cite>  
+
+<a name="5B6.5">5B6.5</a>. If the pages, leaves, or columns of a publication are numbered as part of a
 larger sequence (e.g., one volume of a multipart publication), or the copy appears
 to be an incomplete part of a whole, record the number of the first and the last
-numbered page, leaf, or column. (See also 5B12 for incompleteness at end.)
+numbered page, leaf, or column. (See also 5B12 XXLINKXX for incompleteness at end.)
 Generally precede the numbers with the word or abbreviation indicating pages,
 leaves, or columns.
-leaves 81-94
-p. 713-797, [1]
-(Comment: Fragment, detached from larger work)
-but [2], 713-797, [1] p.
-(Comment: A complete publication, such as an offprint, issued separately with
-this pagination)
-5B6.6. If a publication contains more than three sequences of numbered or more
+
+><cite>leaves 81-94</cite>  
+
+><cite>p. 713-797, [1]</cite>  
+>>(*Comment*: Fragment, detached from larger work)  
+
+*but*  
+
+><cite>[2], 713-797, [1] p.</cite>  
+>>(*Comment*: A complete publication, such as an offprint, issued separately with this pagination)
+
+<a name="5B6.6">5B6.6</a>. If a publication contains more than three sequences of numbered or more
 than five sequences of numbered and unnumbered pages or leaves, preferably
 record all of the sequences. If it is not practical to record all the sequences (e.g., if
 they are exceedingly numerous), then employ one of the following methods:
-a) Record the total number of pages or leaves followed by "in various
-pagings" or "in various foliations."
-1024 p. in various pagings
-256 leaves in various foliations
+
+a) Record the total number of pages or leaves followed by "in various pagings" or "in various foliations."
+
+><cite>1024 p. in various pagings</cite>  
+
+><cite>256 leaves in various foliations</cite> 
+
 b) If one of the sequences is clearly the main sequence, record the main
 sequence and the total number of other pages or leaves.
-416 p., 98 p. in various pagings
+
+><cite>416 p., 98 p. in various pagings</cite>  
+
 c) As a last resort, give one of the designations used for publications issued
-in more than one physical unit (see 5B15.1).
-1 v. (various pagings)
+in more than one physical unit (see 5B15.1 XXLINKXX).
+
+><cite>1 v. (various pagings)</cite> 
+
 If one of these methods is employed, record all of the sequences in a note, if
 considered important.
-AREA 5. PHYSICAL DESCRIPTION
-Descriptive Cataloging of Rare Materials (Books) 107
-5B7. Expansions or corrections
-5B7.1. Make a note giving more precise information about pagination or
+
+##### 5B7. Expansions or corrections
+
+<a name="5B7.1">5B7.1</a>. Make a note giving more precise information about pagination or
 foliation, blank pages or leaves, or other aspects of collation, if considered
-important (see 7B10).
-91, [1] leaves
-Optional note: Last leaf blank
-216 p.
-Optional note: Pages [205]-[206] blank
-vi, 744, [2] p.
-Optional note: Leaves A7, B3, and C7 are cancels in some copies
-Optional local note: LC copy: Leaves A7, B3, and C7 are
-uncancelled; the cancel leaves are between p. 742 and p. 743
-5B7.2. If the number of the last numbered page, leaf, or column of a sequence
+important (see 7B10 XXLINKXX).
+
+><cite>91, [1] leaves</cite>  
+>Optional note: <cite>Last leaf blank</cite>  
+
+><cite>216 p.</cite>  
+>Optional note: <cite>Pages [205]-[206] blank</cite>  
+
+><cite>vi, 744, [2] p.</cite>  
+>Optional note: <cite>Leaves A7, B3, and C7 are cancels in some copies</cite>  
+>Optional local note: <cite>LC copy: Leaves A7, B3, and C7 are uncancelled; the cancel leaves are between p. 742 and p. 743</cite> 
+
+<a name="5B7.2">5B7.2</a>. If the number of the last numbered page, leaf, or column of a sequence
 does not indicate the correct number of pages, etc., either record the sequences
 exactly to indicate the source of the error or record the number as given in the
 publication and supply a correction in square brackets. Provide an explanatory
 note, if considered important.
-xiv, 823 [i.e. 328] p.
-Optional note: Page 328 wrongly numbered 823
-232, 221-252 p.
-or 252 [i.e. 264] p.
-Optional note: Numbers 221-232 are repeated in pagination
-(Comment: Same numbering as in preceding example)
-5B8. Lack of numbering
-5B8.1. If the whole volume is unpaginated or unfoliated, count the pages or
+
+><cite>xiv, 823 [i.e. 328] p.</cite>  
+>Optional note: <cite>Page 328 wrongly numbered 823</cite>  
+
+><cite>232, 221-252 p.</cite>  
+
+*or*  
+
+><cite>252 [i.e. 264] p.</cite>  
+>Optional note: <cite>Numbers 221-232 are repeated in pagination</cite>  
+>>(*Comment*: Same numbering as in preceding example)
+
+##### 5B8. Lack of numbering
+
+<a name="5B8.1">5B8.1</a>. If the whole volume is unpaginated or unfoliated, count the pages or
 leaves and record the total in arabic numerals within square brackets. State the
 total in terms of pages or leaves, but not of both. Begin the count with the first
 page or leaf of the first gathering and end the count with the last page or leaf of
-the last gathering, as instructed in 5B3. Count all blank pages or leaves.
-[104] p.
-[88] leaves
-5B8.2. Optionally, if determining the total number of pages or leaves of an
+the last gathering, as instructed in 5B3 XXLINKXX. Count all blank pages or leaves.
+
+><cite>[104] p.</cite>  
+
+><cite>[88] leaves</cite> 
+
+<a name="5B8.2">5B8.2</a>. *Optionally*, if determining the total number of pages or leaves of an
 unnumbered volume might damage an item in fragile condition, give one of the
-AREA 5. PHYSICAL DESCRIPTION
-Descriptive 108 Cataloging of Rare Materials (Books)
 designations used for publications issued in more than one physical unit (see
-5B15.1) followed by "unpaged" or "unfoliated."
-1 v. (unpaged)
-5B9. Leaves or pages of plates
-5B9.1. Record the number of leaves or pages of plates at the end of the
+5B15.1 XXLINKXX) followed by "unpaged" or "unfoliated."
+
+><cite>1 v. (unpaged)</cite>  
+
+##### 5B9. Leaves or pages of plates
+
+<a name="5B9.1">5B9.1</a>. Record the number of leaves or pages of plates at the end of the
 sequence(s) of pagination or foliation, whether the plates are found together or
 distributed throughout the publication. Record the number even when there is
 only one plate. Count a plate folded and bound at the inner margin as two leaves
@@ -3770,602 +3847,814 @@ of plates. Count unnumbered leaves or pages of plates without regard for the
 terms used to describe the rest of the publication (accordingly, leaves of plates
 may follow sequences of pages and pages of plates may follow sequences of
 leaves).
-246 p., 24 leaves of plates
-246 p., [12] p. of plates
-(Comment: Plates are printed on rectos and versos of 6 leaves)
-x, 32, 74 p., [1] leaf of plates
-[12], 275, [1] p., [1], XII leaves of plates
-(Comment: All plates except the frontispiece are numbered consecutively)
-246 p., 38 leaves of plates, 24 p. of plates
-5B9.2. If a volume contains a mixture of unnumbered leaves and pages of plates,
+
+><cite>246 p., 24 leaves of plates</cite>  
+
+><cite>246 p., [12] p. of plates</cite>  
+>>(*Comment*: Plates are printed on rectos and versos of 6 leaves)
+
+><cite>x, 32, 74 p., [1] leaf of plates</cite>
+
+><cite>[12], 275, [1] p., [1], XII leaves of plates</cite>  
+>>(*Comment*: All plates except the frontispiece are numbered consecutively)
+
+><cite>246 p., 38 leaves of plates, 24 p. of plates</cite>
+
+<a name="5B9.2">5B9.2</a>. If a volume contains a mixture of unnumbered leaves and pages of plates,
 record the number either in terms of leaves or of pages.
-5B9.3. Record folded leaves as leaves or pages of plates. Make a note to indicate
+
+<a name="5B9.3">5B9.3</a>. Record folded leaves as leaves or pages of plates. Make a note to indicate
 any folded letterpress leaves, if considered important.
-50, [2] p., [2] folded leaves of plates
-Optional note: The folded leaves are letterpress tables
-5B9.4. Count title pages (and added title pages) as leaves or pages of plates if
+
+><cite>50, [2] p., [2] folded leaves of plates</cite>  
+>Optional note: <cite>The folded leaves are letterpress tables</cite>
+
+<a name="5B9.4">5B9.4</a>. Count title pages (and added title pages) as leaves or pages of plates if
 they are entirely or chiefly non‐letterpress (e.g., engraved or lithographed) and
 not integral to any letterpress gatherings. Make a note to indicate any title page
 counted as a plate.
-64 p., [1] leaf of plates
-Note: Plate has engraved t.p. on recto and blank verso
-AREA 5. PHYSICAL DESCRIPTION
-Descriptive Cataloging of Rare Materials (Books) 109
-5B9.5. As a last resort, if a publication’s gatherings cannot be ascertained, or it is
+
+><cite>64 p., [1] leaf of plates</cite>  
+>Note: <cite>Plate has engraved t.p. on recto and blank verso</cite>
+
+<a name="5B9.5">5B9.5</a>. As a last resort, if a publication’s gatherings cannot be ascertained, or it is
 otherwise difficult to tell whether a leaf constitutes a plate, record it in terms of
 pages or leaves of plates if unnumbered and pages or leaves of text if included in
 the pagination.
-5B10. Folded leaves
+
+##### 5B10. Folded leaves
+
 Describe folded leaves as such.
-122 folded leaves
-230 p., 25 leaves of plates (some folded)
-306 p., [12] leaves of plates (1 folded)
-5B11. Double leaves
+
+><cite>122 folded leaves</cite> 
+
+><cite>230 p., 25 leaves of plates (some folded)</cite>
+
+><cite>306 p., [12] leaves of plates (1 folded)</cite>
+
+##### 5B11. Double leaves
+
 Count numbered double leaves (leaves with fold at either top or fore edge and
 bound at the inner margin) as pages or as leaves according to their numbering.
 Count unnumbered double leaves as pages (2 printed pages per double leaf) or
 as leaves (1 printed page per double leaf). Always indicate the presence of
 double leaves in a note.
-[36] p.
-Note: Printed on double leaves
-[18] leaves
-Note: Printed on 18 double leaves
-72 p., 1 leaf of plates
-Note: Plate printed on a double leaf
-5B12. Incomplete publications
+
+><cite>[36] p.</cite>  
+>Note: <cite>Printed on double leaves</cite> 
+
+><cite>[18] leaves</cite>  
+>Note: <cite>Printed on 18 double leaves</cite>
+
+><cite>72 p., 1 leaf of plates</cite>  
+>Note: <cite>Plate printed on a double leaf</cite>
+
+##### 5B12. Incomplete publications
+
 If a volume, or an individual sequence of pages or leaves within a volume, lacks
 pages or leaves at its end—or an unpaginated or unfoliated volume or sequence
 lacks any pages or leaves—and the paging or foliation of a complete copy cannot
 be ascertained, record the number of the last numbered or unnumbered page or
 leaf followed by "+ p." or "+ leaves." Make a note of the imperfection.
-xxiv, 178+ p.
-Note: Description based on incomplete copy; all after p. 178
-wanting
-[8+], 237, [1] leaves
-Note: Description based on incomplete copy; one or more prelim.
-leaves (incl. t.p.) wanting
-AREA 5. PHYSICAL DESCRIPTION
-Descriptive 110 Cataloging of Rare Materials (Books)
-5B13. Sheets, rolls, cases, portfolios, etc.
+
+><cite>xxiv, 178+ p.</cite>  
+>Note: <cite>Description based on incomplete copy; all after p. 178 wanting</cite>
+
+><cite>[8+], 237, [1] leaves</cite>  
+>Note: <cite>Description based on incomplete copy; one or more prelim. leaves (incl. t.p.) wanting</cite>
+
+##### 5B13. Sheets, rolls, cases, portfolios, etc.
+
 For a publication in a single physical unit other than a volume (e.g., a sheet, a
 roll, a case, or a portfolio), use an appropriate designation ("sheet," etc.)
 preceded by the arabic numeral 1. If adding a statement of pagination or
 foliation, place it in parentheses following the designation.
-1 portfolio (26 sheets)
-1 portfolio ([44] sheets)
-5B14. Single‐sheet publications
-5B14.1. For a publication consisting of a single sheet designed to be used
+
+><cite>1 portfolio (26 sheets)</cite>  
+
+><cite>1 portfolio ([44] sheets)</cite>
+
+##### 5B14. Single‐sheet publications
+
+<a name="5B14.1">5B14.1</a>. For a publication consisting of a single sheet designed to be used
 unfolded (whether issued folded or unfolded), add a statement of pagination
 based on the number of pages printed, not counting blanks, as follows:
-1 sheet (2 p.)
-(Comment: Sheet of any size printed on both sides, numbered)
-1 sheet ([2] p.)
-(Comment: Sheet of any size printed on both sides, unnumbered)
-1 sheet ([3] p.)
-(Comment: Folded sheet with title and colophon printed as 2 pages on "outside;"
-all text printed as one page occupying the entire "inside")
-1 sheet (1 p.)
-(Comment: Broadside or other sheet printed on one side, numbered)
-1 sheet ([1] p.)
-(Comment: Broadside or other sheet printed on one side, unnumbered)
-5B14.2. For a publication consisting of a single sheet folded into multiple panels,
+
+><cite>1 sheet (2 p.)</cite>  
+>>(*Comment*: Sheet of any size printed on both sides, numbered)
+
+><cite>1 sheet ([2] p.)</cite>  
+>>(*Comment*: Sheet of any size printed on both sides, unnumbered)
+
+><cite>1 sheet ([3] p.)</cite>  
+>>(*Comment*: Folded sheet with title and colophon printed as 2 pages on "outside;" all text printed as one page occupying the entire "inside")
+
+><cite>1 sheet (1 p.)</cite>  
+>>(*Comment*: Broadside or other sheet printed on one side, numbered)
+
+><cite>1 sheet ([1] p.)</cite>  
+>>(*Comment*: Broadside or other sheet printed on one side, unnumbered)
+
+<a name="5B14.2">5B14.2</a>. For a publication consisting of a single sheet folded into multiple panels,
 include in parentheses a count of the number of physical panels on one side of
 the sheet when unfolded. Include both blank panels and panels containing text
 or illustrations in the count. Enclose the number in square brackets. Provide
 details of the sheet’s layout (including the numbering of the panels) in a note, if
 considered important.
-1 folded sheet ([16] panels)
-Optional note: A folded sheet with 16 panels on each side when
-unfolded. All panels are unnumbered.
-1 folded sheet ([4] panels)
-AREA 5. PHYSICAL DESCRIPTION
-Descriptive Cataloging of Rare Materials (Books) 111
-Optional note: A folded sheet with 4 panels on each side when
-unfolded. The "outside" contains a title panel, two panels
-numbered 1-2, and a final blank panel. The "inside" contains a
-large map spread over all four panels.
-For a normally imposed single‐folded (i.e., 4‐page) sheet, see 5B2.
-5B15‐5B20. PUBLICATIONS IN MORE THAN ONE PHYSICAL UNIT
-5B15. General rule
-5B15.1. If a publication is issued in more than one physical unit, give the number
+
+><cite>1 folded sheet ([16] panels)</cite>  
+>Optional note: <cite>A folded sheet with 16 panels on each side when unfolded. All panels are unnumbered.</cite>
+
+><cite>1 folded sheet ([4] panels)</cite>  
+>Optional note: <cite>A folded sheet with 4 panels on each side when unfolded. The "outside" contains a title panel, two panels numbered 1-2, and a final blank panel. The "inside" contains a large map spread over all four panels.</cite>
+
+For a normally imposed single‐folded (i.e., 4‐page) sheet, see 5B2 XXLINKXX.
+
+#### 5B15‐5B20. PUBLICATIONS IN MORE THAN ONE PHYSICAL UNIT
+
+##### 5B15. General rule
+
+<a name="5B15.1">5B15.1</a>. If a publication is issued in more than one physical unit, give the number
 of physical units in arabic numerals followed by the appropriate designation for
-the unit (see also 5E).
-3 v.
-2 portfolios
-6 sheets
-5B15.2. If a publication has been issued in fascicles intended to be bound into one
+the unit (see also 5E XXLINKXX).
+
+><cite>3 v.</cite>
+
+><cite>2 portfolios</cite>
+
+><cite>6 sheets</cite>
+
+<a name="5B15.2">5B15.2</a>. If a publication has been issued in fascicles intended to be bound into one
 or more physical units, give the number of pages, leaves, or volumes appropriate
 to its final form, with a note indicating that it was issued in fascicles.
-5B15.3. If the number of physical units in which a publication is bound differs
+5B15.3 XXLINKXX. If the number of physical units in which a publication is bound differs
 from the number in which it was actually issued, state this fact in a local note, if
-considered important (see 7B19.1).
-6 v.
-Optional local note: LC copy bound in 3 v.
-5B16. Bibliographic volumes vs. physical volumes
+considered important (see 7B19.1 XXLINKXX).
+
+><cite>6 v.</cite>  
+>Optional local note: <cite>LC copy bound in 3 v.</cite>
+
+##### 5B16. Bibliographic volumes vs. physical volumes
+
 If the number of bibliographic volumes differs from the number of physical
 volumes in which a publication is actually issued, give the number of
 bibliographic volumes followed by "in" and the number of physical volumes.
 Give details of the publication’s numbering in a note, unless the numbering is
-given in a contents note (see 7B10).
-3 v. in 5
-Note: Vols. numbered 1, 2A, 2B, 2C, 3
-8 v. in 5
-Note: The t.p. of the 5th vol. bears the designation "Bde. 5-8"
-AREA 5. PHYSICAL DESCRIPTION
-Descriptive 112 Cataloging of Rare Materials (Books)
-5B17. Pagination continuous
-5B17.1. If the pagination of a publication in more than one physical unit is
+given in a contents note (see 7B10 XXLINKXX).
+
+><cite>3 v. in 5</cite>  
+>Note: <cite>Vols. numbered 1, 2A, 2B, 2C, 3</cite>  
+
+><cite>8 v. in 5</cite>  
+>Note: <cite>The t.p. of the 5th vol. bears the designation "Bde. 5-8"</cite>  
+
+##### 5B17. Pagination continuous
+
+<a name="5B17.1">5B17.1</a>. If the pagination of a publication in more than one physical unit is
 continuous, give the pagination in parentheses after the number of units.
-8 v. (894 p.)
-5B17.2. Do not use the physical description area to record preliminary sequences
+
+><cite>8 v. (894 p.)</cite>
+
+<a name="5B17.2">5B17.2</a>. Do not use the physical description area to record preliminary sequences
 unless only the first volume contains such a sequence. A complete record of
 sequences may be given in a note, if considered important.
-3 v. (xx, 804 p.)
-(Comment: Preliminaries are in v. 1 only)
-3 v. (804 p.)
-Optional note: Vol. 1: xx, 202 p.; v. 2: xx, 203-512 p.; v. 3:
-xxi, [1], 513-804 p.
-(Comment: Preliminaries are present in all volumes)
-5B18. Pagination not continuous
-Optionally, if the pagination of a publication in more than one physical unit is not
+
+><cite>3 v. (xx, 804 p.)</cite>  
+>>(*Comment*: Preliminaries are in v. 1 only)
+
+><cite>3 v. (804 p.)</cite>  
+>Optional note: <cite>Vol. 1: xx, 202 p.; v. 2: xx, 203-512 p.; v. 3: xxi, [1], 513-804 p.</cite>  
+>>(*Comment*: Preliminaries are present in all volumes)
+
+##### 5B18. Pagination not continuous
+
+*Optionally*, if the pagination of a publication in more than one physical unit is not
 continuous, record the pagination of each unit either in parentheses after the
 number of units or in a note.
-2 portfolios (12, 18 leaves)
-5 v. (32, 36, 48, 36, 18 p.)
-3 v. (v, [1], 31, [1]; vi, 32; iii, [1], 49, [1] p.)
-or 3 v.
-Optional note: Vol. 1: v, [1], 31, [1] p.; v. 2: vi, 32 p.; v. 3:
-iii, [1], 49, [1] p.
-(Comment: Same pagination as in preceding example)
-5B19. Leaves and pages of plates
+
+><cite>2 portfolios (12, 18 leaves)</cite>
+
+><cite>5 v. (32, 36, 48, 36, 18 p.)</cite>
+
+><cite>3 v. (v, [1], 31, [1]; vi, 32; iii, [1], 49, [1] p.)</cite> 
+
+*or* 
+
+><cite>3 v.</cite>  
+>Optional note: <cite>Vol. 1: v, [1], 31, [1] p.; v. 2: vi, 32 p.; v. 3: iii, [1], 49, [1] p.</cite>  
+>>(*Comment*: Same pagination as in preceding example)
+
+##### 5B19. Leaves and pages of plates
+
 If a publication in more than one physical unit contains leaves or pages of plates,
 do not record them in the statement of extent. Note the presence of the plates in a
 note, if considered important.
-2 v.
-Optional note: Vol. 1: viii, 100, [4] p., [12] leaves of plates
-(2 folded); v. 2: iv, 112 p., [9] leaves of plates
-AREA 5. PHYSICAL DESCRIPTION
-Descriptive Cataloging of Rare Materials (Books) 113
-5B20. Discontinued publications
+
+><cite>2 v.</cite>  
+>Optional note: <cite>Vol. 1: viii, 100, [4] p., [12] leaves of plates (2 folded); v. 2: iv, 112 p., [9] leaves of plates</cite>
+
+##### 5B20. Discontinued publications
+
 If a publication planned for more than one physical unit has been or appears to
 have been discontinued before completion, describe the incomplete set as
 appropriate (i.e., record paging for a single volume or the number of volumes for
 multiple volumes). Make an explanatory note.
-2 v.
-Note: No more published?
-627, [1] p.
-Note: Vol. 2 was never published
-5C. Illustration
-5C1. General rule
-5C1.1. To indicate the presence of illustration, use the abbreviation "ill." after the
+
+><cite>2 v.</cite>  
+>Note: <cite>No more published?</cite>
+
+><cite>627, [1] p.</cite>  
+>Note: <cite>Vol. 2 was never published</cite>  
+
+### 5C. Illustration
+
+#### 5C1. General rule
+
+<a name="5C1.1">5C1.1</a>. To indicate the presence of illustration, use the abbreviation "ill." after the
 statement of extent.
-8 v. : ill.
-492 p. : ill.
-246 p., 32 p. of plates : ill.
-5C1.2. Optionally, disregard minor illustrations.
-5C1.3. Do not regard ornaments (e.g., head‐pieces, vignettes, tail‐pieces, printers’
+
+><cite>8 v. : ill.</cite>
+
+><cite>492 p. : ill.</cite>
+
+><cite>246 p., 32 p. of plates : ill.</cite>
+
+<a name="5C1.2">5C1.2</a>. *Optionally*, disregard minor illustrations.
+
+<a name="5C1.3">5C1.3</a>. Do not regard ornaments (e.g., head‐pieces, vignettes, tail‐pieces, printers’
 devices), pictorial covers, or pictorial dust jackets as illustrations. If considered
-important, these may be mentioned in a note (see 7B10).
-5C1.4. Optionally, treat significant title‐page illustrations as illustrations rather
+important, these may be mentioned in a note (see 7B10 XXLINKXX).
+
+<a name="5C1.4">5C1.4</a>. *Optionally*, treat significant title‐page illustrations as illustrations rather
 than ornaments. Make a note to indicate any title‐page illustration so treated, if
-considered important (see 7B10).
-5C1.5. Optionally, add the graphic process or technique in parentheses, preferably
-using a term found in a standard vocabulary.16 Give more detailed descriptions
+considered important (see 7B10 XXLINKXX).
+
+<a name="5C1.5">5C1.5</a>. *Optionally*, add the graphic process or technique in parentheses, preferably
+using a term found in a standard vocabulary.<sup>16</sup> Give more detailed descriptions
 of the illustrations in a note, if considered important.
-16 Vocabularies useful for this purpose include the Art & Architecture Thesaurus Online (AAT)
-and the Thesaurus for Graphic Materials II: Genre & Physical Characteristic Terms (TGM II).
-AREA 5. PHYSICAL DESCRIPTION
-Descriptive 114 Cataloging of Rare Materials (Books)
-: ill. (woodcuts)
-: ill. (steel engravings)
-5C2. Types of illustrations
-5C2.1. Optionally, specify particular types of illustrations. Use in alphabetical
+
+<small><sup>16</sup> Vocabularies useful for this purpose include the Art & Architecture Thesaurus Online (AAT)
+and the Thesaurus for Graphic Materials II: Genre & Physical Characteristic Terms (TGM II).</small>
+
+><cite>: ill. (woodcuts)</cite> 
+
+><cite>: ill. (steel engravings)</cite>
+
+#### 5C2. Types of illustrations
+
+<a name="5C2.1">5C2.1</a>. *Optionally*, specify particular types of illustrations. Use in alphabetical
 order one or more such terms as the following: coats of arms, diagrams, facsims.,
 forms, geneal. tables, maps, music, plans, ports. (use for single or group
 portraits), samples.
+
 5C2.2. Replace "ill." with terms specifying particular types of illustrations if the
 particular types are the only illustrations in the publication.
-: maps
-: ports. (Woodburytypes)
-5C2.3. Precede terms specifying particular types of illustrations with "ill." if the
+
+><cite>: maps</cite>
+
+><cite>: ports. (Woodburytypes)</cite>
+
+<a name="5C2.3">5C2.3</a>. Precede terms specifying particular types of illustrations with "ill." if the
 particular types are not the only illustrations in the publication.
-: ill., maps, plans
-: ill. (wood engravings), maps (lithographs)
-5C3. Color illustrations
-5C3.1. Describe color illustrations as such using the abbreviation "col." Treat
+
+><cite>: ill., maps, plans</cite>
+
+><cite>: ill. (wood engravings), maps (lithographs)</cite>
+
+#### 5C3. Color illustrations
+
+<a name="5C3.1">5C3.1</a>. Describe color illustrations as such using the abbreviation "col." Treat
 illustrations printed with a tint block (e.g., chiaroscuro woodcuts, tinted
 lithographs) as color illustrations.
-: col. ill.
-: ill., col. maps, ports. (some col.)
-: ill. (some col.), maps, plans
-: col. ill. (Baxter prints)
-5C3.2. Do not describe hand‐colored illustrations as "col." unless there is
+
+><cite>: col. ill.</cite>
+
+><cite>: ill., col. maps, ports. (some col.)</cite>
+
+><cite>: ill. (some col.), maps, plans</cite>
+
+><cite>: col. ill. (Baxter prints)</cite>
+
+<a name="5C3.2">5C3.2</a>. Do not describe hand‐colored illustrations as "col." unless there is
 evidence that the publication was issued with the hand coloring. In case of
 doubt, consider any machine‐press publication with hand coloring to have been
 issued that way by the publisher. Always mention publisher‐issued hand
-coloring in a note (see 7B10.3); make a local note on the presence of other hand
-coloring, if considered important (see 7B19.1.3).
-AREA 5. PHYSICAL DESCRIPTION
-Descriptive Cataloging of Rare Materials (Books) 115
-: col. ill.
-Note: With hand-colored wood engravings
-(Comment: Title contains statement "with colored engravings")
-: col. ill. (lithographs)
-Note: Lithographs are hand colored, as issued; see Sitwell, S.
-Fine bird books, p. 78
-5C3.3. If both the text and illustrations are printed in a single color, do not
+coloring in a note (see 7B10.3 XXLINKXX); make a local note on the presence of other hand
+coloring, if considered important (see 7B19.1.3 XXLINKXX).
+
+><cite>: col. ill.</cite>  
+>Note: <cite>With hand-colored wood engravings</cite>  
+>>(*Comment*: Title contains statement "with colored engravings")
+
+><cite>: col. ill. (lithographs)</cite>  
+>Note: <cite>Lithographs are hand colored, as issued; see Sitwell, S. Fine bird books, p. 78</cite>
+
+<a name="5C3.3">5C3.3</a>. If both the text and illustrations are printed in a single color, do not
 describe the illustrations as "col." Make a note to indicate the color of the ink, if
 considered important.
-: ill.
-Optional note: Printed in green throughout
-5C4. Number of illustrations
+
+><cite>: ill.</cite>  
+>Optional note: <cite>Printed in green throughout</cite>
+
+#### 5C4. Number of illustrations
+
 Record the number of illustrations when their number can be ascertained readily
 (e.g., when the illustrations are listed and their numbers stated).
-: 94 ill.
-: ill., 8 facsims.
-: 3 ill., 1 map
-: 6 col. ill. (tinted lithographs)
-: 2 maps (lithographs), 1 port. (mezzotint)
-: 1 ill. (engraving)
-Note: Illustration is a t.p. vignette depicting a woman with
-raised sword and torch, with two serpents rising out of an
-inferno in the background
-5C5. Publications consisting entirely or chiefly of illustrations
+
+><cite>: 94 ill.</cite>
+
+><cite>: ill., 8 facsims.</cite>
+
+><cite>: 3 ill., 1 map</cite>
+
+><cite>: 6 col. ill. (tinted lithographs)</cite>
+
+><cite>: 2 maps (lithographs), 1 port. (mezzotint)</cite>
+
+><cite>: 1 ill. (engraving)</cite>  
+>Note: <cite>Illustration is a t.p. vignette depicting a woman with raised sword and torch, with two serpents rising out of an inferno in the background</cite>
+
+#### 5C5. Publications consisting entirely or chiefly of illustrations
+
 If a publication consists entirely or chiefly of illustrations, account for this fact by
 specifying "all ill." or "chiefly ill." Optionally, when the illustrations are all or
-chiefly of a particular type (see 5C2.2), replace "ill." with the term specifying the
+chiefly of a particular type (see 5C2.2 XXLINKXX), replace "ill." with the term specifying the
 particular type.
-: all ill.
-: chiefly maps
-AREA 5. PHYSICAL DESCRIPTION
-Descriptive 116 Cataloging of Rare Materials (Books)
-5D. Size and format
-5D1. General rule
-5D1.1. Give the height of a publication (based on the copy in hand) in
+
+><cite>: all ill.</cite>
+
+><cite>: chiefly maps</cite>
+
+### 5D. Size and format
+
+#### 5D1. General rule
+
+<a name="5D1.1">5D1.1</a>. Give the height of a publication (based on the copy in hand) in
 centimeters, rounding a fraction of a centimeter up to the next full centimeter. If a
 publication measures less than 10 centimeters, give the height in millimeters. If
 more than one copy of the publication is held, and the heights of the different
 copies vary, record the height of the tallest copy and give the height of the other
 copies in a local note.
-; 18 cm
-(Comment: A publication measuring 17.1 centimeters in height)
-; 99 mm
-(Comment: A publication measuring between 98 and 99 millimeters in height)
-5D1.2. If a publication is bound, measure the height of the binding. When the
+
+><cite>; 18 cm</cite>  
+>>(*Comment*: A publication measuring 17.1 centimeters in height)
+
+><cite>; 99 mm</cite>  
+>>(*Comment*: A publication measuring between 98 and 99 millimeters in height) 
+
+<a name="5D1.2">5D1.2</a>. If a publication is bound, measure the height of the binding. When the
 height of the publication differs by 3 centimeters or more from the height of the
 binding, specify both.
-; 12 cm bound to 20 cm
-5D1.3. For hand‐press publications, add the bibliographical format of the
+
+><cite>; 12 cm bound to 20 cm</cite>
+
+<a name="5D1.3">5D1.3</a>. For hand‐press publications, add the bibliographical format of the
 publication in parentheses following the size statement whenever the format can
-be determined. Optionally, give the format also for machine‐press publications.
+be determined. *Optionally*, give the format also for machine‐press publications.
 Give the format in abbreviated form (fol., 4to, 8vo, 12mo, etc.). Use "full‐sheet"
 for publications made up of unfolded sheets.
-; 20 cm (4to)
-(Comment: A publication in quarto)
-; 20 cm (4to and 8vo)
-(Comment: A publication consisting of a mixture of quarto and octavo sheets)
-; 51 x 38 cm (full-sheet)
-5D2. Width
+
+><cite>; 20 cm (4to)</cite>  
+>>(*Comment*: A publication in quarto)
+
+><cite>; 20 cm (4to and 8vo)</cite>  
+>>(*Comment*: A publication consisting of a mixture of quarto and octavo sheets)
+
+><cite>; 51 x 38 cm (full-sheet)</cite>  
+
+#### 5D2. Width
+
 If the width of a volume is greater than the height, or less than half the height,
 give the height x width.
-AREA 5. PHYSICAL DESCRIPTION
-Descriptive Cataloging of Rare Materials (Books) 117
-; 20 x 32 cm
-; 20 x 8 cm
+
+><cite>; 20 x 32 cm</cite>
+
+><cite>; 20 x 8 cm</cite>
+
 If one of the measurements would normally be given in millimeters and one in
 centimeters, give both measurements in millimeters.
-; 95 x 120 mm
-5D3. Differing sizes
+
+><cite>; 95 x 120 mm</cite>
+
+#### 5D3. Differing sizes
+
 If the volumes of a multipart set differ in size, give the smallest or smaller size
 and the largest or larger size, separated by a hyphen.
-; 24-28 cm
-5D4. Single‐sheet publications
-5D4.1. For a single‐sheet publication issued unfolded, give the height x width. If
+
+><cite>; 24-28 cm</cite>
+
+#### 5D4. Single‐sheet publications
+
+<a name="5D4.1">5D4.1</a>. For a single‐sheet publication issued unfolded, give the height x width. If
 a sheet is issued in folded form, but is designed to be used unfolded (e.g., with
 the chief part occupying a whole side of the sheet), add the dimensions of the
 sheet when folded.
-1 sheet ([1] p.) ; 48 x 30 cm, folded to 24 x 15 cm
-5D4.2. When describing other folded sheets (see 5B14), give the height of the
+
+><cite>1 sheet ([1] p.) ; 48 x 30 cm, folded to 24 x 15 cm</cite>
+
+<a name="5D4.2">5D4.2</a>. When describing other folded sheets (see 5B14 XXLINKXX), give the height of the
 sheet when folded.
-1 folded sheet ([8] panels) ; 18 cm
-5E. Accompanying material
-5E1. General rule
-5E1.1. If a publication and its accompanying material are issued simultaneously
+
+><cite>1 folded sheet ([8] panels) ; 18 cm</cite>
+
+### 5E. Accompanying material
+
+#### 5E1. General rule
+
+<a name="5E1.1">5E1.1</a>. If a publication and its accompanying material are issued simultaneously
 (or nearly so) and are intended to be used together, give the number of physical
 units of accompanying material in arabic numerals, and the name of the material
 at the end of the physical description.
-; 24 cm (8vo) + 1 price list
-AREA 5. PHYSICAL DESCRIPTION
-Descriptive 118 Cataloging of Rare Materials (Books)
-5E1.2. Optionally, give the physical description of accompanying material in
+
+><cite>; 24 cm (8vo) + 1 price list</cite>
+
+<a name="5E1.2">5E1.2</a>. *Optionally*, give the physical description of accompanying material in
 parentheses following its name.
-; 21 cm (8vo) + 1 atlas (38 p., 19 leaves of plates : col. maps ;
-37 cm (fol.))
-; 25 cm (8vo) + 1 map (col. ; 65 x 40 cm)
-or describe the accompanying material independently
-or mention it in a note (see 7B11).
-5E2. Issued in pocket
+
+><cite>; 21 cm (8vo) + 1 atlas (38 p., 19 leaves of plates : col. maps ; 37 cm (fol.))</cite>
+
+><cite>; 25 cm (8vo) + 1 map (col. ; 65 x 40 cm)</cite>
+
+*or*
+
+describe the accompanying material independently
+
+*or*
+
+mention it in a note (see 7B11 XXLINKXX).
+
+#### 5E2. Issued in pocket
+
 If accompanying material is issued in a pocket attached to a publication, specify
 the location in a note.
-; 30 cm (4to) + 2 folded maps
-Note: Maps in pocket on inside back cover
-Descriptive Cataloging of Rare Materials (Books) 119
-6. SERIES AREA
-Contents:
-6A. Preliminary rule
-6B. Title proper of series
-6C. Parallel titles of series
-6D. Other title information of series
-6E. Statements of responsibility relating to series
-6F. ISSN of series
-6G. Numbering within series
-6H. Subseries
-6J. More than one series statement
-6A. Preliminary rule
-6A1. Prescribed punctuation
+
+><cite>; 30 cm (4to) + 2 folded maps</cite>  
+>Note: <cite>Maps in pocket on inside back cover</cite>
+
+## 6. SERIES AREA
+
+### Contents:
+
+6A. Preliminary rule  
+6B. Title proper of series  
+6C. Parallel titles of series  
+6D. Other title information of series  
+6E. Statements of responsibility relating to series  
+6F. ISSN of series  
+6G. Numbering within series  
+6H. Subseries  
+6J. More than one series statement  
+
+### 6A. Preliminary rule  
+
+#### 6A1. Prescribed punctuation  
+
 For instructions on the use of spaces before and after prescribed punctuation, see
-0E.
+0E XXLINKXX. 
+
 Precede this area by a period‐space‐dash‐space.
+
 Enclose each series statement in parentheses.
+
 Precede each parallel title by an equals sign.
+
 Precede other title information by a colon.
+
 Precede the first statement of responsibility by a diagonal slash.
+
 Precede each subsequent statement of responsibility by a semicolon.
+
 Precede the ISSN of a series or subseries by a comma.
+
 Precede the numbering within a series or subseries by a semicolon.
+
 Enclose a date following a numeric and/or alphabetic designation in parentheses.
+
 Precede the title of a subseries, or the designation for a subseries, by a period.
-AREA 6. SERIES
-Descriptive 120 Cataloging of Rare Materials (Books)
+
 Precede the title of a subseries following a designation for the subseries by a
 comma.
-6A2. Sources of information
-6A2.1. The prescribed sources of information for the series area are the series title
-page, monograph title page, cover,17 dust jacket, and rest of the publication, in
+
+#### 6A2. Sources of information
+
+<a name="6A2.1">6A2.1</a>. The prescribed sources of information for the series area are the series title
+page, monograph title page, cover,<sup>17</sup> dust jacket, and rest of the publication, in
 that order of preference. If the publication has both main series and subseries
 titles, however, prefer a source containing both titles.
-6A2.2. If the series statement, or any of its elements, is taken from a source other
-than the series title page, make a note to indicate the source.
-(The penny library of popular authors ; number 1)
-Note: Series statement from t.p.
-(E.D.E.N. Southworth series ; 35)
-Note: Series statement from dust jacket
-(Britain in pictures : the British people in pictures / general
-editor, W.J. Turner)
-Note: Series editor from verso of series t.p.
-6A2.3. If the series statement appears on both the series title page and the
-monograph title page, indicate this in a note, if considered important, and record
-the text of the latter statement if the two differ.
-(British poets)
-Optional note: Series statement also appears at head of t.p.
-(Blue and gold series ; no. 5)
-Optional note: Series statement also appears on t.p. as: Blue &
-gold series. Num. 5
-6A2.4. If the series statement appears as a stamp or on a label, transcribe it as
-found and make a note to indicate the presence of the stamp or label.
-(New poetry series ; IV)
-Note: Series statement from label on t.p.
-17 Consider the cover to be a prescribed source only if it was issued by the publisher. Serieslike
+
+<small><sup>17</sup> Consider the cover to be a prescribed source only if it was issued by the publisher. Serieslike
 statements present on covers not issued by the publisher usually represent binders’ titles and
 should be treated as copy‐specific information. They may be transcribed in a local note, if
 considered important. In case of doubt, do not consider the cover to be a prescribed source of
-information.
-AREA 6. SERIES
-Descriptive Cataloging of Rare Materials (Books) 121
-6A2.5. If a series statement is not present in the publication, but reference sources
+information.</small>
+
+<a name="6A2.2">6A2.2</a>. If the series statement, or any of its elements, is taken from a source other
+than the series title page, make a note to indicate the source.
+
+><cite>(The penny library of popular authors ; number 1)</cite>  
+>Note: <cite>Series statement from t.p.</cite>  
+
+><cite>(E.D.E.N. Southworth series ; 35)</cite>  
+>Note: <cite>Series statement from dust jacket</cite>
+
+><cite>(Britain in pictures : the British people in pictures / general editor, W.J. Turner)</cite>  
+>Note: <cite>Series editor from verso of series t.p.</cite>
+
+<a name="6A2.3">6A2.3</a>. If the series statement appears on both the series title page and the
+monograph title page, indicate this in a note, if considered important, and record
+the text of the latter statement if the two differ.
+
+><cite>(British poets)</cite>  
+>Optional note: <cite>Series statement also appears at head of t.p.</cite>
+
+><cite>(Blue and gold series ; no. 5)</cite>  
+>Optional note: <cite>Series statement also appears on t.p. as: Blue & gold series. Num. 5</cite>
+
+<a name="6A2.4">6A2.4</a>. If the series statement appears as a stamp or on a label, transcribe it as
+found and make a note to indicate the presence of the stamp or label.
+
+><cite>(New poetry series ; IV)</cite>  
+>Note: <cite>Series statement from label on t.p.</cite>
+
+<a name="6A2.5">6A2.5</a>. If a series statement is not present in the publication, but reference sources
 provide evidence that the book was issued as part of a publisher’s series, do not
 supply a series statement in the series area. Rather, provide the series
 information in a note, if considered important.
-Optional note: Issued as no. 14 in the Brocade series. See
-Bishop, P.R. Mosher, 148
-6A3. Form and order of information
+
+><cite>Optional note: Issued as no. 14 in the Brocade series. See Bishop, P.R. Mosher, 148</cite>
+
+#### 6A3. Form and order of information
+
 Transcribe series information in the form and order in which it is presented in
-the source, unless instructed otherwise by specific rules (see 0G).
-6B. Title proper of series
-6B1. Transcribe the title proper of the series as it appears in the publication,
+the source, unless instructed otherwise by specific rules (see 0G XXLINKXX).
+
+### 6B. Title proper of series
+
+<a name="6B1">6B1</a>. Transcribe the title proper of the series as it appears in the publication,
 according to the general rules 0B‐0G.
-(The Edinburgh cabinet library)
-(Harper's black & white series)
-6B2. If the series title proper includes a statement of responsibility or numbering
+
+><cite>(The Edinburgh cabinet library)</cite> 
+
+><cite>(Harper's black & white series)</cite>
+
+<a name="6B2">6B2</a>. If the series title proper includes a statement of responsibility or numbering
 that is grammatically inseparable from other words in the title proper, transcribe
 it as part of the title proper.
-(Tract no. I of the American Peace Society)
-6C. Parallel titles of series
-6C1. If the source bears a series title in more than one language or script,
+
+><cite>(Tract no. I of the American Peace Society)</cite>
+
+### 6C. Parallel titles of series
+
+<a name="6C1">6C1</a>. If the source bears a series title in more than one language or script,
 transcribe as the series title proper the title that is in the language or script of the
 title proper. If this criterion does not apply, transcribe the title that appears first
 in the source. Transcribe the remaining title(s), together with any associated
 information, as parallel series titles. Precede each parallel series title by an equals
 sign. Make a note to indicate the original position on the source of any
 transposed titles.
-6C2. Optionally, if it is considered that the parallel series titles are too numerous
+
+<a name="6C2">6C2</a>. *Optionally*, if it is considered that the parallel series titles are too numerous
 to list exhaustively, and that some may be omitted without significant loss of
 identification, omit parallel series titles after the first using the mark of omission.
-AREA 6. SERIES
-Descriptive 122 Cataloging of Rare Materials (Books)
 Transcribe the omitted title(s), together with any associated information, in a
 note, if considered important.
-6D. Other title information of series
-6D1. Transcribe other title information relating to the series, if present, following
+
+### 6D. Other title information of series
+
+<a name="6D1">6D1</a>. Transcribe other title information relating to the series, if present, following
 the series title proper.
-(The mermaid series : the best plays of the old dramatists)
-6D2. If there are parallel series titles (see 6C), transcribe the other title
+
+><cite>(The mermaid series : the best plays of the old dramatists)</cite>
+
+<a name="6D2">6D2</a>. If there are parallel series titles (see 6C XXLINKXX), transcribe the other title
 information after the series title to which it relates. If any parallel titles have been
 omitted from the transcription, also omit the associated other title information.
 Transcribe the omitted information in a note, if considered important.
-6E. Statements of responsibility relating to series
-6E1. Transcribe a statement of responsibility relating to the series, if present,
+
+### 6E. Statements of responsibility relating to series
+
+<a name="6E1">6E1</a>. Transcribe a statement of responsibility relating to the series, if present,
 following the series title. If the statement of responsibility does not appear in this
 position in the source, transpose as needed. Provide details of the transposition
 in a note. However, if the statement of responsibility is grammatically
-inseparable from the series title, see 6B2.
-(Serie de libros de lectura / Mantilla)
-Note: Series editor precedes series title at head of t.p.
-6E2. Parallel statements of responsibility relating to series
-6E2.1. If there are parallel series titles (see 6C) but the statement of responsibility
+inseparable from the series title, see 6B2 XXLINKXX.
+
+><cite>(Serie de libros de lectura / Mantilla)</cite>  
+>Note: <cite>Series editor precedes series title at head of t.p.</cite>
+
+#### 6E2. Parallel statements of responsibility relating to series
+
+<a name="6E2.1">6E2.1</a>. If there are parallel series titles (see 6C XXLINKXX) but the statement of responsibility
 relating to the series appears in only one language or script, transcribe the
 statement of responsibility after the last parallel title (following any other title
 information associated with the title).
-6E2.2. If the statement of responsibility appears in more than one language or
+
+<a name="6E2.2">6E2.2</a>. If the statement of responsibility appears in more than one language or
 script, transcribe each statement after the series title (or other title information) to
 which it relates.
-6E2.3. If any parallel series titles have been omitted from the transcription, also
+
+<a name="6E2.3">6E2.3</a>. If any parallel series titles have been omitted from the transcription, also
 omit their associated statements of responsibility. Transcribe the omitted
 statement(s) in a note, if considered important.
-AREA 6. SERIES
-Descriptive Cataloging of Rare Materials (Books) 123
-6F. ISSN of series
+
+### 6F. ISSN of series
+
 Transcribe an International Standard Serial Number (ISSN) of a series if it
 appears in the publication.
-(Graeco-Roman memoirs, ISSN 0306-9222 ; no. 62)
-6G. Numbering within series
-6G1. General rule
-6G1.1. If series numbering is present, transcribe it as the last element in the series
+
+><cite>(Graeco-Roman memoirs, ISSN 0306-9222 ; no. 62)</cite> 
+
+### 6G. Numbering within series
+
+#### 6G1. General rule
+
+<a name="6G1.1">6G1.1</a>. If series numbering is present, transcribe it as the last element in the series
 statement. If the numbering does not appear in this order in the source, transpose
 it as needed. Provide details of the transposition in a note. However, if the
-numbering is grammatically inseparable from the series title, see 6B2.
-(Modern standard drama / edited by Epes Sargent ... ; no. XXXII)
-Note: Series from t.p.; series numbering precedes series title
-6G1.2. Transcribe the numbering as it appears in the publication. Do not use any
+numbering is grammatically inseparable from the series title, see 6B2 XXLINKXX.
+
+><cite>(Modern standard drama / edited by Epes Sargent ... ; no. XXXII)</cite>  
+>Note: <cite>Series from t.p.; series numbering precedes series title</cite>
+
+<a name="6G1.2">6G1.2</a>. Transcribe the numbering as it appears in the publication. Do not use any
 abbreviations not present in the source and do not convert roman or spelled‐out
 numerals to arabic.
-(... ; num. II)
-(... ; volume six)
-6G2. If series numbering appears without a series title, transcribe the numbering
+
+><cite>(... ; num. II)</cite>
+
+><cite>(... ; volume six)</cite>
+
+<a name="6G2">6G2</a>. If series numbering appears without a series title, transcribe the numbering
 in a note. Provide any additional information about the series (e.g., as found in
 reference sources) in a note, if considered important.
-Note: Number "6" appears at head of t.p.; issued as part of the
-American tract series; see BAL
-(Comment: Making a note on the number is required; providing the additional
-information from BAL is optional)
+
+>Note: <cite>Number "6" appears at head of t.p.; issued as part of the American tract series; see BAL</cite>  
+>>(*Comment*: Making a note on the number is required; providing the additional information from BAL is optional)
+
 In case of doubt as to whether a number appearing in the publication is series
 numbering, transcribe the numbering in a note.
-6G3. Numbering relating to parallel series titles
-6G3.1. If there are parallel series titles (see 6C) and the series numbering also
+
+#### 6G3. Numbering relating to parallel series titles
+
+<a name="6G3.1">6G3.1</a>. If there are parallel series titles (see 6C XXLINKXX) and the series numbering also
 appears in more than one language or script, transcribe each number after the
-AREA 6. SERIES
-Descriptive 124 Cataloging of Rare Materials (Books)
 series title to which it relates (following any other title information or any
 statement of responsibility associated with the title).
-(O.B.E.M.A ; number 11 = O.B.E.M.A. ; Nummer 11)
-6G3.2. If the series numbering appears only once, transcribe it after the series title
+
+><cite>(O.B.E.M.A ; number 11 = O.B.E.M.A. ; Nummer 11)</cite>
+
+<a name="6G3.2">6G3.2</a>. If the series numbering appears only once, transcribe it after the series title
 to which it relates. However, if the numbering relates to all, more than one, or
 none of the series titles, transcribe it at the end of the series statement.
-(Série bilingue = Bilingual series ; 5)
-6G3.3. If any parallel series titles have been omitted from the transcription, also
+
+><cite>(Série bilingue = Bilingual series ; 5)</cite>
+
+<a name="6G3.3">6G3.3</a>. If any parallel series titles have been omitted from the transcription, also
 omit their associated numbers. Transcribe the omitted number(s) in a note, if
 considered important.
-6H. Subseries
-6H1. If both a main series and a subseries appear in the publication, give the
+
+### 6H. Subseries
+
+<a name="6H1">6H1</a>. If both a main series and a subseries appear in the publication, give the
 details of the main series first, followed by the details of the subseries. If the main
 series and subseries do not appear in this position in the source, transpose them
 as needed and provide details of the transposition in a note.
-(Parlour library. Shilling series)
-6H2. If a phrase such as "new series," "second series," etc., appears with an
+
+><cite>(Parlour library. Shilling series)</cite>
+
+<a name="6H2">6H2</a>. If a phrase such as "new series," "second series," etc., appears with an
 unnumbered series, transcribe the phrase as a subseries title. If the phrase
 appears with a numbered series, transcribe the phrase as part of the numbering
 of the series.
-(Studies in verse. Second series)
-(Comment: Series is unnumbered)
-(Killaly chapbooks ; 2nd series, no. 6)
-(Comment: Series is numbered)
-6H3. If there are parallel series titles (see 6C), transcribe each subseries after the
+
+><cite>(Studies in verse. Second series)</cite>  
+>>(*Comment*: Series is unnumbered)
+
+><cite>(Killaly chapbooks ; 2nd series, no. 6)</cite>  
+>>(*Comment*: Series is numbered)
+
+<a name="6H3">6H3</a>. If there are parallel series titles (see 6C XXLINKXX), transcribe each subseries after the
 series title to which it relates. If any parallel titles have been omitted from the
 transcription, also omit their associated subseries. Transcribe the omitted
 subseries in a note, if considered important.
-AREA 6. SERIES
-Descriptive Cataloging of Rare Materials (Books) 125
-6J. More than one series statement
+
+### 6J. More than one series statement
+
 The information relating to a single series, or series and subseries, constitutes one
 series statement. If two or more series statements appear in a publication,
 transcribe each statement separately.
-(American poets profile series ; 1) (Thunder City Press poetry
-series ; number 19)
 
-Descriptive Cataloging of Rare Materials (Books) 127
-7. NOTE AREA
-Contents:
-7A. Preliminary rule
-7B. Notes
-7A. Preliminary rule
-7A1. General instructions
-7A1.1. Notes qualify and amplify the formal description, and are especially
+><cite>(American poets profile series ; 1) (Thunder City Press poetry series ; number 19)</cite>
+
+## 7. NOTE AREA
+
+### Contents:
+
+7A. Preliminary rule  
+7B. Notes  
+
+### 7A. Preliminary rule
+
+#### 7A1. General instructions
+
+<a name="7A1.1">7A1.1</a>. Notes qualify and amplify the formal description, and are especially
 important for recording types of information not accounted for in other areas of
 the description. Notes can therefore deal with any aspect of the publication.
-7A1.2. Notes, by their nature, cannot be enumerated exhaustively, but can be
+
+<a name="7A1.2">7A1.2</a>. Notes, by their nature, cannot be enumerated exhaustively, but can be
 categorized in terms of the areas of description to which they pertain. In addition
 to notes relating to these areas, there are notes that do not correspond to any area
 of the formalized areas of description. Occasionally it may be useful to group
 together notes that refer to more than one area, for instance, when they are all
 based on one source within the work, such as a privilege statement.
-7A1.3. If the description in the areas preceding the note area does not clearly
+
+<a name="7A1.3">7A1.3</a>. If the description in the areas preceding the note area does not clearly
 identify the resource being cataloged, make whatever notes are necessary for
 unambiguous identification. When appropriate, refer to detailed descriptions in
 standard catalogs or bibliographies. Provide sufficient information to identify the
 specific source, whether using a general note, a formal "References" note giving
-the source in prescribed form (see 7B14), or some combination of the two.
-7A1.4. Notes may also be made to justify added entries intended for special
+the source in prescribed form (see 7B14 XXLINKXX), or some combination of the two.
+
+<a name="7A1.4">7A1.4</a>. Notes may also be made to justify added entries intended for special
 indexes of personal or corporate names, titles, genres/forms, physical
 characteristics, provenance, etc. Whenever possible, use terms taken from lists of
 controlled vocabularies when making such notes and added entries. Prefer the
 terminology used in controlled vocabularies issued by the RBMS Bibliographic
 Standards Committee. Terms from other authorized vocabularies (e.g., the Art &
 Architecture Thesaurus Online) may also be used as appropriate.
-AREA 7. NOTE
-Descriptive 128 Cataloging of Rare Materials (Books)
-7A1.5. In general, notes are not required, but some notes are required in
-particular situations and are so indicated in previous rules, e.g., 1E3, 2A2, or 4A4,
-and in some of the rules for this area.18
-7A2. Punctuation
+
+<a name="7A1.5">7A1.5</a>. In general, notes are not required, but some notes are required in
+particular situations and are so indicated in previous rules, e.g., 1E3, 2A2, or 4A4, XXLINKXX
+and in some of the rules for this area.<sup>18</sup>
+
+<small><sup>18</sup> A complete list of required notes may be found in the Index under "Required notes."</small>
+
+#### 7A2. Punctuation
+
 Start a new paragraph for each note. End each paragraph with a period or other
 mark of final punctuation.
+
 Separate introductory wording from the main content of a note by a colon
 followed but not preceded by a space.
-7A3. Sources of information
+
+#### 7A3. Sources of information
+
 Take information recorded in notes from any suitable source. Square brackets are
 required only for interpolations within quoted material.
-7A4. Form of notes
-7A4.1. Order of information. If information in a note corresponds to information
+
+#### 7A4. Form of notes
+
+<a name="7A4.1">7A4.1</a>. **Order of information**. If information in a note corresponds to information
 found in the title and statement of responsibility, edition, publication,
 distribution, etc., physical description, or series areas, usually give the elements
 of information in the order in which they appear in those areas. In such cases, use
 prescribed punctuation, except substitute a period for a period‐space‐dash‐space.
-Revision of: 3rd ed. London : Macmillan, 1953
-7A4.2. Quotations. Record quotations from the publication or from other sources
+
+><cite>Revision of: 3rd ed. London : Macmillan, 1953</cite>
+
+<a name="7A4.2">7A4.2</a>. **Quotations**. Record quotations from the publication or from other sources
 in quotation marks. Follow the quotation by an indication of its source, unless
 that source is the title page. Do not use prescribed punctuation within
 quotations.
-"Extracted from the minutes of the Society for the Propagation of
-the Gospel in Foreign Parts"
-"Generally considered to be by William Langland"--Harvey, P.
-Oxford companion to Engl. lit.
-"The principal additional music, contained in 72 pages, may be
-had, half bound, with or without the rules, price four
-shillings and ninepence"--Pref.
-18 A complete list of required notes may be found in the Index under "Required notes."
-AREA 7. NOTE
-Descriptive Cataloging of Rare Materials (Books) 129
-7A4.3. Formal notes. Use formal notes employing an invariable introductory
+
+><cite>"Extracted from the minutes of the Society for the Propagation of the Gospel in Foreign Parts"</cite>
+
+><cite>"Generally considered to be by William Langland"--Harvey, P. Oxford companion to Engl. lit.</cite>
+
+><cite>"The principal additional music, contained in 72 pages, may be had, half bound, with or without the rules, price four shillings and ninepence"--Pref.</cite>
+
+<a name="7A4.3">7A4.3</a>. **Formal notes**. Use formal notes employing an invariable introductory
 word or phrase or a standard verbal formula when uniformity of presentation
 assists in the recognition of the type of information being presented or when
 their use provides economy of space without loss of clarity.
-7A4.4. Informal notes. When making informal notes, use statements that present
+
+<a name="7A4.4">7A4.4</a>. **Informal notes**. When making informal notes, use statements that present
 the information as briefly as clarity, understandability, and good grammar
 permit.
-7A5. Notes citing other editions and works
-7A5.1. Other editions. In citing another edition of the same work, give enough
+
+#### 7A5. Notes citing other editions and works
+
+<a name="7A5.1">7A5.1</a>. **Other editions**. In citing another edition of the same work, give enough
 information to identify the edition cited.
-Revision of: 2nd ed., 1869
-7A5.2. Other works and other manifestations of the same work. In citing other
+
+><cite>Revision of: 2nd ed., 1869</cite>
+
+<a name="7A5.2">7A5.2</a>. Other works and other manifestations of the same work. In citing other
 works and other manifestations of the same work (other than different editions
 with the same title), give whatever information is appropriate, such as the main
 entry heading, title proper (or uniform title), statement of responsibility, edition
 statement, or date of publication. Arrange the information provided in the form
 that makes most sense in the particular case. Abridge the information as needed
 without using the mark of omission.
-Adaptation of: Bunyan, John. Pilgrim's progress
-or Adaptation of: Pilgrim's progress / by John Bunyan
-7B. Notes
+
+><cite>Adaptation of: Bunyan, John. Pilgrim's progress</cite>
+
+*or*
+
+><cite>Adaptation of: Pilgrim's progress / by John Bunyan</cite>
+
+### 7B. Notes
+
 Some of the most common types of notes are listed below; other notes than those
 provided for may be made, if considered important. Specific applications of
 many of these notes are provided in the preceding sections. Make notes as called
@@ -4373,389 +4662,498 @@ for in the following subrules, and, generally, in the order in which they are li
 here. If a particular note is of primary importance, it may be given first,
 regardless of its order in this list. When appropriate, combine two or more notes
 to make one note.
-7B1. Nature, scope, or artistic form
+
+#### 7B1. Nature, scope, or artistic form
+
 Make a note on the nature, scope, or artistic form when useful to amplify or
 explain the title proper and other title information.
-AREA 7. NOTE
-Descriptive 130 Cataloging of Rare Materials (Books)
-An advertisement
-A satire against William Pulteney
-Prospectus for: Pope, Alexander. Essay on criticism. London, 1745
-7B2. Language and script of publication; translation or adaptation
-7B2.1. Make a note on the language and script of the publication, or on the fact
+
+><cite>An advertisement</cite>
+
+><cite>A satire against William Pulteney</cite>
+
+><cite>Prospectus for: Pope, Alexander. Essay on criticism. London, 1745</cite>
+
+#### 7B2. Language and script of publication; translation or adaptation
+
+<a name="7B2.1">7B2.1</a>. Make a note on the language and script of the publication, or on the fact
 that it is a translation or adaptation, unless this is apparent from the rest of the
 description.
-Parallel Iroquois and English texts
-English text with Latin and French prose translations
-Text in romanized Arabic
-Author's adaptation of his Latin text
-Translation of: Gulliver's travels
-In part a translation of: Le déserteur / M.-J. Sedaine
-Adaptation of: Breviarium monasticum
-7B2.2. Always note the presence of nonroman script in the publication if it has
-been transcribed only in romanized form in the description (see 0F2.1).
-Church Slavic in Cyrillic script
-Title in Greek script
-7B3. Source of description; source of title proper
-7B3.1. Always make a note on the source of the title proper if it is from a
+
+><cite>Parallel Iroquois and English texts</cite>
+
+><cite>English text with Latin and French prose translations</cite>
+
+><cite>Text in romanized Arabic</cite>
+
+><cite>Author's adaptation of his Latin text</cite>
+
+><cite>Translation of: Gulliver's travels</cite>
+
+><cite>In part a translation of: Le déserteur / M.-J. Sedaine</cite>
+
+><cite>Adaptation of: Breviarium monasticum</cite>
+
+<a name="7B2.2">7B2.2</a>. Always note the presence of nonroman script in the publication if it has
+been transcribed only in romanized form in the description (see 0F2.1 XXLINKXX).
+
+><cite>Church Slavic in Cyrillic script</cite>
+
+><cite>Title in Greek script</cite>
+
+#### 7B3. Source of description; source of title proper
+
+<a name="7B3.1">7B3.1</a>. Always make a note on the source of the title proper if it is from a
 substitute for the title page.
-Caption title
-Title from colophon
-Title from incipit on leaf [2]a
-Title and imprint from printed wrapper
-7B3.2. For multipart monographs, if the description is not based on the first part,
+
+><cite>Caption title</cite>
+
+><cite>Title from colophon</cite>
+
+><cite>Title from incipit on leaf [2]a</cite>
+
+><cite>Title and imprint from printed wrapper</cite>
+
+<a name="7B3.2">7B3.2</a>. For multipart monographs, if the description is not based on the first part,
 identify the part used as the basis of the description.
-AREA 7. NOTE
-Descriptive Cataloging of Rare Materials (Books) 131
-Description based on: v. 2, published in 2001
-7B4. Variations in title
-7B4.1. Make a note on titles borne by the publication other than the one chosen as
+
+><cite>Description based on: v. 2, published in 2001</cite>
+
+#### 7B4. Variations in title
+
+<a name="7B4.1">7B4.1</a>. Make a note on titles borne by the publication other than the one chosen as
 the title proper. If nonroman text has been transcribed in the title proper without
-parallel romanization (e.g., as transcribed from the source or provided by 0F2.2),
+parallel romanization (e.g., as transcribed from the source or provided by 0F2.2 XXLINKXX),
 give a romanization of the title proper.
-Title on added t.p.: La naturaleza descubierta en su modo de
-ensenar las lenguas a los hombres
-Spine title: Bath Road acts
-Engraved t.p. reads: The continental tourist
-7B4.2. If considered important, also include here partial or complete
+
+><cite>Title on added t.p.: La naturaleza descubierta en su modo de ensenar las lenguas a los hombres</cite>
+
+><cite>Spine title: Bath Road acts</cite>
+
+><cite>Engraved t.p. reads: The continental tourist</cite>
+
+<a name="7B4.2">7B4.2</a>. If considered important, also include here partial or complete
 transcriptions of title information to show the actual wording of the title page
 (e.g., when information has been omitted) and explanations of cataloger‐supplied
 letters or words (e.g., when special marks of contraction have been used by the
 printer in continuance of the manuscript tradition).
-Marks of contraction in title have been expanded
-7B5. Parallel titles and other title information
+
+><cite>Marks of contraction in title have been expanded</cite>
+
+#### 7B5. Parallel titles and other title information
+
 Make a note on parallel titles appearing in the publication but not on the title
 page; also give other title information appearing in the publication but not on the
 title page if it is considered important. If parallel titles and other title information
 appearing on the title page have been omitted from the title and statement of
 responsibility area (e.g., because they could not be fitted into the body of the
 entry, or because they were very lengthy), they may be given here as notes.
-Title on added t.p.: The book of exposition = Liber rubens
-Subtitle: The medicinal, culinary, cosmetic, and economic
-properties, cultivation, and folklore of herbs, grasses, fungi,
-shrubs, and trees, with all their modern scientific uses
-7B6. Statements of responsibility
-7B6.1. Statement of responsibility in source other than title page. If a statement
+
+><cite>Title on added t.p.: The book of exposition = Liber rubens</cite>
+
+><cite>Subtitle: The medicinal, culinary, cosmetic, and economic properties, cultivation, and folklore of herbs, grasses, fungi, shrubs, and trees, with all their modern scientific uses</cite>
+
+#### 7B6. Statements of responsibility
+
+<a name="7B6.1">7B6.1</a>. Statement of responsibility in source other than title page. If a statement
 of responsibility appears in a source other than on the title page, give it and its
 source in a note.
-AREA 7. NOTE
-Descriptive 132 Cataloging of Rare Materials (Books)
-Dedication signed: Increase Mather
-Signed at end: A lover of truth
-7B6.2. Transposed statements of responsibility. Note the original position on
+
+><cite>Dedication signed: Increase Mather</cite>
+
+><cite>Signed at end: A lover of truth</cite>
+
+<a name="7B6.2">7B6.2</a>. **Transposed statements of responsibility**. Note the original position on
 the title page of statements of responsibility that have been transposed to the title
 and statement of responsibility area.
-On t.p., editor's name precedes title
-7B6.3. Attributions
-7B6.3.1. If a statement of responsibility for a person or corporate body connected
+
+><cite<On t.p., editor's name precedes title</cite>
+
+#### 7B6.3. Attributions
+
+<a name="7B6.3.1">7B6.3.1</a>. If a statement of responsibility for a person or corporate body connected
 with the work does not appear in the publication, and an attribution is available,
 give the information in a note. Include the authority for the attribution whenever
 possible.
-Attributed to Jonathan Swift. See Teerink
-(Comment: The formal citation for Teerink is given in a References to published
-descriptions note)
-Published anonymously. By Stephen Jerome. Editor's dedication
-signed "R.H.," i.e., Robert Hobson, to whom the whole is
-sometimes erroneously attributed. Also erroneously attributed
-to Robert Harris and to Robert Henderson
-Variously attributed to Dudley Fenner and to William Stoughton;
-sometimes also attributed to Henry Jacob
-7B6.3.2. If a statement of responsibility recorded in the title and statement of
+
+><cite>Attributed to Jonathan Swift. See Teerink</cite>  
+>>(*Comment*: The formal citation for Teerink is given in a References to published descriptions note)
+
+><cite>Published anonymously. By Stephen Jerome. Editor's dedication signed "R.H.," i.e., Robert Hobson, to whom the whole is sometimes erroneously attributed. Also erroneously attributed to Robert Harris and to Robert Henderson</cite>
+
+><cite>Variously attributed to Dudley Fenner and to William Stoughton; sometimes also attributed to Henry Jacob</cite> 
+
+<a name="7B6.3.2">7B6.3.2</a>. If a statement of responsibility recorded in the title and statement of
 responsibility area or in a note is known to be fictitious or incorrect, make a note
 stating the true or most generally accepted attribution. Give the authority for the
 information whenever possible.
-By John Locke. Author's name appears on t.p. of 3rd and
-subsequent editions
-"[Gregory King] was consulted about the coronation ... and was
-the principal author of the ... volume containing descriptions
-and splendid engravings of that ceremony ... though he allowed
-Francis Sandford to affix his name to the title-page"--Dict.
-nat. biog., v. 10, p. 131
-"The identity of Junius, which he concealed with great skill, has
-never been definitely established ... He is now generally
-thought to have been Sir Philip Francis"--Oxford companion to
-Engl. lit. (6th ed.), p. 546
-(Comment: The pseudonym "Junius" appears on the title page)
-AREA 7. NOTE
-Descriptive Cataloging of Rare Materials (Books) 133
-7B6.3.3. False attributions appearing in the bibliographical literature or in library
+
+><cite>By John Locke. Author's name appears on t.p. of 3rd and subsequent editions</cite>
+
+><cite>"[Gregory King] was consulted about the coronation ... and was the principal author of the ... volume containing descriptions and splendid engravings of that ceremony ... though he allowed Francis Sandford to affix his name to the title-page"--Dict. nat. biog., v. 10, p. 131</cite>
+
+><cite>"The identity of Junius, which he concealed with great skill, has never been definitely established ... He is now generally thought to have been Sir Philip Francis"--Oxford companion to Engl. lit. (6th ed.), p. 546</cite>  
+>>(*Comment*: The pseudonym "Junius" appears on the title page)
+
+<a name="7B6.3.3">7B6.3.3</a>. False attributions appearing in the bibliographical literature or in library
 catalogs may also be noted, along with the authority for the false attribution and
 the authority for questioning it.
-Attributed to Daniel Defoe (see Moore); attribution challenged
-by: Secord, A.W. Robert Drury's journal and other studies
-(Comment: The formal citation for Moore is given in a References to published
-descriptions note)
-7B6.4. Other statements. Record the names of persons or bodies connected with
+
+><cite>Attributed to Daniel Defoe (see Moore); attribution challenged by: Secord, A.W. Robert Drury's journal and other studies</cite>  
+>>(*Comment*: The formal citation for Moore is given in a References to published descriptions note)
+
+<a name="7B6.4">7B6.4</a>. **Other statements**. Record the names of persons or bodies connected with
 a work, or with previous editions of it, if they have not already been named in
 the description; give the authority for the information, if necessary.
-At head of title: Sub Carolo. V. Romanorum maximo Imperatore,
-primo Hispaniarum Rege
-Illustrations are woodcuts by Dora Carrington. See Kirkpatrick,
-B.J. Virginia Woolf, A2a
-Woodcuts on leaves B2b and C5b signed: b
-7B6.5. Variant forms of names. Note variant forms of names of persons or
+
+><cite>At head of title: Sub Carolo. V. Romanorum maximo Imperatore, primo Hispaniarum Rege</cite>
+
+><cite>Illustrations are woodcuts by Dora Carrington. See Kirkpatrick, B.J. Virginia Woolf, A2a</cite>
+
+><cite>Woodcuts on leaves B2b and C5b signed: b</cite>
+
+<a name="7B6.5">7B6.5</a>. **Variant forms of names**. Note variant forms of names of persons or
 bodies named in statements of responsibility if the variant forms clarify the
 names used in main or added entry headings.
-By Gilbert Burnet, Bishop of Salisbury
-(Comment: Statement of responsibility reads: "by the Right Reverend Father in
-God, Gilbert Lord Bishop of Sarum")
-Charles Pigott is the author of The virtues of nature
-(Comment: Statement of responsibility reads: "by the author of The virtues of
-nature")
-7B7. Edition and bibliographic history
-7B7.1. Note the source of any element of the edition area when it is taken from
+
+><cite>By Gilbert Burnet, Bishop of Salisbury</cite>  
+>>(**Comment**: Statement of responsibility reads: "by the Right Reverend Father in God, Gilbert Lord Bishop of Sarum")
+
+><cite>Charles Pigott is the author of The virtues of nature</cite>  
+>>(**Comment**: Statement of responsibility reads: "by the author of The virtues of nature")
+
+#### 7B7. Edition and bibliographic history
+
+<a name="7B7.1">7B7.1</a>. Note the source of any element of the edition area when it is taken from
 elsewhere than the title page. Note the original position of any element that is
 transposed to another position in transcription.
-The statement "corrected printing" from colophon
-The statement "amplified edition" precedes title on t.p.
-Edition statement precedes author's name on t.p.
-7B7.2. Make other notes relating to the edition being described or to the
+
+><cite>The statement "corrected printing" from colophon</cite>
+
+><cite>The statement "amplified edition" precedes title on t.p.</cite>
+
+><cite>Edition statement precedes author's name on t.p.</cite>
+
+<a name="7B7.2">7B7.2</a>. Make other notes relating to the edition being described or to the
 bibliographic history of the work, if they are considered important. In citing
-AREA 7. NOTE
-Descriptive 134 Cataloging of Rare Materials (Books)
-other works, and other manifestations of the same work, see 7A5. In citing
+other works, and other manifestations of the same work, see 7A5 XXLINKXX. In citing
 bibliographies and catalogs, however, use the pattern for references to published
-descriptions shown in 7B14 whenever such a citation occurs in a formal
+descriptions shown in 7B14 XXLINKXX whenever such a citation occurs in a formal
 "References" note.
-Revision of: 2nd ed., 1753
-Sequel to: Mémoires d'un médecin
-A reissue of the 1756 ed., without the plates
-Previous ed.: Norwich, Conn. : Trumbull, 1783
-Detailed description of plates in: Abbey, J.R. Travel, 23
-7B7.3. If a statement as to a limited number of copies of the edition appears, give
+
+><cite>Revision of: 2nd ed., 1753</cite>  
+
+><cite>Sequel to: Mémoires d'un médecin</cite>
+
+><cite>A reissue of the 1756 ed., without the plates</cite>
+
+><cite>Previous ed.: Norwich, Conn. : Trumbull, 1783</cite>
+
+><cite>Detailed description of plates in: Abbey, J.R. Travel, 23</cite>
+
+<a name="7B7.3">7B7.3</a>. If a statement as to a limited number of copies of the edition appears, give
 this statement of limitation in a note, preferably in quoted form.
-"250 copies printed"--Pref.
-"Limited edition of 20 copies"--T.p. verso
-7B7.4. If the statement of limitation is accompanied by statements of
+
+><cite>"250 copies printed"--Pref.</cite>
+
+><cite>"Limited edition of 20 copies"--T.p. verso</cite>
+
+<a name="7B7.4">7B7.4</a>. If the statement of limitation is accompanied by statements of
 responsibility or other information relating to the production of the edition,
 include as much of the additional information in the note as is considered
 important.
-"350 copies of this book have been designed and printed by
-Sebastian Carter at the Rampant Lions Press ... hand-set in
-Hunt Roman, and ... Monotype Plantin Light with Monotype
-Albertus for the title. The paper is Zerkall mould-made wove.
-50 have been signed by Ronald Blythe, include an additional set
-of prints from the five blocks and are specially bound. Both
-bindings are by the Fine Bindery, Wellingborough"--Colophon
-7B7.5. If the statement of limitation includes the unique number of the copy
+
+><cite>"350 copies of this book have been designed and printed by Sebastian Carter at the Rampant Lions Press ... hand-set in Hunt Roman, and ... Monotype Plantin Light with Monotype Albertus for the title. The paper is Zerkall mould-made wove. 50 have been signed by Ronald Blythe, include an additional set of prints from the five blocks and are specially bound. Both bindings are by the Fine Bindery, Wellingborough"--Colophon</cite>
+
+<a name="7B7.5">7B7.5</a>. If the statement of limitation includes the unique number of the copy
 being cataloged, give only the statement of limitation here. Give the copy
-number in a separate local note, if considered important (see 7B19.1.3).
-"Special edition of 200 copies on handmade paper"--Colophon
-LC has no. 20, signed by author
-(Comment: Given in a local note)
-AREA 7. NOTE
-Descriptive Cataloging of Rare Materials (Books) 135
-7B8. Publication
+number in a separate local note, if considered important (see 7B19.1.3 XXLINKXX).
+
+><cite>"Special edition of 200 copies on handmade paper"--Colophon</cite>
+
+><cite>LC has no. 20, signed by author</cite>  
+>>(*Comment*: Given in a local note)
+
+#### 7B8. Publication
+
 Make a note on publication details that are not included in the publication,
 distribution, etc., area if they are considered important. If elements of the
 publication, distribution, etc., area have been taken from a source other than the
 title page, make a note specifying the source.
-Published in parts
-Publication date from Evans
-Imprint from colophon
-Publisher named in privilege statement as Sulpice Sabon
-Publisher statement on cancel slip. Original publisher statement
-reads: Sold by G. Walsh
-Imprint judged to be false on the basis of printing of catchwords
-and signatures. See Sayce, R.A. Compositorial practices (1979,
-reprint ed.), p. 3-6, 31
-No more published
-"Entered according to Act of Congress, in the year 1853, by O.K.
-Kingsbury"--T.p. verso
-"Price three pence"
-Publication date from outside back cover
-At head of title: On the day of Lord Byron's death 1824
-"Set by hand in Truesdell type by Arthur & Edna Rushmore at the
-Golden Hind Press, Madison, New Jersey. Printed on Rives handmade
-paper from France"--Colophon
-7B9. Signatures
-7B9.1. General rule. Make a note giving details of the signatures of a volume, if
+
+><cite>Published in parts</cite>
+
+><cite>Publication date from Evans</cite>
+
+><cite>Imprint from colophon</cite>
+
+><cite>Publisher named in privilege statement as Sulpice Sabon</cite>
+
+><cite>Publisher statement on cancel slip. Original publisher statement reads: Sold by G. Walsh</cite>
+
+><cite>Imprint judged to be false on the basis of printing of catchwords and signatures. See Sayce, R.A. Compositorial practices (1979, reprint ed.), p. 3-6, 31</cite>
+
+><cite>No more published</cite>
+
+><cite>"Entered according to Act of Congress, in the year 1853, by O.K. Kingsbury"--T.p. verso</cite>
+
+><cite>"Price three pence"</cite>
+
+><cite>Publication date from outside back cover</cite>
+
+><cite>At head of title: On the day of Lord Byron's death 1824</cite>
+
+><cite>"Set by hand in Truesdell type by Arthur & Edna Rushmore at the Golden Hind Press, Madison, New Jersey. Printed on Rives handmade paper from France"--Colophon</cite>
+
+#### 7B9. Signatures
+
+<a name="7B9.1">7B9.1</a>. **General rule**. Make a note giving details of the signatures of a volume, if
 considered important. Give these signature details according to the formula in
-Philip Gaskellʹs A New Introduction to Bibliography (see p. 328‐332), insofar as
+Philip Gaskellʹs *A New Introduction to Bibliography* (see p. 328‐332), insofar as
 typographical facilities permit. Preface this note with the word "Signatures" and
 a colon.
-Signatures: [A]4 B-C4 D2 E-G4 H2
-Signatures: A-C4 D4(-D3) E-F4
-AREA 7. NOTE
-136 Descriptive Cataloging of Rare Materials (Books)
-Signatures: A-2Z8, 2A-M8
-Signatures: [1-68]
-(Comment: Volume is completely unsigned)
+
+><cite>Signatures: [A]<sup>4</sup> B-C<sup>4</sup> D<sup>2</sup> E-G<sup>4</sup> H<sup>2</sup></cite>
+
+><cite>Signatures: A-C<sup>4</sup> D<sup>4</sup>(-D3) E-F<sup>4</sup></cite>
+
+><cite>Signatures: A-2Z<sup>8</sup>, <sup>2</sup>A-M<sup>8</sup></cite>
+
+><cite>Signatures: [1-6<sup>8</sup>]</cite>  
+>>(*Comment*: Volume is completely unsigned)
+
 It is generally desirable to give signatures for incunabula, especially if identical
 signatures are not given in a standard bibliographic source. It is also desirable to
 provide signatures when a volume has no pagination or foliation.
-7B9.2. Unavailable characters. If the gatherings are signed with a mark of
-contraction (see 0G8.2, Appendix G3) that cannot be reproduced using available
+
+<a name="7B9.2">7B9.2</a>. **Unavailable characters**. If the gatherings are signed with a mark of
+contraction (see 0G8.2, Appendix G3 XXLINKXX) that cannot be reproduced using available
 typographical facilities, substitute the spelled out form and enclose it in square
 brackets.
-Signatures: )(8 a-z8 &8 [con]8 [rum]8
+
+><cite>Signatures: )(<sup>8</sup> a-z<sup>8</sup> &<sup>8</sup> [con]<sup>8</sup> [rum]<sup>8</sup></cite>
+
 If the gatherings are signed with other unavailable characters, substitute a
 descriptive term or an abbreviation for that term if a standard one exists.
-[dagger]
-(Comment: Gathering is signed with )
-[double dagger]
-(Comment: Gathering is signed with )
-[fist]
-(Comment: Gathering is signed with )
-[fleuron]
-(Comment: Gathering is signed with )
-[maltese cross]
-(Comment: Gathering is signed with )
-[par.]
-(Comment: Gathering is signed with )
-[sec.]
-(Comment: Gathering is signed with )
-7B9.3. Special uses of pi and chi. Indicate unsigned leaves that fall outside the
-signature sequence (see Gaskell, p. 330) by using the words pi and chi. Do not
-enclose the words in square brackets. Do not use the Greek characters π and χ, as
+
+><cite>[dagger]</cite>  
+>>(*Comment*: Gathering is signed with &lt;IMAGE NOT AVAILABLE&gt;)
+
+><cite>[double dagger]</cite>  
+>>(*Comment*: Gathering is signed with &lt;IMAGE NOT AVAILABLE&gt;)
+
+><cite>[fist]</cite>  
+>>(*Comment*: Gathering is signed with &lt;IMAGE NOT AVAILABLE&gt;)
+
+><cite>[fleuron]</cite>  
+>>(*Comment*: Gathering is signed with &lt;IMAGE NOT AVAILABLE&gt;)
+
+><cite>[maltese cross]</cite>  
+>>(*Comment*: Gathering is signed with &lt;IMAGE NOT AVAILABLE&gt;)
+
+><cite>[par.]</cite>  
+>>(*Comment*: Gathering is signed with &lt;IMAGE NOT AVAILABLE&gt;)
+
+><cite>[sec.]</cite>  
+>>(*Comment*: Gathering is signed with &lt;IMAGE NOT AVAILABLE&gt;)
+
+7B9.3. **Special uses of *pi* and *chi***. Indicate unsigned leaves that fall outside the
+signature sequence (see Gaskell, p. 330) by using the words **pi** and **chi**. Do not
+enclose the words in square brackets. Do not use the Greek characters **π** and **χ**, as
 these will give the impression that the leaves have actually been signed with
-Greek letters (see 7B9.9).
-AREA 7. NOTE
-Descriptive Cataloging of Rare Materials (Books) 137
-Signatures: pi4 A-C4 chi2 D-Z4
+Greek letters (see 7B9.9 XXLINKXX).
+
+Signatures: pi<sup>4</sup> A-C<sup>4</sup> chi<sup>2</sup> D-Z<sup>4</sup>
+
 Indicate partial duplications of an alphabet (see Gaskell, p. 331) by using
-superscript pi and superscript chi or, if superscript letters are not available, by
+superscript **pi** and superscript **chi** or, if superscript letters are not available, by
 substituting "[superscript pi]" and "[superscript chi]."
-Signatures: piA4 A-D4 chiD4 E-F4
-or Signatures: [superscript pi]A4 A-D4 [superscript chi]D4 E-F4
-7B9.4. Non‐conventional Latin alphabet. If the gatherings are signed with
+
+><cite>Signatures: <sup>pi</sup>A<sup>4</sup> A-D<sup>4</sup> <sup>chi</sup>D<sup>4</sup> E-F<sup>4</sup></cite>
+
+*or*
+
+><cite>Signatures: [superscript pi]A<sup>4</sup> A-D<sup>4</sup> [superscript chi]D<sup>4</sup> E-F<sup>4</sup></cite>
+
+<a name="7B9.4">7B9.4</a>. **Non‐conventional Latin alphabet**. If the gatherings are signed with
 roman letters according to a pattern other than the conventional 23‐letter Latin
 alphabet (i.e., A‐Z, less I or J, U or V, and W), make this explicit by recording the
 additional letters in the signature statement.
-Signatures: A-V4 W4 X-Z4
-(Comment: Printer used a 24‐letter alphabet)
-Signatures: A-I8 J8 K-U8 V8 W8 X-2I8 2J8 2K-2M8
-(Comment: Printer used a 26‐letter alphabet)
-7B9.5. Signatures do not match gatherings. If it can be determined that the
+
+><cite>Signatures: A-V<sup>4</sup> W<sup>4</sup> X-Z<sup>4</sup></cite>  
+>>(*Comment*: Printer used a 24‐letter alphabet)
+
+><cite>Signatures: A-I<sup>8</sup> J<sup>8</sup> K-U<sup>8</sup> V<sup>8</sup> W<sup>8</sup> X-2I<sup>8</sup> 2J<sup>8</sup> 2K-2M<sup>8</sup></cite>  
+>>(*Comment*: Printer used a 26‐letter alphabet)
+
+<a name="7B9.5">7B9.5</a>. Signatures do not match gatherings. If it can be determined that the
 signing of the volume does not match its actual gatherings, indicate this in the
 note.
-Signatures: [1]8 2-38; volume actually gathered in twelves
-7B9.6. Concurrent signatures. If the volume is signed using two concurrent
+
+><cite>Signatures: [1]<sup>8</sup> 2-3<sup>8</sup>; volume actually gathered in twelves</cite>
+
+<a name="7B9.6">7B9.6</a>. **Concurrent signatures**. If the volume is signed using two concurrent
 sequences, provide both sets of signatures in the note. Give the signatures that
 correspond to the actual gatherings first, if this can be determined.
-Signatures: 1-1212; also signed A-S8
-Signatures: 1-1212 and A-S8; actual gatherings cannot be determined
-7B9.7. Nonroman signatures (numeric sequence). If the gatherings are signed
+
+><cite>Signatures: 1-12<sup>12</sup>; also signed A-S<sup>8</sup></cite>
+
+><cite>Signatures: 1-12<sup>12</sup> and A-S<sup>8</sup>; actual gatherings cannot be determined</cite>
+
+<a name="7B9.7">7B9.7</a>. **Nonroman signatures (numeric sequence)**. If the gatherings are signed
 with nonroman characters that follow a numeric sequence, represent the
 characters using arabic numeration. Include an indication of the script used in
 the signatures in the note.
-Signatures (in Hebrew characters): [1]4 2-114
-(Comment: Indicates a numeric sequence in which the first gathering is unsigned,
-followed by gatherings signed 2‐11 in Hebrew numeration)
-AREA 7. NOTE
-Descriptive 138 Cataloging of Rare Materials (Books)
+
+><cite>Signatures (in Hebrew characters): [1]<sup>4</sup> 2-11<sup>4</sup></cite>  
+>>(*Comment*: Indicates a numeric sequence in which the first gathering is unsigned, followed by gatherings signed 2‐11 in Hebrew numeration)
+
 If the nonroman characters are accompanied by parallel numeration using
 another script, note this as well.
-Signatures (in parallel Hebrew and arabic numerals): pi8 1-48
-(Comment: Indicates a numeric sequence in which the first gathering is unsigned,
-followed by gatherings signed 1‐4 in both Hebrew characters and arabic
-numerals)
+
+><cite>Signatures (in parallel Hebrew and arabic numerals): pi<sup>8</sup> 1-4<sup>8</sup></sup>  
+>>(*Comment*: Indicates a numeric sequence in which the first gathering is unsigned, followed by gatherings signed 1‐4 in both Hebrew characters and arabic numerals)
+
 In case of doubt as to whether a sequence is numeric or alphabetic, assume a
 numeric sequence.
-Signatures (in Hebrew characters): 2-38
-(Comment: Indicates two gatherings signed with characters that could belong to
-either an alphabetic or numeric sequence)
-7B9.8. Nonroman signatures (alphabetic sequence). If the gatherings are signed
+
+><cite>Signatures (in Hebrew characters): 2-3<sup>8</sup></cite>  
+>>(*Comment*: Indicates two gatherings signed with characters that could belong to either an alphabetic or numeric sequence)
+
+<a name="7B9.8">7B9.8</a>. **Nonroman signatures (alphabetic sequence)**. If the gatherings are signed
 with nonroman characters that follow an alphabetic sequence, transcribe in
 original script if typographical facilities permit, or in romanized form using the
-ALA‐LC Romanization Tables. Use uppercase or lowercase characters according to
+*ALA‐LC Romanization Tables*. Use uppercase or lowercase characters according to
 the usage of the piece. If the script is one that does not employ case, or if the case
 of the characters cannot be determined, use lowercase characters. Include an
 indication of the script used in the signatures if recording them in romanized
 form, or if the signature statement would otherwise be ambiguous.
-7B9.9. Greek alphabetic signatures. For gatherings signed in Greek alphabetic
+
+<a name="7B9.9">7B9.9</a>. **Greek alphabetic signatures**. For gatherings signed in Greek alphabetic
 sequences, use the 24‐letter alphabet in the following chart as the basis for
 compressed signature statements (Greek letters are given in the top row, their
 romanized equivalents in the bottom row):
-α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ σ τ υ φ χ ψ ω
+
+α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ σ τ υ φ χ ψ ω  
 a b g d e z ē th i k l m n x o p r s t y ph ch ps ō
-Signatures: pi1 α-γ2 Α-2Λ2
-or Signatures (in Greek characters): pi1 a-g2 A-2L2
-(Comment: Indicates an alphabetic sequence with an initial unsigned leaf, three
-gatherings signed α‐γ in lowercase, a full sequence of 24 gatherings signed
-uppercase Α‐Ω, finishing with a partial sequence signed ΑA‐ΛΛ in uppercase)
-7B9.10. Hebrew alphabetic signatures. For gatherings signed in Hebrew
+
+><cite>Signatures: pi1 α-γ<sup>2</sup> Α-2Λ<sup>2</sup>
+
+*or*
+
+><cite>Signatures (in Greek characters): pi1 a-g<sup>2</sup> A-2L<sup>2</sup></cite>  
+>>(*Comment*: Indicates an alphabetic sequence with an initial unsigned leaf, three gatherings signed α‐γ in lowercase, a full sequence of 24 gatherings signed uppercase Α‐Ω, finishing with a partial sequence signed ΑA‐ΛΛ in uppercase)
+
+<a name="7B9.10">7B9.10</a>. **Hebrew alphabetic signatures**. For gatherings signed in Hebrew
 alphabetic sequences, use the 22‐letter alphabet in the following chart as the basis
-AREA 7. NOTE
-Descriptive Cataloging of Rare Materials (Books) 139
 for compressed signature statements (Hebrew letters are given in the top row,
 their romanized equivalents in the bottom row):
-ת ש ר ק צ פ ע ס נ מ ל כ י ט ח ז ו ה ד ג ב א
+
+ת ש ר ק צ פ ע ס נ מ ל כ י ט ח ז ו ה ד ג ב א  
 ʼ b g d h ṿ z ḥ ṭ y k l m n s ʻ p ts ḳ r sh t
-Signatures: 8ש-א , a-k8
-or Signatures: ʼ-sh8(in Hebrew characters), a-k8
-(Comment: Indicates a Hebrew alphabetic sequence followed by a roman
-sequence)
-7B9.11. Other nonroman alphabetic signatures. For all other nonroman
+
+><cite>Signatures: 8ש-א<sup>8</sup>, a-k<sup>8</sup></cite>  
+
+*or*
+
+><cite>Signatures: ʼ-sh<sup>8</sup>(in Hebrew characters), a-k<sup>8</sup></cite>  
+>>(*Comment*: Indicates a Hebrew alphabetic sequence followed by a roman sequence)
+
+<a name="7B9.11">7B9.11</a>. **Other nonroman alphabetic signatures**. For all other nonroman
 alphabetic signature sequences, do not assume that a standard signing pattern
 can be used as the basis for compressed signature statements. Give the first and
 last characters in each sequence, followed by a total count of the gatherings in
 that sequence in square brackets.
-Signatures: А-Ѵ2 [=41], 2А-2Ѵ2 [=41], 3А-3Ѿ2 [=24]
-or Signatures (in Church Slavic characters): A-Ẏ2 [=41], 2A-2Ẏ2 [=41], 3A-
-3ŌT͡2 [=24]
-7B9.12. Full collation. If considered important, make a note giving the full
+
+><cite>Signatures: А-Ѵ<sup>2</sup> [=41], 2А-2Ѵ<sup>2</sup> [=41], 3А-3Ѿ<sup>2</sup> [=24]</cite>
+
+*or*
+
+><cite>Signatures (in Church Slavic characters): A-Ẏ2 [=41], 2A-2Ẏ2 [=41], 3A-3ŌT͡2 [=24]</cite>
+
+<a name="7B9.12">7B9.12</a>. **Full collation**. If considered important, make a note giving the full
 collation instead of a note recording only the signatures.
-Collation: 8vo: A-H4; 32 leaves: p. [1-2] 3-62 [63-64];
-$3(-H3) signed. H4 blank
-7B10. Physical description
-7B10.1. Make a note on important physical details that are not already included
+
+><cite>Collation: 8vo: A-H<sup>4</sup>; 32 leaves: p. [1-2] 3-62 [63-64]; $3(-H3) signed. H4 blank</cite>
+
+#### 7B10. Physical description
+
+<a name="7B10.1">7B10.1</a>. Make a note on important physical details that are not already included
 in the physical description area, if considered important.
-The first and last leaves are blank
-Title and headings printed in red
-Volumes numbered: 1, 2A, 2B, 2C, 3
-Printed on vellum
-Printed on a quarter sheet
-AREA 7. NOTE
-Descriptive 140 Cataloging of Rare Materials (Books)
-7B10.2. For incunabula, note color printing and record the number of columns (if
+
+><cite>The first and last leaves are blank</cite>
+
+><cite>Title and headings printed in red</cite>
+
+><cite>Volumes numbered: 1, 2A, 2B, 2C, 3</cite>
+
+><cite>Printed on vellum</cite>
+
+><cite>Printed on a quarter sheet</cite>
+
+<a name="7B10.2">7B10.2</a>. For incunabula, note color printing and record the number of columns (if
 more than one), the number of lines, and type measurements if no account is
 found in a bibliographical source and the printer is unidentified or has been
 identified from this information. Do the same for later publications, if considered
 important.
-Printed in 2 columns; 38 lines; type 76/7
-7B10.3. Give fuller details of the illustrations, if considered important. Always
+
+><cite>Printed in 2 columns; 38 lines; type 76/7</cite> 
+
+<a name="7B10.3">7B10.3</a>. Give fuller details of the illustrations, if considered important. Always
 note the presence of hand coloring in publications issued as such.
-Frontispiece on leaf A1
-Woodcuts: ill., initials, publisher's and printer's devices
-Engraved port. of author on t.p.
-With hand-colored wood engravings, as issued
-7B10.4. Describe details of an artist’s book or a publisher‐issued binding, if
+
+><cite>Frontispiece on leaf A1</cite>
+
+><cite>Woodcuts: ill., initials, publisher's and printer's devices</cite>
+
+><cite>Engraved port. of author on t.p.</cite>
+
+><cite>With hand-colored wood engravings, as issued</cite>
+
+<a name="7B10.4">7B10.4</a>. Describe details of an artist’s book or a publisher‐issued binding, if
 considered important.
-Pictorial cloth binding with gold, brown, and green stamping on
-brown calico-textured cloth, designed by Margaret Armstrong;
-signed: M.A.
-Toy book cut in the shape of a standing Robinson Crusoe
-Collages of marbled paper squares and rectangles mounted on
-cream-colored Italian handmade paper (watermarked Umbria,
-Italy, C.M.F.)
-7B10.5. Details of physical description given here usually apply to all copies of an
+
+><cite>Pictorial cloth binding with gold, brown, and green stamping on brown calico-textured cloth, designed by Margaret Armstrong; signed: M.A.</cite>
+
+><cite>Toy book cut in the shape of a standing Robinson Crusoe</cite>
+
+><cite>Collages of marbled paper squares and rectangles mounted on cream-colored Italian handmade paper (watermarked Umbria,Italy, C.M.F.)</cite>
+
+<a name="7B10.5">7B10.5</a>. Details of physical description given here usually apply to all copies of an
 edition or issue. Summaries of details that apply to particular groups of copies
 within an edition or issue may also be given. Notes pertaining to individual
-copies may be given separately as local notes, if considered important (see 7B19).
-Two binding variants noted, one in red cloth and one in blue
-cloth
-"The edition consists of 190 copies on Pescia paper and 10 copies
-on Japanese paper marked with the letters A to J"--Colophon
-7B11. Accompanying material
+copies may be given separately as local notes, if considered important (see 7B19 XXLINKXX).
+
+><cite>Two binding variants noted, one in red cloth and one in blue cloth</cite>
+
+><cite>"The edition consists of 190 copies on Pescia paper and 10 copies on Japanese paper marked with the letters A to J"--Colophon</cite>
+
+#### 7B11. Accompanying material
+
 Make a note for any accompanying material not recorded in the physical
 description area. Give the location of accompanying material if appropriate.
-AREA 7. NOTE
-Descriptive Cataloging of Rare Materials (Books) 141
-Accompanied by: "Star guide" (1 sheet ; 12 x 36 cm), previously
-published separately in 1744
-7B12. Series
+
+><cite>Accompanied by: "Star guide" (1 sheet ; 12 x 36 cm), previously published separately in 1744</cite>
+
+#### 7B12. Series
+
 Note the source of any element of the series area when it is taken from elsewhere
 than the series title page. If any element has been transposed in the description,
 note its original position in the publication. Note any series information not
 transcribed in the series area, if considered important. Give information about a
 series in which the publication has been issued previously, if considered
 important.
-Series statement from dust jacket
-Series numbering precedes series title
-Originally issued in series: Novelistas de nuestra época
-Also issued without series statement
-7B13. Dissertations
+
+><cite>Series statement from dust jacket</cite>
+
+><cite>Series numbering precedes series title</cite>
+
+><cite>Originally issued in series: Novelistas de nuestra época</cite>
+
+><cite>Also issued without series statement</cite>
+
+#### 7B13. Dissertations
+
 If the publication being described is a dissertation or thesis presented in partial
 fulfillment of the requirements for an academic degree, give the designation of
 the thesis (using the English word "thesis") followed if possible by a brief
@@ -4763,64 +5161,86 @@ statement of the degree for which the author was a candidate (e.g., "M.A." or
 "Ph. D.," or, for theses to which such abbreviations do not apply, "doctoral" or
 "master’s"), the name of the institution or faculty to which the thesis was
 presented, and the year in which the degree was granted.
-Thesis--Harvard College, 1786
-Thesis (doctoral)--Universität Tübingen, 1805
+
+><cite>Thesis--Harvard College, 1786</cite>
+
+><cite>Thesis (doctoral)--Universität Tübingen, 1805</cite>
+
 If the publication is a revision or abridgment of a thesis, state this.
-Abstract of thesis--Yale College, 1795
+
+><cite>Abstract of thesis--Yale College, 1795</cite>
+
 If the publication lacks a formal thesis statement, a bibliographic history note
 may be made.
-Originally presented as the author's thesis (Universität
-Heidelberg) under title: ...
-AREA 7. NOTE
-Descriptive 142 Cataloging of Rare Materials (Books)
-7B14. References to published descriptions
-7B14.1. Give references to published descriptions in bibliographies or other
+
+><cite>Originally presented as the author's thesis (Universität Heidelberg) under title: ...</cite>
+
+#### 7B14. References to published descriptions
+
+<a name="7B14.1">7B14.1</a>. Give references to published descriptions in bibliographies or other
 authoritative reference sources if these have been used to supply elements of the
 description. Use the form and punctuation conventions recommended by
-Standard Citation Forms for Published Bibliographies and Catalogs Used in Rare Book
-Cataloging. Begin the note with the word "References" and a colon.
-References: Evans 24658
-(Comment: Made in conjunction with a general note reading: "Publication date
-from Evans")
-7B14.2. Make other references to published descriptions, if considered important.
+*Standard Citation Forms for Published Bibliographies and Catalogs Used in Rare Book
+Cataloging*. Begin the note with the word "References" and a colon.
+
+><cite>References: Evans 24658</cite>  
+>>(*Comment*: Made in conjunction with a general note reading: "Publication date from Evans")
+
+<a name="7B14.2">7B14.2</a>. Make other references to published descriptions, if considered important.
 Such references are especially useful whenever the cited source would serve to
 distinguish an edition (or variant) from similar editions (or variants),
 substantiate information provided by the cataloger, or provide a more detailed
 description of the publication being cataloged.
-References: Gaskell, P. Baskerville, 17
-References: ESTC (CD-ROM, 2003 ed.) T60996
-References: Lindsay & Neu. French political pamphlets, 2194
-References: BM STC Italian, 1465-1600, p. 368
-References: Ritter, F. Incun. alsaciens de la Bib. nat. de
-Strasbourg, 277
-References: Palau y Dulcet (2. ed.) 19161
-7B14.3. A general note may be made if a description of the publication being
+
+><cite>References: Gaskell, P. Baskerville, 17</cite>
+
+><cite>References: ESTC (CD-ROM, 2003 ed.) T60996</cite>
+
+><cite>References: Lindsay & Neu. French political pamphlets, 2194</cite>
+
+><cite>References: BM STC Italian, 1465-1600, p. 368</cite>
+
+><cite>References: Ritter, F. Incun. alsaciens de la Bib. nat. de Strasbourg, 277</cite>
+
+><cite>References: Palau y Dulcet (2. ed.) 19161</cite>
+
+<a name="7B14.3">7B14.3</a>. A general note may be made if a description of the publication being
 cataloged does not appear in a specific bibliographical reference source. Make
 such a note only if the publication fits the scope for that source and the source
 purports to be comprehensive for its scope. Preface the general note with the
 words "Not in" and a colon.
-Not in: Martin & Walter. Révolution française. Cf. IV:2, 9093
-7B15. Summary
+
+><cite>Not in: Martin & Walter. Révolution française. Cf. IV:2, 9093</cite>
+
+#### 7B15. Summary
+
 Give a brief summary of the content of the publication, if considered important.
-AREA 7. NOTE
-Descriptive Cataloging of Rare Materials (Books) 143
-7B16. Contents
-7B16.1. List the contents of a publication, either selectively or fully, if it is
+
+#### 7B16. Contents
+
+<a name="7B16.1">7B16.1</a>. List the contents of a publication, either selectively or fully, if it is
 considered necessary to show the presence of material not implied by the rest of
 the description, to stress components of particular importance, to provide the
 contents of a collection or of a multipart monograph, or to provide additional
 titles in a publication without a collective title. Note the presence of errata leaves
 and errata slips (see 5B4). Note the presence of errata listed in other sources in
 the publication, if considered important.
-Includes bibliographical references (p. 43-58)
-Includes bibliographical references
-Includes index
-"List of the author's unpublished poems": p. 151-158
-Errata on last leaf
-With an errata slip
-Includes Joseph Pike's An epistle to the national meeting of
-Friends in Dublin
-7B16.2. Transcribe contents from the title page if they are presented there
+
+><cite>Includes bibliographical references (p. 43-58)</cite>
+
+><cite>Includes bibliographical references</cite>
+
+><cite>Includes index</cite>
+
+><cite>"List of the author's unpublished poems": p. 151-158</cite>
+
+><cite>Errata on last leaf</cite>
+
+><cite>With an errata slip</cite>
+
+><cite>Includes Joseph Pike's An epistle to the national meeting of Friends in Dublin</cite>
+
+<a name="7B16.2">7B16.2</a>. Transcribe contents from the title page if they are presented there
 formally and have not been transcribed as part of the title and statement of
 responsibility area. In such cases, follow the word "Contents" with a colon and
 the parenthetical phrase "(from t.p.)." If a formal statement of contents is not
@@ -4828,21 +5248,23 @@ present on the title page, take contents from the head of the parts to which the
 refer, or, if this is not feasible, from any contents list, etc., that is present. For
 publications in two or more volumes, transcribe the volume or part designations
 as found.
-Contents: (from t.p.) I. The good housewife's coat of arms -- II.
-The spinning-wheels glory -- III. The taylor disappointed of
-his bride -- IV. The changeable world
-Contents: Love and peril / the Marquis of Lorne -- To be or not
-to be / Mrs. Alexander -- The melancholy hussar / Thomas Hardy
-7B16.3. If a complete listing of contents cannot be assembled by one of the above
+
+><cite>Contents: (from t.p.) I. The good housewife's coat of arms -- II. The spinning-wheels glory -- III. The taylor disappointed of his bride -- IV. The changeable world</cite>
+
+><cite>Contents: Love and peril / the Marquis of Lorne -- To be or not to be / Mrs. Alexander -- The melancholy hussar / Thomas Hardy</cite>
+
+<a name="7B16.3">7B16.3</a>. If a complete listing of contents cannot be assembled by one of the above
 means, the cataloger may devise a contents note from any appropriate source or
 combination of sources.
-AREA 7. NOTE
-Descriptive 144 Cataloging of Rare Materials (Books)
-7B17. Numbers
+
+#### 7B17. Numbers
+
 Make a note of any numbers associated with the publication not transcribed in
 another area, if considered important.
-7B18. "With" notes
-7B18.1. If the description corresponds to part of a publication that is made up of
+
+#### 7B18. "With" notes
+
+<a name="7B18.1">7B18.1</a>. If the description corresponds to part of a publication that is made up of
 two or more separately titled parts that are also separately paginated or foliated
 and have separate signatures, but which have been issued together, make a note
 beginning "With" followed by a colon. List the other parts of the publication in
@@ -4851,30 +5273,36 @@ all the other parts on the record for the first part and, in general, only the f
 the records for the subsequent parts. (Do not make such "With" notes when the
 pagination, foliation, or signatures of separately titled parts are continuous with
 the part being described. Instead, record these titles in a contents note as
-instructed in 7B16.)
-7B18.2. For each work listed, give only the elements listed below:
+instructed in 7B16 XXLINKXX.)
+
+<a name="7B18.2">7B18.2</a>. For each work listed, give only the elements listed below:
+
 a) the heading; normally give this element first, usually in catalog‐entry form
 (e.g., with inversion of personal names under surname, but not necessarily
 including personal birth/death dates, corporate qualifiers, etc.)
+
 b) the title proper as found in the record for the work; long titles may be
 shortened (whenever the uniform title is considered useful for the identification
 of the work, record it within square brackets preceding the title proper)
+
 c) the primary statement of responsibility as found in the title and statement
 of responsibility area of the record for the work, unless it is redundant of the
 heading or exceedingly lengthy
+
 d) the publication, distribution, etc., area as found in the record for the work,
 abridged as necessary, without using the mark of omission
-With: Dunton, John. The merciful assizes, or, A panegyric on the
-late Lord Jeffreys hanging so many in the West. London :
-Printed for Eliz. Harris, 1701
-7B18.3. If the works were bound together subsequent to publication, rather than
+
+><cite>With: Dunton, John. The merciful assizes, or, A panegyric on the late Lord Jeffreys hanging so many in the West. London : Printed for Eliz. Harris, 1701</cite>
+
+<a name="7B18.3">7B18.3</a>. If the works were bound together subsequent to publication, rather than
 issued together by the publisher, distributor, etc., make a local note according to
-the instructions in 7B19.3.4, if considered important.
-AREA 7. NOTE
-Descriptive Cataloging of Rare Materials (Books) 145
-7B19. Copy being described and library holdings (Local notes)
-7B19.1. General rule
-7B19.1.1. Make local notes on any special features or imperfections of the copy
+the instructions in 7B19.3.4 XXLINKXX, if considered important.
+
+#### 7B19. Copy being described and library holdings (Local notes)
+
+##### 7B19.1. General rule
+
+<a name="7B19.1.1">7B19.1.1</a>. Make local notes on any special features or imperfections of the copy
 being described when they are considered important. Copy‐specific information
 is highly desirable in the context of rare materials cataloging, which puts greater
 emphasis on materials as artifacts than is usual in general cataloging practice.
@@ -4883,46 +5311,53 @@ names of former owners or binders, for various kinds of provenance evidence,
 binding characteristics, etc.). Carefully distinguish local notes from other kinds of
 notes that record information valid for all copies of the bibliographic unit being
 cataloged.
+
 For many older publications, however, it will not be readily ascertainable
 whether the characteristics of a single copy are in fact shared by other copies. In
 case of doubt, consider that the characteristics of the copy in hand are not shared
 by other copies.
-7B19.1.2. The extent and depth of detail provided in local notes will be
+
+<a name="7B19.1.2">7B19.1.2</a>. The extent and depth of detail provided in local notes will be
 determined by the local policies of the cataloging agency. The rules set forth in
 this area are intended primarily to provide guidance and examples; the
 instructions are not to be seen as prescriptive.
-7B19.1.3. Features that may be brought out here include known imperfections
-and anomalies, the presence of advertisements not recorded in area 5 (see 5B5),
+
+<a name="7B19.1.3">7B19.1.3</a>. Features that may be brought out here include known imperfections
+and anomalies, the presence of advertisements not recorded in area 5 (see 5B5 XXLINKXX),
 illumination, rubrication, and other hand coloring (unless issued that way by the
-publisher; see 7B10.5), provenance evidence (such as bookplates, stamps,
+publisher; see 7B10.5 XXLINKXX), provenance evidence (such as bookplates, stamps,
 autographs, and manuscript annotations), the names of persons or institutions
 associated with specific copies, copy‐specific binding details and the names of
-binders, copy numbers (see 7B7.5), and "Bound with" notes.
-7B19.1.4. Include in local notes one or more of the following identifiers, if
+binders, copy numbers (see 7B7.5 XXLINKXX), and "Bound with" notes.
+
+<a name="7B19.1.4">7B19.1.4</a>. Include in local notes one or more of the following identifiers, if
 considered important: a designation of the holding institution (e.g., a library’s
 name, acronym, or code), a designation of the item’s physical location (e.g., a
 shelfmark), or an indication of the item’s copy number (if the institution holds
 more than one copy). Such identifiers are especially recommended if the
 bibliographic record is to be contributed to a union catalog or other shared
 database.
-AREA 7. NOTE
-Descriptive 146 Cataloging of Rare Materials (Books)
-Copy 1: Imperfect: leaves 12 and 13 (b6 and c1) wanting; without
-the last blank leaf (S8)
-Copy 2: Extra-illustrated
-Folger copy on vellum; illustrations and part of borders hand
-colored; with illuminated initials; rubricated in red and blue
-LC has no. 20, autographed by author
-7B19.2. Provenance
+
+><cite>Copy 1: Imperfect: leaves 12 and 13 (b6 and c1) wanting; without the last blank leaf (S8)</cite>
+
+><cite>Copy 2: Extra-illustrated</cite>
+
+><cite>Folger copy on vellum; illustrations and part of borders hand colored; with illuminated initials; rubricated in red and blue</cite>
+
+><cite>LC has no. 20, autographed by author</cite>
+
+##### 7B19.2. Provenance
+
 Make a local note to describe details of an item’s provenance, if considered
 important. In less detailed descriptions, it is advisable to summarize provenance
 information, without providing exact transcriptions or descriptions of the
 evidence. Include the names of former owners or other individuals of interest
 and approximate dates, whenever possible.
-National Library of Scotland copy: inscription of John Morris,
-17th-century; stamped as a British Museum Sale Duplicate, 1787
-Beinecke Library copy with inscription of Langston Hughes dated
-1954
+
+><cite>National Library of Scotland copy: inscription of John Morris, 17th-century; stamped as a British Museum Sale Duplicate, 1787</cite>
+
+><cite>Beinecke Library copy with inscription of Langston Hughes dated 1954</cite>
+
 More detailed descriptions of provenance might include such additional features
 as: exact transcriptions of autographs, inscriptions, bookplates, stamps,
 shelfmarks, etc.; location of each in the item; approximate dates when known;
@@ -4930,66 +5365,70 @@ descriptions of bookplates using standardized terminology; descriptions of
 anonymous heraldic bookplates according to heraldic blazon; references to
 published descriptions of the collections of former owners of the item,
 particularly if the item is cited in the source, etc.
-National Library of Scotland copy: "Ioh. Mauritius" (17th-century
-inscription on t.p.; see Birrell, T.A. Library of John Morris,
-no. 410); "Museum Britannicum" (ink stamp, in blue, ca. 1760,
-on t.p. verso); "British Museum Sale Duplicate 1787" (ink
-stamp, in red, on verso of t.p.)
-Beinecke Library copy inscribed by Langston Hughes on t.p.:
-"Especially for Louise Bennett with admiration, Sincerely,
-Langston, New York, Oct. 8, 1954"
-7B19.3. Bindings
-7B19.3.1. Use local notes for descriptions of copy‐specific bindings, if considered
+
+><cite>National Library of Scotland copy: "Ioh. Mauritius" (17th-century inscription on t.p.; see Birrell, T.A. Library of John Morris, no. 410); "Museum Britannicum" (ink stamp, in blue, ca. 1760, on t.p. verso); "British Museum Sale Duplicate 1787" (ink stamp, in red, on verso of t.p.)</cite>
+
+><cite>Beinecke Library copy inscribed by Langston Hughes on t.p.: "Especially for Louise Bennett with admiration, Sincerely, Langston, New York, Oct. 8, 1954"</cite>
+
+##### 7B19.3. Bindings
+
+<a name="7B19.3.1">7B19.3.1</a>. Use local notes for descriptions of copy‐specific bindings, if considered
 important; for descriptions of publisher‐issued bindings common to all copies of
-an edition or issue, see 7B10.4‐5.
-AREA 7. NOTE
-Descriptive Cataloging of Rare Materials (Books) 147
-7B19.3.2. Make a local note when the number of physical units in which a
+an edition or issue, see 7B10.4‐5 XXLINKXX.
+
+<a name="7B19.3.2">7B19.3.2</a>. Make a local note when the number of physical units in which a
 publication is bound differs from the number in which it was actually issued, if
-considered important (see 5B15.3).
-Grolier Club's copy bound in 4 v.
-7B19.3.3. Make a local note to indicate any errors in binding, if considered
+considered important (see 5B15.3 XXLINKXX).
+
+><cite>Grolier Club's copy bound in 4 v.</cite>
+
+<a name="7B19.3.3">7B19.3.3</a>. Make a local note to indicate any errors in binding, if considered
 important.
-Huntington copy: leaves I5-6 incorrectly bound between h3 and h4
-7B19.3.4. Make a local note, if considered important, whenever a publication has
+
+><cite>Huntington copy: leaves I5-6 incorrectly bound between h3 and h4</cite>
+
+<a name="7B19.3.4">7B19.3.4</a>. Make a local note, if considered important, whenever a publication has
 been bound with one or more works subsequent to publication. Preface the note
 with the words "Bound with" followed by a colon. Formulate the remainder of
-the note according to the instructions in 7B18.
-Special Collections copy bound with: The Bostonian Ebenezer.
-Boston : Printed by B. Green & J. Allen, for Samuel Phillips,
-1698 -- The cure of sorrow. Boston : Printed by B. Green, 1709
-7B19.3.5. If it is considered that the works are too numerous to be listed
+the note according to the instructions in 7B18 XXLINKXX.
+
+><cite>Special Collections copy bound with: The Bostonian Ebenezer. Boston : Printed by B. Green & J. Allen, for Samuel Phillips, 1698 -- The cure of sorrow. Boston : Printed by B. Green, 1709</cite>
+
+<a name="7B19.3.5">7B19.3.5</a>. If it is considered that the works are too numerous to be listed
 exhaustively, make an informal note such as the following:
-University of Pennsylvania copy: No. 3 of 7 works in a vol. with
-binder's title: Brownist tracts, 1599-1644
-7B19.3.6. Make a local note to describe other details of a copy‐specific binding, if
+
+><cite>University of Pennsylvania copy: No. 3 of 7 works in a vol. with binder's title: Brownist tracts, 1599-1644</cite>
+
+<a name="7B19.3.6">7B19.3.6</a>. Make a local note to describe other details of a copy‐specific binding, if
 considered important. Less detailed descriptions might include the color and
 nature of the covering material, a summary of any decoration present (e.g.,
 "gold‐tooled," "blind‐tooled"), and (if these can be determined) an approximate
 date and the name of the binder.
-British Library copy: late 17th-century binding in red goatskin,
-gold-tooled
-7B19.3.7. More detailed descriptions of a binding might include such additional
+
+><cite>British Library copy: late 17th-century binding in red goatskin, gold-tooled</cite>
+
+<a name="7B19.3.7">7B19.3.7</a>. More detailed descriptions of a binding might include such additional
 features as: nature of the boards (e.g., wood, paper); details of decoration;
 country or city of production; nature and decoration of spine; presence or former
 presence of ties, clasps, or other furniture; flaps; description of headbands, pageedge
 and end‐paper decoration; references to published descriptions or
 reproductions of the binding (or related bindings), etc.
-British Library copy: late 17th-century English binding; red
-goatskin, gold-tooled, over paper boards; gold-tooled spine
-AREA 7. NOTE
-Descriptive 148 Cataloging of Rare Materials (Books)
-with five raised bands; gilt edges; gold roll on edges of
-boards; marbled endpapers
-Descriptive Cataloging of Rare Materials (Books) 149
-8. STANDARD NUMBER AND TERMS OF AVAILABILITY AREA
-Contents:
-8A. Preliminary rule
-8B. Standard number
-8C. Terms of availability
-8D. Qualification
-8A. Preliminary rule
-8A1. Prescribed punctuation
+
+><cite>British Library copy: late 17th-century English binding; red goatskin, gold-tooled, over paper boards; gold-tooled spine with five raised bands; gilt edges; gold roll on edges of boards; marbled endpapers</cite>
+
+
+## 8. STANDARD NUMBER AND TERMS OF AVAILABILITY AREA
+
+### Contents:
+
+8A. Preliminary rule  
+8B. Standard number  
+8C. Terms of availability  
+8D. Qualification  
+
+### 8A. Preliminary rule
+
+<a name="8A1">8A1</a>. Prescribed punctuation
 For instructions on the use of spaces before and after prescribed punctuation, see
 0E.
 Precede this area by a period‐space‐dash‐space or start a new paragraph.
@@ -6580,9 +7019,11 @@ Association of College and Research Libraries. 2nd ed. Washington, D.C.:
 Cataloging Distribution Service, Library of Congress, 1996.
 Vriesema, P.C.A. "The STCN Fingerprint." Studies in Bibliography, v. 39 (1986), p. 93‐
 100. http://etext.lib.virginia.edu/bsuva/sb/
-Descriptive Cataloging of Rare Materials (Books) 205
-INDEX
-Symbols
+
+## INDEX
+
+### Symbols
+
 & (ampersand). See Ampersands
 ‘ (apostrophe). See Apostrophes, transcription of
 * (asterisk). See Asterisks
@@ -6599,1161 +7040,1558 @@ Symbols
 / (slash). See Diagonal slash; Prescribed punctuation
 [ ] (square brackets). See Prescribed punctuation; Square brackets
 / (virgule). See Virgules
-A
-AACR2: VII
-choosing between DCRM(B) and: X.1.2
-relationship to DCRM(B): II.1, III.2.5, Appendix C3 (245‐4XX fields)
-special collections cataloging: Appendix A8
-used in conjunction with DCRM(B): II.1, Appendix B4
-Abbreviations: 0G8. See also Spacing
-on dissertations: 7B13
-in place of publication: 4B4‐4B5
-of two or more letters: 0G10.2
+
+### A
+ 
+**AACR2**: VII  
+choosing between DCRM(B) and: X.1.2  
+relationship to DCRM(B): II.1, III.2.5, Appendix C3 (245‐4XX fields)  
+special collections cataloging: Appendix A8  
+used in conjunction with DCRM(B): II.1, Appendix B4  
+
+**Abbreviations**: 0G8. See also Spacing  
+on dissertations: 7B13  
+in place of publication: 4B4‐4B5  
+of two or more letters: 0G10.2  
+
 Abridgment of information. See Omissions
+
 Academic degrees, memberships, etc.: 1E8
+
 Academic disputations: 1E4.2
+
 Academic dissertations. See Dissertations, notes on
+
 Access, restrictions on: Appendix B4 (506)
-INDEX
-Descriptive 206 Cataloging of Rare Materials (Books)
-Access points: III.2.3. See also Added entries; Headings; Main entries; Title
-access points
-Accompanying material: 5E
-general rules: 5E1
-notes on: 5E1.2, 5E2, 7B11
-standard number for: 8B2
-title access points: Appendix F2 (7B11)
+
+Access points: III.2.3. See also Added entries; Headings; Main entries; Title access points
+
+**Accompanying material**: 5E  
+general rules: 5E1  
+notes on: 5E1.2, 5E2, 7B11  
+standard number for: 8B2  
+title access points: Appendix F2 (7B11)  
+
 Acquisition, source of: Appendix B4 (541)
+
 Acronyms: VII
+
 Acronyms (in source). See Initials, initialisms, acronyms (in source)
+
 Adaptations, notes on: 7B2.1
-Added entries: Appendix B4 (7XX), Appendix B5.2, Appendix C3 (7XX). See also
-Headings; Main entries; Title access points
+
+**Added entries**: Appendix B4 (7XX), Appendix B5.2, Appendix C3 (7XX). See also Headings; Main entries; Title access points  
 notes justifying: 7A1.4, 7B19.1.1, Appendix C3 (5XX)
+
 Added title pages: 5B9.4, Appendix F (7B4‐7B5)
+
 Additional titles. See Other title information
+
 Addresses, transcription of publisher’s, etc.: 1G2, 4B11, 4C4
+
 Advertisements: 5B5, 7B19.1.3
+
 ALA‐LC Romanization Tables: 7B9.8, Appendix F2 (0F1.1)
+
 Alphabets, nonroman. See Nonroman scripts
-Alternative rules: IV, Appendix E2.3. See also Optional treatments in rules
-in the edition area: 2B3.2, 2B4.2, 2D2
-in the publication area: 4G
-in transcription: 0G3.1, 0G4.1
+
+**Alternative rules**: IV, Appendix E2.3. See also Optional treatments in rules  
+in the edition area: 2B3.2, 2B4.2, 2D2  
+in the publication area: 4G  
+in transcription: 0G3.1, 0G4.1  
+
 Alternative titles: 1B3.2, 1B7.2, Appendix F (1B3.2)
+
 Alternative treatments in rules. See Optional treatments in rules
+
 Ampersands: 0G8.2, Appendix G2
+
 Anglo‐American Cataloguing Rules. See AACR2
+
 Announcements: 1A2.2
+
 Apostrophes, transcription of: 0G3.2
+
 Apostrophus: Appendix G2
+
 Appendixes, subsidiary texts, etc.: 1E14, 2C3, Appendix F (1E14)
-Arabic numerals: 5B8.1
+
+**Arabic numerals**: 5B8.1
 multiple sequences of numbering: 5B6.1
 in physical description area: 5B1.3
 in series numbering: 6G1.2
 substitution for nonroman numeric sequence: 7B9.7
 unnumbered pages: 5B3.1
-INDEX
-Descriptive Cataloging of Rare Materials (Books) 207
 vs roman numerals in dates: 4D2.1
 vs spelled out numerals: 6G1.2
+
 Archaic place names: 4B3
+
 Archival collections: Appendix B1.4
-Areas of description. See Edition area; Material (or type of publication) specific
-details area; Note area; Physical description area; Publication,
-distribution, etc. area; Series area; Standard number and terms of
-availability area; Title and statement of responsibility area
+
+Areas of description. See Edition area; Material (or type of publication) specific details area; Note area; Physical description area; Publication, distribution, etc. area; Series area; Standard number and terms of availability area; Title and statement of responsibility area
+
 Arrangement (of collections): B3.2
+
 Articles (part of speech): Appendix F2 (0B1)
+
 Artistic form, notes on. See Notes: Nature, scope or artistic form of item
+
 Artistsʹ books, notes on: 7B10.4
+
 Asterisks in names: 0G3.7.
+
 Attributions, notes on: 7B6.3
+
 Authentication code: Appendix C3 (042)
+
 Author statement. See Statements of responsibility
+
 Availability, terms of. See Terms of availability
-B
+
+###B
+
 BDRB: Preface, Appendix A9
-BIBCO Core Records Standards: B1.3, C1
+
+**BIBCO Core Records Standards**: B1.3, C1  
 elements of bibliographic record: Appendix C3
+
 Bibliographic citations, preferred form: 7B14
+
 Bibliographic description, definition of: Glossary
+
 Bibliographic Description of Rare Books. See BDRB
+
 Bibliographic history, notes on: 2B5.1, 7B7, 7B12‐7B13
-Bibliographic level of description. See also Level of description
-choice of cataloging code: X.1.2
-collection‐level records: Appendix B
-core‐level records: Appendix C
-minimal‐level records: Appendix D
+
+**Bibliographic level of description**. See also Level of description  
+choice of cataloging code: X.1.2  
+collection‐level records: Appendix B  
+core‐level records: Appendix C  
+minimal‐level records: Appendix D  
+
 Bibliographic variants. See Variants
+
 Bibliographic volumes different from physical volumes: 5B16
+
 Binderʹs titles: Appendix F2 (7B19). See also Titles: variants
-Binding
-height different from publication: 5D1.2
-notes on: 5B15.3, 7B10.4, 7B19
-INDEX
-Descriptive 208 Cataloging of Rare Materials (Books)
-Blank leaves or pages: 5B1.1, 5B3.1, 5B7.1, 5B8.1, 5B14.1, 7B10.1
-Blank spaces: 0G6.4
-for initial letters: 0G7.3
-within title proper: Appendix F2 (0G6.4)
+
+**Binding**  
+height different from publication: 5D1.2  
+notes on: 5B15.3, 7B10.4, 7B19  
+
+**Blank leaves or pages**: 5B1.1, 5B3.1, 5B7.1, 5B8.1, 5B14.1, 7B10.1
+
+**Blank spaces**: 0G6.4  
+for initial letters: 0G7.3  
+within title proper: Appendix F2 (0G6.4)  
+
 Book jackets. See Dust jackets
-Booksellers: 4A6n
-name of publisher, distributor, etc.: 4C1
-place of publication, distribution, etc., 4B1.1
+
+**Booksellers**: 4A6n  
+name of publisher, distributor, etc.: 4C1  
+place of publication, distribution, etc., 4B1.1  
+
 ʺBound withʺ notes. See Notes: ʺWithʺ notes
+
 Broadsides (broadsheets). See Single‐sheet publications
+
 ʺBy the author of . . .ʺ See Words or phrases: as names
-C
+
+### C
+
 Calendars, Gregorian/Julian. See Gregorian calendar
+
 Call number fields, change to commas in: Appendix C3 (050.082.086.090.etc.)
+
 Cancellation, definition of: Glossary
+
 Cancelled title pages: Appendix E1.2
+
 Capital letters. See Case, conversion of; Chronograms
-Capitalization: 0G2
-of letters I/J and U/V: Appendix G4.2
-Caption titles. See also Titles: variant
-as form of title proper: 1B3.4
-as source of information: 1B2
-notes on: 7B3.1
-single‐sheet publications: 1G4
-title access points: Appendix F2 (7B4‐7B5)
-Case, conversion of: 0G2
-of I/J and U/V: Appendix G4.2
-of W: Appendix G5.2
-Cataloging source field: Appendix C3 (040)
-chi, in signature statements: 7B9.3
-Chief source of information: 0C. See also Sources of information
-information taken from sources other than: 0G5.3
-items lacking title proper: 1B5
-single‐sheet publications: 1G1
-Chief title. See also Title proper
-definition of: Glossary
-INDEX
-Descriptive Cataloging of Rare Materials (Books) 209
-single‐sheet publications: 1G3
-transcription of: 1B7.3
-Chronograms: 0G2.4, 4D2.2
-definition of: Glossary
-Citation, bibliographic, preferred form of: See Bibliographic citations, preferred
-form
+
+**Capitalization**: 0G2  
+of letters I/J and U/V: Appendix G4.2  
+
+**Caption titles**. See also Titles: variant  
+as form of title proper: 1B3.4  
+as source of information: 1B2  
+notes on: 7B3.1  
+single‐sheet publications: 1G4  
+title access points: Appendix F2 (7B4‐7B5)  
+
+**Case, conversion of**: 0G2  
+of I/J and U/V: Appendix G4.2  
+of W: Appendix G5.2  
+
+**Cataloging source field**: Appendix C3 (040)  
+chi, in signature statements: 7B9.3  
+
+**Chief source of information**: 0C. See also Sources of information  
+information taken from sources other than: 0G5.3  
+items lacking title proper: 1B5  
+single‐sheet publications: 1G1  
+
+**Chief title**. See also Title proper  
+definition of: Glossary  
+single‐sheet publications: 1G3  
+transcription of: 1B7.3  
+
+**Chronograms: 0G2.4, 4D2.2  
+definition of: Glossary  
+
+Citation, bibliographic, preferred form of: See Bibliographic citations, preferred form
+
 Citation of collection, preferred form of: Appendix B4 (524)
+
 Collaborators. See Shared responsibility, works of
+
 Collation, note on: 7B9.12
-Collection‐level records: X, X.1.1, Appendix A3, Appendix B
-addition of new items: Appendix B5.2
-arrangement and description for: Appendix B3
-bibliographic elements for: Appendix B4
-rationale for: Appendix B1.1
-selection of materials for: Appendix B2
-Collective title, items without: 1F. See also Collective titles; Titles: devised
-single‐sheet publications: 1G7
-title access points: Appendix F2 (1F1‐1F2)
-Collective titles. See also Collective title, items without; Titles: devised
-single‐sheet publications: 1G6
-title access points: Appendix F2 (1G1‐1G8)
+
+**Collection‐level records**: X, X.1.1, Appendix A3, Appendix B  
+addition of new items: Appendix B5.2  
+arrangement and description for: Appendix B3  
+bibliographic elements for: Appendix B4  
+rationale for: Appendix B1.1  
+selection of materials for: Appendix B2  
+
+**Collective title, items without**: 1F. See also Collective titles; Titles: devised  
+single‐sheet publications: 1G7  
+title access points: Appendix F2 (1F1‐1F2)  
+
+**Collective titles**. See also Collective title, items without; Titles: devised  
+single‐sheet publications: 1G6  
+title access points: Appendix F2 (1G1‐1G8)  
+
 Collector, name as main heading: Appendix B4 (1XX)
+
 Colons. See Prescribed punctuation; Punctuation in source
-Colophons as prescribed source of information: 0C3, 0D
-edition area: 0G5.3, 2A2
-publication, distribution, etc., area: 4A2
+
+**Colophons as prescribed source of information**: 0C3, 0D  
+edition area: 0G5.3, 2A2  
+publication, distribution, etc., area: 4A2  
+
 Color illustrations: 5C3
+
 Color printing, incunabula: 7B10.2
+
 Columns: 1G2, 5B1.2‐5B1.3, 5B6.5, 7B10.2. See also Pagination
+
 Commas. See Prescribed punctuation; Punctuation in source
+
 Conjectural information. See Uncertain information
+
 Constructed titles. See Titles: devised
+
 Content, summary of. See Summary of content, notes on
-Contents notes: 7B16, Appendix B4 (5XX)
-for collections with more than one record: Appendix B5.1
-formatted: Appendix B4 (505), Appendix C3 (505)
-items with collective titles: 1G6, Appendix B1.2
-items without collective title: 1G7
-INDEX
-Descriptive 210 Cataloging of Rare Materials (Books)
-summary of contents: 7B15, Appendix B4 (520)
-title and statement of responsibility area: 1D2.3
+
+**Contents notes**: 7B16, Appendix B4 (5XX)  
+for collections with more than one record: Appendix B5.1  
+formatted: Appendix B4 (505), Appendix C3 (505)  
+items with collective titles: 1G6, Appendix B1.2  
+items without collective title: 1G7  
+summary of contents: 7B15, Appendix B4 (520)  
+title and statement of responsibility area: 1D2.3  
+
 Contractions: 0G8, Appendix F2 (0G8.2), Appendix G3
+
 Control fields: Appendix C3 (007‐008)
+
 Conversion of case. See Case, conversion of
+
 Copy being described. See Copy‐specific notes
+
 Copy numbers: 7B7.5, 7B19.1.3
+
 Copyright dates: 4D6, Appendix E1.3
+
 Copy‐specific information: 0Dn, 6A2.1n, 7B19.1.1
-Copy‐specific notes: III.2.3, VIII.2, 7B19, Appendix F2 (7B19). See also Copyspecific
-information; Local notes
+
+Copy‐specific notes: III.2.3, VIII.2, 7B19, Appendix F2 (7B19). See also Copy-specific information; Local notes
+
 Core‐level records: X.1.3, Appendix A4, Appendix C
+
 Corrections. See Inaccuracies (in source)
-Countries
-place names, added to: 4B5
-as place of publication: Appendix B4 (008)
-place of publication, distribution, etc., added to: 4B1.2, 4B12.2
+
+**Countries**  
+place names, added to: 4B5  
+as place of publication: Appendix B4 (008)  
+place of publication, distribution, etc., added to: 4B1.2, 4B12.2  
+
 Cover pages: 0C1.2
+
 Cover titles. See Titles: variant
+
 Covers as prescribed sources of information: 0D, 6A2n
+
 Curved r: Appendix G2
-D
-DCRB: VII, Appendix A9
-changes from: Preface
-compatibility with: III.2.6
-DCRM(B): I.1, VII
-alternative rules: IV
-comments: VIII.2
-changes from DCRB: Preface
-determining when use is suitable: X.1.2
-differences between AACR2 and: Appendix C3
-language preferences: V
-objectives: III.1
-optional local notes: VIII.2
-precataloging decisions: X
-principles of construction: III.2
-INDEX
-Descriptive Cataloging of Rare Materials (Books) 211
-relationship to other cataloging standards: II
-scope: I.2, I.4, 0A
+
+### D
+
+**DCRB**: VII, Appendix A9  
+changes from: Preface  
+compatibility with: III.2.6  
+
+**DCRM(B)**: I.1, VII  
+alternative rules: IV  
+comments: VIII.2  
+changes from DCRB: Preface  
+determining when use is suitable: X.1.2  
+differences between AACR2 and: Appendix C3  
+language preferences: V  
+objectives: III.1  
+optional local notes: VIII.2  
+precataloging decisions: X  
+principles of construction: III.2  
+relationship to other cataloging standards: II  
+scope: I.2, I.4, 0A  
+
 Dashes: 0G3.5, 0G3.7. See also Prescribed punctuation
+
 Date of deposit: 4D6
+
 Date of distribution. See Date of publication
+
 Date of manufacture: 4G. See also Date of publication
+
 Date of printing: 4D1.1, 4D1.3
-Date of publication: 0C2, 4D
-conjectured: 4D4
-on part pages: 4D8
-patterns for supplying conjectured: 4D5
-supplied from other sources: 4D3
-transcription of: 4D1.2
-Dates. See also Chronograms; Gregorian calendar
-copyright: 4D6
-Julian/Old Style: 4D2.5
-not based on Julian or Gregorian calendar: 4D2.6
-other than publication: 4D4.2
-roman numerals in: 0G3.4, 0G4.1
-very long: 4D2.3
-Defects. See Imperfect copies
-Degrees. See Academic degrees, memberships, etc.
-Description, level of. See Level of description
-Description of collections: B3.3
-basis for: B5.2
-multiple bibliographic records: B5.1
-Description of item: 0B. See also names of specific areas, e.g., Edition area
-basis for: 0B2
-notes on: 7B3
-required elements: 0B1
+
+**Date of publication**: 0C2, 4D  
+conjectured: 4D4  
+on part pages: 4D8  
+patterns for supplying conjectured: 4D5  
+supplied from other sources: 4D3  
+transcription of: 4D1.2  
+
+**Dates**. See also Chronograms; Gregorian calendar  
+copyright: 4D6  
+Julian/Old Style: 4D2.5  
+not based on Julian or Gregorian calendar: 4D2.6  
+other than publication: 4D4.2  
+roman numerals in: 0G3.4, 0G4.1  
+very long: 4D2.3  
+
+Defects. See Imperfect copies  
+
+Degrees. See Academic degrees, memberships, etc.  
+
+Description, level of. See Level of description  
+
+**Description of collections**: B3.3  
+basis for: B5.2  
+multiple bibliographic records: B5.1  
+
+**Description of item**: 0B. See also names of specific areas, e.g., Edition area  
+basis for: 0B2  
+notes on: 7B3  
+required elements: 0B1  
+
 Descriptive Cataloging of Rare Books. See DCRB
+
 Descriptive Cataloging of Rare Materials (Books). See DCRM(B)
+
 Detail, levels of. See Level of description
-Devices: 1A2.2
-definition of: Glossary
+
+**Devices**: 1A2.2  
+definition of: Glossary  
+
 Devised titles. See Titles: devised
+
 Diacritical marks: 0G1
-Diagonal slash. See also Prescribed punctuation
-INDEX
-Descriptive 212 Cataloging of Rare Materials (Books)
-date of publication: 4D2.5
-virgules vs: 0G3.5
+
+**Diagonal slash**. See also Prescribed punctuation  
+date of publication: 4D2.5  
+virgules vs: 0G3.5  
+
 Digital reproductions: A6
+
 Digraphs. See Ligatures
-Dimensions: 5D, Appendix B4 (300)
-single‐sheet publications: 5D4.1
+
+**Dimensions**: 5D, Appendix B4 (300)  
+single‐sheet publications: 5D4.1  
+
 Discontinued publications: 5B20
+
 Dissertations, notes on: 7B13, Appendix C3 (502)
+
 Distribution area. See Publication, distribution, etc. area
+
 Distribution date. See Date of distribution
+
 Distributors. See Publishers, distributors, etc.
+
 Docket title, definition of: Glossary
+
 Double leaves: 5B11
-Double punctuation option. See Punctuation in source: alternative transcription
-of
+
+Double punctuation option. See Punctuation in source: alternative transcription of
+
 Doubtful information. See Uncertain information
-Dust jackets: IX.2
-as prescribed source of information: 0D, 2A2, 4A2.1, 6A2.1
-E
+
+**Dust jackets**: IX.2  
+as prescribed source of information: 0D, 2A2, 4A2.1, 6A2.1  
+
+### E
+
 E (letter of alphabet), superscript: Appendix G2
+
 Edition, date of. See Date of publication
-Edition area: 2
-core‐level records: Appendix C3 (250)
-general rules: 2B
-multipart monographs: 2B11
-named revision: 2D
-notes on: 7B7
-prescribed punctuation: 2A1
-sources of information: 2A2
-special characters or numeric emphasis: 2B4
-statements of responsibility: 2C, 2E
+
+**Edition area**: 2  
+core‐level records: Appendix C3 (250)  
+general rules: 2B  
+multipart monographs: 2B11  
+named revision: 2D  
+notes on: 7B7  
+prescribed punctuation: 2A1  
+sources of information: 2A2  
+special characters or numeric emphasis: 2B4  
+statements of responsibility: 2C, 2E  
+
 Edition statement. See Edition area
+
 Edition statement lacking or doubtful: 2B5
-Editions. See also Edition area; Impressions
-definition of: Glossary
-determination of bibliographic variants: X.1.4, Appendix E1
-INDEX
-Descriptive Cataloging of Rare Materials (Books) 213
+
+**Editions**. See also Edition area; Impressions  
+definition of: Glossary  
+determination of bibliographic variants: X.1.4, Appendix E1  
+
 Electronic location and access: Appendix B4 (856)
+
 Ellipses. See Omission, marks of
+
 Encoding levels: X.1.3
+
 Engraved title pages: 5B9.4
+
 Entries. See Added entries; Headings
+
 Epigrams: 1A2.2
+
 Equals signs. See Prescribed punctuation
+
 Errata: 5B4, 7B16.1, Appendix E1.3
-Erroneous attributions to name, notes on. See Fictitious or incorrect information:
-attributions to name, notes on
+
+Erroneous attributions to name, notes on. See Fictitious or incorrect information: attributions to name, notes on
+
 Errors (in source). See Inaccuracies (in source)
+
 Esszet: Appendix G2
+
 et al., use of: 1E5
+
 Excerpts. See Parts of works
+
 Examples, conventions for: VIII
+
 Explanatory notes. See Notes
+
 Extent of item: 5B. See also Pagination
+
 Extracts. See Parts of works
-F
+
+### F
+
 FRBR: III
+
 Fascicles: 5B15.2
-Fictitious or incorrect information. See also Inaccuracies (in source); Uncertain
-information
-attributions to name, notes on: 7B6.3.2
-dates: 4D2.4
-place of publication: 4B9
-publication, distribution, etc.: 4A4
-publisher statement: 4C5
+
+**Fictitious or incorrect information**. See also Inaccuracies (in source); Uncertain  
+information  
+attributions to name, notes on: 7B6.3.2  
+dates: 4D2.4  
+place of publication: 4B9  
+publication, distribution, etc.: 4A4  
+publisher statement: 4C5  
+
 Figures. See Numerals
+
 Finding aids: Appendix B1.2, Appendix B3.3, Appendix B4 (555)
-Fingerprints: 8B3
-definition of: Glossary
+
+**Fingerprints**: 8B3  
+definition of: Glossary  
+
 Folded leaves: 5B9, 5B10
+
 Folded sheets: 5B2, 5B14, 5D4. See also Gatherings
+
 Foliation. See Leaves; Pagination
+
 Form and order of information: 0G, 1A3, 2A3, 4A3, 5B1, 5B15, 6A3, 7A4, 7B, 8B
-INDEX
-Descriptive 214 Cataloging of Rare Materials (Books)
+
 Form headings. See Genre/form headings
+
 Formal notes: 7A4.3
+
 Format: 5D1.3
+
 Former owners. See Provenance, notes on
+
 Full‐level DCRM(B) cataloging: X.1.3, Appendix A2
+
 Full punctuation option. See Punctuation in source: alternative transcription of
+
 Full stops. See Prescribed punctuation
-Function, designations of
-in statements of responsibility: 1E4
-publishers, distributors, etc.: 4A6
+
+Function, designations of  
+in statements of responsibility: 1E4  
+publishers, distributors, etc.: 4A6  
+
 Functional Requirements for Bibliographic Records. See FRBR
-G
-Gatherings
-definition of: Glossary
-in signature statement: 7B9
-unnumbered leaves or pages: 5B3
+
+### G
+
+**Gatherings**  
+definition of: Glossary  
+in signature statement: 7B9  
+unnumbered leaves or pages: 5B3  
+
 Genre/form headings: X.1.3, 7A1.4, Appendix C3 (655)
-Grammatically inseparable elements
-date of publication: 4A3.3, 4D1.4
-edition area: 2B6, 2B8
-illustration statements: 1D3
-other title information: 1D5
-place of publication: 4A3.3, 4A6.3.1, 4B6.4, 4B8, 4C3
-publisher statements: 4A3.3, 4C3
-series numbering: 6B2, 6G1.1
-sources of information: 1A2
-statements of responsibility: 1E3, 1E4.2, 1E8, 1E13, 6B2, 6E1
-title proper: 1B1, 1B4, 1C2
-volume statements: 1D3
+
+**Grammatically inseparable elements**  
+date of publication: 4A3.3, 4D1.4  
+edition area: 2B6, 2B8  
+illustration statements: 1D3  
+other title information: 1D5  
+place of publication: 4A3.3, 4A6.3.1, 4B6.4, 4B8, 4C3  
+publisher statements: 4A3.3, 4C3  
+series numbering: 6B2, 6G1.1  
+sources of information: 1A2  
+statements of responsibility: 1E3, 1E4.2, 1E8, 1E13, 6B2, 6E1  
+title proper: 1B1, 1B4, 1C2  
+volume statements: 1D3  
+
 Graphic processes: 5C1.5
-Greek characters: 7B9.3, 7B9.9. See also Nonroman scripts
-chart (signature statements): 7B9.9
+
+**Greek characters**: 7B9.3, 7B9.9. See also Nonroman scripts  
+chart (signature statements): 7B9.9  
+
 Gregorian calendar: 4D2.5, 4D2.6n. See also Dates
-INDEX
-Descriptive Cataloging of Rare Materials (Books) 215
-H
+
+### H
+
 Half titles: Appendix F (7B4‐7B5)
+
 Hand coloring: 5C3.2, 7B19.1.3
-Headings: II. See also Access points; Added entries; Genre/form headings; Main
-entries; Subject headings; Title access points
-encoding level requirements: X.1.3
-name: X.1.3
-in ʺWithʺ notes: 7B18.2
-Hebrew characters: 7B9.10. See also Nonroman scripts
-chart (signature statements): 7B9.10
+
+**Headings**: II. See also Access points; Added entries; Genre/form headings; Main entries; Subject headings; Title access points  
+encoding level requirements: X.1.3  
+name: X.1.3  
+in ʺWithʺ notes: 7B18.2  
+
+**Hebrew characters**: 7B9.10. See also Nonroman scripts  
+chart (signature statements): 7B9.10  
+
 Height: 5D1. See also Dimensions
-History of item
-notes on: 7B7
-user needs: III.1.3, III.2.3
+
+**History of item**  
+notes on: 7B7  
+user needs: III.1.3, III.2.3  
+
 Holdings. See Local notes
+
 Honors. See Academic degrees, memberships, etc.
-Hyphens: 0G3.3, 0G3.7, Appendix G2. See also Punctuation in source
-line endings and: 0G3.6
-I
-I (letter of alphabet): Appendix G4.1
-as Latin final capital: 0G2.3
-transcription of: 0G2.2, Appendix G4.2
+
+**Hyphens**: 0G3.3, 0G3.7, Appendix G2. See also Punctuation in source  
+line endings and: 0G3.6  
+
+### I
+
+**I** (letter of alphabet): Appendix G4.1  
+as Latin final capital: 0G2.3  
+transcription of: 0G2.2, Appendix G4.2  
+
 i.e., use of: 1G7.1, App. F (0G7.1)
+
 ISBD punctuation. See Prescribed punctuation
+
 ISBD(A): II, III.2.5, VII
+
 ISBN: 8B, Appendix C3 (020)
+
 ISSN: 6F
+
 Illuminations: 7B19.1.3
-Illustrations: 5C. See also Color illustrations; Graphic processes; Hand coloring
-definition of: Glossary
-notes on: 7B10.3
-other title information and statement about: 1D3
-Imperfect copies: IX.1. See also Incomplete items; Made‐up sets
-basis for description of: 0B2.2
-notes on: 7B19
-INDEX
-Descriptive 216 Cataloging of Rare Materials (Books)
-Impressions: X, Appendix E. See also Issues
-date of: 4G
-definition of: Glossary
-edition area: 2B3
-notes on: 2B4.2, 2D2
+
+**Illustrations**: 5C. See also Color illustrations; Graphic processes; Hand coloring  
+definition of: Glossary  
+notes on: 7B10.3  
+other title information and statement about: 1D3  
+
+**Imperfect copies**: IX.1. See also Incomplete items; Made‐up sets  
+basis for description of: 0B2.2  
+notes on: 7B19  
+
+**Impressions**: X, Appendix E. See also Issues  
+date of: 4G  
+definition of: Glossary  
+edition area: 2B3  
+notes on: 2B4.2, 2D2  
+
 Imprint: See Publication, distribution, etc. area
-Inaccuracies (in source): 5B7
-dates of publication: 4D2.4
-fictitious information: 4A4
-local notes: 7B19.3.3
-misprints: 0G7.1, 4C5, Appendix F2 (0G7)
-page numbering: 5B7.2
-place of publication, distribution, etc.: 4A4, 4B9
-publisher statements: 4A4, 4C5
-statements of responsibility: 1E9
+
+**Inaccuracies (in source)**: 5B7  
+dates of publication: 4D2.4  
+fictitious information: 4A4  
+local notes: 7B19.3.3  
+misprints: 0G7.1, 4C5, Appendix F2 (0G7)  
+page numbering: 5B7.2  
+place of publication, distribution, etc.: 4A4, 4B9  
+publisher statements: 4A4, 4C5  
+statements of responsibility: 1E9  
+
 Incipit. See Opening words of text
-Incomplete items: 5B6.5, 5B12. See also Copy‐specific notes; Imperfect copies;
-Made‐up sets
-Incunabula
-core‐level cataloging and: C2
-notes for: 7B10.2
-signatures for: 7B9.1
+
+Incomplete items: 5B6.5, 5B12. See also Copy‐specific notes; Imperfect copies; Made‐up sets
+
+**Incunabula**  
+core‐level cataloging and: C2  
+notes for: 7B10.2  
+signatures for: 7B9.1  
+
 Individual issues of serials. See
+
 Informal notes: 7A4.4
+
 Initial articles: Appendix F2 (0B1)
+
 Initial letters, blank spaces for: 0G7.3
+
 Initial prepositions: 4B2
+
 Initials, initialisms, acronyms (in source): 0G10.1
+
 Integral, definition of: Glossary
+
 International Standard Bibliographic Description (Antiquarian). See ISBD(A)
+
 International Standard Book Number (ISBN). See ISBN
+
 International Standard Serial Number (ISSN). See ISSN
+
 Interpolations: 0F1.2, 0G6. See also Supplied words
+
 Inverted letters. See Letters (alphabetic), turned
+
 Invocations: 1A2.2
-Issues: X.1.4
-definition of: Glossary
+
+**Issues**: X.1.4  
+definition of: Glossary  
+
 Issuing agents. See Publication, distribution, etc. area
-INDEX
-Descriptive Cataloging of Rare Materials (Books) 217
+
 Item described note. See Copy‐specific notes
-Item‐level description
-bibliographic variants: Appendix E1
-choice of cataloging code: X.1.2
-collection‐level description vs: X.1.1, Appendix B1
-core‐level records: Appendix C1
-minimal‐level records: Appendix D1
-notes on. See Copy‐specific notes
-J
-J (letter of alphabet): Appendix G4.1
+
+**Item‐level description**  
+bibliographic variants: Appendix E1  
+choice of cataloging code: X.1.2  
+collection‐level description vs: X.1.1, Appendix B1  
+core‐level records: Appendix C1  
+minimal‐level records: Appendix D1  
+notes on. See Copy‐specific notes  
+
+### J
+
+**J** (letter of alphabet): Appendix G4.1  
 transcription of: 0G2.2, Appendix G4.2
+
 Joint authors. See Shared responsibility, works of
+
 Julian calendar. See Gregorian calendar
+
 Jurisdictions in place names: 4B4‐5, 4B10.2
-L
+
+### L
+
 LCRI: II, VII
+
 LC/NACO Authority Files: X.1.3, Appendix C1
+
 LC/SACO Authority Files: X.1.3n, Appendix C1
-Labels: 4A5
-as source of information: 6A2.4, Appendix E1.2
+
+**Labels**: 4A5  
+as source of information: 6A2.4, Appendix E1.2  
+
 Lack of title. See Collective title, items without; Opening words of text
+
 Lacunae: 0G6.3
+
 Lady Day dating: 4D2.5n
-Language. See also Multilingual edition statements; Multilingual items
-of adaptations, notes on: 7B2
-of description: 0F
-of parallel titles: 1C2
-preferences in DCRM(B): V
+
+**Language**. See also Multilingual edition statements; Multilingual items  
+of adaptations, notes on: 7B2  
+of description: 0F  
+of parallel titles: 1C2  
+preferences in DCRM(B): V   
+
 Latin final capital I: 0G2.3
+
 Latin place names. See Archaic place names
+
 Leader and directory values: Appendix B4, Appendix C3
+
 Leaf. See Leaves
+
 Leaf of plates, definition of: Glossary
-Leaves. See also Pagination
-INDEX
-Descriptive 218 Cataloging of Rare Materials (Books)
-double: 5B11
-errata: 5B4, 7B16, Appendix E1.3
-folded: 5B9.3, 5B10
-multiple sequences of: 5B6.6
-in multipart monographs: 5B19
-non‐letterpress: 5B1.4, 5B9.4
-of plates: 5B9, 5B19
-unnumbered: 5B3, 5B8
-unsigned: 7B9.3
+
+**Leaves**. See also Pagination  
+double: 5B11  
+errata: 5B4, 7B16, Appendix E1.3  
+folded: 5B9.3, 5B10  
+multiple sequences of: 5B6.6  
+in multipart monographs: 5B19  
+non‐letterpress: 5B1.4, 5B9.4  
+of plates: 5B9, 5B19  
+unnumbered: 5B3, 5B8  
+unsigned: 7B9.3  
+
 Letterforms: Appendix G1‐G2
+
 Lettered sequences: 5B1.3
+
 Letterpress, definition of: Glossary
-Letters (alphabetic). See also E (letter of alphabet), I (letter of alphabet); J (letter
-of alphabet); O (letter of alphabet), Thorn (letter of alphabet) U (letter of
-alphabet), V (letter of alphabet); W (letter of alphabet)
-initial. See Initial letters
-modified. See Diacritical marks
-substituted by punctuation: 0G3.7
-transcription of: 0G1.1
-turned: 0G7.2
-Levels of description
-collection: X.1.1, Appendix A3, Appendix B
-considerations in choosing: X.2
-core: X.1.3, Appendix A4, Appendix C
-full: X.1.3, Appendix A2
-item: X.1.1
-minimal: X.1.3, Appendix A5, Appendix D
+
+**Letters (alphabetic)**. See also E (letter of alphabet), I (letter of alphabet); J (letter of alphabet); O (letter of alphabet), Thorn (letter of alphabet) U (letter of alphabet), V (letter of alphabet); W (letter of alphabet)  
+initial. See Initial letters  
+modified. See Diacritical marks  
+substituted by punctuation: 0G3.7  
+transcription of: 0G1.1  
+turned: 0G7.2  
+
+**Levels of description**  
+collection: X.1.1, Appendix A3, Appendix B  
+considerations in choosing: X.2  
+core: X.1.3, Appendix A4, Appendix C  
+full: X.1.3, Appendix A2  
+item: X.1.1  
+minimal: X.1.3, Appendix A5, Appendix D  
+
 Library of Congress control number (LCCN): Appendix C3 (050)
+
 Library of Congress Rule Interpretations. See LCRI
+
 Libraryʹs holdings, notes on. See Copy‐specific notes; Local notes
+
 Ligatures: 0G1.1
+
 Limitation, statement of: 7B7.3‐7B7.5
+
 Line endings: 0G3.6
+
 Linking entry complexity notes: Appendix B4 (580)
-Local notes: VIII.2, 7B7.5, 7B18.3, 7B19. See also Copy‐specific notes; Notes
-on provenance: 7A1.4, 7B19.1.3, 7B19.2, Appendix B4 (561)
+
+**Local notes**: VIII.2, 7B7.5, 7B18.3, 7B19. See also Copy‐specific notes; Notes  
+on provenance: 7A1.4, 7B19.1.3, 7B19.2, Appendix B4 (561)  
+
 Long s: Appendix G2
+
 Long s and z: Appendix G2
-INDEX
-Descriptive Cataloging of Rare Materials (Books) 219
+
 Long titles: See Titles: lengthy
-M
+
+### M
+
 Machine‐readable cataloging: II.2
+
 Made‐up copies: IX.1
+
 Made‐up sets: 2B11.2‐2B11.3. See also Imperfect copies; Incomplete items
-Main entries: Appendix B4 (1XX), Appendix C3 (1XX). See also Access points;
-Added entries
+
+Main entries: Appendix B4 (1XX), Appendix C3 (1XX). See also Access points; Added entries
+
 Mandatory notes. See Required notes
+
 Manifestations: III.1.1, III.2.1, III.2.3. See also Editions; Impressions
-Manufacture
-date of: 4G
-details of: 4A1, 4A6, 4E
-Manufacturers: 4A6n, 4A6.2.1, 4A6.3, 4B1. See also Publishers, distributors, etc.
-name of: 4F
+
+**Manufacture**  
+date of: 4G  
+details of: 4A1, 4A6, 4E  
+
+**Manufacturers**: 4A6n, 4A6.2.1, 4A6.3, 4B1. See also Publishers, distributors, etc.  
+name of: 4F  
+
 Manuscript collections: Appendix B1.4
+
 Maps as illustrations: 5C2
-MARC21 Format for Bibliographic Description: II.2, X, Appendix A1, Appendix
-B1.3
+
+MARC21 Format for Bibliographic Description: II.2, X, Appendix A1, Appendix B1.3
+
 Marks of omission. See Omission, marks of
+
 Material (or type of publication) specific details area: 3
+
 Microforms: Appendix A6
+
 Minimal‐level records: X.1.3, Appendix A5, Appendix D
+
 Misprints. See Inaccuracies (in source)
+
 Missing parts. See Incomplete items
+
 Misspelled words. See Inaccuracies (in source)
+
 Modified letters. See Diacritical marks
+
 Mottoes: 1A2.2
-Multilingual edition statements: 2B9
-statements of responsibility: 2C4
-Multilingual items: 1E10.1. See also Language
-choice of title page as chief source of information: 0C2
-parallel titles of series: 6C
-publication, distribution, etc., area: 4B13
-publisher statements: 4C11
-statements of responsibility: 1E10, 6E2
-Multipart monographs
-INDEX
-Descriptive 220 Cataloging of Rare Materials (Books)
-chief source of information: 0C2
-bibliographic volumes different from physical volumes: 5B16
-dates of publication in: 4D7
-edition statement on: 2B11
-multiple publisher names in: 4C7
-numbering in title proper: 1B4
-notes on: 7B3.2, 7B16.1
-places of publication in: 4B7
-sources of information: 1A2.3
-varying sizes: 5D3
+
+**Multilingual edition statements**: 2B9  
+statements of responsibility: 2C4  
+
+**Multilingual items**: 1E10.1. See also Language  
+choice of title page as chief source of information: 0C2  
+parallel titles of series: 6C  
+publication, distribution, etc., area: 4B13  
+publisher statements: 4C11  
+statements of responsibility: 1E10, 6E2  
+
+**Multipart monographs**  
+chief source of information: 0C2  
+bibliographic volumes different from physical volumes: 5B16  
+dates of publication in: 4D7  
+edition statement on: 2B11  
+multiple publisher names in: 4C7  
+numbering in title proper: 1B4  
+notes on: 7B3.2, 7B16.1  
+places of publication in: 4B7  
+sources of information: 1A2.3  
+varying sizes: 5D3  
+
 Music as illustrations: 5C1
-N
+
+### N
+
 Names. See Statements of responsibility
+
 Names, variant forms of. See Variant forms of name
+
 Names of manufacturers. See Manufacturers
+
 Names of publishers, distributors, etc. See Publishers, distributors, etc.
+
 New Style calendar. See Gregorian calendar
+
 ʺNewly printedʺ in edition statement: 2B2.2
+
 ʺNo more publishedʺ note: 5B20
-Nonarabic and nonroman numerals
-in pagination: 5B1.3
-in signatures: 7B9.3, 7B9.7
+
+**Nonarabic and nonroman numerals**  
+in pagination: 5B1.3  
+in signatures: 7B9.3, 7B9.7  
+
 Nonbook formats and ʺdcrmbʺ code: A7
+
 Non‐letterpress leaves or pages: 0C2, 5B1.4
-Nonroman scripts. See also Language; Romanization
-in signatures: 7B9.8‐7B9.11
-in title proper: Appendix F2 (0F1.1)
-notes on use of: 7B2.2
+
+**Nonroman scripts**. See also Language; Romanization  
+in signatures: 7B9.8‐7B9.11  
+in title proper: Appendix F2 (0F1.1)  
+notes on use of: 7B2.2  
+
 ʺNot inʺ notes: 7B14.3
-Note area: VIII.2, 7, Appendix B4 (5XX), Appendix B4 (5XX), Appendix C3
-(5XX). See also Notes
-form and order of information: 7A‐7B
-prescribed punctuation: 7A2, 7A4.1‐7A4.2
-Notes: VIII.2. See also Copy‐specific notes; Local notes; Required notes
-accompanying material: 7B11
-adaptations: 7B2
-INDEX
-Descriptive Cataloging of Rare Materials (Books) 221
-artists’ books : 7B10.4
-attributions: 7B6.3
-bibliographic citations: See Notes : references to published descriptions
-binding: 7B10.4
-blank spaces: 0G7.3
-collation: 7B9.12
-collection‐level: B5.1
-contents: 7B16, Appendix B4 (5XX). See also Contents notes
-contractions: 7B4.2
-discontinued publications: 5B20
-dissertations: 7B13, Appendix C3 (502)
-edition and bibliographic history: 7A5.1, 7B7
-ellipses, square brackets and virgules: 0G3.5
-false attributions: 7B6.3.3
-folded letterpress leaves: 5B9.3
-form of notes: 7A4
-illustrations: 7B10.3
-incunabula: 7B10.2
-language and script of publication: 7B2
-limitation, statement of: 7B7.3‐7B7.5
-linking entry complexity notes: Appendix B4 (580)
-multipart monographs: 7B3.2, 7B16.1
-nature, scope, or artistic form: 7B1
-"Not in" reference sources: 7B14.3
-numbers borne by publication: 7B17
-other manifestations and works: 7A5.2
-other title information: 1D2.3, 7B5
-parallel titles: 7B5
-physical description: 5B1.3, 5B17.2, 7B10
-plates: 5B9.4, 5B19
-publication details: 7B8
-references to published descriptions: 7A1.3, 7B14, Appendix C3 (510)
-revisions: 7B7.2, 7B13
-series: 7B12
-signatures: 7B9
-source of description: 7B3.2
-source of title proper: 1B2
-sources of information: 7A3
-INDEX
-Descriptive 222 Cataloging of Rare Materials (Books)
-statements of responsibility: 1E9, 7B6
-summary of contents: 7B15, Appendix B4 (520)
-symbols: 0G1.2
-transcription of letters V/W: Appendix G5.2
-translations: 7B2
-turned and approximated letters: 0G7.2
-variations in title: 7B4
-ʺWithʺ notes: 1G8, 7B18, 7B19.1.3, 7B19.3.4, Appendix C3 (501)
+
+**Note area**: VIII.2, 7, Appendix B4 (5XX), Appendix B4 (5XX), Appendix C3  
+(5XX). See also Notes  
+form and order of information: 7A‐7B  
+prescribed punctuation: 7A2, 7A4.1‐7A4.2  
+
+**Notes**: VIII.2. See also Copy‐specific notes; Local notes; Required notes  
+accompanying material: 7B11  
+adaptations: 7B2  
+artists’ books : 7B10.4  
+attributions: 7B6.3  
+bibliographic citations: See Notes : references to published descriptions  
+binding: 7B10.4  
+blank spaces: 0G7.3  
+collation: 7B9.12  
+collection‐level: B5.1  
+contents: 7B16, Appendix B4 (5XX). See also Contents notes  
+contractions: 7B4.2  
+discontinued publications: 5B20  
+dissertations: 7B13, Appendix C3 (502)  
+edition and bibliographic history: 7A5.1, 7B7  
+ellipses, square brackets and virgules: 0G3.5  
+false attributions: 7B6.3.3  
+folded letterpress leaves: 5B9.3  
+form of notes: 7A4  
+illustrations: 7B10.3  
+incunabula: 7B10.2  
+language and script of publication: 7B2  
+limitation, statement of: 7B7.3‐7B7.5  
+linking entry complexity notes: Appendix B4 (580)  
+multipart monographs: 7B3.2, 7B16.1  
+nature, scope, or artistic form: 7B1  
+"Not in" reference sources: 7B14.3  
+numbers borne by publication: 7B17  
+other manifestations and works: 7A5.2  
+other title information: 1D2.3, 7B5  
+parallel titles: 7B5  
+physical description: 5B1.3, 5B17.2, 7B10  
+plates: 5B9.4, 5B19  
+publication details: 7B8  
+references to published descriptions: 7A1.3, 7B14, Appendix C3 (510)  
+revisions: 7B7.2, 7B13  
+series: 7B12  
+signatures: 7B9  
+source of description: 7B3.2  
+source of title proper: 1B2  
+sources of information: 7A3  
+statements of responsibility: 1E9, 7B6  
+summary of contents: 7B15, Appendix B4 (520)  
+symbols: 0G1.2  
+transcription of letters V/W: Appendix G5.2  
+translations: 7B2  
+turned and approximated letters: 0G7.2  
+variations in title: 7B4  
+ʺWithʺ notes: 1G8, 7B18, 7B19.1.3, 7B19.3.4, Appendix C3 (501)  
+
 Nouns and noun phrases. See Words or phrases
+
 Numbering. See Multipart monographs; Pagination; Series: numbering
+
 Numbers. See also Standard numbers
-Numbers associated with item
-notes on: 7B17
-within series. See Series: numbering
-Numerals: 6G1.2. See also Arabic numerals; Nonarabic and nonroman numerals;
-Roman numerals
-O
+
+**Numbers associated with item**  
+notes on: 7B17  
+within series. See Series: numbering  
+
+Numerals: 6G1.2. See also Arabic numerals; Nonarabic and nonroman numerals; Roman numerals
+
+### O
+
 O (letter of alphabet), superscript: Appendix G2
+
 Obsolete place names. See Archaic place names
+
 Old Style calendar. See Gregorian calendar
-Omission, marks of: 0G5.1, 0G6.3. See also Omissions
-omit without using: 0E, 0G, 0G3.4, 0G5.2‐0G5.3, 1A2.2‐1A2.3, 1E3, 1G2‐1G3,
-2B3.2, 2B4.2, 2D2, 7A5.2, 7B18.2
-Omissions: III.2.2, 0G5.
-from caption titles (single‐sheet publications): 1G4
-from chief source of information: 0G5.3, 1G3
-from edition statements: 2B4.2, 2B9.2, 2D2
-from minimal‐level records: Appendix D3.1
-from other title information: 1D2.3, 1D4
-from place of publication, distribution, etc.: 4B6.2, 4B13.2
-from publisher, distributor, etc.: 4C2, 4C6.2, 4C11.2
-from series information: 6C2, 6D2, 6E2.3, 6G3.3,6H3
-from statements of responsibility: 1E5, 1E8, 1E14.3
-from title proper: 1A2.2, 1B7
-Opening words of text: 1B5, 1G2, 1G7
-notes on: 7B3.1
-INDEX
-Descriptive Cataloging of Rare Materials (Books) 223
-Optional treatments in rules: IV. See also Alternative rules
-abridgments: 1D4, 1E5, 1E14.3, 2B9.2, 4B6.2, 4B13.2, 4C2, 4C6.2, 4C11.2, 6C2
-accompanying material: 5E1.2
-advertisements: 5B5.3
-date of publication, distribution, etc.: 4D2.6
-format: 5D.13
-illustrations: 5C1.2, 5C1.4‐5C1.5, 5C2.1, 5C5
-minimal‐level records, additions to: Appendix D3.2
-title access points: Appendix F2
-transcription in nonroman script: 0F2.2
-pagination: 5B8.2, 5B18
-physical description: Appendix B (300)
-relator terms: Appendix B(1XX)
-standard numbers: 8B2, 8D
-terms of availability: 8C, 8D
+
+**Omission, marks of**: 0G5.1, 0G6.3. See also Omissions  
+omit without using: 0E, 0G, 0G3.4, 0G5.2‐0G5.3, 1A2.2‐1A2.3, 1E3, 1G2‐1G3, 2B3.2, 2B4.2, 2D2, 7A5.2, 7B18.2  
+
+**Omissions**: III.2.2, 0G5.  
+from caption titles (single‐sheet publications): 1G4  
+from chief source of information: 0G5.3, 1G3  
+from edition statements: 2B4.2, 2B9.2, 2D2  
+from minimal‐level records: Appendix D3.1  
+from other title information: 1D2.3, 1D4  
+from place of publication, distribution, etc.: 4B6.2, 4B13.2  
+from publisher, distributor, etc.: 4C2, 4C6.2, 4C11.2  
+from series information: 6C2, 6D2, 6E2.3, 6G3.3,6H3  
+from statements of responsibility: 1E5, 1E8, 1E14.3  
+from title proper: 1A2.2, 1B7  
+
+**Opening words of text**: 1B5, 1G2, 1G7  
+notes on: 7B3.1  
+
+**Optional treatments in rules**: IV. See also Alternative rules  
+abridgments: 1D4, 1E5, 1E14.3, 2B9.2, 4B6.2, 4B13.2, 4C2, 4C6.2, 4C11.2, 6C2  
+accompanying material: 5E1.2  
+advertisements: 5B5.3  
+date of publication, distribution, etc.: 4D2.6  
+format: 5D.13  
+illustrations: 5C1.2, 5C1.4‐5C1.5, 5C2.1, 5C5  
+minimal‐level records, additions to: Appendix D3.2  
+title access points: Appendix F2  
+transcription in nonroman script: 0F2.2  
+pagination: 5B8.2, 5B18  
+physical description: Appendix B (300)  
+relator terms: Appendix B(1XX)  
+standard numbers: 8B2, 8D  
+terms of availability: 8C, 8D  
+
 Order of information. See Form and order of information
+
 Organization and arrangement field: Appendix B4 (351)
+
 Ornaments: 5C1.3
+
 Other physical details. See Illustrations
-Other title information: 1D
-abridgments of: 1D4
-with grammatically inseparable elements: 1D5
-notes on: 1D2.3, 7B5
-other information transcribed as: 1C2.2, 1D3, 1E11.1, 1E14.1
-parallel titles and: 1D6
-series area: 6D
-statements of responsibility and: 1D2.2
-transcribed with title proper: 1B3.1
+
+**Other title information**: 1D  
+abridgments of: 1D4  
+with grammatically inseparable elements: 1D5  
+notes on: 1D2.3, 7B5  
+other information transcribed as: 1C2.2, 1D3, 1E11.1, 1E14.1  
+parallel titles and: 1D6  
+series area: 6D  
+statements of responsibility and: 1D2.2  
+transcribed with title proper: 1B3.1  
+
 Owners, previous. See Provenance, notes on
-P
-Pagination. See also Leaves
-continuous: 5B17
-errors in: 5B7.2
-expansions or corrections: 5B7
-general rules: 5B1
-incomplete publications: 5B12
-INDEX
-Descriptive 224 Cataloging of Rare Materials (Books)
-in more than one physical unit: 5B15‐5B20
-multiple sequences of: 5B6, 5B9, 5B18
-sheets, rolls, cases, portfolios, etc.: 5B13
-single‐sheet publications: 5B14
-unnumbered: 5B3, 5B8
+
+### P
+
+**Pagination**. See also Leaves  
+continuous: 5B17  
+errors in: 5B7.2  
+expansions or corrections: 5B7  
+general rules: 5B1  
+incomplete publications: 5B12  
+in more than one physical unit: 5B15‐5B20  
+multiple sequences of: 5B6, 5B9, 5B18  
+sheets, rolls, cases, portfolios, etc.: 5B13  
+single‐sheet publications: 5B14  
+unnumbered: 5B3, 5B8  
+
 Panel, definition of: Glossary
+
 Parallel edition statements: 2B9, 2C4
+
 Parallel statements of responsibility: 1E10.2, 6E2
-Parallel titles
-access points: Appendix F2 (1C)
-general rules: 1C
-notes on: 7B5
-other title information and: 1D6
-of series: 6C, 6H3
-Parentheses, use of: 0E, 4A1, 5A1, 5B13, 5B14.2, 5B17‐5B18, 5C1.5, 5D1.3, 5E1.2,
-6A1, 7B16.2, 8A1
-replacing square brackets in transcription: 0G3.5
+
+**Parallel titles**  
+access points: Appendix F2 (1C)  
+general rules: 1C  
+notes on: 7B5  
+other title information and: 1D6  
+of series: 6C, 6H3  
+
+Parentheses, use of: 0E, 4A1, 5A1, 5B13, 5B14.2, 5B17‐5B18, 5C1.5, 5D1.3, 5E1.2, 6A1, 7B16.2, 8A1  
+replacing square brackets in transcription: 0G3.5  
+
 Partial contents. See Contents notes
-Parts of works
-date of publication: 4D7‐4D8
-linking entry complexity notes: Appendix B4 (580)
-notes on: 7B8
-standard number and terms of availability area: 8B2
-title proper: 1B6
-ʺWithʺ notes: 7B18
+
+**Parts of works**  
+date of publication: 4D7‐4D8  
+linking entry complexity notes: Appendix B4 (580)  
+notes on: 7B8  
+standard number and terms of availability area: 8B2  
+title proper: 1B6  
+ʺWithʺ notes: 7B18  
+
 Perfect copies, definition of : Glossary
+
 Periodicals. See Serials, individual issues of; Series
+
 Periods (full stops). See Prescribed punctuation; Punctuation in source
+
 Phrases. See Words or phrases
-Physical characteristics
-evaluation of: X.2.4
-notes on: 7A1.4
-Physical description area: 5, Appendix B4 (300), Appendix B5.1, Appendix C3
-(300)
-notes on: 5B1.3‐5B1.4, 5B16, 7B10
-prescribed punctuation: 5A1
-single‐sheet publications: 5B2
+
+**Physical characteristics**  
+evaluation of: X.2.4  
+notes on: 7A1.4  
+
+**Physical description area**: 5, Appendix B4 (300), Appendix B5.1, Appendix C3 (300)  
+notes on: 5B1.3‐5B1.4, 5B16, 7B10  
+prescribed punctuation: 5A1  
+single‐sheet publications: 5B2  
+
 Physical processes: III.1.3
-INDEX
-Descriptive Cataloging of Rare Materials (Books) 225
+
 Physical volumes different from bibliographic volumes: 5B16
+
 pi, in signature statements: 7B9.3
-Place names
-abbreviations: 4B5
-modern forms of: 4B3, 4B10‐4B11
-in more than one language: 4B13
+
+**Place names**  
+abbreviations: 4B5  
+modern forms of: 4B3, 4B10‐4B11  
+in more than one language: 4B13  
+
 Place of manufacture: 4A6, 4E
-Place of publication, distribution, etc.: 4B
-based on address or sign: 4B11
-from earlier editions: 4B6.5‐4B6.6, 4C6. 4
-elements relating to: 4A6
-grammatically inseparable elements: 4B8
-initial prepositions with: 4B2
-lacking: 4B10
-in multipart monographs: 4B7
-two or more: 4B6
-uncertain information: 4B12
-Plates
-definition of: Glossary
-notes on: 5B19
-pagination: 5B9
+
+**Place of publication, distribution, etc.**: 4B  
+based on address or sign: 4B11  
+from earlier editions: 4B6.5‐4B6.6, 4C6. 4  
+elements relating to: 4A6  
+grammatically inseparable elements: 4B8  
+initial prepositions with: 4B2  
+lacking: 4B10  
+in multipart monographs: 4B7  
+two or more: 4B6  
+uncertain information: 4B12  
+
+**Plates**  
+definition of: Glossary  
+notes on: 5B19  
+pagination: 5B9  
+
 Plus signs. See Prescribed punctuation: physical description area
+
 Pockets with accompanying material: 5E2
+
 Post‐production history: III.1.3
+
 Praeses (academic disputations): 1E4.2
+
 Precataloging decisions: X
+
 Preferred citation of collection: Appendix B4 (524)
-Preliminaries
-in statements of extent: 5B1.2, 5B3.1
-notes on: 5B17.2
-as prescribed sources of information: 0D, 2A2
+
+**Preliminaries**  
+in statements of extent: 5B1.2, 5B3.1  
+notes on: 5B17.2  
+as prescribed sources of information: 0D, 2A2  
+
 Prepositions with place of publication: 4B2
-Prescribed punctuation: II.2, 0E. See also Punctuation in source
-edition area: 2A1
-note area: 7A2, 7A4.1‐7A4.2
-physical description area: 5A1
-publication, distribution area: 4A1
-in publications without collective title: 1F1
-INDEX
-Descriptive 226 Cataloging of Rare Materials (Books)
-series area: 6A1
-single‐sheet publications: 1G5
-standard number and terms of availability area: 8A1
-title and statement of responsibility area: 1A1
-Prescribd sources of information. See also Chief source of information; Sources
-of information
-edition area: 2A2
-general rules: 0D
-note area: 7A3
-physical description area: 5A2
-publication, distribution, etc., area: 4A2.1
-series area: 6A2.1
-standard number and terms of availability area: 8A2
-title and statement of responsibility area: 1A2.1
+
+**Prescribed punctuation**: II.2, 0E. See also Punctuation in source  
+edition area: 2A1  
+note area: 7A2, 7A4.1‐7A4.2  
+physical description area: 5A1  
+publication, distribution area: 4A1  
+in publications without collective title: 1F1  
+series area: 6A1  
+single‐sheet publications: 1G5  
+standard number and terms of availability area: 8A1  
+title and statement of responsibility area: 1A1  
+
+**Prescribed sources of information**. See also Chief source of information; Sources of information  
+edition area: 2A2  
+general rules: 0D  
+note area: 7A3  
+physical description area: 5A2  
+publication, distribution, etc., area: 4A2.1  
+series area: 6A2.1  
+standard number and terms of availability area: 8A2  
+title and statement of responsibility area: 1A2.1  
+
 Preservation: III.1.2
+
 Previous owners. See Provenance, notes on
+
 Prices: 1A2.2. See also Terms of availability
+
 Printer. See Manufacturer
-Printings. See also Impressions; Issues
+
+**Printings**. See also Impressions; Issues  
 as edition statements: 2B3.1
+
 ʺPrivately printedʺ statement: 4C2
+
 Privilege statements, notes on: 7A1.2
+
 Probable information. See Uncertain information
+
 Program for Cooperative Cataloging (PCC): C1
+
 Provenance, notes on: 7A1.4, 7B19.1.3, 7B19.2, Appendix B4 (561)
-Publication, distribution, etc. area: 4, Appendix B4 (260), Appendix B5.1,
-Appendix C3 (260). See also Date of publication; Place of publication,
-distribution, etc.; Publishers, distributors, etc.
-manufacture vs publication: 4A6
-more than one: 4B6, 4C6, 4D7‐8
-notes on: 7B8
-order of elements: 4A3
-prescribed punctuation: 4A1
-single‐sheet publications: 1G8
-sources of information: 4A2
-uncertain information: 4A4, 4C5
+
+**Publication, distribution, etc. area**: 4, Appendix B4 (260), Appendix B5.1, Appendix C3 (260). See also Date of publication; Place of publication, distribution, etc.; Publishers, distributors, etc.  
+manufacture vs publication: 4A6  
+more than one: 4B6, 4C6, 4D7‐8  
+notes on: 7B8  
+order of elements: 4A3  
+prescribed punctuation: 4A1  
+single‐sheet publications: 1G8  
+sources of information: 4A2  
+uncertain information: 4A4, 4C5  
+
 Publication date. See Date of publication
+
 Published descriptions, notes on: 7B14
-INDEX
-Descriptive Cataloging of Rare Materials (Books) 227
-Publisher statements: 4C
-from earlier editions: 4B6.6, 4C6.3‐4
-fictitious information: 4C5
-form and order of elements: 4A3
-grammatically inseparable elements: 4C3
-missing: 4C9
-in more than one language: 4C11
-repetition of: 4C10
-two or more names in: 4C6
-Publishers, distributors, etc.: 4C. See also Manufacturers
-address of publisher: 4C2, 4C4
-emphasized in source: 4A6.3.2
-fictitious or incorrect: 4C5
-function: 4A6, 4A6n
-more than one: 4C6
-supplied or conjectured: 4C8
+
+**Publisher statements**: 4C  
+from earlier editions: 4B6.6, 4C6.3‐4  
+fictitious information: 4C5  
+form and order of elements: 4A3  
+grammatically inseparable elements: 4C3  
+missing: 4C9  
+in more than one language: 4C11  
+repetition of: 4C10  
+two or more names in: 4C6  
+
+**Publishers, distributors, etc.**: 4C. See also Manufacturers  
+address of publisher: 4C2, 4C4  
+emphasized in source: 4A6.3.2  
+fictitious or incorrect: 4C5  
+function: 4A6, 4A6n  
+more than one: 4C6  
+supplied or conjectured: 4C8  
+
 Publishersʹ devices: 4C4.2
-Punctuation in source: 0G3. See also Prescribed punctuation
-alternative transcription of: 0G3.1
-substituted for letters: 0G3.7
-transcription of: 0G3, 0G3.1
-within roman numerals: 0G3.4
-Q
+
+**Punctuation in source**: 0G3. See also Prescribed punctuation  
+alternative transcription of: 0G3.1  
+substituted for letters: 0G3.7   
+transcription of: 0G3, 0G3.1  
+within roman numerals: 0G3.4  
+
+### Q
+
 Question marks: 0G6.2
+
 Quotations: 1A2.2
+
 Quotations in notes: 7A4.2
-R
+
+### R
+
 RBMS Bibliographic Standards Committee: Preface, VII, 7A1.4
+
 RDA: Preface, VII
+
 Reference sources, notes on: 6A2.5, 7B14
+
 Reissues: 2D
+
 Required elements: 0B1
-Required notes: 7A1.5. See also Note area
-accompanying material: 5E2
-INDEX
-Descriptive 228 Cataloging of Rare Materials (Books)
-advertisements: 5B5.2
-bibliographic volumes different from physical volumes: 5B16
-chronograms: 4D2.2
-collection‐level records: Appendix B4 (500)
-conjectural dates of publication: 4D4
-date of publication: 4D2.5, 4D8
-devised titles: Appendix B4 (500)
-discontinued publications: 5B20
-double leaves: 5B11
-edition statement: 2B11, 2D2(alt), 7B7.1
-edition statement lacking: 2B5.1
-errata leaves: 5B4
-fascicles: 5B15.2
-hand‐colored illustrations: 5C3.2
-inaccuracies: 4A4, 4B9, 4C5
-information covered by labels: 4A5
-made‐up sets: 2B11.3
-minimal‐level records: E1.2
-physical description area: 5B1.3‐5B1.4
-place of publication in multipart monographs: 4B7
-publisher statements: 4C7, 4C8, 4C4.1
-romanization: 0F2.1, 7B2.2, 7B4.1
-series: 7B12
-sources of information: 0D, 2A2, 4D6, 4B12.3, 4D2.3, 4D3, 6A2.2
-statements of responsibility not on title page: 1E2
-title page counted as plate: 5B9.4
-title proper: 1B2, 1B5, 1B6, 7B3.1, Appendix C3 (500)
-transposition: 1B1.2, 1E3, 2B7, 2B9, 2C2, 2C3.3, 2C4.3, 4A3.2, 4B13.1, 4C11.1,
-6C1, 6E1, 6G1.1, 6H1
-"With" notes: 1G8, Appendix C3 (500)
-Revisions
-edition statement: 2B2.1, 2D
-notes on: 7B7.2
-of dissertations: 7B13
-statements of responsibility: 2E
-Roman numerals
-date in: 0G3.4, 0G4.1, 4D2.1
-in pagination: 5B1.3, 5B6.1
-INDEX
-Descriptive Cataloging of Rare Materials (Books) 229
-punctuation within: 0G3.4
-in series numbering: 6G1.2
-spacing within: 0G4.1, 4D2.1
-uppercase or lowercase: 0G2.1, 5B1.3
+
+**Required notes**: 7A1.5. See also Note area  
+accompanying material: 5E2  
+advertisements: 5B5.2  
+bibliographic volumes different from physical volumes: 5B16  
+chronograms: 4D2.2  
+collection‐level records: Appendix B4 (500)  
+conjectural dates of publication: 4D4  
+date of publication: 4D2.5, 4D8  
+devised titles: Appendix B4 (500)  
+discontinued publications: 5B20  
+double leaves: 5B11  
+edition statement: 2B11, 2D2(alt), 7B7.1  
+edition statement lacking: 2B5.1  
+errata leaves: 5B4  
+fascicles: 5B15.2  
+hand‐colored illustrations: 5C3.2  
+inaccuracies: 4A4, 4B9, 4C5  
+information covered by labels: 4A5  
+made‐up sets: 2B11.3  
+minimal‐level records: E1.2  
+physical description area: 5B1.3‐5B1.4  
+place of publication in multipart monographs: 4B7  
+publisher statements: 4C7, 4C8, 4C4.1  
+romanization: 0F2.1, 7B2.2, 7B4.1  
+series: 7B12  
+sources of information: 0D, 2A2, 4D6, 4B12.3, 4D2.3, 4D3, 6A2.2  
+statements of responsibility not on title page: 1E2  
+title page counted as plate: 5B9.4  
+title proper: 1B2, 1B5, 1B6, 7B3.1, Appendix C3 (500)  
+transposition: 1B1.2, 1E3, 2B7, 2B9, 2C2, 2C3.3, 2C4.3, 4A3.2, 4B13.1, 4C11.1, 6C1, 6E1, 6G1.1, 6H1  
+"With" notes: 1G8, Appendix C3 (500)  
+
+**Revisions**  
+edition statement: 2B2.1, 2D  
+notes on: 7B7.2  
+of dissertations: 7B13  
+statements of responsibility: 2E  
+
+**Roman numerals**  
+date in: 0G3.4, 0G4.1, 4D2.1  
+in pagination: 5B1.3, 5B6.1  
+punctuation within: 0G3.4  
+in series numbering: 6G1.2  
+spacing within: 0G4.1, 4D2.1  
+uppercase or lowercase: 0G2.1, 5B1.3  
+
 Romanization: 0F1.2, 0F2, 7B2.2, 7B4.1. See also Nonroman scripts
+
 Romanization tables: 7B9.8‐10, Appendix F2 (0F1.1)
+
 Rubrication: 7B19.1.3
-S
+
+### S
+
 Scope of item, notes on. See Notes: Nature, scope or artistic form of item
+
 Scripts, Nonroman. See Nonroman scripts
+
 Semicolons. See Prescribed punctuation; Punctuation in source
-Serials, individual and special issues of: Appendix H. See also Series area
-as separately published monograph: Appendix H4
-chronological designation: H2.3.1, H3.4.1, H3.4.2
-distinctive titles, with: H2.2
-distinctive titles, without: H2.3
-linking records: H6
-monographs, also published as: H5
-numeric designation: H2.3.1, H3.4.1
-relate to serial as a whole: Appendix H3‐6
-special issues: H4.1
-Series. See also Series area
-added entries: Appendix C3 (8XX)
-numbering: 6G, 6H2
-other title information: 6D
-parallel titles: 6C, 6H3
-series statements: 6A2, Appendix B4 (4XX)
-series statements, more than one: 6J
-statements of responsibility: 6E
-standard numbers (ISSN): 6F
-subseries: 6H
-title proper: 6B, Appendix F (6B1)
-Series area: 6. See also Serials, individual issues of
-form and order of information: 6A3
-notes on: 7B12
-prescribed punctuation: 6A1
-sources of information: 6A2
-INDEX
-Descriptive 230 Cataloging of Rare Materials (Books)
-statements of responsibility:
+
+**Serials, individual and special issues of**: Appendix H. See also Series area  
+as separately published monograph: Appendix H4  
+chronological designation: H2.3.1, H3.4.1, H3.4.2  
+distinctive titles, with: H2.2  
+distinctive titles, without: H2.3  
+linking records: H6  
+monographs, also published as: H5  
+numeric designation: H2.3.1, H3.4.1  
+relate to serial as a whole: Appendix H3‐6  
+special issues: H4.1  
+
+**Series**. See also Series area  
+added entries: Appendix C3 (8XX)  
+numbering: 6G, 6H2  
+other title information: 6D  
+parallel titles: 6C, 6H3  
+series statements: 6A2, Appendix B4 (4XX)  
+series statements, more than one: 6J  
+statements of responsibility: 6E  
+standard numbers (ISSN): 6F  
+subseries: 6H  
+title proper: 6B, Appendix F (6B1)  
+
+**Series area**: 6. See also Serials, individual issues of  
+form and order of information: 6A3  
+notes on: 7B12  
+prescribed punctuation: 6A1  
+sources of information: 6A2  
+statements of responsibility:  
+
 Shared responsibility, works of: 1E4, 1E6
-Sheets, folded: 5B2
-single‐sheet publications: 5B14, 5D4
+
+**Sheets, folded**: 5B2  
+single‐sheet publications: 5B14, 5D4  
+
 Sheets, rolls, cases, portfolios, etc., physical description of: 5B13
+
 sic, use of: 0G7.1, Appendix F (0G7.1)
-Signatures: 7B9
-definition of: Glossary
+
+**Signatures**: 7B9  
+definition of: Glossary  
+
 Silent omissions. See Omission, marks of: omit without using
+
 Sine loco: 4B12.4
+
 Sine nomine: 4C9
-Single‐sheet publications
-definition of: Glossary
-size and format: 5D4
-statement of pagination: 5B2, 5B14
-title access points: Appendix F2 (1G1‐1G8)
-title and statement of responsibility area: 1G
+
+**Single‐sheet publications**  
+definition of: Glossary  
+size and format: 5D4  
+statement of pagination: 5B2, 5B14  
+title access points: Appendix F2 (1G1‐1G8)  
+title and statement of responsibility area: 1G  
+
 Size: 5D
+
 S.l. See Sine loco
+
 s.n. See Sine nomine
+
 Sophisticated copies. See Made‐up copies
-Sources of information. See also Chief source of information; Prescribed sources
-of information
-covers as prescribed: 0Dn, 6A2n
-dust jackets: VIII.2, 0D
-interpolations to: 7A3
-title proper: 1B2
+
+**Sources of information**. See also Chief source of information; Prescribed sources of information  
+covers as prescribed: 0Dn, 6A2n  
+dust jackets: VIII.2, 0D  
+interpolations to: 7A3  
+title proper: 1B2  
+
 Spaces. See Prescribed punctuation
-Spaces, blank: 0G6.4
-for initial letters: 0G7.3
-Spacing: 0G4
-abbreviations, initials, and initialisms: 0G10, Appendix F2 (0G10)
-omissions: 0G5
-in title proper: Appendix F2 (0G4.2)
+
+**Spaces, blank**: 0G6.4  
+for initial letters: 0G7.3  
+
+**Spacing**: 0G4  
+abbreviations, initials, and initialisms: 0G10, Appendix F2 (0G10)  
+omissions: 0G5  
+in title proper: Appendix F2 (0G4.2)  
+
 Special characters in edition statements: 2B4
+
 Special collections cataloging: Appendix A8
+
 Spelling, preferred authority for: VI
+
 Spellings, variant. See Variant spellings
-INDEX
-Descriptive Cataloging of Rare Materials (Books) 231
-Square brackets. See also Prescribed punctuation
-description of imperfect copies: 0B2.2, 0G6.3
-devised titles: 1B5, 1F2.1, Appendix B4 (245)
-interpolations and corrections: 0G6, 0G7.1, 0G7.3, 0G8.2, 1E9, 2B4.2, 4 passim,
-5B7.2, 7B, 7B9.11, Appendix G3
-in notes: 7A3, 7B18.2, Appendix B4 (505)
-pagination statements: 5B3.1, 5B6.1, 5B8.1
-replaced by parentheses or omitted in transcription: 0G3.5
-romanized text, not used with: 0F2
-signature statements, not used with pi/chi: 7B9.3
-single‐sheet publications: 5B14.2
-standard number and terms of availability area, not used: 8A2
-symbols or characters not available: 0G1.2, 2B4.1, 7B9.2
-Standard Citation Forms for Published Bibliographies and Catalogs Used in Rare Book
-Cataloging: 7B14.1
+
+**Square brackets**. See also Prescribed punctuation  
+description of imperfect copies: 0B2.2, 0G6.3  
+devised titles: 1B5, 1F2.1, Appendix B4 (245)  
+interpolations and corrections: 0G6, 0G7.1, 0G7.3, 0G8.2, 1E9, 2B4.2, 4 passim, 5B7.2, 7B, 7B9.11, Appendix G3  
+in notes: 7A3, 7B18.2, Appendix B4 (505)  
+pagination statements: 5B3.1, 5B6.1, 5B8.1  
+replaced by parentheses or omitted in transcription: 0G3.5  
+romanized text, not used with: 0F2  
+signature statements, not used with pi/chi: 7B9.3  
+single‐sheet publications: 5B14.2  
+standard number and terms of availability area, not used: 8A2  
+symbols or characters not available: 0G1.2, 2B4.1, 7B9.2  
+
+Standard Citation Forms for Published Bibliographies and Catalogs Used in Rare Book Cataloging: 7B14.1
+
 Standard numbers: 8B, Appendix C3 (020)
+
 Standard number and terms of availability area: 8
+
 State, definition of: Glossary
-Statements of responsibility: 1E
-edition statement: 2C
-grammatically inseparable elements: 1E13
-more than one: 1E6
-with more than one name: 1E4.1
-named revision: 2E
-omission of names from: 1E5
-qualifications in: 1E8
-series area: 6E
-in series title proper: 6B2
-from source other than title page: 7B6.1
-supplying words for: 1E9
-transposed to title: 7B6.2
+
+**Statements of responsibility**: 1E  
+edition statement: 2C  
+grammatically inseparable elements: 1E13  
+more than one: 1E6  
+with more than one name: 1E4.1  
+named revision: 2E  
+omission of names from: 1E5  
+qualifications in: 1E8  
+series area: 6E  
+in series title proper: 6B2  
+from source other than title page: 7B6.1  
+supplying words for: 1E9  
+transposed to title: 7B6.2  
+
 Style guide, preferred authority for: VI
+
 Subject headings: X.1.3, Appendix B4, Appendix C3
+
 Subscripts: 0G9
+
 Subseries: 6H
+
 Summary of content notes: See Contents notes: summary of contents
+
 Superscripts: 0G9, Appendix G2
+
 Supplied titles. See Titles: devised
-INDEX
-Descriptive 232 Cataloging of Rare Materials (Books)
-Supplied words. See also Interpolations
-date of publication: 4D2‐4D3
-early contractions: G3
-fuller forms of place names: 4B5
-jurisdictions in place names: 4B4, 4B10.2
-modern forms of place names: 4B3, 4B10.2
-names of publishers, distributors, etc.: 4C8
-place of publication: 4B11
-publication, distribution, etc., area: 4A3.3
-statements of responsibility: 1E9
+
+**Supplied words**. See also Interpolations  
+date of publication: 4D2‐4D3  
+early contractions: G3  
+fuller forms of place names: 4B5  
+jurisdictions in place names: 4B4, 4B10.2  
+modern forms of place names: 4B3, 4B10.2  
+names of publishers, distributors, etc.: 4C8  
+place of publication: 4B11  
+publication, distribution, etc., area: 4A3.3  
+statements of responsibility: 1E9  
+
 Svenonius, Elaine: III
+
 Symbols, transcription of: 0G1.2, Appendix G1‐G5
-T
+
+### T
+
 Terms of address: 1E7
+
 Terms of availability: 8D. See also Prices
+
 Text, printed in a single color, notes on: 5C3.3
+
 Thesauri: 7A1.4
+
 Theses. See Dissertations, notes on
+
 Thorn (letter of alphabet): Appendix G3
+
 Tint block illustrations: 5C3.1
+
 Tironian signs: 0G8.2
-Title access points: Appendix F
-for variant forms of title: Appendix B4 (246), Appendix C3 (246)
-Title and statement of responsibility area: 1, Appendix B4 (245), Appendix B5.1,
-Appendix C3 (245)
-notes on: 7B3‐7B6
-prescribed punctuation for: 1A1
-sources of information: 1A2
-Title page
-as prescribed source: 0D
-lacking: 0C3
-multiple: 0C2
-non‐letterpress: 5B9.4
-single: 0C1
-statements of responsibility on: 1E1
-two or more works on: 1F1
-INDEX
-Descriptive Cataloging of Rare Materials (Books) 233
-Title proper: 1B. See also Chief title, Other title information, Titles
-abridgments of: 1B7
-alternative titles in: 1B3.1, 1B7.2
-approximated letters in: Appendix F2 (0G7.2)
-definition of: Glossary
-forms of: 1B3
-lacking: 1B5
-series: 6B
-single‐sheet publications: 1G3
-source of: 1B2, 7B3, Appendix C3 (500)
-with supplementary or section title: 1B6
-Titles
-additional. See Other title information
-alternative. See Alternative titles
-binder’s. See Binder’s titles
-caption. See Caption titles
-chief. See Chief title
-collective. See Collective titles
-devised: 1A2.2, 1B5, 1F2, Appendix B4 (245)
-docket. See Docket title, definition of
-half. See Half titles
-lengthy: 1B7.1, 7B18.2
-parallel. See Parallel titles
-romanization of: 7B4.1
-series. See Series
-variant: 7B4, 7B5, Appendix B4 (246), Appendix C3 (246), Appendix F2 (7B4‐
-7B5)
-Transcription: 0G. See also Romanization
-of archaic letter and character forms: Appendix G
-need for standardization of: III.2.2
-of single‐sheet publications: 1G2
+
+**Title access points**: Appendix F  
+for variant forms of title: Appendix B4 (246), Appendix C3 (246)  
+
+**Title and statement of responsibility area**: 1, Appendix B4 (245), Appendix B5.1, Appendix C3 (245)  
+notes on: 7B3‐7B6  
+prescribed punctuation for: 1A1   
+sources of information: 1A2  
+
+**Title page**  
+as prescribed source: 0D  
+lacking: 0C3  
+multiple: 0C2  
+non‐letterpress: 5B9.4  
+single: 0C1  
+statements of responsibility on: 1E1  
+two or more works on: 1F1  
+
+**Title proper**: 1B. See also Chief title, Other title information, Titles  
+abridgments of: 1B7  
+alternative titles in: 1B3.1, 1B7.2  
+approximated letters in: Appendix F2 (0G7.2)  
+definition of: Glossary  
+forms of: 1B3  
+lacking: 1B5  
+series: 6B  
+single‐sheet publications: 1G3  
+source of: 1B2, 7B3, Appendix C3 (500)  
+with supplementary or section title: 1B6  
+
+**Titles**  
+additional. See Other title information  
+alternative. See Alternative titles  
+binder’s. See Binder’s titles  
+caption. See Caption titles  
+chief. See Chief title  
+collective. See Collective titles  
+devised: 1A2.2, 1B5, 1F2, Appendix B4 (245)  
+docket. See Docket title, definition of  
+half. See Half titles  
+lengthy: 1B7.1, 7B18.2  
+parallel. See Parallel titles  
+romanization of: 7B4.1  
+series. See Series  
+variant: 7B4, 7B5, Appendix B4 (246), Appendix C3 (246), Appendix F2 (7B4‐7B5)  
+
+**Transcription**: 0G. See also Romanization  
+of archaic letter and character forms: Appendix G  
+need for standardization of: III.2.2  
+of single‐sheet publications: 1G2  
+
 Transliteration. See Romanization
-Transposition: III.2.2
-in edition area: 2B7, 2B9.1, 2C2, 2C3.3, 2C4.3
-in publication, distribution, etc., area: 4A3.2, 4B13.1, 4C11.1
-in series area: 6E1, 6G1.1, 6H1
-in title and statement of responsibility area: 1B1.1‐1B1.2, 1B6, 1E3, 1E10.3
-mark of omission and: 0G
-INDEX
-Descriptive 234 Cataloging of Rare Materials (Books)
-notes on. See Required notes: transposition
-title access points: Appendix F2 (1B1.1)
+
+**Transposition**: III.2.2  
+in edition area: 2B7, 2B9.1, 2C2, 2C3.3, 2C4.3  
+in publication, distribution, etc., area: 4A3.2, 4B13.1, 4C11.1  
+in series area: 6E1, 6G1.1, 6H1  
+in title and statement of responsibility area: 1B1.1‐1B1.2, 1B6, 1E3, 1E10.3  
+mark of omission and: 0G  
+notes on. See Required notes: transposition  
+title access points: Appendix F2 (1B1.1)  
+
 Turned letters. See Letters (alphabetic), turned
+
 Type measurements: 7B10.2
+
 Typographical ornaments. See Ornaments
-U
-U (letter of alphabet): Appendix G4.1
-transcription of: 0G2.2, Appendix G4.2
+
+### U
+
+**U (letter of alphabet)**: Appendix G4.1  
+transcription of: 0G2.2, Appendix G4.2  
+
 Umlaut: Appendix G2
-Uncertain information. See also Fictitious or incorrect information
-dates of publication, distribution, etc.: 4D4, 4D6.2
-patterns for supplying conjectural dates: 4D5
-place of publication, distribution, etc.: 4B12.2
-publishers, distributors, etc.: 4C8
-use of question mark: 0G6.2
-use of square brackets for contractions: 0G6.2
-Uniform titles: Appendix B4 (240), Appendix C3 (240)
-ʺWithʺ notes and: 7B18.2
+
+**Uncertain information**. See also Fictitious or incorrect information  
+dates of publication, distribution, etc.: 4D4, 4D6.2  
+patterns for supplying conjectural dates: 4D5  
+place of publication, distribution, etc.: 4B12.2  
+publishers, distributors, etc.: 4C8  
+use of question mark: 0G6.2  
+use of square brackets for contractions: 0G6.2  
+
+**Uniform titles**: Appendix B4 (240), Appendix C3 (240)  
+ʺWithʺ notes and: 7B18.2  
+
 Unnumbered sequences, pagination of: 5B3
+
 Unnumbered series: 6H2
+
 Use, restrictions on. See Access, restrictions on
+
 User requirements: III.1
-V
-V (letter of alphabet): Appendix G4.1
-transcription of: 0G2.2, Appendix G4.2
+
+### V
+
+**V (letter of alphabet)**: Appendix G4.1  
+transcription of: 0G2.2, Appendix G4.2  
+
 Variant forms of name: 7B6.5
+
 Variant forms of title. See Variant titles
+
 Variant spellings: 0G4.3, 0G7.1
+
 Variant titles. See Titles: variant.
-Variants: X.1.4
-definition of: Glossary
-guidelines for creating new records: Appendix E
-precataloging decisions: X.1.4
-published references and: 7B14.2
-INDEX
-Descriptive Cataloging of Rare Materials (Books) 235
+
+**Variants**: X.1.4  
+definition of: Glossary  
+guidelines for creating new records: Appendix E  
+precataloging decisions: X.1.4  
+published references and: 7B14.2  
+
 Virgules: 0G3.5
-Volume statements
-not transcribed 1A2.3
-transcribed: 1B4
-Volumes
-bibliographic different from physical: 5B16
-multiple. See Multipart monographs
-used as other title information: 1D3
-W
-W (letter of alphabet): Appendix G4.1, Appendix G5.1
-transcription: 0G2.2, Appendix G5.2
+
+**Volume statements**  
+not transcribed 1A2.3  
+transcribed: 1B4  
+
+**Volumes**  
+bibliographic different from physical: 5B16  
+multiple. See Multipart monographs  
+used as other title information: 1D3  
+
+### W
+
+**W (letter of alphabet)**: Appendix G4.1, Appendix G5.1  
+transcription: 0G2.2, Appendix G5.2  
+
 Width: 5D2. See also Dimensions
+
 ʺWithʺ notes: See Notes: "With" notes
-Words or phrases. See also Opening words of text
-in date of publication: 4D1.3
-edition area: 2C3
-edition statement: 2B2
-as names: 7B6.5
-with place of publication: 4B2
-spacing between: 0G4.2
-spacing within: 0G4.1
-statements of responsibility: 1E11, 1E14
+
+**Words or phrases**. See also Opening words of text  
+in date of publication: 4D1.3  
+edition area: 2C3  
+edition statement: 2B2  
+as names: 7B6.5  
+with place of publication: 4B2  
+spacing between: 0G4.2  
+spacing within: 0G4.1  
+statements of responsibility: 1E11, 1E14  
